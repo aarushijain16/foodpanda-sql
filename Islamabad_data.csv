@@ -1,0 +1,1188 @@
+customer_id,gender,age,city,signup_date,order_date,restaurant_name,category,quantity,price,payment_method,order_frequency,last_order_date,loyalty_points,churned,rating,delivery_status,order_value,r_score,f_score,m_score
+C4071,Male,Senior,Islamabad,2023-08-24,2024-12-26,Subway,Italian,1,465.75,Card,29,2024-12-27,394,False,-1.0,Cancelled,465.75,1,3,1
+C3914,Male,Teenager,Islamabad,2023-08-24,2023-11-29,KFC,Fast Food,4,1140.76,Wallet,23,2025-04-22,492,True,5.0,Delayed,4563.04,3,3,5
+C5681,Other,Adult,Islamabad,2023-08-25,2024-11-25,Subway,Continental,1,1285.18,Cash,10,2025-04-09,196,True,2.0,Delayed,1285.18,3,1,2
+C2876,Female,Senior,Islamabad,2023-08-25,2024-12-30,KFC,Chinese,2,330.93,Cash,45,2025-07-17,455,False,-1.0,Cancelled,661.86,5,5,1
+C5795,Female,Senior,Islamabad,2023-08-26,2023-11-07,KFC,Italian,5,1267.2,Card,32,2024-11-10,72,False,5.0,Delayed,6336.0,1,4,5
+C5513,Male,Teenager,Islamabad,2023-08-26,2024-09-15,KFC,Continental,3,1044.89,Card,31,2025-07-20,496,True,2.0,Delayed,3134.67,5,4,4
+C6362,Female,Senior,Islamabad,2023-08-26,2023-11-22,Burger King,Chinese,4,343.52,Card,34,2024-09-29,164,False,3.0,Delivered,1374.08,1,4,2
+C1454,Female,Adult,Islamabad,2023-08-26,2025-06-26,McDonald's,Italian,2,1030.25,Wallet,5,2025-07-01,273,False,-1.0,Cancelled,2060.5,4,1,3
+C5009,Male,Teenager,Islamabad,2023-08-27,2024-03-25,Pizza Hut,Italian,3,795.3,Card,15,2025-06-02,179,True,4.0,Delayed,2385.8999999999996,4,2,3
+C5046,Other,Teenager,Islamabad,2023-08-27,2024-08-15,KFC,Chinese,1,196.28,Card,22,2025-08-17,378,True,4.0,Delivered,196.28,5,3,1
+C6818,Male,Adult,Islamabad,2023-08-28,2024-10-22,Subway,Chinese,2,118.82,Card,12,2025-05-10,87,False,-1.0,Cancelled,237.64,3,2,1
+C3147,Female,Adult,Islamabad,2023-08-30,2024-10-30,Burger King,Continental,4,299.44,Cash,27,2025-02-06,480,True,3.0,Delivered,1197.76,2,3,2
+C3256,Other,Senior,Islamabad,2023-08-30,2024-07-06,Pizza Hut,Dessert,3,1310.72,Wallet,41,2025-08-07,47,False,-1.0,Cancelled,3932.16,5,5,4
+C3011,Male,Teenager,Islamabad,2023-08-30,2025-01-27,KFC,Italian,4,343.94,Cash,20,2025-07-19,389,False,-1.0,Cancelled,1375.76,5,2,2
+C5922,Other,Adult,Islamabad,2023-08-30,2024-08-03,Pizza Hut,Dessert,3,622.55,Cash,32,2024-08-26,92,False,3.0,Delayed,1867.6499999999999,1,4,3
+C3797,Other,Teenager,Islamabad,2023-08-30,2024-05-08,Burger King,Chinese,3,266.63,Wallet,13,2024-09-14,429,False,-1.0,Cancelled,799.89,1,2,1
+C4465,Female,Adult,Islamabad,2023-08-30,2024-12-13,Burger King,Italian,2,1296.57,Card,16,2025-01-22,31,True,-1.0,Cancelled,2593.14,2,2,4
+C6466,Other,Senior,Islamabad,2023-08-31,2024-02-14,KFC,Chinese,1,1492.84,Wallet,50,2025-03-28,423,False,-1.0,Cancelled,1492.84,2,5,3
+C6687,Other,Adult,Islamabad,2023-09-01,2025-01-17,KFC,Italian,3,101.29,Wallet,28,2025-06-10,468,True,3.0,Delivered,303.87,4,3,1
+C5566,Other,Teenager,Islamabad,2023-09-01,2024-03-25,Subway,Dessert,5,362.35,Cash,23,2025-02-28,309,False,5.0,Delayed,1811.75,2,3,3
+C5353,Male,Adult,Islamabad,2023-09-02,2025-03-12,KFC,Dessert,2,1491.88,Cash,44,2025-05-25,330,False,5.0,Delayed,2983.76,3,5,4
+C2398,Other,Senior,Islamabad,2023-09-03,2023-12-29,Subway,Chinese,1,1187.79,Cash,41,2025-07-05,22,True,-1.0,Cancelled,1187.79,4,5,2
+C6532,Female,Senior,Islamabad,2023-09-03,2024-03-15,Pizza Hut,Dessert,4,579.72,Wallet,40,2025-07-14,170,True,3.0,Delayed,2318.88,5,4,3
+C3877,Other,Teenager,Islamabad,2023-09-03,2024-10-22,KFC,Continental,4,213.52,Cash,50,2025-01-22,24,False,-1.0,Cancelled,854.08,2,5,2
+C4158,Male,Senior,Islamabad,2023-09-04,2024-04-27,KFC,Chinese,3,566.9,Wallet,22,2025-03-27,387,False,-1.0,Cancelled,1700.6999999999998,2,3,3
+C4259,Male,Teenager,Islamabad,2023-09-04,2024-09-21,McDonald's,Continental,3,734.85,Card,48,2024-12-28,245,False,4.0,Delivered,2204.55,1,5,3
+C6268,Male,Teenager,Islamabad,2023-09-04,2024-02-11,Pizza Hut,Fast Food,3,897.81,Cash,15,2025-08-14,193,False,-1.0,Cancelled,2693.43,5,2,4
+C4725,Other,Senior,Islamabad,2023-09-05,2023-12-10,Subway,Continental,4,321.23,Wallet,32,2025-03-17,145,True,2.0,Delivered,1284.92,2,4,2
+C6318,Male,Teenager,Islamabad,2023-09-06,2024-10-10,McDonald's,Continental,3,1428.01,Cash,50,2025-01-17,185,False,-1.0,Cancelled,4284.03,2,5,5
+C1356,Female,Teenager,Islamabad,2023-09-06,2024-10-13,Burger King,Dessert,2,235.82,Wallet,28,2025-08-16,452,True,1.0,Delayed,471.64,5,3,1
+C5621,Other,Senior,Islamabad,2023-09-07,2025-01-24,Burger King,Italian,5,162.05,Wallet,27,2025-05-28,271,True,-1.0,Cancelled,810.25,3,3,1
+C6876,Female,Teenager,Islamabad,2023-09-07,2024-11-13,KFC,Dessert,5,1356.66,Card,30,2025-02-06,470,True,-1.0,Cancelled,6783.3,2,3,5
+C3717,Female,Senior,Islamabad,2023-09-09,2024-07-01,Burger King,Fast Food,4,466.04,Cash,27,2024-09-25,169,True,-1.0,Cancelled,1864.16,1,3,3
+C5413,Other,Teenager,Islamabad,2023-09-10,2024-11-16,Subway,Chinese,3,460.45,Card,40,2024-11-23,4,False,-1.0,Cancelled,1381.35,1,4,2
+C6172,Other,Adult,Islamabad,2023-09-11,2024-12-04,Burger King,Italian,3,1443.13,Card,1,2025-08-04,0,True,1.0,Delayed,4329.39,5,1,5
+C4699,Other,Senior,Islamabad,2023-09-11,2025-03-04,McDonald's,Fast Food,5,749.95,Card,38,2025-06-24,84,False,2.0,Delayed,3749.75,4,4,4
+C2458,Female,Adult,Islamabad,2023-09-11,2024-02-11,Burger King,Fast Food,3,1442.35,Wallet,13,2025-03-07,188,True,1.0,Delayed,4327.049999999999,2,2,5
+C6015,Other,Adult,Islamabad,2023-09-11,2025-01-30,Burger King,Continental,1,1423.77,Wallet,24,2025-06-06,197,True,-1.0,Cancelled,1423.77,4,3,2
+C6700,Male,Adult,Islamabad,2023-09-13,2024-03-21,McDonald's,Dessert,4,483.89,Cash,11,2024-10-08,493,False,2.0,Delayed,1935.56,1,1,3
+C4819,Female,Teenager,Islamabad,2023-09-14,2025-02-04,Pizza Hut,Chinese,3,1317.92,Card,19,2025-04-27,60,False,3.0,Delayed,3953.76,3,2,4
+C2556,Female,Senior,Islamabad,2023-09-14,2024-06-26,Pizza Hut,Italian,1,1352.98,Wallet,42,2025-01-29,494,False,3.0,Delivered,1352.98,2,5,2
+C3507,Male,Senior,Islamabad,2023-09-14,2023-10-12,Subway,Fast Food,3,1023.64,Wallet,24,2025-07-17,443,False,5.0,Delayed,3070.92,5,3,4
+C4516,Other,Senior,Islamabad,2023-09-15,2024-12-01,Subway,Continental,4,1364.01,Wallet,48,2025-01-26,165,True,1.0,Delivered,5456.04,2,5,5
+C2711,Other,Adult,Islamabad,2023-08-26,2023-09-16,Subway,Continental,2,647.62,Wallet,16,2024-10-17,375,True,5.0,Delayed,1295.24,1,2,2
+C1053,Female,Senior,Islamabad,2023-09-16,2024-05-08,Subway,Continental,1,1094.1,Wallet,39,2024-12-28,110,False,4.0,Delayed,1094.1,1,4,2
+C6159,Female,Adult,Islamabad,2023-09-17,2024-02-05,Subway,Chinese,2,831.6,Wallet,12,2024-12-19,44,False,4.0,Delayed,1663.2,1,2,3
+C3170,Male,Teenager,Islamabad,2023-09-17,2024-05-27,KFC,Dessert,1,1352.59,Wallet,45,2024-11-15,107,True,3.0,Delivered,1352.59,1,5,2
+C6887,Male,Senior,Islamabad,2023-09-18,2023-10-30,KFC,Italian,1,1149.56,Wallet,43,2025-07-08,130,True,1.0,Delivered,1149.56,4,5,2
+C1197,Female,Senior,Islamabad,2023-09-18,2024-10-22,Subway,Continental,2,125.86,Wallet,7,2025-01-27,148,True,4.0,Delivered,251.72,2,1,1
+C5564,Female,Senior,Islamabad,2023-09-19,2024-02-10,McDonald's,Continental,3,1052.58,Card,2,2025-08-18,27,True,1.0,Delivered,3157.74,5,1,4
+C4875,Female,Adult,Islamabad,2023-09-20,2024-08-22,McDonald's,Fast Food,3,356.66,Wallet,11,2024-09-26,258,True,2.0,Delayed,1069.98,1,1,2
+C6704,Other,Adult,Islamabad,2023-08-22,2023-09-20,Burger King,Dessert,5,348.25,Cash,43,2024-09-19,143,False,-1.0,Cancelled,1741.25,1,5,3
+C6412,Female,Adult,Islamabad,2023-09-20,2023-10-14,Subway,Chinese,4,1491.6,Cash,20,2025-06-25,436,False,4.0,Delivered,5966.4,4,2,5
+C5094,Male,Teenager,Islamabad,2023-09-20,2024-09-02,Pizza Hut,Chinese,3,832.33,Card,19,2025-03-10,365,True,3.0,Delayed,2496.9900000000002,2,2,4
+C2344,Other,Teenager,Islamabad,2023-09-22,2023-11-27,McDonald's,Continental,4,396.85,Card,1,2025-04-25,88,False,3.0,Delayed,1587.4,3,1,3
+C6767,Female,Teenager,Islamabad,2023-09-23,2024-12-22,Burger King,Fast Food,2,224.91,Card,15,2025-08-19,443,False,-1.0,Cancelled,449.82,5,2,1
+C6547,Female,Senior,Islamabad,2023-09-23,2024-11-21,Burger King,Dessert,1,262.5,Cash,18,2025-05-26,60,False,3.0,Delayed,262.5,3,2,1
+C1052,Other,Adult,Islamabad,2023-09-09,2023-09-23,Pizza Hut,Dessert,1,1333.52,Card,22,2025-06-17,326,True,5.0,Delivered,1333.52,4,3,2
+C4619,Male,Adult,Islamabad,2023-09-24,2024-04-18,McDonald's,Italian,1,901.81,Cash,15,2025-05-08,26,False,-1.0,Cancelled,901.81,3,2,2
+C3808,Female,Teenager,Islamabad,2023-09-24,2025-02-13,Subway,Dessert,3,121.03,Card,21,2025-04-11,69,False,-1.0,Cancelled,363.09000000000003,3,3,1
+C6055,Other,Adult,Islamabad,2023-09-26,2024-06-10,Subway,Continental,2,1428.87,Cash,50,2025-04-12,4,False,4.0,Delayed,2857.74,3,5,4
+C6518,Other,Teenager,Islamabad,2023-09-27,2024-07-06,Subway,Continental,3,925.84,Card,49,2025-04-19,81,True,5.0,Delayed,2777.52,3,5,4
+C1191,Other,Senior,Islamabad,2023-09-27,2023-12-03,Pizza Hut,Dessert,5,993.8,Cash,34,2024-12-27,471,False,4.0,Delivered,4969.0,1,4,5
+C2018,Female,Adult,Islamabad,2023-09-27,2024-11-23,Burger King,Continental,1,1047.83,Cash,48,2025-08-07,13,False,5.0,Delayed,1047.83,5,5,2
+C3638,Male,Adult,Islamabad,2023-09-28,2025-05-16,Subway,Dessert,1,126.7,Wallet,11,2025-07-23,389,True,5.0,Delayed,126.7,5,1,1
+C2182,Female,Adult,Islamabad,2023-09-30,2024-06-05,KFC,Dessert,3,689.88,Card,19,2025-02-05,221,True,5.0,Delivered,2069.64,2,2,3
+C3699,Male,Adult,Islamabad,2023-09-26,2023-09-30,Pizza Hut,Italian,5,482.24,Cash,26,2025-02-06,256,False,3.0,Delivered,2411.2,2,3,3
+C4298,Male,Adult,Islamabad,2023-09-30,2024-03-03,McDonald's,Continental,1,722.27,Card,24,2025-07-14,6,True,-1.0,Cancelled,722.27,5,3,1
+C3022,Other,Adult,Islamabad,2023-10-02,2024-03-25,Pizza Hut,Fast Food,4,788.71,Card,27,2025-03-12,166,True,1.0,Delivered,3154.84,2,3,4
+C3851,Other,Adult,Islamabad,2023-10-04,2024-11-22,Pizza Hut,Dessert,5,1461.61,Cash,15,2025-01-16,231,False,1.0,Delayed,7308.049999999999,2,2,5
+C5317,Male,Adult,Islamabad,2023-10-05,2025-02-22,Burger King,Continental,3,1352.38,Cash,47,2025-04-20,352,False,-1.0,Cancelled,4057.1400000000003,3,5,5
+C6935,Other,Senior,Islamabad,2023-10-05,2025-03-09,McDonald's,Chinese,5,239.8,Wallet,9,2025-06-30,79,True,5.0,Delivered,1199.0,4,1,2
+C3161,Male,Adult,Islamabad,2023-10-06,2024-09-24,McDonald's,Italian,5,468.95,Wallet,16,2025-06-04,355,True,-1.0,Cancelled,2344.75,4,2,3
+C2902,Other,Teenager,Islamabad,2023-10-06,2025-02-04,Burger King,Continental,2,242.87,Wallet,7,2025-02-26,267,False,2.0,Delivered,485.74,2,1,1
+C6829,Other,Teenager,Islamabad,2023-10-06,2024-06-11,Burger King,Continental,3,1257.67,Card,48,2025-03-29,252,False,1.0,Delivered,3773.01,2,5,4
+C3347,Other,Teenager,Islamabad,2023-10-07,2024-11-28,Burger King,Chinese,2,1014.57,Wallet,39,2024-12-26,300,True,2.0,Delayed,2029.14,1,4,3
+C5314,Female,Senior,Islamabad,2023-10-08,2024-11-12,Burger King,Dessert,2,1366.0,Card,35,2025-08-16,436,True,4.0,Delivered,2732.0,5,4,4
+C5583,Male,Senior,Islamabad,2023-10-08,2024-01-26,Burger King,Fast Food,5,268.56,Cash,37,2024-10-20,281,False,-1.0,Cancelled,1342.8,1,4,2
+C5395,Male,Senior,Islamabad,2023-10-08,2024-06-05,McDonald's,Chinese,2,906.01,Card,16,2024-11-03,387,True,3.0,Delivered,1812.02,1,2,3
+C6809,Female,Teenager,Islamabad,2023-10-09,2025-04-12,Burger King,Continental,4,363.5,Cash,11,2025-08-08,310,False,4.0,Delivered,1454.0,5,1,3
+C2380,Male,Teenager,Islamabad,2023-10-10,2025-01-05,KFC,Dessert,5,1323.45,Wallet,43,2025-01-11,223,True,5.0,Delayed,6617.25,1,5,5
+C2651,Other,Adult,Islamabad,2023-10-11,2025-02-13,Subway,Continental,3,569.69,Card,2,2025-06-19,485,True,4.0,Delayed,1709.0700000000002,4,1,3
+C3530,Other,Teenager,Islamabad,2023-10-11,2025-05-22,KFC,Dessert,2,1355.58,Cash,4,2025-07-11,428,True,3.0,Delayed,2711.16,4,1,4
+C6563,Other,Senior,Islamabad,2023-08-22,2023-10-11,Pizza Hut,Continental,5,954.89,Wallet,5,2024-12-17,311,True,-1.0,Cancelled,4774.45,1,1,5
+C1832,Male,Adult,Islamabad,2023-10-12,2024-09-02,Subway,Dessert,3,1420.4,Wallet,49,2024-12-08,250,False,1.0,Delayed,4261.200000000001,1,5,5
+C1543,Male,Adult,Islamabad,2023-10-12,2024-09-25,McDonald's,Continental,1,1059.59,Card,45,2025-04-02,275,False,-1.0,Cancelled,1059.59,3,5,2
+C6966,Male,Adult,Islamabad,2023-10-12,2024-04-24,Burger King,Continental,3,282.79,Cash,44,2025-07-06,136,True,3.0,Delayed,848.3700000000001,4,5,2
+C6638,Male,Adult,Islamabad,2023-10-12,2025-02-24,KFC,Dessert,1,473.6,Wallet,35,2025-04-10,378,True,1.0,Delayed,473.6,3,4,1
+C5141,Other,Adult,Islamabad,2023-10-13,2025-03-25,McDonald's,Chinese,5,1005.28,Wallet,36,2025-04-30,339,False,-1.0,Cancelled,5026.4,3,4,5
+C2640,Female,Teenager,Islamabad,2023-10-13,2024-09-01,Subway,Dessert,1,685.31,Wallet,31,2025-06-01,50,False,-1.0,Cancelled,685.31,4,4,1
+C4826,Male,Teenager,Islamabad,2023-10-14,2025-07-13,Burger King,Fast Food,2,1451.72,Card,45,2025-08-09,38,True,5.0,Delivered,2903.44,5,5,4
+C3265,Female,Teenager,Islamabad,2023-10-14,2024-11-15,Subway,Italian,5,564.16,Wallet,14,2025-01-03,379,True,2.0,Delayed,2820.7999999999997,1,2,4
+C5024,Male,Teenager,Islamabad,2023-10-15,2024-11-19,Pizza Hut,Dessert,3,229.14,Card,24,2025-07-26,248,False,5.0,Delivered,687.42,5,3,1
+C4061,Other,Teenager,Islamabad,2023-10-16,2025-01-02,Subway,Italian,2,1242.0,Card,8,2025-05-21,251,False,4.0,Delayed,2484.0,3,1,4
+C1857,Other,Adult,Islamabad,2023-10-16,2023-11-13,Pizza Hut,Chinese,4,963.94,Cash,32,2024-10-23,146,True,3.0,Delayed,3855.76,1,4,4
+C3053,Female,Adult,Islamabad,2023-10-16,2025-02-20,Pizza Hut,Chinese,4,573.06,Wallet,14,2025-06-13,72,False,2.0,Delayed,2292.24,4,2,3
+C1764,Male,Senior,Islamabad,2023-10-16,2024-07-16,Burger King,Chinese,5,154.1,Card,37,2024-11-10,439,True,1.0,Delayed,770.5,1,4,1
+C3457,Other,Teenager,Islamabad,2023-10-17,2024-03-08,Burger King,Dessert,4,535.23,Card,50,2024-10-03,285,False,-1.0,Cancelled,2140.92,1,5,3
+C1050,Other,Adult,Islamabad,2023-10-19,2024-11-05,KFC,Chinese,1,923.65,Cash,34,2025-03-03,156,True,5.0,Delayed,923.65,2,4,2
+C2477,Female,Senior,Islamabad,2023-10-19,2025-05-17,Subway,Chinese,3,1319.53,Card,44,2025-05-20,129,True,-1.0,Cancelled,3958.59,3,5,5
+C1661,Female,Teenager,Islamabad,2023-10-19,2025-03-31,KFC,Chinese,2,740.65,Card,8,2025-05-01,223,False,-1.0,Cancelled,1481.3,3,1,3
+C6077,Female,Teenager,Islamabad,2023-10-20,2025-01-27,Burger King,Fast Food,4,1307.57,Wallet,12,2025-06-24,102,False,-1.0,Cancelled,5230.28,4,2,5
+C3537,Male,Teenager,Islamabad,2023-10-22,2024-09-16,KFC,Fast Food,5,1133.59,Card,26,2024-10-14,474,False,3.0,Delayed,5667.95,1,3,5
+C2708,Other,Teenager,Islamabad,2023-10-23,2025-02-28,Subway,Chinese,4,293.46,Wallet,31,2025-04-23,193,False,-1.0,Cancelled,1173.84,3,4,2
+C4363,Female,Teenager,Islamabad,2023-09-30,2023-10-23,Pizza Hut,Continental,2,1054.55,Cash,18,2025-06-02,43,True,2.0,Delivered,2109.1,4,2,3
+C5541,Female,Senior,Islamabad,2023-10-23,2024-11-14,Subway,Continental,5,210.1,Wallet,50,2024-12-25,77,True,-1.0,Cancelled,1050.5,1,5,2
+C4452,Female,Teenager,Islamabad,2023-10-24,2024-12-09,Pizza Hut,Chinese,5,825.12,Card,12,2025-01-13,250,False,-1.0,Cancelled,4125.6,1,2,5
+C5627,Male,Senior,Islamabad,2023-10-08,2023-10-24,KFC,Continental,3,1406.75,Cash,49,2024-10-13,86,True,1.0,Delayed,4220.25,1,5,5
+C3138,Other,Adult,Islamabad,2023-10-24,2024-06-30,McDonald's,Chinese,4,1182.54,Card,3,2025-03-16,331,True,1.0,Delivered,4730.16,2,1,5
+C3255,Female,Senior,Islamabad,2023-10-14,2023-10-24,Subway,Chinese,4,500.85,Wallet,35,2024-10-11,166,False,5.0,Delivered,2003.4,1,4,3
+C3950,Male,Adult,Islamabad,2023-10-24,2025-03-02,McDonald's,Fast Food,3,309.01,Cash,23,2025-05-06,98,True,-1.0,Cancelled,927.03,3,3,2
+C4860,Female,Teenager,Islamabad,2023-10-25,2024-07-29,KFC,Continental,5,1212.26,Wallet,17,2025-06-14,160,True,-1.0,Cancelled,6061.3,4,2,5
+C5719,Female,Teenager,Islamabad,2023-10-25,2023-12-07,Burger King,Fast Food,5,800.07,Wallet,20,2025-08-05,203,True,4.0,Delayed,4000.3500000000004,5,2,5
+C4627,Other,Senior,Islamabad,2023-10-27,2024-12-26,Burger King,Dessert,3,943.38,Wallet,10,2025-08-08,16,True,-1.0,Cancelled,2830.14,5,1,4
+C6247,Other,Senior,Islamabad,2023-10-28,2024-04-10,Burger King,Fast Food,5,558.63,Card,21,2024-09-11,439,False,-1.0,Cancelled,2793.15,1,3,4
+C3272,Male,Teenager,Islamabad,2023-10-29,2024-09-13,Subway,Italian,2,1053.87,Card,38,2024-09-30,411,False,-1.0,Cancelled,2107.74,1,4,3
+C4571,Other,Teenager,Islamabad,2023-10-29,2024-05-06,Subway,Italian,1,375.22,Cash,50,2025-04-17,435,True,4.0,Delayed,375.22,3,5,1
+C1731,Female,Senior,Islamabad,2023-10-29,2024-06-06,Subway,Continental,2,793.33,Card,8,2024-12-30,499,True,-1.0,Cancelled,1586.66,1,1,3
+C3535,Other,Teenager,Islamabad,2023-10-29,2024-08-17,KFC,Chinese,5,1350.13,Card,2,2024-11-25,58,False,3.0,Delivered,6750.650000000001,1,1,5
+C1578,Other,Teenager,Islamabad,2023-10-29,2024-07-04,KFC,Italian,4,128.82,Wallet,17,2025-02-25,295,True,-1.0,Cancelled,515.28,2,2,1
+C2966,Male,Teenager,Islamabad,2023-10-30,2024-05-04,Subway,Italian,1,1049.57,Card,11,2025-01-13,383,False,5.0,Delivered,1049.57,1,1,2
+C2405,Other,Adult,Islamabad,2023-10-31,2024-12-30,Subway,Dessert,1,1468.01,Cash,12,2025-05-24,312,False,-1.0,Cancelled,1468.01,3,2,3
+C2504,Female,Adult,Islamabad,2023-10-31,2024-03-23,McDonald's,Chinese,2,1401.08,Card,32,2025-08-09,293,True,1.0,Delivered,2802.16,5,4,4
+C6137,Female,Senior,Islamabad,2023-11-01,2025-05-07,Burger King,Fast Food,2,789.22,Card,48,2025-05-16,393,True,-1.0,Cancelled,1578.44,3,5,3
+C4839,Other,Adult,Islamabad,2023-11-01,2024-12-18,Subway,Continental,3,1120.67,Wallet,20,2025-06-07,446,False,1.0,Delayed,3362.01,4,2,4
+C2967,Female,Senior,Islamabad,2023-11-03,2024-09-01,KFC,Fast Food,4,935.15,Cash,49,2024-11-08,389,False,2.0,Delivered,3740.6,1,5,4
+C6674,Female,Adult,Islamabad,2023-11-04,2025-02-01,Pizza Hut,Dessert,2,1201.85,Cash,38,2025-07-13,228,True,3.0,Delivered,2403.7,4,4,3
+C6171,Male,Teenager,Islamabad,2023-11-07,2024-09-12,KFC,Fast Food,2,483.3,Card,35,2025-07-20,163,True,1.0,Delayed,966.6,5,4,2
+C6409,Other,Teenager,Islamabad,2023-11-07,2025-03-10,Subway,Italian,2,1240.23,Card,8,2025-03-24,121,True,-1.0,Cancelled,2480.46,2,1,4
+C2369,Female,Adult,Islamabad,2023-11-08,2024-06-12,Pizza Hut,Dessert,5,1403.58,Wallet,13,2024-12-17,298,False,4.0,Delayed,7017.9,1,2,5
+C1122,Male,Teenager,Islamabad,2023-11-08,2024-11-28,McDonald's,Fast Food,3,933.86,Card,15,2025-03-08,430,True,-1.0,Cancelled,2801.58,2,2,4
+C3136,Female,Adult,Islamabad,2023-11-09,2023-11-18,Subway,Continental,1,638.41,Wallet,44,2025-03-30,292,False,-1.0,Cancelled,638.41,2,5,1
+C5813,Male,Teenager,Islamabad,2023-10-18,2023-11-11,McDonald's,Italian,2,1080.99,Card,45,2025-01-25,416,True,2.0,Delivered,2161.98,2,5,3
+C5933,Female,Adult,Islamabad,2023-11-11,2024-12-29,McDonald's,Fast Food,2,836.29,Card,1,2025-07-01,215,False,2.0,Delayed,1672.58,4,1,3
+C3361,Other,Teenager,Islamabad,2023-11-12,2024-12-29,McDonald's,Italian,1,1473.03,Wallet,23,2025-03-24,373,True,-1.0,Cancelled,1473.03,2,3,3
+C1718,Female,Senior,Islamabad,2023-11-12,2024-06-07,Burger King,Dessert,5,190.01,Cash,37,2025-01-24,345,True,2.0,Delayed,950.05,2,4,2
+C1473,Other,Teenager,Islamabad,2023-11-13,2024-01-15,Pizza Hut,Chinese,4,191.34,Cash,41,2024-11-06,353,True,2.0,Delayed,765.36,1,5,1
+C6565,Female,Teenager,Islamabad,2023-11-13,2024-12-17,McDonald's,Fast Food,2,305.0,Card,1,2025-04-12,355,False,2.0,Delayed,610.0,3,1,1
+C5213,Female,Teenager,Islamabad,2023-11-14,2024-04-15,McDonald's,Italian,4,378.2,Cash,37,2024-12-20,199,False,2.0,Delivered,1512.8,1,4,3
+C1094,Male,Teenager,Islamabad,2023-09-17,2023-11-14,Pizza Hut,Dessert,5,1044.76,Wallet,39,2025-04-10,491,False,2.0,Delivered,5223.8,3,4,5
+C6028,Male,Senior,Islamabad,2023-11-15,2024-08-14,KFC,Chinese,2,1214.56,Cash,27,2025-08-07,267,False,4.0,Delayed,2429.12,5,3,3
+C4700,Male,Senior,Islamabad,2023-11-16,2025-04-14,Burger King,Italian,3,1057.55,Cash,15,2025-06-10,379,True,5.0,Delayed,3172.6499999999996,4,2,4
+C6177,Female,Senior,Islamabad,2023-11-16,2024-11-11,McDonald's,Continental,1,387.84,Cash,31,2025-02-18,19,False,5.0,Delivered,387.84,2,4,1
+C2770,Female,Adult,Islamabad,2023-11-17,2024-04-26,Subway,Continental,5,1289.99,Wallet,47,2024-10-18,115,False,2.0,Delayed,6449.95,1,5,5
+C1741,Female,Adult,Islamabad,2023-11-17,2024-06-09,Burger King,Fast Food,4,430.06,Wallet,9,2024-11-30,189,False,-1.0,Cancelled,1720.24,1,1,3
+C5833,Other,Adult,Islamabad,2023-11-18,2024-08-25,Pizza Hut,Chinese,4,569.79,Wallet,40,2024-11-18,355,False,1.0,Delayed,2279.16,1,4,3
+C2724,Male,Adult,Islamabad,2023-11-18,2024-05-15,Burger King,Chinese,2,868.19,Wallet,5,2025-02-02,208,False,-1.0,Cancelled,1736.38,2,1,3
+C6162,Male,Teenager,Islamabad,2023-11-18,2024-11-26,Pizza Hut,Chinese,2,1244.21,Cash,43,2025-04-08,379,False,-1.0,Cancelled,2488.42,3,5,4
+C2872,Female,Teenager,Islamabad,2023-11-18,2024-05-04,McDonald's,Chinese,1,126.19,Wallet,38,2025-03-04,87,False,3.0,Delayed,126.19,2,4,1
+C1740,Female,Adult,Islamabad,2023-11-19,2025-01-26,McDonald's,Chinese,3,506.23,Card,28,2025-03-07,145,False,1.0,Delivered,1518.69,2,3,3
+C6494,Male,Teenager,Islamabad,2023-11-19,2024-03-05,Subway,Chinese,2,884.45,Wallet,28,2025-04-04,277,False,-1.0,Cancelled,1768.9,3,3,3
+C2606,Other,Teenager,Islamabad,2023-11-19,2025-04-25,Burger King,Fast Food,1,377.64,Wallet,47,2025-05-31,133,True,5.0,Delivered,377.64,4,5,1
+C1296,Male,Adult,Islamabad,2023-11-20,2025-05-02,Pizza Hut,Chinese,3,896.54,Wallet,6,2025-07-05,133,True,-1.0,Cancelled,2689.62,4,1,4
+C4342,Female,Senior,Islamabad,2023-11-21,2024-10-07,Subway,Italian,1,208.4,Card,28,2024-12-04,134,True,2.0,Delivered,208.4,1,3,1
+C2529,Male,Adult,Islamabad,2023-11-22,2024-12-03,KFC,Continental,1,1018.37,Cash,31,2025-08-01,217,False,2.0,Delivered,1018.37,5,4,2
+C1932,Other,Senior,Islamabad,2023-10-27,2023-11-24,Pizza Hut,Continental,5,224.54,Card,9,2025-08-02,390,True,2.0,Delayed,1122.7,5,1,2
+C3123,Male,Adult,Islamabad,2023-11-24,2024-12-21,Burger King,Fast Food,3,524.96,Card,3,2025-03-30,395,False,-1.0,Cancelled,1574.88,2,1,3
+C5923,Female,Adult,Islamabad,2023-08-24,2023-11-25,KFC,Italian,2,667.95,Wallet,50,2024-10-04,486,False,-1.0,Cancelled,1335.9,1,5,2
+C3228,Other,Adult,Islamabad,2023-11-25,2024-10-22,Pizza Hut,Dessert,4,1021.48,Cash,50,2025-04-24,92,True,4.0,Delayed,4085.92,3,5,5
+C6595,Other,Senior,Islamabad,2023-11-25,2023-11-28,Pizza Hut,Fast Food,4,709.86,Wallet,43,2024-08-21,182,False,4.0,Delivered,2839.44,1,5,4
+C4694,Male,Teenager,Islamabad,2023-11-26,2024-02-01,KFC,Dessert,2,350.52,Wallet,45,2025-02-20,305,False,5.0,Delivered,701.04,2,5,1
+C6249,Female,Teenager,Islamabad,2023-11-17,2023-11-27,Subway,Italian,5,1382.13,Card,27,2024-11-13,447,False,3.0,Delivered,6910.650000000001,1,3,5
+C1988,Other,Teenager,Islamabad,2023-11-27,2024-08-17,Pizza Hut,Continental,1,946.4,Wallet,16,2025-05-14,366,True,1.0,Delayed,946.4,3,2,2
+C6973,Male,Senior,Islamabad,2023-08-22,2023-11-29,KFC,Fast Food,1,433.23,Cash,26,2025-04-18,16,False,2.0,Delivered,433.23,3,3,1
+C3848,Other,Adult,Islamabad,2023-12-01,2025-03-27,Burger King,Fast Food,2,253.99,Card,12,2025-07-18,353,True,1.0,Delivered,507.98,5,2,1
+C1215,Other,Teenager,Islamabad,2023-12-01,2024-11-04,Pizza Hut,Continental,3,260.02,Wallet,7,2025-04-03,431,True,2.0,Delivered,780.06,3,1,1
+C5096,Male,Adult,Islamabad,2023-12-02,2024-08-23,Burger King,Continental,3,369.14,Cash,48,2024-11-29,231,True,1.0,Delayed,1107.42,1,5,2
+C1667,Other,Adult,Islamabad,2023-12-03,2024-10-05,KFC,Chinese,4,1066.14,Wallet,49,2025-06-01,303,True,5.0,Delivered,4264.56,4,5,5
+C4650,Other,Adult,Islamabad,2023-12-03,2024-02-16,Subway,Fast Food,1,842.48,Card,26,2025-04-24,273,True,3.0,Delivered,842.48,3,3,2
+C6964,Male,Teenager,Islamabad,2023-09-21,2023-12-04,McDonald's,Fast Food,2,295.31,Cash,26,2025-03-24,194,False,-1.0,Cancelled,590.62,2,3,1
+C5442,Male,Teenager,Islamabad,2023-12-04,2024-10-08,Burger King,Continental,4,1470.67,Wallet,4,2024-10-31,5,False,-1.0,Cancelled,5882.68,1,1,5
+C2775,Other,Teenager,Islamabad,2023-12-06,2024-05-24,Pizza Hut,Dessert,5,615.23,Wallet,21,2025-04-06,351,True,3.0,Delayed,3076.15,3,3,4
+C6351,Male,Teenager,Islamabad,2023-12-06,2025-02-16,Pizza Hut,Fast Food,3,339.72,Card,49,2025-05-07,119,True,3.0,Delayed,1019.1600000000001,3,5,2
+C1437,Male,Adult,Islamabad,2023-12-07,2024-08-25,McDonald's,Fast Food,5,888.25,Wallet,35,2025-07-10,179,True,-1.0,Cancelled,4441.25,4,4,5
+C4824,Other,Adult,Islamabad,2023-12-07,2024-10-18,Pizza Hut,Italian,4,278.55,Cash,45,2025-05-22,280,True,1.0,Delivered,1114.2,3,5,2
+C5622,Female,Teenager,Islamabad,2023-12-07,2024-08-23,KFC,Dessert,5,196.6,Cash,4,2025-05-23,284,False,-1.0,Cancelled,983.0,3,1,2
+C2463,Other,Teenager,Islamabad,2023-12-08,2024-11-20,Burger King,Italian,1,1087.2,Wallet,48,2025-02-11,77,False,4.0,Delayed,1087.2,2,5,2
+C3329,Female,Teenager,Islamabad,2023-12-08,2024-08-28,KFC,Italian,5,1094.39,Cash,15,2024-09-11,146,True,4.0,Delivered,5471.950000000001,1,2,5
+C2496,Female,Senior,Islamabad,2023-09-08,2023-12-09,KFC,Italian,4,1034.86,Card,42,2025-06-10,310,False,5.0,Delayed,4139.44,4,5,5
+C3399,Other,Adult,Islamabad,2023-12-09,2025-05-27,KFC,Italian,3,966.26,Card,10,2025-07-17,285,False,4.0,Delayed,2898.7799999999997,5,1,4
+C4841,Male,Senior,Islamabad,2023-09-05,2023-12-09,Subway,Dessert,1,654.21,Cash,2,2024-12-19,75,True,-1.0,Cancelled,654.21,1,1,1
+C6481,Other,Senior,Islamabad,2023-12-09,2024-11-27,KFC,Dessert,4,1222.03,Wallet,50,2025-05-07,391,True,5.0,Delivered,4888.12,3,5,5
+C2895,Other,Senior,Islamabad,2023-11-10,2023-12-10,Burger King,Fast Food,1,714.28,Wallet,41,2024-10-14,444,True,-1.0,Cancelled,714.28,1,5,1
+C3506,Other,Senior,Islamabad,2023-12-11,2024-09-19,KFC,Continental,2,569.09,Cash,18,2025-01-23,107,False,-1.0,Cancelled,1138.18,2,2,2
+C4593,Male,Teenager,Islamabad,2023-12-12,2023-12-20,KFC,Continental,2,512.23,Wallet,6,2024-12-02,498,True,2.0,Delivered,1024.46,1,1,2
+C5762,Female,Adult,Islamabad,2023-12-14,2024-11-07,McDonald's,Dessert,2,1372.06,Wallet,8,2025-07-01,372,False,2.0,Delivered,2744.12,4,1,4
+C4647,Male,Senior,Islamabad,2023-12-14,2025-03-21,McDonald's,Fast Food,5,1126.85,Card,46,2025-07-03,395,False,3.0,Delivered,5634.25,4,5,5
+C5275,Male,Senior,Islamabad,2023-12-15,2025-02-06,Subway,Continental,2,197.02,Card,36,2025-02-26,96,True,4.0,Delivered,394.04,2,4,1
+C6811,Other,Teenager,Islamabad,2023-12-16,2024-05-21,Subway,Dessert,4,652.01,Wallet,28,2025-06-15,147,False,-1.0,Cancelled,2608.04,4,3,4
+C5530,Male,Senior,Islamabad,2023-12-16,2024-05-25,McDonald's,Continental,5,185.16,Card,46,2025-08-20,305,True,3.0,Delayed,925.8,5,5,2
+C2016,Other,Teenager,Islamabad,2023-10-12,2023-12-16,McDonald's,Fast Food,2,1169.64,Card,26,2024-11-27,306,True,-1.0,Cancelled,2339.28,1,3,3
+C2100,Male,Teenager,Islamabad,2023-11-04,2023-12-17,Burger King,Dessert,3,264.95,Wallet,21,2024-09-05,353,True,4.0,Delivered,794.8499999999999,1,3,1
+C3366,Male,Teenager,Islamabad,2023-12-18,2024-05-24,Burger King,Continental,4,219.96,Cash,37,2025-08-07,494,True,1.0,Delivered,879.84,5,4,2
+C5720,Female,Senior,Islamabad,2023-12-19,2024-11-07,Burger King,Fast Food,5,1024.33,Wallet,43,2025-07-16,424,False,4.0,Delivered,5121.65,5,5,5
+C2644,Male,Teenager,Islamabad,2023-12-19,2025-07-18,McDonald's,Dessert,2,952.38,Wallet,49,2025-07-19,30,False,4.0,Delivered,1904.76,5,5,3
+C1398,Female,Senior,Islamabad,2023-12-20,2024-05-20,McDonald's,Dessert,4,1045.95,Card,38,2025-05-23,87,False,2.0,Delayed,4183.8,3,4,5
+C1018,Female,Adult,Islamabad,2023-12-21,2025-01-31,Burger King,Fast Food,2,475.15,Card,1,2025-05-24,92,True,-1.0,Cancelled,950.3,3,1,2
+C4740,Female,Adult,Islamabad,2023-12-23,2024-12-12,McDonald's,Chinese,3,934.15,Card,22,2025-04-17,170,True,4.0,Delayed,2802.45,3,3,4
+C1326,Female,Teenager,Islamabad,2023-12-23,2024-09-09,McDonald's,Chinese,5,976.34,Cash,23,2025-03-07,402,False,1.0,Delivered,4881.7,2,3,5
+C1396,Male,Senior,Islamabad,2023-12-23,2024-05-27,Burger King,Continental,5,166.61,Wallet,32,2024-09-04,115,False,3.0,Delivered,833.0500000000001,1,4,1
+C6150,Female,Adult,Islamabad,2023-12-23,2025-06-22,Pizza Hut,Dessert,5,445.33,Wallet,48,2025-08-08,241,True,1.0,Delivered,2226.65,5,5,3
+C1566,Male,Senior,Islamabad,2023-12-23,2024-02-05,McDonald's,Continental,3,1243.0,Wallet,24,2025-04-07,105,True,3.0,Delayed,3729.0,3,3,4
+C5481,Male,Teenager,Islamabad,2023-11-28,2023-12-24,McDonald's,Dessert,5,1333.27,Wallet,22,2024-12-28,417,True,-1.0,Cancelled,6666.35,1,3,5
+C1340,Female,Adult,Islamabad,2023-12-24,2024-10-01,Burger King,Dessert,5,723.24,Cash,43,2024-11-26,182,False,1.0,Delayed,3616.2,1,5,4
+C1125,Female,Teenager,Islamabad,2023-12-25,2024-11-15,Burger King,Italian,4,146.36,Cash,29,2025-07-12,204,False,3.0,Delivered,585.44,4,3,1
+C5674,Male,Adult,Islamabad,2023-12-26,2024-01-28,KFC,Chinese,4,879.02,Card,22,2025-07-15,239,False,1.0,Delayed,3516.08,5,3,4
+C4497,Other,Teenager,Islamabad,2023-12-26,2024-01-09,McDonald's,Chinese,2,394.6,Card,29,2025-03-24,149,True,1.0,Delayed,789.2,2,3,1
+C1297,Male,Adult,Islamabad,2023-12-27,2024-07-11,McDonald's,Italian,4,624.47,Cash,42,2025-03-18,481,False,4.0,Delivered,2497.88,2,5,4
+C6300,Male,Senior,Islamabad,2023-12-01,2023-12-28,Burger King,Continental,5,548.39,Card,13,2024-10-31,55,True,1.0,Delivered,2741.95,1,2,4
+C6332,Male,Teenager,Islamabad,2023-12-28,2024-08-30,KFC,Fast Food,3,1493.86,Wallet,44,2024-12-16,136,False,2.0,Delayed,4481.58,1,5,5
+C4716,Female,Adult,Islamabad,2023-12-28,2024-07-10,Burger King,Chinese,2,1296.33,Wallet,46,2024-11-25,90,True,3.0,Delayed,2592.66,1,5,4
+C2021,Other,Teenager,Islamabad,2023-12-28,2024-12-26,Burger King,Dessert,2,661.62,Wallet,50,2025-01-09,385,True,1.0,Delayed,1323.24,1,5,2
+C6807,Female,Adult,Islamabad,2023-12-29,2024-05-17,KFC,Italian,4,863.09,Cash,17,2025-03-30,237,True,1.0,Delivered,3452.36,2,2,4
+C6425,Other,Teenager,Islamabad,2023-12-29,2024-08-10,Burger King,Continental,1,297.24,Cash,2,2025-08-17,19,False,1.0,Delayed,297.24,5,1,1
+C5615,Female,Senior,Islamabad,2023-12-31,2024-10-10,KFC,Dessert,3,839.66,Cash,49,2025-08-10,306,True,-1.0,Cancelled,2518.98,5,5,4
+C4730,Female,Teenager,Islamabad,2024-01-01,2024-03-01,McDonald's,Dessert,1,1062.47,Wallet,20,2025-05-27,167,True,-1.0,Cancelled,1062.47,3,2,2
+C3645,Male,Adult,Islamabad,2024-01-01,2024-09-29,KFC,Dessert,4,191.45,Card,14,2025-03-02,31,True,4.0,Delivered,765.8,2,2,1
+C4128,Male,Senior,Islamabad,2024-01-02,2024-12-23,McDonald's,Dessert,5,1347.65,Cash,9,2025-03-18,109,True,3.0,Delayed,6738.25,2,1,5
+C1192,Female,Teenager,Islamabad,2024-01-02,2024-07-28,Burger King,Continental,1,400.99,Wallet,22,2025-04-25,277,True,1.0,Delivered,400.99,3,3,1
+C1389,Male,Adult,Islamabad,2023-12-25,2024-01-02,Subway,Chinese,2,597.37,Wallet,48,2025-03-05,413,False,5.0,Delivered,1194.74,2,5,2
+C3439,Other,Teenager,Islamabad,2024-01-03,2024-09-29,McDonald's,Fast Food,3,833.56,Card,2,2025-07-17,8,True,5.0,Delayed,2500.68,5,1,4
+C2054,Female,Senior,Islamabad,2024-01-04,2025-03-23,KFC,Chinese,1,215.88,Cash,46,2025-07-22,217,False,-1.0,Cancelled,215.88,5,5,1
+C6437,Other,Teenager,Islamabad,2023-10-05,2024-01-04,Subway,Dessert,2,530.26,Card,11,2024-08-23,43,False,-1.0,Cancelled,1060.52,1,1,2
+C3103,Female,Teenager,Islamabad,2024-01-04,2024-02-20,KFC,Fast Food,2,981.31,Card,38,2025-01-27,289,False,4.0,Delivered,1962.62,2,4,3
+C4085,Other,Adult,Islamabad,2024-01-05,2024-10-29,Subway,Fast Food,1,1142.85,Cash,22,2025-03-07,288,True,5.0,Delivered,1142.85,2,3,2
+C5951,Male,Adult,Islamabad,2023-09-26,2024-01-05,Burger King,Chinese,5,422.11,Cash,38,2025-03-10,85,True,-1.0,Cancelled,2110.55,2,4,3
+C2523,Male,Teenager,Islamabad,2024-01-05,2024-06-23,Subway,Continental,5,1015.21,Wallet,29,2025-03-30,354,True,-1.0,Cancelled,5076.05,2,3,5
+C6220,Other,Adult,Islamabad,2024-01-06,2024-11-18,McDonald's,Chinese,2,354.8,Wallet,2,2025-04-27,368,False,5.0,Delivered,709.6,3,1,1
+C4210,Male,Teenager,Islamabad,2024-01-08,2025-02-09,KFC,Dessert,5,1349.62,Cash,32,2025-08-08,225,False,4.0,Delivered,6748.099999999999,5,4,5
+C4305,Female,Senior,Islamabad,2024-01-08,2025-02-12,KFC,Chinese,2,657.48,Wallet,5,2025-08-15,353,False,-1.0,Cancelled,1314.96,5,1,2
+C1150,Male,Senior,Islamabad,2023-11-27,2024-01-08,Pizza Hut,Chinese,4,950.35,Card,7,2025-04-01,433,False,2.0,Delayed,3801.4,2,1,4
+C1810,Female,Adult,Islamabad,2024-01-09,2024-12-04,Burger King,Dessert,4,808.74,Card,26,2025-04-09,80,False,5.0,Delivered,3234.96,3,3,4
+C1551,Female,Teenager,Islamabad,2024-01-09,2024-11-18,Pizza Hut,Fast Food,4,1426.85,Cash,9,2025-03-26,156,True,-1.0,Cancelled,5707.4,2,1,5
+C6620,Female,Adult,Islamabad,2024-01-09,2025-08-15,Pizza Hut,Chinese,1,595.62,Wallet,28,2025-08-16,354,False,3.0,Delayed,595.62,5,3,1
+C6401,Male,Senior,Islamabad,2024-01-11,2024-02-18,Pizza Hut,Fast Food,2,436.21,Wallet,4,2024-09-28,196,True,2.0,Delayed,872.42,1,1,2
+C4431,Male,Senior,Islamabad,2024-01-12,2025-02-25,KFC,Fast Food,4,284.45,Wallet,16,2025-03-04,173,False,1.0,Delayed,1137.8,2,2,2
+C3085,Female,Teenager,Islamabad,2024-01-12,2024-11-29,Subway,Chinese,2,775.47,Cash,25,2025-04-11,172,False,3.0,Delayed,1550.94,3,3,3
+C4463,Female,Teenager,Islamabad,2024-01-13,2025-02-24,Subway,Continental,2,621.83,Card,13,2025-08-12,356,False,5.0,Delayed,1243.66,5,2,2
+C6960,Male,Adult,Islamabad,2024-01-14,2024-10-05,Subway,Chinese,4,688.3,Wallet,23,2025-08-13,305,True,5.0,Delayed,2753.2,5,3,4
+C3282,Female,Teenager,Islamabad,2024-01-16,2025-01-10,Burger King,Italian,2,889.39,Card,25,2025-01-25,105,False,4.0,Delivered,1778.78,2,3,3
+C6168,Male,Senior,Islamabad,2024-01-18,2024-11-03,Subway,Continental,2,1463.38,Wallet,5,2024-12-11,275,False,3.0,Delivered,2926.76,1,1,4
+C4427,Female,Adult,Islamabad,2024-01-19,2025-02-27,McDonald's,Chinese,3,566.2,Cash,20,2025-03-20,265,True,4.0,Delivered,1698.6000000000001,2,2,3
+C5354,Female,Teenager,Islamabad,2024-01-19,2025-01-25,Subway,Dessert,4,1460.82,Wallet,1,2025-06-26,92,True,1.0,Delayed,5843.28,4,1,5
+C6424,Female,Teenager,Islamabad,2024-01-24,2024-03-24,McDonald's,Fast Food,2,675.1,Card,26,2025-07-16,463,True,2.0,Delivered,1350.2,5,3,2
+C4307,Male,Senior,Islamabad,2024-01-24,2024-09-04,Burger King,Dessert,2,815.64,Card,6,2024-09-28,328,False,-1.0,Cancelled,1631.28,1,1,3
+C3193,Other,Teenager,Islamabad,2024-01-18,2024-01-24,KFC,Continental,5,658.43,Card,26,2024-10-22,99,False,-1.0,Cancelled,3292.1499999999996,1,3,4
+C2336,Female,Senior,Islamabad,2024-01-27,2025-06-08,KFC,Chinese,2,1240.12,Wallet,5,2025-06-29,372,False,-1.0,Cancelled,2480.24,4,1,4
+C4326,Female,Senior,Islamabad,2024-01-28,2025-02-11,McDonald's,Chinese,2,234.92,Card,42,2025-07-27,180,False,1.0,Delayed,469.84,5,5,1
+C6670,Male,Adult,Islamabad,2024-01-29,2024-05-10,KFC,Chinese,2,1367.64,Wallet,22,2025-02-28,159,False,3.0,Delivered,2735.28,2,3,4
+C2067,Other,Adult,Islamabad,2024-01-29,2024-03-30,KFC,Continental,4,571.84,Card,3,2025-05-12,120,True,5.0,Delivered,2287.36,3,1,3
+C3570,Female,Senior,Islamabad,2023-12-27,2024-01-29,McDonald's,Italian,2,722.68,Cash,15,2025-02-25,0,False,4.0,Delivered,1445.36,2,2,3
+C6352,Female,Senior,Islamabad,2024-01-29,2024-08-01,KFC,Dessert,2,176.9,Card,1,2024-09-22,134,True,-1.0,Cancelled,353.8,1,1,1
+C4283,Female,Senior,Islamabad,2024-01-29,2024-03-09,Pizza Hut,Dessert,5,866.88,Cash,48,2024-11-23,229,True,-1.0,Cancelled,4334.4,1,5,5
+C4767,Female,Adult,Islamabad,2024-01-30,2025-04-20,Burger King,Italian,1,806.81,Cash,50,2025-08-01,311,False,3.0,Delayed,806.81,5,5,1
+C6133,Female,Adult,Islamabad,2024-01-30,2024-02-24,KFC,Fast Food,4,456.94,Wallet,48,2025-07-22,42,False,1.0,Delayed,1827.76,5,5,3
+C3216,Other,Adult,Islamabad,2023-10-08,2024-01-30,McDonald's,Italian,2,1130.65,Cash,16,2025-08-13,211,False,2.0,Delayed,2261.3,5,2,3
+C2575,Male,Senior,Islamabad,2024-02-01,2025-04-27,Burger King,Fast Food,1,1290.2,Cash,42,2025-06-01,308,False,-1.0,Cancelled,1290.2,4,5,2
+C4405,Female,Teenager,Islamabad,2024-02-03,2025-05-15,Subway,Italian,1,862.82,Wallet,44,2025-06-03,9,True,1.0,Delivered,862.82,4,5,2
+C3264,Female,Teenager,Islamabad,2023-09-15,2024-02-04,KFC,Chinese,4,541.34,Cash,1,2025-05-06,38,True,3.0,Delayed,2165.36,3,1,3
+C6278,Male,Adult,Islamabad,2024-02-05,2024-12-03,KFC,Chinese,3,536.49,Wallet,49,2025-05-10,272,True,1.0,Delivered,1609.47,3,5,3
+C4714,Female,Senior,Islamabad,2024-02-06,2024-08-04,Subway,Chinese,2,1001.76,Card,1,2024-12-09,115,False,4.0,Delayed,2003.52,1,1,3
+C5104,Female,Senior,Islamabad,2024-02-06,2024-08-28,McDonald's,Chinese,2,710.01,Wallet,46,2025-03-09,51,False,2.0,Delayed,1420.02,2,5,2
+C4972,Male,Adult,Islamabad,2024-02-06,2024-09-23,Burger King,Dessert,4,252.25,Cash,42,2025-01-16,163,False,-1.0,Cancelled,1009.0,2,5,2
+C1246,Other,Senior,Islamabad,2024-02-08,2024-07-15,Subway,Chinese,3,165.69,Card,22,2024-12-30,236,False,4.0,Delivered,497.07,1,3,1
+C2742,Other,Adult,Islamabad,2024-02-09,2024-03-28,KFC,Chinese,1,878.99,Wallet,29,2025-07-17,105,True,-1.0,Cancelled,878.99,5,3,2
+C2982,Male,Teenager,Islamabad,2024-02-09,2024-04-17,Subway,Italian,4,290.88,Cash,21,2025-06-03,458,True,-1.0,Cancelled,1163.52,4,3,2
+C3888,Male,Teenager,Islamabad,2024-02-10,2024-04-18,Pizza Hut,Chinese,3,1341.31,Wallet,2,2024-09-17,19,True,1.0,Delivered,4023.93,1,1,5
+C6872,Other,Teenager,Islamabad,2024-02-11,2024-04-18,Burger King,Dessert,4,1392.57,Card,18,2025-05-07,47,False,-1.0,Cancelled,5570.28,3,2,5
+C2537,Male,Adult,Islamabad,2024-02-12,2025-06-18,Burger King,Dessert,3,1360.89,Cash,5,2025-08-20,227,False,-1.0,Cancelled,4082.67,5,1,5
+C1780,Male,Senior,Islamabad,2024-02-12,2025-04-19,Pizza Hut,Italian,5,377.25,Card,9,2025-05-13,422,False,1.0,Delayed,1886.25,3,1,3
+C4690,Other,Senior,Islamabad,2024-01-17,2024-02-13,Burger King,Continental,3,171.93,Card,16,2025-03-20,129,False,4.0,Delayed,515.79,2,2,1
+C4415,Other,Teenager,Islamabad,2024-02-13,2024-07-20,Burger King,Continental,3,427.8,Card,20,2025-03-19,11,False,2.0,Delivered,1283.4,2,2,2
+C1462,Female,Adult,Islamabad,2024-02-14,2025-04-10,McDonald's,Chinese,4,1215.7,Wallet,2,2025-08-07,298,False,5.0,Delayed,4862.8,5,1,5
+C4524,Other,Senior,Islamabad,2024-02-14,2025-01-02,KFC,Fast Food,2,1271.3,Wallet,3,2025-05-12,300,False,-1.0,Cancelled,2542.6,3,1,4
+C1121,Female,Senior,Islamabad,2024-02-15,2024-11-14,Pizza Hut,Dessert,5,784.74,Wallet,22,2025-06-11,425,False,1.0,Delivered,3923.7,4,3,4
+C1003,Male,Teenager,Islamabad,2023-11-15,2024-02-16,Burger King,Fast Food,1,133.44,Cash,16,2025-03-09,142,False,-1.0,Cancelled,133.44,2,2,1
+C3686,Male,Adult,Islamabad,2024-02-17,2024-10-25,Pizza Hut,Chinese,4,1180.26,Cash,33,2024-12-22,456,True,2.0,Delayed,4721.04,1,4,5
+C2795,Female,Senior,Islamabad,2023-10-29,2024-02-17,McDonald's,Dessert,3,386.38,Wallet,37,2025-06-28,257,True,-1.0,Cancelled,1159.1399999999999,4,4,2
+C5876,Female,Teenager,Islamabad,2024-02-17,2024-11-28,Burger King,Fast Food,2,966.63,Card,18,2025-06-17,461,True,4.0,Delayed,1933.26,4,2,3
+C5701,Other,Senior,Islamabad,2024-02-18,2024-08-09,Subway,Chinese,2,1273.83,Wallet,23,2025-01-19,474,True,-1.0,Cancelled,2547.66,2,3,4
+C4373,Male,Senior,Islamabad,2024-02-12,2024-02-18,Burger King,Continental,1,538.38,Wallet,19,2024-08-22,208,True,2.0,Delivered,538.38,1,2,1
+C4820,Male,Senior,Islamabad,2024-02-19,2025-07-11,Subway,Dessert,3,515.17,Cash,20,2025-08-10,450,True,3.0,Delivered,1545.5099999999998,5,2,3
+C3234,Other,Teenager,Islamabad,2024-02-19,2024-06-24,KFC,Italian,3,1456.01,Card,42,2024-11-04,404,False,4.0,Delayed,4368.03,1,5,5
+C3229,Other,Senior,Islamabad,2024-02-22,2024-09-18,Burger King,Italian,2,522.4,Cash,11,2025-02-22,47,False,5.0,Delivered,1044.8,2,1,2
+C3519,Female,Teenager,Islamabad,2024-02-22,2024-09-20,KFC,Dessert,1,1338.35,Wallet,3,2024-10-16,490,False,-1.0,Cancelled,1338.35,1,1,2
+C5188,Male,Adult,Islamabad,2023-11-07,2024-02-22,Subway,Italian,2,864.72,Wallet,8,2025-07-20,195,False,3.0,Delivered,1729.44,5,1,3
+C5372,Other,Adult,Islamabad,2023-10-20,2024-02-22,Pizza Hut,Continental,3,805.19,Card,43,2024-09-01,261,False,1.0,Delivered,2415.57,1,5,3
+C4466,Female,Teenager,Islamabad,2024-02-23,2024-06-10,Pizza Hut,Continental,5,644.46,Wallet,4,2025-04-13,467,True,5.0,Delayed,3222.3,3,1,4
+C5145,Male,Senior,Islamabad,2023-11-26,2024-02-24,McDonald's,Dessert,1,689.33,Card,6,2025-06-13,376,False,2.0,Delayed,689.33,4,1,1
+C5797,Other,Teenager,Islamabad,2024-02-24,2024-06-03,McDonald's,Dessert,1,740.6,Card,12,2025-07-02,52,True,5.0,Delayed,740.6,4,2,1
+C1250,Male,Senior,Islamabad,2023-10-20,2024-02-24,Subway,Chinese,1,624.23,Wallet,19,2025-05-11,214,False,4.0,Delivered,624.23,3,2,1
+C6245,Female,Teenager,Islamabad,2023-12-30,2024-02-24,KFC,Continental,3,136.43,Card,20,2025-04-18,474,True,2.0,Delivered,409.29,3,2,1
+C3125,Other,Teenager,Islamabad,2024-02-26,2024-07-25,Subway,Italian,1,1367.43,Wallet,13,2025-06-01,203,False,4.0,Delivered,1367.43,4,2,2
+C5534,Other,Adult,Islamabad,2024-02-26,2024-03-20,KFC,Dessert,1,220.06,Card,49,2024-09-20,415,False,4.0,Delivered,220.06,1,5,1
+C1011,Female,Teenager,Islamabad,2024-02-27,2024-05-15,Pizza Hut,Continental,2,224.43,Wallet,10,2025-01-07,401,False,4.0,Delayed,448.86,1,1,1
+C3127,Other,Senior,Islamabad,2024-02-27,2024-12-20,KFC,Italian,2,442.5,Wallet,32,2025-06-29,322,True,2.0,Delivered,885.0,4,4,2
+C1264,Male,Adult,Islamabad,2024-02-27,2025-07-21,Burger King,Italian,5,1362.79,Card,9,2025-07-25,405,True,5.0,Delayed,6813.95,5,1,5
+C6175,Female,Senior,Islamabad,2024-02-29,2025-05-12,KFC,Fast Food,2,731.58,Cash,2,2025-07-08,87,True,-1.0,Cancelled,1463.16,4,1,3
+C5331,Male,Teenager,Islamabad,2024-03-01,2025-02-11,KFC,Continental,5,1123.74,Wallet,48,2025-03-01,400,False,5.0,Delivered,5618.7,2,5,5
+C4300,Male,Adult,Islamabad,2023-09-27,2024-03-02,Pizza Hut,Dessert,1,1461.24,Card,22,2025-01-30,155,True,3.0,Delivered,1461.24,2,3,3
+C5809,Other,Adult,Islamabad,2024-03-03,2024-10-03,Subway,Chinese,5,1167.5,Wallet,31,2024-12-06,313,True,-1.0,Cancelled,5837.5,1,4,5
+C1941,Male,Teenager,Islamabad,2024-03-04,2025-01-02,Subway,Continental,5,1095.75,Cash,27,2025-04-21,443,False,-1.0,Cancelled,5478.75,3,3,5
+C5203,Male,Adult,Islamabad,2024-03-06,2024-09-24,Burger King,Chinese,3,794.88,Wallet,13,2024-12-19,362,False,4.0,Delivered,2384.64,1,2,3
+C3179,Male,Senior,Islamabad,2024-03-07,2024-11-29,Burger King,Continental,2,765.84,Cash,48,2025-04-24,252,False,5.0,Delayed,1531.68,3,5,3
+C3975,Male,Senior,Islamabad,2024-03-07,2024-12-05,Pizza Hut,Fast Food,1,505.39,Wallet,13,2025-07-01,339,False,5.0,Delayed,505.39,4,2,1
+C6085,Female,Adult,Islamabad,2024-03-07,2024-07-18,Pizza Hut,Fast Food,4,878.72,Wallet,9,2024-12-01,112,True,-1.0,Cancelled,3514.88,1,1,4
+C6021,Male,Teenager,Islamabad,2024-01-15,2024-03-08,Pizza Hut,Fast Food,5,1498.93,Cash,12,2025-04-28,304,True,-1.0,Cancelled,7494.650000000001,3,2,5
+C1367,Female,Adult,Islamabad,2024-03-08,2025-02-14,McDonald's,Dessert,2,1411.14,Card,19,2025-04-19,459,True,2.0,Delivered,2822.28,3,2,4
+C1010,Male,Senior,Islamabad,2023-12-05,2024-03-09,KFC,Fast Food,1,533.92,Card,2,2025-07-08,303,False,4.0,Delayed,533.92,4,1,1
+C5322,Female,Teenager,Islamabad,2024-03-09,2024-08-11,KFC,Chinese,1,106.7,Card,11,2024-10-25,103,True,3.0,Delayed,106.7,1,1,1
+C3971,Other,Teenager,Islamabad,2024-03-10,2025-03-12,Pizza Hut,Fast Food,3,550.56,Card,9,2025-03-12,111,False,1.0,Delivered,1651.6799999999998,2,1,3
+C4982,Female,Senior,Islamabad,2024-03-12,2024-04-23,Subway,Dessert,4,640.27,Wallet,23,2025-02-09,385,True,5.0,Delivered,2561.08,2,3,4
+C3367,Female,Senior,Islamabad,2023-11-06,2024-03-12,KFC,Dessert,5,169.82,Cash,23,2024-12-19,153,True,4.0,Delayed,849.0999999999999,1,3,2
+C1222,Other,Adult,Islamabad,2024-03-13,2024-05-08,Burger King,Dessert,1,613.12,Card,3,2024-08-25,124,False,1.0,Delivered,613.12,1,1,1
+C6648,Other,Adult,Islamabad,2024-03-13,2024-10-09,McDonald's,Continental,2,906.52,Card,13,2025-05-13,1,False,-1.0,Cancelled,1813.04,3,2,3
+C3558,Male,Teenager,Islamabad,2023-10-25,2024-03-15,KFC,Chinese,3,1355.75,Card,21,2024-11-21,161,True,-1.0,Cancelled,4067.25,1,3,5
+C3277,Other,Teenager,Islamabad,2024-03-15,2024-12-20,McDonald's,Italian,2,1321.33,Wallet,33,2025-04-27,160,True,2.0,Delivered,2642.66,3,4,4
+C2364,Male,Teenager,Islamabad,2024-03-16,2025-01-14,Subway,Italian,4,1103.42,Cash,7,2025-03-31,276,True,-1.0,Cancelled,4413.68,2,1,5
+C4251,Female,Adult,Islamabad,2024-03-16,2024-11-20,KFC,Continental,5,1196.75,Wallet,24,2025-06-04,262,False,3.0,Delivered,5983.75,4,3,5
+C3392,Female,Senior,Islamabad,2024-03-16,2024-08-25,Pizza Hut,Italian,5,1190.82,Cash,40,2025-08-13,66,True,4.0,Delivered,5954.099999999999,5,4,5
+C5109,Male,Senior,Islamabad,2024-03-17,2024-09-26,Subway,Italian,2,259.39,Wallet,27,2025-06-02,449,True,3.0,Delayed,518.78,4,3,1
+C3101,Other,Senior,Islamabad,2024-03-17,2024-11-26,McDonald's,Dessert,1,1373.35,Wallet,40,2024-12-03,334,False,1.0,Delivered,1373.35,1,4,2
+C1527,Male,Adult,Islamabad,2023-11-24,2024-03-18,KFC,Fast Food,4,880.77,Wallet,32,2025-08-13,335,True,-1.0,Cancelled,3523.08,5,4,4
+C4151,Male,Teenager,Islamabad,2024-03-18,2024-06-29,KFC,Italian,1,466.39,Card,20,2025-02-08,282,True,4.0,Delivered,466.39,2,2,1
+C5910,Male,Adult,Islamabad,2024-03-19,2025-04-12,Pizza Hut,Continental,4,910.65,Cash,37,2025-06-03,468,True,1.0,Delayed,3642.6,4,4,4
+C5199,Female,Adult,Islamabad,2024-02-24,2024-03-21,McDonald's,Italian,4,716.08,Cash,34,2025-05-30,136,False,-1.0,Cancelled,2864.32,4,4,4
+C3727,Male,Adult,Islamabad,2024-03-22,2025-04-23,Burger King,Continental,1,885.37,Card,5,2025-07-05,148,False,3.0,Delayed,885.37,4,1,2
+C3119,Male,Teenager,Islamabad,2024-03-22,2024-10-28,KFC,Dessert,2,761.89,Card,47,2025-07-28,479,False,4.0,Delayed,1523.78,5,5,3
+C1805,Other,Teenager,Islamabad,2023-12-05,2024-03-23,Subway,Dessert,3,1248.99,Wallet,49,2025-08-20,372,True,5.0,Delivered,3746.9700000000003,5,5,4
+C2565,Female,Adult,Islamabad,2023-10-02,2024-03-24,KFC,Fast Food,3,1312.89,Cash,1,2024-08-26,24,False,3.0,Delivered,3938.67,1,1,4
+C6799,Other,Adult,Islamabad,2024-03-24,2024-12-07,McDonald's,Dessert,3,1388.46,Cash,31,2025-07-09,151,True,3.0,Delivered,4165.38,4,4,5
+C5054,Male,Adult,Islamabad,2023-09-21,2024-03-25,Pizza Hut,Fast Food,2,608.73,Wallet,20,2024-09-12,210,True,3.0,Delivered,1217.46,1,2,2
+C3747,Female,Teenager,Islamabad,2024-03-25,2025-05-11,Burger King,Chinese,1,1049.77,Cash,36,2025-06-19,472,True,1.0,Delivered,1049.77,4,4,2
+C3912,Male,Adult,Islamabad,2024-01-04,2024-03-26,KFC,Continental,2,178.58,Cash,29,2025-02-09,35,True,1.0,Delivered,357.16,2,3,1
+C4810,Female,Teenager,Islamabad,2023-12-15,2024-03-26,Pizza Hut,Dessert,3,729.52,Cash,21,2025-05-30,69,False,-1.0,Cancelled,2188.56,4,3,3
+C5641,Other,Senior,Islamabad,2023-10-13,2024-03-27,Pizza Hut,Chinese,4,620.96,Card,17,2025-08-21,206,False,-1.0,Cancelled,2483.84,5,2,4
+C3073,Male,Senior,Islamabad,2024-03-27,2025-01-23,Pizza Hut,Dessert,2,1004.76,Cash,5,2025-05-23,111,True,-1.0,Cancelled,2009.52,3,1,3
+C5805,Other,Adult,Islamabad,2024-03-28,2024-06-17,Subway,Italian,1,231.35,Wallet,6,2024-10-07,247,False,2.0,Delivered,231.35,1,1,1
+C2138,Male,Teenager,Islamabad,2023-12-04,2024-03-28,McDonald's,Fast Food,2,816.36,Card,13,2025-03-08,450,True,5.0,Delivered,1632.72,2,2,3
+C4976,Female,Senior,Islamabad,2024-03-28,2025-04-15,Subway,Chinese,4,927.18,Card,12,2025-06-04,26,True,1.0,Delivered,3708.72,4,2,4
+C2269,Female,Senior,Islamabad,2024-03-29,2024-10-20,McDonald's,Chinese,1,129.45,Wallet,10,2024-11-21,51,False,-1.0,Cancelled,129.45,1,1,1
+C6270,Other,Teenager,Islamabad,2024-03-29,2025-04-04,Subway,Dessert,5,939.29,Wallet,24,2025-08-17,229,True,1.0,Delayed,4696.45,5,3,5
+C6312,Other,Senior,Islamabad,2024-03-30,2024-10-26,Pizza Hut,Chinese,4,775.64,Card,12,2025-02-05,182,True,1.0,Delayed,3102.56,2,2,4
+C6062,Other,Teenager,Islamabad,2024-03-30,2024-09-07,KFC,Continental,5,1063.1,Wallet,9,2024-11-05,390,True,-1.0,Cancelled,5315.5,1,1,5
+C6027,Other,Teenager,Islamabad,2024-03-31,2025-01-10,Burger King,Continental,1,231.83,Cash,7,2025-02-05,338,True,3.0,Delayed,231.83,2,1,1
+C4902,Female,Senior,Islamabad,2024-02-23,2024-03-31,McDonald's,Dessert,2,456.28,Cash,11,2025-04-14,186,True,-1.0,Cancelled,912.56,3,1,2
+C2955,Other,Senior,Islamabad,2023-10-02,2024-04-01,Subway,Continental,4,559.68,Wallet,25,2025-01-25,468,False,5.0,Delayed,2238.72,2,3,3
+C2930,Other,Adult,Islamabad,2024-04-01,2024-05-31,KFC,Fast Food,5,693.13,Card,36,2025-02-01,201,True,-1.0,Cancelled,3465.65,2,4,4
+C5523,Male,Adult,Islamabad,2024-04-01,2024-12-05,Burger King,Chinese,2,348.66,Card,31,2025-07-28,41,True,5.0,Delayed,697.32,5,4,1
+C3198,Male,Adult,Islamabad,2024-04-03,2024-08-15,Pizza Hut,Continental,2,396.31,Card,26,2025-07-01,15,True,1.0,Delivered,792.62,4,3,1
+C6034,Male,Senior,Islamabad,2023-10-12,2024-04-04,Subway,Chinese,5,1477.52,Cash,37,2025-02-22,214,False,5.0,Delivered,7387.6,2,4,5
+C2075,Male,Teenager,Islamabad,2024-03-21,2024-04-04,McDonald's,Chinese,3,1384.97,Cash,6,2024-09-10,109,False,5.0,Delayed,4154.91,1,1,5
+C6823,Other,Teenager,Islamabad,2024-04-04,2025-02-16,Subway,Continental,2,789.15,Wallet,26,2025-07-16,314,False,2.0,Delivered,1578.3,5,3,3
+C5116,Female,Teenager,Islamabad,2024-04-04,2025-01-16,Pizza Hut,Chinese,2,772.17,Card,25,2025-03-25,387,False,1.0,Delayed,1544.34,2,3,3
+C2814,Female,Adult,Islamabad,2024-04-06,2024-05-08,Burger King,Continental,5,253.2,Cash,18,2024-11-08,172,False,3.0,Delayed,1266.0,1,2,2
+C1591,Female,Senior,Islamabad,2024-02-14,2024-04-06,Subway,Chinese,1,701.79,Cash,17,2024-11-23,54,True,4.0,Delayed,701.79,1,2,1
+C1526,Male,Senior,Islamabad,2024-02-02,2024-04-06,KFC,Dessert,4,456.66,Cash,33,2025-04-22,181,False,1.0,Delayed,1826.64,3,4,3
+C3055,Female,Adult,Islamabad,2024-02-27,2024-04-07,KFC,Fast Food,4,1195.05,Wallet,9,2024-12-03,382,True,4.0,Delayed,4780.2,1,1,5
+C2905,Other,Teenager,Islamabad,2024-04-08,2024-05-25,Pizza Hut,Fast Food,1,514.31,Wallet,6,2024-12-21,271,True,4.0,Delivered,514.31,1,1,1
+C2427,Other,Adult,Islamabad,2024-04-08,2024-09-12,Burger King,Fast Food,2,687.88,Cash,3,2025-03-23,122,False,2.0,Delayed,1375.76,2,1,2
+C2143,Other,Teenager,Islamabad,2024-04-08,2024-10-09,Pizza Hut,Italian,4,825.88,Card,31,2025-01-16,83,False,-1.0,Cancelled,3303.52,2,4,4
+C4317,Male,Teenager,Islamabad,2023-10-20,2024-04-08,McDonald's,Fast Food,3,653.02,Wallet,48,2025-08-01,35,True,-1.0,Cancelled,1959.06,5,5,3
+C3854,Female,Teenager,Islamabad,2024-04-08,2024-08-22,Pizza Hut,Italian,2,129.62,Card,27,2025-08-20,163,True,5.0,Delivered,259.24,5,3,1
+C4914,Other,Teenager,Islamabad,2024-04-09,2024-09-05,KFC,Chinese,1,1305.02,Card,49,2024-09-22,226,False,-1.0,Cancelled,1305.02,1,5,2
+C4846,Male,Adult,Islamabad,2023-11-10,2024-04-09,Pizza Hut,Chinese,5,1435.0,Cash,27,2025-06-08,109,True,-1.0,Cancelled,7175.0,4,3,5
+C3325,Male,Adult,Islamabad,2024-04-10,2025-06-21,Subway,Continental,5,1057.64,Card,44,2025-07-17,231,False,2.0,Delivered,5288.200000000001,5,5,5
+C4574,Female,Adult,Islamabad,2024-04-12,2024-12-14,KFC,Fast Food,3,600.67,Card,30,2025-04-27,315,False,-1.0,Cancelled,1802.0099999999998,3,3,3
+C3211,Female,Teenager,Islamabad,2024-04-12,2024-10-23,KFC,Italian,4,545.88,Wallet,32,2025-02-20,70,True,-1.0,Cancelled,2183.52,2,4,3
+C2853,Male,Teenager,Islamabad,2024-03-01,2024-04-12,Pizza Hut,Continental,3,577.52,Cash,1,2025-07-04,384,False,-1.0,Cancelled,1732.56,4,1,3
+C5945,Other,Teenager,Islamabad,2024-04-13,2024-06-18,Pizza Hut,Chinese,1,864.56,Wallet,32,2024-12-31,148,False,5.0,Delayed,864.56,1,4,2
+C1983,Female,Senior,Islamabad,2024-02-01,2024-04-14,KFC,Continental,4,1297.71,Wallet,1,2025-03-18,419,False,4.0,Delayed,5190.84,2,1,5
+C5235,Male,Senior,Islamabad,2024-02-16,2024-04-14,McDonald's,Chinese,3,1007.05,Card,15,2025-08-15,182,True,4.0,Delayed,3021.1499999999996,5,2,4
+C3719,Male,Senior,Islamabad,2023-11-24,2024-04-14,Burger King,Italian,2,1247.54,Cash,42,2025-04-21,176,False,3.0,Delayed,2495.08,3,5,4
+C2880,Male,Teenager,Islamabad,2024-04-17,2024-09-21,Burger King,Continental,2,1317.43,Cash,2,2025-05-22,335,False,4.0,Delivered,2634.86,3,1,4
+C4547,Other,Adult,Islamabad,2024-04-17,2024-12-31,McDonald's,Italian,3,978.1,Card,25,2025-05-12,317,True,3.0,Delayed,2934.3,3,3,4
+C5635,Male,Senior,Islamabad,2024-04-17,2024-09-16,Pizza Hut,Chinese,3,582.57,Wallet,41,2025-06-25,277,True,5.0,Delivered,1747.71,4,5,3
+C1476,Male,Adult,Islamabad,2024-04-18,2025-02-19,Subway,Dessert,5,871.57,Wallet,1,2025-05-12,273,False,1.0,Delayed,4357.85,3,1,5
+C5868,Female,Senior,Islamabad,2024-04-18,2024-08-30,Subway,Dessert,4,744.41,Wallet,3,2024-10-12,386,True,1.0,Delivered,2977.64,1,1,4
+C6786,Male,Senior,Islamabad,2024-04-19,2025-02-13,Subway,Fast Food,2,651.04,Wallet,27,2025-06-07,483,False,-1.0,Cancelled,1302.08,4,3,2
+C4530,Other,Adult,Islamabad,2024-04-19,2024-07-02,Burger King,Fast Food,4,1266.16,Cash,22,2025-01-03,108,False,2.0,Delayed,5064.64,1,3,5
+C1127,Male,Senior,Islamabad,2024-04-19,2024-05-13,Subway,Chinese,5,181.19,Card,43,2025-03-31,192,False,-1.0,Cancelled,905.95,2,5,2
+C6618,Female,Teenager,Islamabad,2024-04-20,2024-12-28,Subway,Dessert,4,752.24,Cash,4,2025-02-23,334,False,3.0,Delayed,3008.96,2,1,4
+C4668,Female,Teenager,Islamabad,2024-04-21,2025-06-25,KFC,Chinese,4,204.09,Cash,28,2025-06-28,354,False,3.0,Delayed,816.36,4,3,1
+C2391,Female,Senior,Islamabad,2024-04-21,2025-05-21,KFC,Fast Food,2,1370.32,Card,20,2025-08-21,416,True,-1.0,Cancelled,2740.64,5,2,4
+C4770,Other,Adult,Islamabad,2024-04-21,2024-11-29,KFC,Italian,2,716.04,Card,3,2025-04-20,111,False,4.0,Delayed,1432.08,3,1,2
+C5803,Male,Senior,Islamabad,2023-09-05,2024-04-21,McDonald's,Continental,5,1180.16,Wallet,37,2025-05-23,494,False,1.0,Delivered,5900.8,3,4,5
+C3076,Female,Adult,Islamabad,2024-04-21,2024-08-23,Subway,Fast Food,3,454.13,Card,3,2025-07-06,298,True,-1.0,Cancelled,1362.3899999999999,4,1,2
+C6714,Other,Adult,Islamabad,2024-04-21,2025-05-31,McDonald's,Fast Food,3,1152.02,Cash,40,2025-07-15,72,False,5.0,Delayed,3456.06,5,4,4
+C2026,Male,Adult,Islamabad,2024-04-22,2024-12-10,McDonald's,Continental,4,1182.8,Card,40,2025-05-26,491,False,3.0,Delayed,4731.2,3,4,5
+C4774,Other,Adult,Islamabad,2023-11-29,2024-04-23,Burger King,Italian,3,509.02,Cash,46,2024-11-25,193,False,-1.0,Cancelled,1527.06,1,5,3
+C6269,Female,Adult,Islamabad,2024-04-23,2024-10-30,Pizza Hut,Fast Food,4,163.58,Card,6,2025-07-20,272,False,-1.0,Cancelled,654.32,5,1,1
+C4850,Other,Teenager,Islamabad,2024-04-23,2025-06-30,Subway,Italian,1,452.54,Cash,27,2025-07-14,467,True,5.0,Delayed,452.54,5,3,1
+C2443,Male,Adult,Islamabad,2023-08-31,2024-04-23,Pizza Hut,Continental,3,1399.51,Card,6,2025-02-24,4,True,-1.0,Cancelled,4198.53,2,1,5
+C3132,Male,Adult,Islamabad,2024-04-24,2024-10-08,KFC,Fast Food,4,417.39,Wallet,37,2025-02-14,180,False,3.0,Delivered,1669.56,2,4,3
+C3540,Male,Senior,Islamabad,2023-11-24,2024-04-24,KFC,Fast Food,1,153.81,Card,17,2025-02-18,106,False,3.0,Delayed,153.81,2,2,1
+C6582,Female,Teenager,Islamabad,2023-10-12,2024-04-24,Burger King,Dessert,4,1220.38,Cash,42,2025-06-25,409,False,-1.0,Cancelled,4881.52,4,5,5
+C1254,Other,Adult,Islamabad,2023-12-26,2024-04-24,Pizza Hut,Continental,1,1492.01,Cash,28,2025-03-09,433,False,-1.0,Cancelled,1492.01,2,3,3
+C2643,Male,Senior,Islamabad,2024-04-24,2024-10-31,Pizza Hut,Continental,5,322.77,Card,48,2025-01-03,405,True,1.0,Delayed,1613.85,1,5,3
+C5984,Male,Senior,Islamabad,2024-04-25,2024-11-05,Burger King,Italian,1,654.82,Cash,47,2025-06-21,177,False,1.0,Delayed,654.82,4,5,1
+C5063,Other,Senior,Islamabad,2024-04-27,2024-05-21,KFC,Chinese,2,966.48,Card,5,2025-05-01,195,False,2.0,Delayed,1932.96,3,1,3
+C3661,Other,Adult,Islamabad,2024-04-27,2024-05-19,KFC,Continental,4,1012.57,Wallet,26,2024-08-24,463,True,2.0,Delayed,4050.28,1,3,5
+C5267,Female,Senior,Islamabad,2023-08-24,2024-04-27,Subway,Dessert,5,188.91,Card,23,2024-10-07,234,False,5.0,Delivered,944.55,1,3,2
+C6514,Female,Teenager,Islamabad,2024-04-28,2024-09-04,KFC,Chinese,2,820.82,Wallet,47,2024-10-04,294,True,4.0,Delivered,1641.64,1,5,3
+C2899,Male,Adult,Islamabad,2024-04-28,2025-01-05,Pizza Hut,Italian,5,1071.83,Card,24,2025-06-07,349,True,-1.0,Cancelled,5359.15,4,3,5
+C6342,Other,Adult,Islamabad,2023-10-19,2024-04-30,Pizza Hut,Continental,2,375.1,Card,12,2024-09-27,107,True,5.0,Delivered,750.2,1,2,1
+C2722,Other,Senior,Islamabad,2023-11-10,2024-05-02,Pizza Hut,Continental,3,1377.06,Cash,29,2024-11-30,372,True,1.0,Delivered,4131.18,1,3,5
+C5606,Male,Teenager,Islamabad,2024-05-02,2024-10-15,Pizza Hut,Italian,3,576.44,Cash,43,2025-08-15,460,True,3.0,Delivered,1729.3200000000002,5,5,3
+C6584,Female,Senior,Islamabad,2024-05-02,2025-04-08,Subway,Italian,5,117.17,Wallet,32,2025-07-31,488,True,3.0,Delayed,585.85,5,4,1
+C3463,Other,Teenager,Islamabad,2024-05-06,2024-09-05,McDonald's,Italian,2,438.7,Wallet,24,2025-02-16,64,True,2.0,Delayed,877.4,2,3,2
+C3671,Male,Senior,Islamabad,2023-09-16,2024-05-06,McDonald's,Continental,2,1080.01,Card,41,2024-10-24,106,False,3.0,Delivered,2160.02,1,5,3
+C6215,Other,Adult,Islamabad,2024-05-08,2025-06-20,Pizza Hut,Italian,3,143.14,Wallet,12,2025-07-15,491,True,2.0,Delayed,429.41999999999996,5,2,1
+C5389,Other,Teenager,Islamabad,2024-05-08,2024-09-26,Subway,Italian,2,906.22,Card,11,2024-10-08,439,True,-1.0,Cancelled,1812.44,1,1,3
+C3769,Other,Adult,Islamabad,2024-05-08,2024-08-22,McDonald's,Dessert,4,495.96,Wallet,14,2025-04-30,149,False,5.0,Delayed,1983.84,3,2,3
+C6538,Male,Adult,Islamabad,2024-05-09,2025-01-13,KFC,Continental,2,1109.52,Cash,23,2025-03-24,423,True,-1.0,Cancelled,2219.04,2,3,3
+C3496,Female,Senior,Islamabad,2023-08-24,2024-05-10,McDonald's,Continental,5,290.25,Card,29,2025-06-14,82,False,1.0,Delayed,1451.25,4,3,3
+C4242,Male,Senior,Islamabad,2023-08-24,2024-05-11,Burger King,Italian,3,225.17,Card,22,2025-04-28,489,False,3.0,Delayed,675.51,3,3,1
+C3868,Male,Teenager,Islamabad,2024-05-12,2024-11-21,Subway,Dessert,2,175.48,Cash,42,2025-05-15,413,True,5.0,Delivered,350.96,3,5,1
+C1573,Other,Senior,Islamabad,2024-02-29,2024-05-12,Burger King,Dessert,3,1222.55,Cash,49,2025-01-18,442,False,2.0,Delivered,3667.6499999999996,2,5,4
+C1106,Other,Senior,Islamabad,2024-05-12,2024-08-21,Burger King,Fast Food,1,1396.82,Card,27,2025-06-11,188,True,2.0,Delivered,1396.82,4,3,2
+C2451,Male,Teenager,Islamabad,2024-04-17,2024-05-12,Burger King,Continental,4,891.58,Wallet,41,2024-12-12,372,False,5.0,Delivered,3566.32,1,5,4
+C6108,Male,Teenager,Islamabad,2023-11-14,2024-05-13,Subway,Italian,2,1433.02,Card,33,2024-09-02,469,False,4.0,Delayed,2866.04,1,4,4
+C1943,Female,Adult,Islamabad,2024-05-14,2024-05-20,Burger King,Dessert,2,1392.19,Wallet,31,2025-01-14,192,False,2.0,Delivered,2784.38,1,4,4
+C5768,Other,Teenager,Islamabad,2024-05-14,2024-06-16,McDonald's,Continental,2,929.17,Wallet,24,2025-07-14,309,False,3.0,Delayed,1858.34,5,3,3
+C3413,Male,Adult,Islamabad,2024-05-14,2025-02-22,KFC,Continental,4,817.38,Card,26,2025-04-24,132,True,4.0,Delivered,3269.52,3,3,4
+C4385,Female,Teenager,Islamabad,2024-02-09,2024-05-14,Subway,Italian,5,1175.49,Card,7,2024-10-18,71,False,-1.0,Cancelled,5877.45,1,1,5
+C4448,Other,Senior,Islamabad,2024-05-14,2024-09-24,Burger King,Chinese,5,1149.76,Wallet,40,2025-03-17,25,False,1.0,Delivered,5748.8,2,4,5
+C6667,Other,Adult,Islamabad,2024-05-16,2025-04-13,KFC,Continental,4,937.88,Wallet,41,2025-05-30,197,False,1.0,Delayed,3751.52,4,5,4
+C1798,Female,Senior,Islamabad,2024-05-17,2024-11-19,Pizza Hut,Chinese,1,510.62,Wallet,31,2025-06-08,500,True,-1.0,Cancelled,510.62,4,4,1
+C6545,Male,Teenager,Islamabad,2024-05-17,2025-02-22,Pizza Hut,Fast Food,1,1383.4,Cash,11,2025-04-26,261,True,3.0,Delayed,1383.4,3,1,2
+C3178,Female,Teenager,Islamabad,2024-01-03,2024-05-18,Pizza Hut,Dessert,3,340.31,Wallet,26,2025-04-25,268,True,5.0,Delayed,1020.9300000000001,3,3,2
+C4129,Female,Senior,Islamabad,2024-05-19,2025-01-19,Subway,Italian,2,381.61,Card,46,2025-04-27,53,False,-1.0,Cancelled,763.22,3,5,1
+C4884,Other,Teenager,Islamabad,2024-05-20,2024-06-21,KFC,Dessert,4,953.63,Cash,15,2025-02-25,130,True,3.0,Delivered,3814.52,2,2,4
+C6757,Female,Senior,Islamabad,2024-05-20,2024-09-25,Pizza Hut,Chinese,1,1278.9,Cash,44,2025-08-07,25,True,2.0,Delivered,1278.9,5,5,2
+C3739,Male,Senior,Islamabad,2024-05-21,2025-03-26,Burger King,Italian,2,924.57,Wallet,23,2025-06-22,473,False,2.0,Delivered,1849.14,4,3,3
+C4534,Female,Senior,Islamabad,2024-05-21,2025-07-03,Burger King,Fast Food,2,1327.52,Cash,12,2025-07-29,146,True,-1.0,Cancelled,2655.04,5,2,4
+C6777,Male,Teenager,Islamabad,2024-05-23,2025-03-27,KFC,Chinese,1,771.48,Cash,50,2025-07-27,96,False,-1.0,Cancelled,771.48,5,5,1
+C5557,Male,Senior,Islamabad,2024-05-25,2024-10-02,KFC,Italian,2,301.01,Wallet,6,2024-12-01,497,True,5.0,Delayed,602.02,1,1,1
+C3389,Male,Senior,Islamabad,2023-09-30,2024-05-25,Subway,Fast Food,1,1111.22,Wallet,2,2024-11-06,82,True,2.0,Delivered,1111.22,1,1,2
+C2613,Female,Senior,Islamabad,2024-05-25,2025-01-11,McDonald's,Dessert,2,1382.43,Card,4,2025-07-14,243,False,-1.0,Cancelled,2764.86,5,1,4
+C6478,Male,Adult,Islamabad,2024-05-25,2024-11-08,Subway,Continental,2,508.57,Wallet,41,2024-11-26,459,True,-1.0,Cancelled,1017.14,1,5,2
+C1245,Female,Senior,Islamabad,2024-05-25,2025-07-26,Pizza Hut,Fast Food,5,1373.38,Card,18,2025-07-31,475,False,4.0,Delayed,6866.900000000001,5,2,5
+C6489,Female,Senior,Islamabad,2023-10-26,2024-05-26,Burger King,Dessert,3,259.02,Card,13,2025-04-20,77,True,-1.0,Cancelled,777.06,3,2,1
+C3906,Female,Teenager,Islamabad,2023-09-13,2024-05-27,Pizza Hut,Chinese,5,295.03,Cash,37,2025-03-11,81,False,4.0,Delayed,1475.1499999999999,2,4,3
+C1604,Male,Senior,Islamabad,2024-05-27,2024-07-15,Subway,Continental,2,1030.8,Card,27,2025-06-07,112,False,3.0,Delayed,2061.6,4,3,3
+C2630,Male,Adult,Islamabad,2024-05-27,2024-11-09,Burger King,Dessert,5,138.13,Card,41,2025-06-23,9,False,3.0,Delivered,690.65,4,5,1
+C5679,Male,Teenager,Islamabad,2024-05-29,2025-02-08,KFC,Chinese,4,1473.46,Cash,4,2025-06-20,20,False,5.0,Delivered,5893.84,4,1,5
+C6764,Other,Senior,Islamabad,2024-05-30,2025-06-03,KFC,Fast Food,4,1438.37,Wallet,1,2025-07-21,340,True,5.0,Delivered,5753.48,5,1,5
+C5293,Other,Adult,Islamabad,2024-05-31,2024-12-05,Pizza Hut,Continental,5,788.9,Card,23,2025-05-19,73,False,5.0,Delayed,3944.5,3,3,4
+C5514,Female,Adult,Islamabad,2024-05-31,2024-08-28,McDonald's,Dessert,3,239.85,Card,46,2024-10-06,360,True,-1.0,Cancelled,719.55,1,5,1
+C1084,Male,Teenager,Islamabad,2023-09-07,2024-05-31,Pizza Hut,Continental,2,1098.18,Wallet,32,2025-03-15,456,True,2.0,Delivered,2196.36,2,4,3
+C4715,Male,Adult,Islamabad,2024-06-01,2025-01-02,Pizza Hut,Continental,2,1294.54,Card,31,2025-07-12,96,True,-1.0,Cancelled,2589.08,4,4,4
+C2195,Male,Senior,Islamabad,2024-02-06,2024-06-01,Subway,Italian,3,714.7,Wallet,14,2024-11-19,193,False,5.0,Delivered,2144.1000000000004,1,2,3
+C2987,Male,Senior,Islamabad,2024-06-01,2025-05-01,Burger King,Dessert,4,134.74,Wallet,8,2025-08-12,294,False,-1.0,Cancelled,538.96,5,1,1
+C3580,Male,Adult,Islamabad,2024-06-01,2025-04-10,Subway,Continental,2,1410.94,Wallet,46,2025-08-13,41,False,3.0,Delivered,2821.88,5,5,4
+C2200,Male,Senior,Islamabad,2023-09-26,2024-06-02,Subway,Italian,4,924.91,Cash,18,2024-12-21,482,False,-1.0,Cancelled,3699.64,1,2,4
+C6138,Female,Adult,Islamabad,2024-06-02,2024-06-16,Burger King,Continental,5,1388.35,Card,26,2025-03-24,228,True,-1.0,Cancelled,6941.75,2,3,5
+C6399,Female,Senior,Islamabad,2023-09-05,2024-06-03,McDonald's,Fast Food,4,1372.11,Card,35,2024-10-12,491,False,-1.0,Cancelled,5488.44,1,4,5
+C3359,Other,Teenager,Islamabad,2024-06-04,2024-08-11,McDonald's,Dessert,5,300.03,Cash,3,2025-07-27,341,False,1.0,Delayed,1500.1499999999999,5,1,3
+C2325,Male,Teenager,Islamabad,2024-06-04,2024-08-14,KFC,Chinese,3,1420.81,Wallet,24,2025-05-12,238,True,4.0,Delivered,4262.43,3,3,5
+C3148,Female,Adult,Islamabad,2024-01-22,2024-06-05,Subway,Italian,3,640.49,Card,26,2024-11-02,436,True,3.0,Delivered,1921.47,1,3,3
+C5434,Female,Teenager,Islamabad,2024-06-06,2024-12-29,Burger King,Chinese,1,329.03,Cash,43,2025-04-20,76,False,4.0,Delivered,329.03,3,5,1
+C3621,Male,Senior,Islamabad,2023-10-26,2024-06-06,Pizza Hut,Dessert,5,647.48,Wallet,32,2025-02-16,95,False,4.0,Delayed,3237.4,2,4,4
+C1137,Other,Adult,Islamabad,2024-06-07,2024-12-05,Subway,Italian,3,927.29,Cash,22,2025-06-07,414,False,-1.0,Cancelled,2781.87,4,3,4
+C6754,Other,Teenager,Islamabad,2024-06-07,2024-11-27,Burger King,Fast Food,3,777.19,Card,6,2025-08-04,236,True,4.0,Delayed,2331.57,5,1,3
+C2854,Other,Adult,Islamabad,2024-06-08,2025-04-05,KFC,Italian,3,1391.23,Cash,50,2025-07-02,54,True,1.0,Delayed,4173.6900000000005,4,5,5
+C6684,Male,Senior,Islamabad,2024-06-09,2025-04-20,Subway,Dessert,5,1253.89,Cash,43,2025-06-18,80,False,-1.0,Cancelled,6269.450000000001,4,5,5
+C6285,Male,Teenager,Islamabad,2023-12-13,2024-06-09,KFC,Dessert,3,489.26,Cash,4,2024-10-02,266,False,2.0,Delivered,1467.78,1,1,3
+C5157,Female,Teenager,Islamabad,2024-06-09,2025-04-04,Subway,Fast Food,4,568.28,Wallet,46,2025-05-02,182,True,5.0,Delayed,2273.12,3,5,3
+C1898,Female,Adult,Islamabad,2023-10-12,2024-06-10,KFC,Continental,3,589.42,Cash,23,2024-09-10,94,False,3.0,Delivered,1768.2599999999998,1,3,3
+C6972,Female,Adult,Islamabad,2024-06-11,2024-11-06,Subway,Chinese,4,132.31,Cash,35,2025-03-26,175,False,-1.0,Cancelled,529.24,2,4,1
+C5264,Female,Senior,Islamabad,2023-10-18,2024-06-12,Pizza Hut,Fast Food,2,1457.63,Card,1,2025-03-11,411,False,2.0,Delivered,2915.26,2,1,4
+C3732,Other,Adult,Islamabad,2024-06-12,2024-10-19,Subway,Continental,4,1177.37,Card,49,2025-06-05,95,True,-1.0,Cancelled,4709.48,4,5,5
+C3576,Other,Teenager,Islamabad,2024-06-13,2024-08-09,Pizza Hut,Italian,1,285.22,Card,46,2025-04-30,438,False,-1.0,Cancelled,285.22,3,5,1
+C6650,Male,Senior,Islamabad,2024-06-13,2024-09-02,McDonald's,Fast Food,1,473.07,Card,22,2024-10-22,202,False,3.0,Delivered,473.07,1,3,1
+C6597,Female,Teenager,Islamabad,2024-06-13,2024-07-11,Burger King,Continental,5,875.81,Cash,18,2025-07-01,315,False,5.0,Delayed,4379.049999999999,4,2,5
+C4862,Male,Teenager,Islamabad,2023-08-28,2024-06-13,KFC,Chinese,4,1245.47,Card,8,2024-09-04,398,True,-1.0,Cancelled,4981.88,1,1,5
+C4609,Other,Adult,Islamabad,2024-06-14,2025-04-20,Pizza Hut,Italian,5,233.05,Cash,45,2025-08-05,442,False,3.0,Delayed,1165.25,5,5,2
+C4321,Male,Adult,Islamabad,2024-06-16,2024-07-10,Pizza Hut,Continental,4,492.56,Cash,26,2025-04-20,179,False,2.0,Delayed,1970.24,3,3,3
+C2081,Other,Teenager,Islamabad,2024-02-06,2024-06-17,Subway,Chinese,5,127.06,Card,1,2025-05-28,307,False,5.0,Delivered,635.3,3,1,1
+C6461,Female,Senior,Islamabad,2024-06-17,2025-07-29,Pizza Hut,Fast Food,5,1307.66,Card,29,2025-08-21,193,False,-1.0,Cancelled,6538.3,5,3,5
+C2618,Other,Adult,Islamabad,2023-12-06,2024-06-17,Burger King,Chinese,4,1337.94,Cash,36,2025-03-16,420,False,-1.0,Cancelled,5351.76,2,4,5
+C6717,Female,Teenager,Islamabad,2024-06-18,2024-08-22,KFC,Continental,5,1363.19,Cash,34,2025-04-07,488,False,5.0,Delivered,6815.950000000001,3,4,5
+C1364,Female,Senior,Islamabad,2024-06-19,2024-09-12,Burger King,Chinese,3,329.48,Card,10,2025-01-10,71,False,-1.0,Cancelled,988.44,1,1,2
+C3251,Male,Adult,Islamabad,2024-06-22,2024-09-30,Subway,Italian,3,729.12,Cash,5,2025-01-12,216,False,5.0,Delivered,2187.36,1,1,3
+C5365,Male,Senior,Islamabad,2024-04-18,2024-06-22,Pizza Hut,Chinese,3,1449.87,Wallet,43,2025-02-26,189,False,2.0,Delivered,4349.61,2,5,5
+C2012,Male,Teenager,Islamabad,2023-09-02,2024-06-22,Subway,Chinese,5,1098.22,Card,22,2025-04-08,5,False,-1.0,Cancelled,5491.1,3,3,5
+C4886,Other,Teenager,Islamabad,2024-01-14,2024-06-25,Pizza Hut,Chinese,5,1173.65,Wallet,3,2025-01-13,260,False,1.0,Delayed,5868.25,1,1,5
+C5896,Other,Senior,Islamabad,2024-06-26,2025-02-24,Burger King,Chinese,3,937.27,Cash,13,2025-07-04,335,True,1.0,Delayed,2811.81,4,2,4
+C2787,Other,Senior,Islamabad,2024-05-07,2024-06-26,McDonald's,Chinese,3,1268.03,Wallet,15,2025-07-25,170,True,3.0,Delivered,3804.09,5,2,4
+C3934,Other,Teenager,Islamabad,2024-06-27,2024-10-31,KFC,Dessert,2,1193.21,Cash,16,2025-03-30,480,True,4.0,Delivered,2386.42,2,2,3
+C5846,Female,Teenager,Islamabad,2024-01-25,2024-06-27,Pizza Hut,Dessert,2,1327.19,Cash,19,2025-07-24,244,True,4.0,Delayed,2654.38,5,2,4
+C4643,Male,Adult,Islamabad,2024-06-27,2024-09-12,Subway,Italian,4,790.75,Wallet,24,2024-12-06,90,False,-1.0,Cancelled,3163.0,1,3,4
+C2823,Other,Senior,Islamabad,2024-05-02,2024-06-27,KFC,Continental,2,184.05,Cash,21,2024-12-24,383,False,-1.0,Cancelled,368.1,1,3,1
+C2338,Other,Adult,Islamabad,2024-06-27,2024-06-28,KFC,Fast Food,5,1351.41,Cash,43,2025-01-28,86,True,-1.0,Cancelled,6757.05,2,5,5
+C5693,Male,Senior,Islamabad,2024-01-05,2024-06-28,Burger King,Chinese,5,446.91,Card,42,2024-12-26,145,True,5.0,Delayed,2234.55,1,5,3
+C6139,Other,Teenager,Islamabad,2024-06-28,2025-04-17,Subway,Continental,2,1310.64,Cash,41,2025-07-12,42,False,-1.0,Cancelled,2621.28,4,5,4
+C2962,Other,Teenager,Islamabad,2024-06-29,2024-10-02,Subway,Italian,1,430.38,Cash,5,2025-03-07,92,True,4.0,Delayed,430.38,2,1,1
+C4087,Male,Adult,Islamabad,2024-03-26,2024-06-30,McDonald's,Dessert,5,1483.62,Cash,19,2024-11-03,472,False,1.0,Delivered,7418.099999999999,1,2,5
+C3235,Other,Adult,Islamabad,2024-06-30,2024-10-28,Subway,Continental,3,598.67,Card,7,2024-11-23,103,False,4.0,Delivered,1796.0099999999998,1,1,3
+C2979,Other,Senior,Islamabad,2024-06-30,2025-03-31,Pizza Hut,Dessert,4,1060.9,Card,14,2025-06-22,99,False,3.0,Delayed,4243.6,4,2,5
+C5546,Female,Teenager,Islamabad,2024-06-30,2024-08-22,McDonald's,Italian,2,739.14,Wallet,48,2025-07-02,259,True,-1.0,Cancelled,1478.28,4,5,3
+C4260,Other,Teenager,Islamabad,2024-06-06,2024-06-30,McDonald's,Continental,3,185.06,Card,21,2024-11-06,110,False,4.0,Delayed,555.1800000000001,1,3,1
+C1762,Other,Adult,Islamabad,2024-01-03,2024-07-01,McDonald's,Chinese,5,320.54,Cash,8,2025-03-15,456,False,-1.0,Cancelled,1602.7,2,1,3
+C4144,Female,Adult,Islamabad,2024-07-01,2024-12-14,Burger King,Dessert,2,497.42,Wallet,15,2025-05-27,455,True,3.0,Delivered,994.84,3,2,2
+C5666,Other,Senior,Islamabad,2024-07-03,2024-10-27,Burger King,Chinese,5,1166.97,Card,22,2025-01-26,462,True,-1.0,Cancelled,5834.85,2,3,5
+C3031,Female,Adult,Islamabad,2024-07-03,2024-11-21,Burger King,Fast Food,1,138.29,Card,38,2025-01-14,170,False,2.0,Delayed,138.29,1,4,1
+C2126,Female,Teenager,Islamabad,2024-07-04,2024-10-25,KFC,Italian,5,315.06,Card,27,2025-06-05,402,True,-1.0,Cancelled,1575.3,4,3,3
+C3762,Male,Teenager,Islamabad,2023-12-05,2024-07-04,Subway,Continental,3,803.81,Card,1,2024-11-29,332,False,-1.0,Cancelled,2411.43,1,1,3
+C1868,Other,Senior,Islamabad,2024-07-05,2025-02-07,KFC,Continental,2,354.83,Wallet,46,2025-03-24,483,True,-1.0,Cancelled,709.66,2,5,1
+C1808,Male,Senior,Islamabad,2024-01-26,2024-07-05,Pizza Hut,Dessert,5,1387.61,Card,10,2025-04-16,149,True,5.0,Delayed,6938.049999999999,3,1,5
+C1002,Other,Senior,Islamabad,2024-06-01,2024-07-08,Pizza Hut,Dessert,3,1452.54,Card,46,2025-07-12,489,False,4.0,Delayed,4357.62,4,5,5
+C3488,Female,Teenager,Islamabad,2024-07-08,2024-11-28,Subway,Chinese,2,591.01,Cash,8,2025-05-05,411,False,3.0,Delivered,1182.02,3,1,2
+C5457,Other,Teenager,Islamabad,2024-07-08,2024-12-12,McDonald's,Dessert,2,1055.86,Card,28,2024-12-27,341,True,3.0,Delayed,2111.72,1,3,3
+C3294,Female,Adult,Islamabad,2024-06-13,2024-07-08,Pizza Hut,Dessert,3,651.18,Wallet,42,2025-06-14,314,False,-1.0,Cancelled,1953.54,4,5,3
+C6944,Male,Adult,Islamabad,2024-07-08,2024-12-16,Pizza Hut,Dessert,3,946.13,Cash,16,2025-03-31,155,False,5.0,Delivered,2838.39,2,2,4
+C3861,Male,Adult,Islamabad,2024-01-16,2024-07-09,Subway,Italian,5,966.35,Card,3,2025-05-18,12,True,5.0,Delivered,4831.75,3,1,5
+C4175,Other,Teenager,Islamabad,2024-07-10,2024-10-28,Pizza Hut,Chinese,5,234.35,Cash,34,2025-02-11,217,False,1.0,Delayed,1171.75,2,4,2
+C4830,Male,Teenager,Islamabad,2024-07-10,2024-11-12,Burger King,Continental,5,1208.78,Card,40,2025-05-08,305,False,-1.0,Cancelled,6043.9,3,4,5
+C6032,Male,Senior,Islamabad,2024-07-10,2024-09-02,Subway,Chinese,3,361.93,Wallet,40,2025-02-12,161,False,-1.0,Cancelled,1085.79,2,4,2
+C6585,Female,Teenager,Islamabad,2024-02-02,2024-07-11,Pizza Hut,Italian,5,668.77,Cash,3,2025-01-19,217,False,1.0,Delivered,3343.85,2,1,4
+C6287,Other,Teenager,Islamabad,2024-07-11,2025-07-14,McDonald's,Dessert,1,1147.61,Wallet,48,2025-08-02,215,False,5.0,Delayed,1147.61,5,5,2
+C4118,Other,Adult,Islamabad,2023-12-19,2024-07-11,Subway,Fast Food,2,328.52,Card,16,2025-05-20,269,True,5.0,Delivered,657.04,3,2,1
+C4634,Male,Teenager,Islamabad,2024-07-12,2024-09-30,McDonald's,Italian,2,425.66,Wallet,2,2025-03-04,71,False,5.0,Delivered,851.32,2,1,2
+C6587,Male,Teenager,Islamabad,2024-06-01,2024-07-13,Pizza Hut,Chinese,5,656.75,Cash,38,2025-07-15,482,False,2.0,Delivered,3283.75,5,4,4
+C5706,Male,Teenager,Islamabad,2024-07-14,2024-08-15,Subway,Chinese,2,650.52,Card,2,2025-06-05,422,True,-1.0,Cancelled,1301.04,4,1,2
+C6074,Male,Senior,Islamabad,2024-07-14,2025-06-12,Subway,Chinese,5,1402.08,Cash,30,2025-08-03,463,False,5.0,Delayed,7010.4,5,3,5
+C4453,Other,Senior,Islamabad,2024-03-09,2024-07-14,KFC,Chinese,3,657.65,Cash,22,2025-03-16,198,True,3.0,Delayed,1972.9499999999998,2,3,3
+C3067,Male,Teenager,Islamabad,2023-10-29,2024-07-14,KFC,Chinese,1,213.23,Wallet,15,2024-11-15,119,False,-1.0,Cancelled,213.23,1,2,1
+C5062,Male,Teenager,Islamabad,2024-06-02,2024-07-15,KFC,Italian,1,1097.06,Wallet,35,2025-05-23,311,False,4.0,Delayed,1097.06,3,4,2
+C1032,Other,Senior,Islamabad,2023-09-06,2024-07-15,KFC,Fast Food,5,239.04,Wallet,24,2025-04-25,331,True,1.0,Delivered,1195.2,3,3,2
+C1219,Other,Teenager,Islamabad,2024-07-16,2025-01-06,KFC,Fast Food,5,332.26,Cash,41,2025-06-19,479,True,5.0,Delayed,1661.3,4,5,3
+C5025,Male,Senior,Islamabad,2024-07-16,2024-07-31,McDonald's,Italian,2,1155.51,Card,40,2025-06-09,221,True,-1.0,Cancelled,2311.02,4,4,3
+C6629,Male,Senior,Islamabad,2023-10-27,2024-07-17,McDonald's,Italian,3,858.29,Wallet,31,2024-11-07,208,True,1.0,Delayed,2574.87,1,4,4
+C2035,Male,Adult,Islamabad,2024-07-18,2024-10-05,Burger King,Chinese,5,644.88,Cash,49,2024-12-03,123,False,-1.0,Cancelled,3224.4,1,5,4
+C2716,Male,Senior,Islamabad,2024-07-19,2025-04-20,Pizza Hut,Fast Food,4,267.91,Cash,36,2025-04-30,379,True,-1.0,Cancelled,1071.64,3,4,2
+C2333,Other,Adult,Islamabad,2023-10-11,2024-07-19,Subway,Italian,5,1062.8,Wallet,46,2025-02-26,306,True,2.0,Delayed,5314.0,2,5,5
+C3647,Male,Senior,Islamabad,2024-07-19,2025-04-12,KFC,Italian,1,1039.54,Cash,4,2025-04-13,69,False,5.0,Delivered,1039.54,3,1,2
+C6005,Other,Teenager,Islamabad,2024-07-19,2025-02-07,Subway,Dessert,1,776.78,Cash,25,2025-04-09,43,True,-1.0,Cancelled,776.78,3,3,1
+C6575,Female,Adult,Islamabad,2024-07-20,2024-11-21,Subway,Dessert,1,482.66,Wallet,25,2025-04-11,395,False,2.0,Delayed,482.66,3,3,1
+C1991,Male,Adult,Islamabad,2024-05-22,2024-07-20,Burger King,Chinese,2,1057.57,Cash,15,2024-12-20,237,True,-1.0,Cancelled,2115.14,1,2,3
+C6500,Other,Teenager,Islamabad,2024-07-20,2024-11-23,McDonald's,Fast Food,3,1165.1,Wallet,38,2024-11-23,344,False,1.0,Delayed,3495.2999999999997,1,4,4
+C5649,Male,Senior,Islamabad,2023-11-04,2024-07-21,Subway,Chinese,5,631.14,Cash,4,2024-10-28,209,True,-1.0,Cancelled,3155.7,1,1,4
+C3482,Other,Adult,Islamabad,2024-07-21,2024-11-13,Burger King,Chinese,3,665.38,Card,40,2025-02-21,90,False,-1.0,Cancelled,1996.1399999999999,2,4,3
+C3479,Female,Teenager,Islamabad,2024-07-23,2024-07-26,Subway,Chinese,1,802.33,Card,36,2025-05-06,285,False,2.0,Delayed,802.33,3,4,1
+C6483,Female,Senior,Islamabad,2024-07-25,2025-04-27,Pizza Hut,Chinese,3,516.15,Cash,13,2025-07-29,344,True,5.0,Delivered,1548.4499999999998,5,2,3
+C1467,Other,Senior,Islamabad,2024-07-25,2024-12-16,Burger King,Fast Food,5,1163.14,Wallet,18,2025-02-23,197,False,-1.0,Cancelled,5815.700000000001,2,2,5
+C1452,Female,Adult,Islamabad,2024-07-27,2025-01-31,Subway,Chinese,3,1449.96,Card,47,2025-03-29,315,True,-1.0,Cancelled,4349.88,2,5,5
+C1514,Other,Senior,Islamabad,2024-07-29,2025-08-03,KFC,Dessert,5,458.87,Card,30,2025-08-14,324,True,5.0,Delivered,2294.35,5,3,3
+C1670,Female,Senior,Islamabad,2024-07-29,2025-02-19,McDonald's,Continental,4,962.12,Cash,14,2025-05-09,293,True,2.0,Delayed,3848.48,3,2,4
+C2457,Other,Teenager,Islamabad,2024-07-30,2025-02-25,Burger King,Fast Food,2,1439.81,Wallet,7,2025-05-05,481,True,-1.0,Cancelled,2879.62,3,1,4
+C6120,Male,Adult,Islamabad,2023-08-27,2024-07-30,Burger King,Fast Food,1,227.47,Card,4,2025-07-31,30,True,4.0,Delivered,227.47,5,1,1
+C6493,Female,Senior,Islamabad,2024-07-31,2024-07-31,McDonald's,Fast Food,4,231.86,Cash,17,2025-02-13,86,False,1.0,Delayed,927.44,2,2,2
+C1416,Male,Teenager,Islamabad,2024-07-31,2025-01-09,KFC,Chinese,1,1123.7,Card,46,2025-06-19,352,False,5.0,Delivered,1123.7,4,5,2
+C2840,Male,Adult,Islamabad,2024-01-17,2024-08-01,Burger King,Fast Food,4,794.07,Wallet,37,2025-04-28,115,False,-1.0,Cancelled,3176.28,3,4,4
+C3118,Other,Senior,Islamabad,2024-02-02,2024-08-01,KFC,Continental,4,135.94,Wallet,44,2025-07-10,427,True,5.0,Delayed,543.76,4,5,1
+C6945,Male,Teenager,Islamabad,2023-11-26,2024-08-01,Subway,Fast Food,3,911.18,Cash,40,2025-04-13,32,True,2.0,Delayed,2733.54,3,4,4
+C5973,Other,Adult,Islamabad,2024-08-02,2024-09-28,KFC,Continental,2,150.44,Card,36,2024-10-13,393,False,-1.0,Cancelled,300.88,1,4,1
+C5733,Female,Adult,Islamabad,2024-08-02,2024-08-15,Subway,Dessert,2,599.1,Card,5,2025-05-11,270,False,1.0,Delayed,1198.2,3,1,2
+C3012,Male,Senior,Islamabad,2024-07-30,2024-08-03,Subway,Dessert,3,518.38,Card,22,2025-06-16,391,True,-1.0,Cancelled,1555.1399999999999,4,3,3
+C3904,Male,Adult,Islamabad,2024-01-10,2024-08-04,KFC,Fast Food,4,995.05,Card,20,2025-05-26,39,True,2.0,Delayed,3980.2,3,2,5
+C3516,Male,Adult,Islamabad,2024-06-25,2024-08-04,Subway,Continental,4,1419.61,Cash,6,2024-11-12,475,True,5.0,Delivered,5678.44,1,1,5
+C5675,Other,Teenager,Islamabad,2024-04-12,2024-08-05,McDonald's,Italian,5,488.2,Cash,27,2025-08-08,269,False,-1.0,Cancelled,2441.0,5,3,4
+C6111,Male,Teenager,Islamabad,2024-08-06,2024-10-19,McDonald's,Continental,4,855.94,Cash,25,2025-07-18,241,True,-1.0,Cancelled,3423.76,5,3,4
+C2855,Other,Teenager,Islamabad,2024-08-06,2024-11-23,KFC,Continental,4,929.91,Cash,6,2024-12-03,451,False,-1.0,Cancelled,3719.64,1,1,4
+C6387,Female,Teenager,Islamabad,2024-06-21,2024-08-07,KFC,Continental,2,790.29,Card,28,2024-10-02,386,True,3.0,Delivered,1580.58,1,3,3
+C1538,Other,Teenager,Islamabad,2024-08-07,2025-02-22,KFC,Fast Food,2,618.61,Cash,45,2025-07-05,232,False,4.0,Delayed,1237.22,4,5,2
+C2540,Other,Teenager,Islamabad,2024-02-15,2024-08-07,KFC,Chinese,1,654.86,Cash,17,2025-07-03,415,True,3.0,Delayed,654.86,4,2,1
+C5790,Male,Teenager,Islamabad,2024-08-08,2024-11-20,Burger King,Italian,1,987.0,Cash,31,2025-01-25,468,True,-1.0,Cancelled,987.0,2,4,2
+C1242,Other,Senior,Islamabad,2024-08-11,2024-12-14,Subway,Fast Food,1,714.9,Cash,8,2025-03-07,154,False,-1.0,Cancelled,714.9,2,1,1
+C3426,Female,Adult,Islamabad,2023-11-05,2024-08-12,KFC,Fast Food,3,649.95,Card,27,2025-03-01,390,False,1.0,Delivered,1949.8500000000001,2,3,3
+C2601,Other,Adult,Islamabad,2024-08-13,2024-12-30,KFC,Chinese,5,280.43,Cash,21,2025-08-20,136,False,2.0,Delivered,1402.15,5,3,2
+C2898,Female,Adult,Islamabad,2024-06-25,2024-08-14,Burger King,Continental,1,1468.12,Wallet,26,2025-05-25,193,True,4.0,Delivered,1468.12,3,3,3
+C4234,Male,Teenager,Islamabad,2024-08-14,2024-10-05,KFC,Chinese,2,868.67,Wallet,35,2025-02-21,290,True,-1.0,Cancelled,1737.34,2,4,3
+C3292,Other,Teenager,Islamabad,2023-11-02,2024-08-14,Subway,Continental,3,403.37,Card,2,2024-09-23,259,False,3.0,Delivered,1210.1100000000001,1,1,2
+C1978,Female,Senior,Islamabad,2024-06-28,2024-08-15,Subway,Continental,1,1062.48,Card,4,2025-03-06,22,False,5.0,Delivered,1062.48,2,1,2
+C6755,Male,Teenager,Islamabad,2024-08-15,2024-10-02,Subway,Italian,4,808.88,Card,35,2025-05-04,162,True,2.0,Delayed,3235.52,3,4,4
+C6377,Female,Teenager,Islamabad,2024-01-31,2024-08-15,Burger King,Fast Food,4,734.29,Card,28,2025-05-02,421,True,4.0,Delayed,2937.16,3,3,4
+C2179,Other,Adult,Islamabad,2024-06-11,2024-08-15,McDonald's,Italian,3,764.53,Cash,36,2025-08-18,193,True,4.0,Delivered,2293.59,5,4,3
+C2753,Other,Teenager,Islamabad,2023-11-28,2024-08-16,Burger King,Chinese,2,530.91,Cash,24,2025-02-13,357,True,-1.0,Cancelled,1061.82,2,3,2
+C6006,Female,Teenager,Islamabad,2024-08-16,2025-02-01,Burger King,Chinese,3,1020.24,Cash,42,2025-05-13,72,True,2.0,Delivered,3060.7200000000003,3,5,4
+C3600,Other,Adult,Islamabad,2023-11-22,2024-08-16,Subway,Dessert,3,1319.95,Card,27,2025-04-19,116,False,-1.0,Cancelled,3959.8500000000004,3,3,5
+C2381,Female,Teenager,Islamabad,2024-03-27,2024-08-17,Subway,Dessert,4,1137.5,Card,49,2024-10-17,17,False,2.0,Delayed,4550.0,1,5,5
+C4131,Male,Adult,Islamabad,2024-08-17,2025-03-19,Pizza Hut,Continental,3,217.42,Wallet,2,2025-05-01,244,True,3.0,Delayed,652.26,3,1,1
+C4623,Other,Teenager,Islamabad,2024-08-18,2024-10-27,KFC,Fast Food,1,384.84,Wallet,2,2025-01-20,11,True,-1.0,Cancelled,384.84,2,1,1
+C2915,Other,Adult,Islamabad,2024-08-18,2025-07-27,KFC,Chinese,4,319.49,Wallet,30,2025-08-08,222,True,-1.0,Cancelled,1277.96,5,3,2
+C3763,Female,Teenager,Islamabad,2023-11-19,2024-08-19,KFC,Italian,5,639.25,Wallet,14,2024-12-18,300,True,4.0,Delivered,3196.25,1,2,4
+C2310,Other,Adult,Islamabad,2024-06-09,2024-08-20,KFC,Italian,3,1216.02,Card,18,2025-01-24,269,False,1.0,Delayed,3648.06,2,2,4
+C5284,Male,Teenager,Islamabad,2024-01-10,2024-08-20,KFC,Italian,4,486.06,Card,40,2025-01-07,259,False,-1.0,Cancelled,1944.24,1,4,3
+C6297,Female,Adult,Islamabad,2024-08-20,2024-10-16,Pizza Hut,Dessert,1,371.78,Card,50,2024-12-01,452,True,-1.0,Cancelled,371.78,1,5,1
+C3428,Female,Teenager,Islamabad,2024-08-21,2024-11-28,McDonald's,Continental,1,417.52,Card,21,2025-07-19,6,True,2.0,Delivered,417.52,5,3,1
+C3035,Female,Adult,Islamabad,2024-03-29,2024-08-21,Pizza Hut,Fast Food,4,494.24,Cash,36,2025-06-22,377,False,3.0,Delayed,1976.96,4,4,3
+C4520,Male,Teenager,Islamabad,2023-11-29,2024-08-22,Pizza Hut,Italian,2,604.42,Card,37,2025-06-05,423,False,-1.0,Cancelled,1208.84,4,4,2
+C5875,Other,Senior,Islamabad,2024-02-29,2024-08-23,McDonald's,Italian,4,1064.56,Cash,7,2024-09-24,148,False,-1.0,Cancelled,4258.24,1,1,5
+C4333,Male,Adult,Islamabad,2023-12-05,2024-08-24,Pizza Hut,Continental,5,851.46,Wallet,3,2024-10-27,195,True,4.0,Delivered,4257.3,1,1,5
+C3566,Female,Senior,Islamabad,2024-08-25,2025-01-03,KFC,Italian,3,516.58,Cash,20,2025-03-22,209,False,5.0,Delivered,1549.7400000000002,2,2,3
+C2262,Female,Adult,Islamabad,2023-09-05,2024-08-25,Subway,Fast Food,1,119.72,Wallet,2,2024-09-25,302,False,5.0,Delayed,119.72,1,1,1
+C6075,Male,Adult,Islamabad,2023-11-12,2024-08-25,McDonald's,Continental,3,1438.67,Wallet,25,2024-11-17,266,True,1.0,Delivered,4316.01,1,3,5
+C6336,Female,Senior,Islamabad,2024-03-15,2024-08-26,KFC,Fast Food,3,926.02,Wallet,45,2025-06-04,79,False,-1.0,Cancelled,2778.06,4,5,4
+C1408,Male,Teenager,Islamabad,2024-08-27,2025-04-03,KFC,Chinese,4,1331.15,Cash,27,2025-06-12,28,True,1.0,Delivered,5324.6,4,3,5
+C5796,Other,Adult,Islamabad,2024-01-16,2024-08-27,KFC,Continental,3,244.37,Cash,38,2025-03-11,370,True,-1.0,Cancelled,733.11,2,4,1
+C6539,Male,Senior,Islamabad,2024-02-25,2024-08-27,McDonald's,Chinese,3,454.92,Card,22,2024-12-07,253,True,-1.0,Cancelled,1364.76,1,3,2
+C4013,Other,Senior,Islamabad,2024-08-28,2024-12-01,Burger King,Italian,5,1279.01,Cash,25,2025-05-05,132,True,-1.0,Cancelled,6395.05,3,3,5
+C6736,Other,Senior,Islamabad,2024-01-05,2024-08-28,Subway,Chinese,2,685.75,Wallet,6,2025-06-25,236,False,3.0,Delivered,1371.5,4,1,2
+C1723,Other,Adult,Islamabad,2024-07-21,2024-08-29,Subway,Continental,2,1404.74,Wallet,21,2024-09-09,166,True,3.0,Delayed,2809.48,1,3,4
+C2000,Female,Senior,Islamabad,2024-08-29,2024-10-03,McDonald's,Chinese,3,233.22,Card,38,2024-11-18,113,True,-1.0,Cancelled,699.66,1,4,1
+C3528,Female,Adult,Islamabad,2024-08-29,2024-12-28,KFC,Dessert,2,162.61,Cash,10,2025-05-20,366,True,-1.0,Cancelled,325.22,3,1,1
+C5111,Male,Adult,Islamabad,2023-11-27,2024-08-30,Burger King,Continental,4,415.68,Card,13,2025-06-26,199,True,-1.0,Cancelled,1662.72,4,2,3
+C3128,Male,Adult,Islamabad,2024-04-01,2024-08-30,Subway,Chinese,1,213.48,Wallet,10,2025-07-26,277,True,1.0,Delivered,213.48,5,1,1
+C5938,Female,Teenager,Islamabad,2024-08-31,2024-10-18,Pizza Hut,Continental,3,691.35,Card,41,2025-08-04,108,False,2.0,Delivered,2074.05,5,5,3
+C6616,Female,Adult,Islamabad,2023-09-04,2024-09-01,McDonald's,Italian,5,547.45,Card,40,2025-01-20,392,True,1.0,Delayed,2737.25,2,4,4
+C6504,Female,Senior,Islamabad,2024-09-01,2025-03-19,Subway,Italian,1,114.73,Card,20,2025-07-11,386,False,5.0,Delivered,114.73,4,2,1
+C3280,Other,Senior,Islamabad,2024-08-07,2024-09-01,KFC,Fast Food,4,1292.12,Wallet,40,2025-05-18,214,False,3.0,Delivered,5168.48,3,4,5
+C3405,Male,Teenager,Islamabad,2024-09-02,2025-03-17,McDonald's,Dessert,2,733.38,Card,19,2025-08-07,85,False,-1.0,Cancelled,1466.76,5,2,3
+C4557,Male,Senior,Islamabad,2024-09-03,2024-09-18,Subway,Fast Food,2,170.02,Wallet,27,2025-05-17,314,True,2.0,Delivered,340.04,3,3,1
+C2147,Other,Teenager,Islamabad,2023-11-10,2024-09-03,Burger King,Dessert,1,179.46,Card,1,2024-12-29,258,False,3.0,Delayed,179.46,1,1,1
+C4501,Male,Adult,Islamabad,2023-09-25,2024-09-05,Burger King,Italian,3,798.92,Wallet,40,2024-12-17,147,True,-1.0,Cancelled,2396.7599999999998,1,4,3
+C3557,Male,Teenager,Islamabad,2024-09-06,2024-10-05,Subway,Dessert,1,736.08,Card,26,2024-12-10,367,False,2.0,Delivered,736.08,1,3,1
+C6770,Other,Teenager,Islamabad,2024-08-25,2024-09-06,Burger King,Chinese,5,283.86,Card,48,2024-12-16,459,False,3.0,Delayed,1419.3000000000002,1,5,2
+C1300,Male,Adult,Islamabad,2024-09-06,2024-10-29,Pizza Hut,Continental,4,1041.88,Wallet,3,2025-07-07,461,True,2.0,Delayed,4167.52,4,1,5
+C3555,Female,Adult,Islamabad,2024-08-10,2024-09-07,Subway,Continental,1,900.46,Cash,1,2024-10-08,111,False,-1.0,Cancelled,900.46,1,1,2
+C3629,Male,Teenager,Islamabad,2024-02-26,2024-09-09,Subway,Chinese,4,623.88,Wallet,50,2025-03-30,288,False,5.0,Delivered,2495.52,2,5,4
+C2757,Other,Adult,Islamabad,2023-10-01,2024-09-09,Pizza Hut,Dessert,1,504.1,Cash,4,2024-12-17,254,True,-1.0,Cancelled,504.1,1,1,1
+C2662,Other,Teenager,Islamabad,2024-09-09,2024-09-27,Subway,Italian,2,1121.61,Cash,12,2025-08-17,418,False,3.0,Delayed,2243.22,5,2,3
+C2506,Male,Adult,Islamabad,2024-09-11,2025-02-10,McDonald's,Italian,1,929.38,Cash,6,2025-05-28,110,False,4.0,Delivered,929.38,3,1,2
+C3882,Male,Teenager,Islamabad,2024-06-25,2024-09-11,McDonald's,Dessert,2,1136.9,Cash,9,2024-11-08,132,True,3.0,Delivered,2273.8,1,1,3
+C6230,Other,Adult,Islamabad,2024-07-16,2024-09-11,KFC,Chinese,3,1007.43,Wallet,36,2025-04-17,45,False,3.0,Delivered,3022.29,3,4,4
+C2319,Other,Teenager,Islamabad,2024-04-20,2024-09-12,McDonald's,Dessert,4,174.91,Card,22,2024-12-22,303,False,5.0,Delayed,699.64,1,3,1
+C5099,Other,Senior,Islamabad,2024-09-12,2024-10-30,McDonald's,Fast Food,1,988.23,Card,27,2025-03-15,153,True,4.0,Delivered,988.23,2,3,2
+C2539,Other,Teenager,Islamabad,2024-09-12,2024-12-24,Subway,Italian,3,800.27,Wallet,36,2025-08-06,97,False,-1.0,Cancelled,2400.81,5,4,3
+C1234,Other,Teenager,Islamabad,2024-03-15,2024-09-13,Subway,Chinese,3,947.92,Wallet,17,2025-05-04,270,False,1.0,Delayed,2843.7599999999998,3,2,4
+C2546,Female,Senior,Islamabad,2024-07-05,2024-09-13,Burger King,Italian,1,1119.25,Cash,34,2025-01-13,439,True,4.0,Delayed,1119.25,1,4,2
+C5073,Female,Adult,Islamabad,2024-02-09,2024-09-14,Subway,Chinese,1,856.06,Cash,19,2024-09-30,182,False,-1.0,Cancelled,856.06,1,2,2
+C3652,Female,Adult,Islamabad,2024-09-14,2025-01-05,KFC,Italian,1,1438.9,Cash,1,2025-06-18,470,False,3.0,Delayed,1438.9,4,1,2
+C2549,Other,Senior,Islamabad,2024-09-15,2024-11-08,McDonald's,Chinese,4,468.47,Cash,50,2025-06-05,256,True,5.0,Delivered,1873.88,4,5,3
+C3803,Male,Adult,Islamabad,2024-09-15,2025-01-06,McDonald's,Italian,2,529.85,Cash,39,2025-06-27,109,False,4.0,Delivered,1059.7,4,4,2
+C5753,Female,Teenager,Islamabad,2024-09-15,2024-09-17,Subway,Chinese,4,461.63,Card,4,2025-05-05,371,True,3.0,Delivered,1846.52,3,1,3
+C2105,Other,Senior,Islamabad,2024-09-16,2024-12-19,KFC,Fast Food,5,217.26,Card,9,2025-06-19,490,False,5.0,Delivered,1086.3,4,1,2
+C2455,Male,Teenager,Islamabad,2024-03-03,2024-09-16,Pizza Hut,Continental,2,808.38,Card,36,2024-10-26,402,True,4.0,Delayed,1616.76,1,4,3
+C2875,Other,Adult,Islamabad,2024-09-16,2025-04-24,Pizza Hut,Chinese,3,508.78,Card,3,2025-08-21,394,False,2.0,Delayed,1526.34,5,1,3
+C5010,Male,Adult,Islamabad,2024-06-13,2024-09-17,McDonald's,Dessert,3,806.17,Wallet,20,2024-11-03,319,True,5.0,Delivered,2418.5099999999998,1,2,3
+C4675,Male,Senior,Islamabad,2023-12-08,2024-09-17,Burger King,Continental,1,342.81,Card,48,2025-08-19,156,False,-1.0,Cancelled,342.81,5,5,1
+C3284,Female,Adult,Islamabad,2024-09-17,2024-11-24,KFC,Fast Food,5,367.14,Wallet,17,2025-07-06,94,True,3.0,Delayed,1835.6999999999998,4,2,3
+C2658,Other,Adult,Islamabad,2024-09-17,2024-11-29,McDonald's,Italian,3,315.37,Wallet,30,2025-07-21,52,False,4.0,Delayed,946.11,5,3,2
+C6214,Male,Senior,Islamabad,2024-09-18,2024-10-07,Pizza Hut,Italian,2,1443.97,Card,37,2025-02-04,481,False,-1.0,Cancelled,2887.94,2,4,4
+C4468,Male,Senior,Islamabad,2023-11-13,2024-09-19,KFC,Italian,3,1489.33,Card,8,2025-07-11,137,False,5.0,Delivered,4467.99,4,1,5
+C4566,Male,Senior,Islamabad,2024-04-15,2024-09-20,Burger King,Dessert,4,940.37,Card,46,2025-05-27,265,True,3.0,Delayed,3761.48,3,5,4
+C5960,Other,Adult,Islamabad,2024-09-20,2025-06-11,KFC,Fast Food,1,148.3,Cash,14,2025-06-30,417,False,-1.0,Cancelled,148.3,4,2,1
+C3840,Male,Teenager,Islamabad,2023-08-26,2024-09-20,Subway,Italian,5,142.72,Card,17,2024-12-21,311,True,-1.0,Cancelled,713.6,1,2,1
+C5093,Male,Adult,Islamabad,2024-02-05,2024-09-20,Subway,Chinese,4,307.43,Card,43,2025-06-05,382,True,5.0,Delayed,1229.72,4,5,2
+C6671,Female,Senior,Islamabad,2023-10-17,2024-09-17,Burger King,Fast Food,4,512.29,Card,30,2024-09-21,394,True,1.0,Delivered,2049.16,1,3,3
+C2212,Other,Adult,Islamabad,2024-08-06,2024-09-22,KFC,Dessert,5,1428.23,Wallet,30,2025-01-30,144,False,-1.0,Cancelled,7141.15,2,3,5
+C1638,Other,Senior,Islamabad,2024-09-24,2024-10-26,Pizza Hut,Italian,5,160.82,Cash,11,2025-02-20,366,True,3.0,Delayed,804.0999999999999,2,1,1
+C4743,Male,Senior,Islamabad,2023-09-08,2024-09-24,McDonald's,Dessert,3,172.51,Card,5,2024-12-21,353,True,5.0,Delayed,517.53,1,1,1
+C4438,Male,Senior,Islamabad,2024-01-24,2024-09-24,Burger King,Dessert,3,1001.28,Wallet,26,2025-01-21,458,True,-1.0,Cancelled,3003.84,2,3,4
+C1708,Male,Senior,Islamabad,2024-03-05,2024-09-25,KFC,Fast Food,2,1025.95,Cash,15,2025-05-06,194,False,5.0,Delivered,2051.9,3,2,3
+C3341,Other,Teenager,Islamabad,2024-01-08,2024-09-25,KFC,Dessert,2,925.75,Cash,10,2025-05-03,286,False,2.0,Delivered,1851.5,3,1,3
+C3262,Male,Senior,Islamabad,2024-04-14,2024-09-26,Burger King,Dessert,5,1159.86,Card,7,2025-05-04,262,False,4.0,Delivered,5799.299999999999,3,1,5
+C4908,Male,Adult,Islamabad,2023-09-07,2024-09-27,Burger King,Fast Food,4,447.54,Wallet,28,2025-01-31,180,True,2.0,Delayed,1790.16,2,3,3
+C5280,Other,Teenager,Islamabad,2024-09-27,2025-05-23,McDonald's,Italian,1,1325.92,Card,27,2025-06-26,495,True,4.0,Delayed,1325.92,4,3,2
+C1402,Female,Teenager,Islamabad,2024-09-27,2024-11-19,KFC,Continental,5,178.73,Wallet,49,2025-05-05,424,True,5.0,Delayed,893.65,3,5,2
+C3665,Female,Adult,Islamabad,2024-09-30,2025-03-26,Pizza Hut,Fast Food,2,1118.14,Card,27,2025-07-01,389,False,3.0,Delayed,2236.28,4,3,3
+C5804,Male,Senior,Islamabad,2024-08-31,2024-10-01,Subway,Fast Food,2,1204.62,Card,32,2024-12-01,179,False,2.0,Delivered,2409.24,1,4,3
+C3302,Female,Senior,Islamabad,2024-10-02,2025-01-16,KFC,Dessert,5,1392.02,Card,3,2025-08-06,123,True,4.0,Delivered,6960.1,5,1,5
+C3326,Male,Adult,Islamabad,2024-10-03,2024-10-06,KFC,Continental,4,919.56,Wallet,33,2025-03-04,412,True,4.0,Delivered,3678.24,2,4,4
+C3447,Female,Teenager,Islamabad,2024-08-30,2024-10-03,Subway,Fast Food,3,949.1,Card,21,2025-06-12,477,False,-1.0,Cancelled,2847.3,4,3,4
+C6510,Female,Teenager,Islamabad,2024-08-24,2024-10-03,Burger King,Dessert,2,518.23,Card,22,2025-01-11,159,True,4.0,Delivered,1036.46,1,3,2
+C4806,Female,Senior,Islamabad,2024-10-04,2025-02-14,KFC,Fast Food,4,483.03,Cash,14,2025-04-24,167,False,1.0,Delivered,1932.12,3,2,3
+C1778,Male,Adult,Islamabad,2024-07-14,2024-10-05,Pizza Hut,Chinese,3,877.35,Card,50,2024-10-05,256,True,2.0,Delivered,2632.05,1,5,4
+C3116,Male,Teenager,Islamabad,2024-10-06,2025-02-12,Pizza Hut,Dessert,1,1362.74,Wallet,4,2025-08-07,447,True,4.0,Delayed,1362.74,5,1,2
+C2110,Female,Teenager,Islamabad,2024-03-04,2024-10-07,Subway,Fast Food,5,1056.48,Cash,19,2025-03-05,473,True,4.0,Delivered,5282.4,2,2,5
+C4078,Female,Teenager,Islamabad,2023-12-24,2024-10-07,Burger King,Dessert,3,1450.44,Wallet,29,2025-02-03,281,True,-1.0,Cancelled,4351.32,2,3,5
+C4761,Male,Senior,Islamabad,2024-08-13,2024-10-07,Subway,Dessert,4,306.92,Card,16,2024-11-21,12,True,-1.0,Cancelled,1227.68,1,2,2
+C3639,Female,Adult,Islamabad,2024-06-25,2024-10-07,KFC,Fast Food,1,259.31,Card,50,2024-11-23,490,True,1.0,Delivered,259.31,1,5,1
+C4204,Male,Senior,Islamabad,2024-01-11,2024-10-07,Pizza Hut,Fast Food,5,794.01,Cash,24,2025-04-02,329,True,1.0,Delivered,3970.05,3,3,5
+C5856,Female,Adult,Islamabad,2024-08-18,2024-10-08,McDonald's,Fast Food,5,1247.36,Cash,16,2025-03-08,283,False,-1.0,Cancelled,6236.799999999999,2,2,5
+C3664,Other,Teenager,Islamabad,2024-08-31,2024-10-08,Subway,Chinese,1,1078.2,Wallet,29,2024-11-20,176,True,5.0,Delayed,1078.2,1,3,2
+C1309,Male,Senior,Islamabad,2024-02-29,2024-10-08,KFC,Dessert,4,460.45,Cash,47,2024-11-28,94,False,-1.0,Cancelled,1841.8,1,5,3
+C4639,Male,Adult,Islamabad,2024-10-08,2025-01-28,Subway,Chinese,1,770.73,Cash,10,2025-03-13,308,True,1.0,Delayed,770.73,2,1,1
+C5108,Other,Teenager,Islamabad,2024-10-08,2025-07-14,McDonald's,Italian,4,262.47,Wallet,26,2025-07-27,103,True,5.0,Delivered,1049.88,5,3,2
+C6740,Other,Senior,Islamabad,2024-01-03,2024-10-09,KFC,Fast Food,1,1033.2,Wallet,5,2025-02-05,182,False,-1.0,Cancelled,1033.2,2,1,2
+C1639,Female,Senior,Islamabad,2024-10-09,2024-10-28,Burger King,Chinese,4,1358.88,Wallet,47,2025-02-01,470,True,2.0,Delivered,5435.52,2,5,5
+C3027,Male,Adult,Islamabad,2024-04-16,2024-10-09,Burger King,Chinese,5,261.92,Wallet,37,2025-04-29,207,False,-1.0,Cancelled,1309.6000000000001,3,4,2
+C6653,Male,Teenager,Islamabad,2024-06-04,2024-10-09,McDonald's,Italian,1,663.89,Wallet,30,2025-01-29,335,False,4.0,Delivered,663.89,2,3,1
+C6841,Female,Teenager,Islamabad,2024-03-31,2024-10-09,McDonald's,Italian,2,1185.66,Card,48,2025-04-25,324,True,1.0,Delayed,2371.32,3,5,3
+C2919,Male,Adult,Islamabad,2024-10-10,2025-05-16,Pizza Hut,Chinese,3,775.82,Cash,40,2025-07-14,281,True,3.0,Delayed,2327.46,5,4,3
+C6932,Female,Senior,Islamabad,2024-10-10,2024-12-23,McDonald's,Italian,4,1490.59,Cash,38,2025-01-13,365,True,-1.0,Cancelled,5962.36,1,4,5
+C2064,Female,Teenager,Islamabad,2023-09-24,2024-09-12,McDonald's,Continental,3,213.57,Card,23,2024-10-11,472,True,2.0,Delivered,640.71,1,3,1
+C2447,Male,Teenager,Islamabad,2024-03-12,2024-10-11,Burger King,Fast Food,1,928.58,Card,7,2025-03-26,45,False,3.0,Delivered,928.58,2,1,2
+C3034,Female,Senior,Islamabad,2024-10-12,2025-02-08,Subway,Fast Food,5,1176.79,Card,30,2025-05-07,4,True,-1.0,Cancelled,5883.95,3,3,5
+C3066,Other,Adult,Islamabad,2024-10-13,2024-11-04,Pizza Hut,Fast Food,1,361.75,Card,31,2025-02-23,417,True,-1.0,Cancelled,361.75,2,4,1
+C1896,Other,Teenager,Islamabad,2024-07-11,2024-10-17,Subway,Continental,2,412.95,Card,23,2024-11-15,429,True,3.0,Delayed,825.9,1,3,1
+C1066,Other,Teenager,Islamabad,2024-07-30,2024-10-17,KFC,Fast Food,2,658.73,Cash,30,2024-12-25,275,True,-1.0,Cancelled,1317.46,1,3,2
+C2169,Female,Senior,Islamabad,2024-02-03,2024-10-18,Burger King,Chinese,2,528.16,Wallet,49,2025-04-21,364,False,-1.0,Cancelled,1056.32,3,5,2
+C4747,Male,Teenager,Islamabad,2023-11-16,2024-10-18,McDonald's,Fast Food,2,1356.98,Cash,42,2024-11-03,380,True,4.0,Delivered,2713.96,1,5,4
+C6201,Other,Teenager,Islamabad,2024-04-03,2024-10-19,KFC,Continental,4,1062.13,Cash,1,2025-08-03,230,True,2.0,Delivered,4248.52,5,1,5
+C6950,Female,Senior,Islamabad,2024-07-24,2024-10-19,KFC,Continental,2,500.86,Cash,34,2025-04-07,453,True,2.0,Delivered,1001.72,3,4,2
+C1299,Male,Adult,Islamabad,2024-10-20,2025-02-17,McDonald's,Continental,5,429.58,Card,13,2025-03-16,86,False,-1.0,Cancelled,2147.9,2,2,3
+C6681,Male,Teenager,Islamabad,2023-09-08,2024-08-26,Burger King,Continental,5,827.98,Card,40,2024-10-20,433,True,-1.0,Cancelled,4139.9,1,4,5
+C1949,Male,Senior,Islamabad,2024-10-20,2025-02-22,Pizza Hut,Chinese,3,1346.8,Cash,28,2025-06-13,297,True,5.0,Delayed,4040.3999999999996,4,3,5
+C5780,Female,Teenager,Islamabad,2024-10-18,2024-10-22,KFC,Fast Food,5,1285.81,Cash,25,2025-04-26,382,False,3.0,Delayed,6429.049999999999,3,3,5
+C6598,Other,Adult,Islamabad,2024-09-01,2024-10-23,KFC,Fast Food,4,665.37,Card,9,2025-05-17,63,False,3.0,Delayed,2661.48,3,1,4
+C1899,Female,Senior,Islamabad,2024-10-19,2024-10-24,Burger King,Fast Food,2,849.27,Cash,26,2025-07-15,177,True,-1.0,Cancelled,1698.54,5,3,3
+C1457,Male,Teenager,Islamabad,2024-09-16,2024-10-26,Burger King,Continental,5,1442.01,Card,28,2025-02-15,173,False,-1.0,Cancelled,7210.05,2,3,5
+C5595,Other,Adult,Islamabad,2024-10-27,2024-11-09,Burger King,Dessert,1,553.66,Card,8,2025-02-25,440,False,-1.0,Cancelled,553.66,2,1,1
+C3106,Female,Adult,Islamabad,2024-04-19,2024-10-14,McDonald's,Dessert,2,1248.85,Cash,2,2024-10-28,368,True,-1.0,Cancelled,2497.7,1,1,4
+C2092,Female,Senior,Islamabad,2024-10-28,2025-03-20,Pizza Hut,Dessert,5,178.65,Cash,14,2025-04-24,71,False,2.0,Delayed,893.25,3,2,2
+C1613,Female,Adult,Islamabad,2024-02-21,2024-10-29,Pizza Hut,Continental,2,331.23,Wallet,48,2025-04-14,204,False,-1.0,Cancelled,662.46,3,5,1
+C5425,Other,Teenager,Islamabad,2024-10-30,2024-12-20,Subway,Chinese,2,1063.36,Cash,19,2025-03-03,411,False,-1.0,Cancelled,2126.72,2,2,3
+C6980,Female,Teenager,Islamabad,2024-03-11,2024-08-23,KFC,Fast Food,4,965.71,Card,25,2024-10-30,127,True,-1.0,Cancelled,3862.84,1,3,4
+C5222,Other,Adult,Islamabad,2024-09-22,2024-10-31,Pizza Hut,Fast Food,4,287.89,Cash,29,2025-05-15,6,False,4.0,Delivered,1151.56,3,3,2
+C2903,Other,Adult,Islamabad,2023-10-10,2024-11-01,McDonald's,Dessert,4,660.25,Wallet,15,2024-11-11,3,True,5.0,Delivered,2641.0,1,2,4
+C4104,Other,Adult,Islamabad,2024-07-15,2024-11-01,Burger King,Chinese,5,1010.35,Card,25,2025-03-19,175,False,1.0,Delayed,5051.75,2,3,5
+C4589,Other,Teenager,Islamabad,2024-01-08,2024-11-02,Burger King,Fast Food,4,401.6,Card,40,2025-02-03,220,False,-1.0,Cancelled,1606.4,2,4,3
+C2509,Male,Teenager,Islamabad,2024-11-02,2025-06-23,McDonald's,Italian,5,555.5,Card,5,2025-07-07,231,True,3.0,Delayed,2777.5,4,1,4
+C3658,Female,Adult,Islamabad,2024-11-03,2025-07-04,McDonald's,Dessert,5,1119.46,Card,49,2025-07-15,404,True,-1.0,Cancelled,5597.3,5,5,5
+C3166,Male,Teenager,Islamabad,2024-02-23,2024-11-03,Burger King,Italian,2,360.93,Wallet,11,2025-02-03,410,True,-1.0,Cancelled,721.86,2,1,1
+C5551,Female,Senior,Islamabad,2024-03-31,2024-10-30,Burger King,Continental,2,651.59,Wallet,49,2024-11-04,337,True,1.0,Delivered,1303.18,1,5,2
+C3817,Male,Adult,Islamabad,2024-08-12,2024-11-04,Subway,Fast Food,5,650.3,Cash,12,2024-12-14,440,True,3.0,Delivered,3251.5,1,2,4
+C1200,Female,Adult,Islamabad,2024-07-08,2024-08-27,Subway,Italian,2,1393.02,Card,6,2024-11-05,31,True,4.0,Delivered,2786.04,1,1,4
+C1500,Female,Senior,Islamabad,2024-11-06,2025-02-11,KFC,Italian,2,1391.72,Cash,18,2025-03-03,299,True,-1.0,Cancelled,2783.44,2,2,4
+C6586,Female,Senior,Islamabad,2023-10-04,2024-11-07,Burger King,Italian,4,1466.81,Cash,7,2025-06-21,11,True,1.0,Delayed,5867.24,4,1,5
+C2321,Male,Adult,Islamabad,2024-11-07,2024-12-01,Subway,Chinese,3,926.68,Wallet,43,2025-07-02,201,True,-1.0,Cancelled,2780.04,4,5,4
+C3223,Female,Adult,Islamabad,2024-04-19,2024-11-08,Pizza Hut,Italian,4,1409.75,Cash,9,2024-11-29,136,True,4.0,Delivered,5639.0,1,1,5
+C5799,Other,Adult,Islamabad,2024-11-08,2025-02-13,Pizza Hut,Dessert,3,1343.28,Cash,48,2025-05-26,157,True,5.0,Delivered,4029.84,3,5,5
+C1859,Male,Senior,Islamabad,2023-10-17,2024-09-16,Burger King,Dessert,2,1458.01,Cash,40,2024-11-08,375,True,5.0,Delayed,2916.02,1,4,4
+C6542,Other,Senior,Islamabad,2023-10-14,2024-08-30,Burger King,Chinese,3,995.93,Wallet,17,2024-11-08,244,True,-1.0,Cancelled,2987.79,1,2,4
+C6095,Other,Teenager,Islamabad,2024-11-10,2025-02-25,McDonald's,Continental,3,487.15,Wallet,35,2025-04-19,286,False,-1.0,Cancelled,1461.4499999999998,3,4,3
+C3158,Male,Adult,Islamabad,2024-10-07,2024-11-11,McDonald's,Dessert,2,449.86,Wallet,28,2025-04-22,269,True,4.0,Delayed,899.72,3,3,2
+C2059,Male,Adult,Islamabad,2024-02-20,2024-11-12,Subway,Fast Food,2,1163.14,Wallet,41,2025-04-03,366,False,4.0,Delayed,2326.28,3,5,3
+C2579,Female,Senior,Islamabad,2024-11-13,2024-12-18,KFC,Italian,1,333.02,Cash,28,2025-07-01,310,False,-1.0,Cancelled,333.02,4,3,1
+C4805,Male,Adult,Islamabad,2023-10-21,2024-11-13,Subway,Fast Food,4,1273.26,Cash,50,2024-11-17,278,False,5.0,Delayed,5093.04,1,5,5
+C1290,Male,Teenager,Islamabad,2024-11-14,2024-11-25,McDonald's,Fast Food,5,1183.7,Card,2,2025-06-27,97,True,2.0,Delivered,5918.5,4,1,5
+C6745,Female,Teenager,Islamabad,2024-11-14,2025-04-04,KFC,Italian,3,1121.35,Cash,5,2025-06-08,133,True,-1.0,Cancelled,3364.0499999999997,4,1,4
+C3222,Female,Teenager,Islamabad,2024-04-30,2024-11-14,Pizza Hut,Chinese,2,591.55,Card,11,2025-03-06,355,True,2.0,Delayed,1183.1,2,1,2
+C6977,Male,Adult,Islamabad,2024-11-15,2025-02-18,Pizza Hut,Chinese,4,1241.42,Wallet,45,2025-05-14,28,False,-1.0,Cancelled,4965.68,3,5,5
+C4490,Male,Adult,Islamabad,2024-07-31,2024-11-15,McDonald's,Continental,2,549.02,Wallet,37,2025-05-15,453,True,-1.0,Cancelled,1098.04,3,4,2
+C6204,Male,Adult,Islamabad,2024-11-15,2024-11-18,Subway,Dessert,2,277.03,Cash,14,2025-01-31,443,True,1.0,Delayed,554.06,2,2,1
+C5573,Male,Teenager,Islamabad,2024-09-19,2024-11-16,KFC,Chinese,4,203.09,Wallet,44,2025-03-04,104,False,4.0,Delayed,812.36,2,5,1
+C2160,Other,Adult,Islamabad,2024-10-07,2024-11-16,Subway,Chinese,1,1296.47,Cash,37,2025-08-05,381,True,1.0,Delivered,1296.47,5,4,2
+C6379,Other,Adult,Islamabad,2024-11-16,2024-12-05,Subway,Dessert,4,299.61,Cash,48,2025-05-10,436,True,2.0,Delivered,1198.44,3,5,2
+C1636,Male,Teenager,Islamabad,2023-11-18,2024-11-17,KFC,Chinese,4,1279.27,Cash,36,2024-12-18,415,True,1.0,Delayed,5117.08,1,4,5
+C4484,Male,Teenager,Islamabad,2024-01-19,2024-11-17,McDonald's,Dessert,3,205.69,Wallet,47,2024-12-04,234,True,1.0,Delayed,617.0699999999999,1,5,1
+C4956,Male,Adult,Islamabad,2024-11-18,2025-02-07,Subway,Fast Food,2,1432.71,Wallet,23,2025-06-23,137,False,4.0,Delayed,2865.42,4,3,4
+C4847,Male,Teenager,Islamabad,2024-05-12,2024-11-18,Subway,Dessert,5,169.76,Card,26,2025-06-24,115,True,-1.0,Cancelled,848.8,4,3,2
+C5299,Other,Teenager,Islamabad,2024-01-12,2024-11-19,Pizza Hut,Chinese,1,684.82,Cash,7,2025-06-19,439,True,4.0,Delivered,684.82,4,1,1
+C4531,Other,Senior,Islamabad,2024-09-13,2024-11-19,McDonald's,Italian,4,723.37,Card,42,2024-12-11,283,False,-1.0,Cancelled,2893.48,1,5,4
+C5384,Male,Adult,Islamabad,2023-12-28,2024-10-19,Pizza Hut,Chinese,3,896.38,Cash,28,2024-11-19,392,True,1.0,Delayed,2689.14,1,3,4
+C5474,Male,Senior,Islamabad,2024-07-18,2024-11-20,McDonald's,Chinese,2,1194.42,Cash,12,2025-06-19,387,False,3.0,Delivered,2388.84,4,2,3
+C5482,Other,Adult,Islamabad,2024-11-20,2025-04-06,Burger King,Dessert,4,1264.74,Wallet,6,2025-05-21,341,True,4.0,Delivered,5058.96,3,1,5
+C4686,Female,Teenager,Islamabad,2024-10-16,2024-11-21,Pizza Hut,Fast Food,4,293.94,Card,50,2025-06-27,368,False,1.0,Delayed,1175.76,4,5,2
+C4727,Male,Senior,Islamabad,2024-09-06,2024-11-22,Pizza Hut,Italian,5,1033.02,Wallet,39,2025-08-17,194,False,1.0,Delayed,5165.1,5,4,5
+C2615,Other,Senior,Islamabad,2024-08-14,2024-11-22,McDonald's,Fast Food,1,1339.7,Card,2,2025-01-08,254,False,-1.0,Cancelled,1339.7,1,1,2
+C2430,Male,Teenager,Islamabad,2024-09-22,2024-11-23,McDonald's,Dessert,3,244.57,Cash,14,2025-04-18,463,False,1.0,Delayed,733.71,3,2,1
+C1915,Female,Senior,Islamabad,2024-11-23,2024-11-30,Pizza Hut,Italian,2,1258.48,Card,5,2025-05-15,3,True,2.0,Delivered,2516.96,3,1,4
+C6059,Male,Adult,Islamabad,2024-05-29,2024-11-25,KFC,Chinese,2,1412.68,Wallet,48,2025-07-24,220,False,5.0,Delayed,2825.36,5,5,4
+C4759,Female,Teenager,Islamabad,2023-11-08,2024-09-11,KFC,Dessert,4,1010.52,Wallet,10,2024-11-25,135,False,-1.0,Cancelled,4042.08,1,1,5
+C5687,Other,Teenager,Islamabad,2023-12-06,2024-11-27,Burger King,Fast Food,5,942.59,Card,42,2025-03-01,457,True,3.0,Delayed,4712.95,2,5,5
+C2265,Male,Adult,Islamabad,2024-03-19,2024-11-27,Burger King,Dessert,4,186.49,Wallet,24,2024-12-15,293,True,2.0,Delayed,745.96,1,3,1
+C1253,Female,Teenager,Islamabad,2023-08-23,2024-11-28,Burger King,Continental,1,230.9,Cash,26,2025-06-21,456,True,2.0,Delivered,230.9,4,3,1
+C6845,Male,Adult,Islamabad,2024-08-29,2024-11-29,Pizza Hut,Chinese,3,200.9,Cash,22,2025-07-07,116,False,3.0,Delivered,602.7,4,3,1
+C1330,Female,Senior,Islamabad,2024-11-08,2024-11-30,Burger King,Continental,5,116.33,Wallet,25,2025-08-06,383,True,-1.0,Cancelled,581.65,5,3,1
+C6311,Female,Adult,Islamabad,2024-08-29,2024-11-30,McDonald's,Italian,5,1438.65,Card,29,2025-05-04,255,False,4.0,Delivered,7193.25,3,3,5
+C3750,Female,Teenager,Islamabad,2024-11-30,2025-05-08,Subway,Chinese,2,417.65,Wallet,43,2025-07-09,286,True,-1.0,Cancelled,835.3,4,5,1
+C2079,Female,Teenager,Islamabad,2024-02-14,2024-11-30,KFC,Dessert,2,428.87,Card,31,2025-06-24,58,True,-1.0,Cancelled,857.74,4,4,2
+C3582,Other,Senior,Islamabad,2024-11-14,2024-11-30,McDonald's,Fast Food,5,105.49,Wallet,25,2025-08-01,162,False,1.0,Delivered,527.4499999999999,5,3,1
+C4031,Other,Senior,Islamabad,2024-04-19,2024-10-10,KFC,Dessert,2,925.66,Cash,12,2024-12-01,139,True,3.0,Delayed,1851.32,1,2,3
+C6903,Male,Adult,Islamabad,2024-07-12,2024-12-02,Burger King,Italian,3,1292.29,Cash,42,2025-05-30,226,True,5.0,Delivered,3876.87,4,5,4
+C2386,Female,Adult,Islamabad,2024-12-02,2025-06-07,Burger King,Chinese,4,1472.53,Card,1,2025-08-02,266,False,3.0,Delayed,5890.12,5,1,5
+C6248,Male,Teenager,Islamabad,2024-12-04,2024-12-04,Subway,Italian,4,667.42,Cash,36,2025-06-29,351,False,1.0,Delivered,2669.68,4,4,4
+C1647,Other,Adult,Islamabad,2023-10-08,2024-12-04,Subway,Fast Food,2,1073.14,Cash,21,2025-03-14,497,False,3.0,Delayed,2146.28,2,3,3
+C4235,Other,Adult,Islamabad,2024-10-03,2024-12-06,Pizza Hut,Chinese,1,1228.93,Wallet,47,2025-05-25,285,False,-1.0,Cancelled,1228.93,3,5,2
+C2634,Other,Teenager,Islamabad,2024-04-29,2024-09-30,KFC,Italian,3,1351.9,Cash,47,2024-12-06,320,False,4.0,Delivered,4055.7000000000003,1,5,5
+C6134,Female,Senior,Islamabad,2024-09-28,2024-12-07,McDonald's,Chinese,2,288.54,Card,17,2025-03-15,183,True,-1.0,Cancelled,577.08,2,2,1
+C6276,Male,Senior,Islamabad,2024-12-07,2025-02-19,McDonald's,Fast Food,5,754.32,Card,25,2025-03-19,273,False,-1.0,Cancelled,3771.6000000000004,2,3,4
+C5460,Male,Senior,Islamabad,2023-09-20,2024-12-09,KFC,Continental,2,399.48,Cash,34,2024-12-09,8,False,1.0,Delivered,798.96,1,4,1
+C6097,Male,Teenager,Islamabad,2024-02-05,2024-12-09,Pizza Hut,Continental,4,771.85,Card,47,2025-07-28,4,False,-1.0,Cancelled,3087.4,5,5,4
+C1621,Female,Adult,Islamabad,2024-02-26,2024-10-13,Subway,Italian,5,584.62,Card,49,2024-12-09,95,False,2.0,Delayed,2923.1,1,5,4
+C6775,Male,Teenager,Islamabad,2024-12-10,2025-03-14,KFC,Italian,2,609.76,Card,39,2025-05-21,34,True,-1.0,Cancelled,1219.52,3,4,2
+C5936,Other,Teenager,Islamabad,2024-09-22,2024-12-10,Burger King,Italian,5,305.79,Card,6,2025-03-05,414,False,4.0,Delivered,1528.95,2,1,3
+C6469,Female,Senior,Islamabad,2023-11-20,2024-12-11,Subway,Chinese,1,628.78,Cash,3,2025-05-04,404,True,4.0,Delayed,628.78,3,1,1
+C3051,Other,Senior,Islamabad,2024-08-15,2024-08-22,McDonald's,Chinese,3,177.31,Wallet,26,2024-12-12,120,True,4.0,Delivered,531.9300000000001,1,3,1
+C5711,Male,Adult,Islamabad,2024-12-12,2025-02-05,Burger King,Chinese,5,1402.21,Card,46,2025-02-19,172,False,-1.0,Cancelled,7011.05,2,5,5
+C3357,Female,Adult,Islamabad,2024-02-18,2024-12-13,Burger King,Fast Food,1,411.33,Cash,40,2025-02-27,397,True,-1.0,Cancelled,411.33,2,4,1
+C2693,Other,Teenager,Islamabad,2024-03-09,2024-12-14,Burger King,Chinese,5,613.37,Wallet,22,2025-05-17,234,False,-1.0,Cancelled,3066.85,3,3,4
+C6617,Female,Adult,Islamabad,2024-12-12,2024-12-14,McDonald's,Italian,4,1251.02,Card,28,2025-07-21,227,False,-1.0,Cancelled,5004.08,5,3,5
+C2997,Female,Teenager,Islamabad,2024-01-21,2024-12-14,KFC,Italian,1,1427.28,Card,50,2025-06-29,112,False,1.0,Delivered,1427.28,4,5,2
+C2808,Other,Adult,Islamabad,2024-03-03,2024-12-15,Subway,Chinese,2,480.81,Wallet,3,2025-05-13,43,False,-1.0,Cancelled,961.62,3,1,2
+C6052,Male,Teenager,Islamabad,2024-01-25,2024-11-07,Pizza Hut,Chinese,2,154.04,Card,49,2024-12-17,58,False,4.0,Delayed,308.08,1,5,1
+C6471,Other,Senior,Islamabad,2023-10-09,2024-12-18,KFC,Fast Food,1,1323.48,Card,41,2025-04-08,65,False,-1.0,Cancelled,1323.48,3,5,2
+C4120,Female,Senior,Islamabad,2024-01-02,2024-12-19,Pizza Hut,Fast Food,4,1368.99,Wallet,24,2025-08-19,182,True,2.0,Delivered,5475.96,5,3,5
+C2900,Female,Adult,Islamabad,2024-04-10,2024-12-19,KFC,Italian,2,993.55,Wallet,24,2025-06-18,302,True,-1.0,Cancelled,1987.1,4,3,3
+C1271,Other,Teenager,Islamabad,2023-11-07,2024-12-21,KFC,Continental,5,385.95,Cash,50,2025-07-07,214,False,5.0,Delivered,1929.75,4,5,3
+C6979,Male,Adult,Islamabad,2023-11-18,2024-12-22,KFC,Dessert,3,868.86,Card,9,2025-04-01,55,True,3.0,Delivered,2606.58,2,1,4
+C5182,Female,Teenager,Islamabad,2023-10-12,2024-12-23,KFC,Dessert,3,590.85,Wallet,9,2024-12-23,97,True,-1.0,Cancelled,1772.5500000000002,1,1,3
+C3532,Other,Teenager,Islamabad,2024-01-06,2024-09-12,Subway,Continental,2,579.05,Card,37,2024-12-24,12,False,1.0,Delayed,1158.1,1,4,2
+C4148,Other,Senior,Islamabad,2024-12-24,2025-03-25,Burger King,Fast Food,1,1153.41,Cash,34,2025-05-04,276,False,-1.0,Cancelled,1153.41,3,4,2
+C1174,Female,Senior,Islamabad,2023-10-21,2024-12-24,KFC,Italian,5,1398.47,Card,28,2025-08-21,37,False,4.0,Delayed,6992.35,5,3,5
+C6432,Male,Adult,Islamabad,2024-12-24,2025-02-24,KFC,Dessert,3,1472.87,Cash,10,2025-05-15,400,False,4.0,Delayed,4418.61,3,1,5
+C3662,Female,Adult,Islamabad,2024-11-03,2024-12-24,Burger King,Dessert,5,118.28,Card,11,2025-05-13,33,False,4.0,Delayed,591.4,3,1,1
+C5651,Female,Teenager,Islamabad,2024-12-14,2024-12-25,Subway,Dessert,4,824.77,Cash,13,2025-01-21,488,True,-1.0,Cancelled,3299.08,2,2,4
+C4823,Female,Adult,Islamabad,2024-12-25,2025-01-01,Pizza Hut,Dessert,2,1249.82,Cash,17,2025-04-28,105,True,1.0,Delayed,2499.64,3,2,4
+C5369,Other,Teenager,Islamabad,2024-09-30,2024-12-27,Subway,Italian,2,1427.73,Cash,27,2025-03-21,56,False,-1.0,Cancelled,2855.46,2,3,4
+C5570,Female,Senior,Islamabad,2023-12-27,2024-12-27,Subway,Continental,2,497.91,Wallet,31,2025-03-29,228,False,-1.0,Cancelled,995.82,2,4,2
+C5800,Female,Teenager,Islamabad,2024-05-12,2024-12-01,McDonald's,Dessert,3,265.94,Cash,4,2024-12-27,348,False,4.0,Delivered,797.8199999999999,1,1,1
+C6426,Female,Teenager,Islamabad,2024-12-27,2025-02-05,KFC,Dessert,4,1366.76,Cash,3,2025-05-30,11,False,1.0,Delivered,5467.04,4,1,5
+C5639,Male,Adult,Islamabad,2024-12-18,2024-12-28,McDonald's,Italian,4,1372.54,Card,15,2025-03-01,337,True,-1.0,Cancelled,5490.16,2,2,5
+C4932,Male,Senior,Islamabad,2024-12-29,2025-04-08,McDonald's,Chinese,1,634.2,Wallet,10,2025-05-02,482,True,4.0,Delayed,634.2,3,1,1
+C6129,Male,Senior,Islamabad,2023-09-09,2024-12-29,KFC,Italian,3,318.08,Wallet,35,2025-08-04,447,False,5.0,Delayed,954.24,5,4,2
+C4558,Other,Adult,Islamabad,2023-09-08,2024-11-26,KFC,Italian,2,1288.61,Cash,6,2024-12-30,290,True,-1.0,Cancelled,2577.22,1,1,4
+C5542,Female,Teenager,Islamabad,2024-05-08,2024-10-23,KFC,Fast Food,5,1116.82,Cash,43,2024-12-31,332,False,3.0,Delayed,5584.099999999999,1,5,5
+C1828,Female,Senior,Islamabad,2024-12-06,2025-01-01,Subway,Dessert,4,590.16,Wallet,38,2025-06-07,307,True,1.0,Delayed,2360.64,4,4,3
+C4320,Other,Teenager,Islamabad,2024-12-24,2025-01-02,KFC,Fast Food,4,1151.45,Card,46,2025-07-03,283,False,1.0,Delivered,4605.8,4,5,5
+C6832,Male,Teenager,Islamabad,2024-10-14,2025-01-03,KFC,Dessert,1,1196.3,Card,7,2025-06-19,0,False,-1.0,Cancelled,1196.3,4,1,2
+C5327,Female,Senior,Islamabad,2024-12-23,2025-01-03,McDonald's,Dessert,1,1032.9,Card,38,2025-03-26,441,False,5.0,Delivered,1032.9,2,4,2
+C4455,Male,Adult,Islamabad,2025-01-03,2025-05-25,Burger King,Dessert,2,276.1,Cash,5,2025-08-10,436,False,-1.0,Cancelled,552.2,5,1,1
+C4688,Male,Teenager,Islamabad,2024-11-02,2024-12-02,KFC,Dessert,3,475.74,Cash,47,2025-01-04,474,False,-1.0,Cancelled,1427.22,1,5,2
+C4192,Other,Teenager,Islamabad,2024-09-18,2025-01-06,Pizza Hut,Continental,1,647.24,Wallet,18,2025-07-19,329,False,5.0,Delivered,647.24,5,2,1
+C1716,Other,Teenager,Islamabad,2023-09-26,2025-01-06,McDonald's,Italian,1,235.98,Cash,29,2025-03-04,339,False,2.0,Delivered,235.98,2,3,1
+C6814,Male,Senior,Islamabad,2024-02-17,2024-11-29,Pizza Hut,Continental,5,976.69,Card,18,2025-01-06,200,True,1.0,Delayed,4883.450000000001,1,2,5
+C2074,Female,Teenager,Islamabad,2024-08-25,2024-09-05,Subway,Chinese,4,592.11,Cash,37,2025-01-07,191,False,-1.0,Cancelled,2368.44,1,4,3
+C1021,Female,Teenager,Islamabad,2024-10-16,2025-01-07,McDonald's,Chinese,1,1273.28,Cash,14,2025-05-22,206,True,-1.0,Cancelled,1273.28,3,2,2
+C3143,Other,Senior,Islamabad,2025-01-07,2025-02-01,Burger King,Dessert,2,1000.42,Wallet,48,2025-05-27,433,False,1.0,Delivered,2000.84,3,5,3
+C4107,Male,Senior,Islamabad,2024-05-13,2025-01-09,Burger King,Continental,1,275.07,Wallet,26,2025-06-20,220,False,4.0,Delivered,275.07,4,3,1
+C2578,Other,Adult,Islamabad,2024-12-26,2025-01-09,McDonald's,Dessert,2,1187.25,Cash,3,2025-03-10,299,False,4.0,Delayed,2374.5,2,1,3
+C6148,Other,Teenager,Islamabad,2024-06-12,2024-09-27,Burger King,Continental,3,716.12,Cash,16,2025-01-10,433,True,-1.0,Cancelled,2148.36,1,2,3
+C2360,Female,Adult,Islamabad,2023-10-30,2025-01-11,Burger King,Chinese,5,1453.59,Cash,45,2025-01-28,42,True,2.0,Delayed,7267.95,2,5,5
+C2055,Female,Senior,Islamabad,2025-01-11,2025-01-24,Pizza Hut,Italian,2,569.77,Wallet,15,2025-07-23,24,True,-1.0,Cancelled,1139.54,5,2,2
+C4039,Other,Teenager,Islamabad,2024-11-02,2025-01-12,KFC,Chinese,5,1370.13,Card,50,2025-01-31,380,False,1.0,Delayed,6850.650000000001,2,5,5
+C4425,Other,Senior,Islamabad,2025-01-08,2025-01-12,KFC,Continental,4,1241.18,Card,30,2025-02-22,387,True,2.0,Delayed,4964.72,2,3,5
+C1194,Other,Adult,Islamabad,2023-11-24,2025-01-12,Burger King,Italian,2,630.74,Wallet,8,2025-03-02,473,False,4.0,Delivered,1261.48,2,1,2
+C5684,Other,Adult,Islamabad,2025-01-12,2025-04-22,McDonald's,Chinese,5,337.03,Cash,22,2025-05-25,432,True,2.0,Delivered,1685.1499999999999,3,3,3
+C2816,Female,Adult,Islamabad,2024-11-13,2025-01-13,McDonald's,Continental,4,1495.7,Card,45,2025-07-28,306,True,2.0,Delayed,5982.8,5,5,5
+C5056,Other,Senior,Islamabad,2024-07-21,2025-01-13,Subway,Chinese,5,166.28,Card,7,2025-02-24,142,False,5.0,Delayed,831.4,2,1,1
+C1067,Female,Adult,Islamabad,2023-09-11,2024-11-28,KFC,Fast Food,3,135.52,Cash,12,2025-01-14,115,True,3.0,Delivered,406.56000000000006,1,2,1
+C1464,Other,Teenager,Islamabad,2024-11-29,2025-01-14,KFC,Fast Food,2,1040.25,Wallet,28,2025-05-16,410,False,-1.0,Cancelled,2080.5,3,3,3
+C5459,Female,Adult,Islamabad,2024-09-08,2025-01-15,Subway,Chinese,4,1225.25,Wallet,35,2025-03-13,361,True,2.0,Delayed,4901.0,2,4,5
+C2538,Female,Teenager,Islamabad,2024-02-01,2025-01-15,Subway,Italian,3,975.93,Wallet,28,2025-04-18,341,True,-1.0,Cancelled,2927.79,3,3,4
+C1451,Other,Senior,Islamabad,2024-09-09,2024-10-25,KFC,Chinese,3,439.69,Cash,6,2025-01-15,82,True,4.0,Delivered,1319.07,1,1,2
+C3150,Other,Adult,Islamabad,2024-08-27,2025-01-15,Subway,Continental,3,732.13,Card,33,2025-02-28,16,True,-1.0,Cancelled,2196.39,2,4,3
+C6460,Other,Adult,Islamabad,2025-01-16,2025-06-16,Burger King,Italian,5,157.03,Card,37,2025-08-18,1,True,-1.0,Cancelled,785.15,5,4,1
+C6805,Other,Teenager,Islamabad,2024-12-04,2025-01-17,McDonald's,Italian,4,1452.56,Cash,23,2025-04-21,312,True,5.0,Delayed,5810.24,3,3,5
+C3742,Other,Adult,Islamabad,2024-08-29,2025-01-17,Subway,Italian,2,261.05,Wallet,4,2025-06-30,435,True,-1.0,Cancelled,522.1,4,1,1
+C6781,Other,Teenager,Islamabad,2023-09-23,2025-01-07,McDonald's,Fast Food,4,852.64,Card,9,2025-01-17,7,True,-1.0,Cancelled,3410.56,2,1,4
+C5582,Female,Teenager,Islamabad,2023-10-17,2024-12-09,Burger King,Italian,4,1190.93,Card,19,2025-01-20,59,False,2.0,Delivered,4763.72,2,2,5
+C4872,Female,Teenager,Islamabad,2023-10-16,2025-01-20,McDonald's,Fast Food,3,1388.63,Wallet,16,2025-01-27,10,True,4.0,Delivered,4165.89,2,2,5
+C6976,Male,Teenager,Islamabad,2024-05-24,2024-12-21,Pizza Hut,Dessert,3,1229.21,Wallet,16,2025-01-20,133,True,4.0,Delivered,3687.63,2,2,4
+C2505,Female,Senior,Islamabad,2023-11-13,2024-08-24,Burger King,Continental,5,1067.4,Card,5,2025-01-21,91,True,1.0,Delivered,5337.0,2,1,5
+C6896,Male,Teenager,Islamabad,2024-11-15,2025-01-11,Subway,Fast Food,3,1003.99,Cash,9,2025-01-21,1,False,5.0,Delayed,3011.9700000000003,2,1,4
+C3308,Female,Adult,Islamabad,2024-09-03,2024-10-16,Pizza Hut,Dessert,2,1402.75,Wallet,2,2025-01-23,269,True,-1.0,Cancelled,2805.5,2,1,4
+C3155,Female,Teenager,Islamabad,2024-10-15,2025-01-24,Subway,Dessert,5,784.13,Cash,21,2025-02-19,160,False,2.0,Delivered,3920.65,2,3,4
+C3587,Other,Adult,Islamabad,2025-01-24,2025-02-03,KFC,Italian,4,387.5,Cash,33,2025-04-15,418,True,2.0,Delivered,1550.0,3,4,3
+C5554,Female,Adult,Islamabad,2023-10-09,2024-09-06,Burger King,Chinese,3,722.07,Card,30,2025-01-25,210,True,5.0,Delayed,2166.21,2,3,3
+C2826,Female,Teenager,Islamabad,2025-01-23,2025-01-25,Burger King,Italian,1,877.89,Cash,43,2025-04-11,485,True,1.0,Delivered,877.89,3,5,2
+C1287,Male,Senior,Islamabad,2024-09-07,2024-10-31,McDonald's,Italian,3,379.79,Wallet,36,2025-01-25,190,False,1.0,Delivered,1139.3700000000001,2,4,2
+C5999,Female,Adult,Islamabad,2024-01-06,2025-01-26,Burger King,Continental,4,969.0,Cash,46,2025-04-20,147,True,4.0,Delivered,3876.0,3,5,4
+C4390,Male,Senior,Islamabad,2024-12-16,2025-01-28,KFC,Dessert,4,953.85,Cash,20,2025-08-09,425,False,1.0,Delivered,3815.4,5,2,4
+C4635,Male,Adult,Islamabad,2024-09-11,2025-01-28,McDonald's,Chinese,5,1250.87,Card,7,2025-05-02,43,False,-1.0,Cancelled,6254.349999999999,3,1,5
+C5360,Other,Adult,Islamabad,2024-11-23,2025-01-28,Pizza Hut,Continental,5,747.96,Cash,43,2025-03-02,146,False,5.0,Delivered,3739.8,2,5,4
+C6305,Female,Teenager,Islamabad,2024-11-21,2025-01-29,Pizza Hut,Fast Food,1,680.67,Wallet,21,2025-07-22,319,False,2.0,Delayed,680.67,5,3,1
+C6707,Female,Senior,Islamabad,2024-03-19,2024-11-28,McDonald's,Continental,2,193.03,Cash,7,2025-01-30,491,True,-1.0,Cancelled,386.06,2,1,1
+C4500,Female,Adult,Islamabad,2024-06-11,2025-01-30,KFC,Chinese,5,787.33,Card,39,2025-08-18,402,False,2.0,Delayed,3936.65,5,4,4
+C1201,Female,Senior,Islamabad,2023-09-04,2025-01-31,Pizza Hut,Chinese,2,730.17,Card,30,2025-02-04,246,False,-1.0,Cancelled,1460.34,2,3,3
+C6110,Other,Adult,Islamabad,2024-01-23,2025-02-01,KFC,Continental,3,1497.95,Card,31,2025-05-17,457,True,2.0,Delayed,4493.85,3,4,5
+C5578,Female,Adult,Islamabad,2024-03-17,2025-02-01,KFC,Chinese,3,185.62,Wallet,37,2025-07-22,488,True,4.0,Delivered,556.86,5,4,1
+C4529,Male,Senior,Islamabad,2023-12-19,2024-09-18,Subway,Dessert,2,1013.22,Cash,39,2025-02-01,23,True,3.0,Delivered,2026.44,2,4,3
+C3806,Male,Teenager,Islamabad,2023-10-18,2024-12-28,KFC,Fast Food,4,348.88,Cash,11,2025-02-01,96,False,-1.0,Cancelled,1395.52,2,1,2
+C5828,Female,Senior,Islamabad,2024-03-02,2025-02-01,McDonald's,Italian,4,1111.89,Wallet,5,2025-04-18,447,False,5.0,Delayed,4447.56,3,1,5
+C6244,Female,Teenager,Islamabad,2024-12-13,2025-02-02,McDonald's,Italian,1,528.0,Wallet,19,2025-02-23,353,False,4.0,Delayed,528.0,2,2,1
+C1494,Male,Adult,Islamabad,2024-08-08,2024-10-18,McDonald's,Chinese,4,1039.31,Card,36,2025-02-03,127,False,3.0,Delivered,4157.24,2,4,5
+C5049,Male,Senior,Islamabad,2025-01-19,2025-02-03,KFC,Italian,2,788.88,Card,16,2025-05-04,58,True,3.0,Delivered,1577.76,3,2,3
+C4395,Male,Senior,Islamabad,2023-08-22,2025-02-04,KFC,Fast Food,2,582.32,Wallet,16,2025-04-08,252,True,-1.0,Cancelled,1164.64,3,2,2
+C5373,Female,Adult,Islamabad,2024-08-10,2025-02-04,Burger King,Fast Food,3,1292.35,Cash,21,2025-07-22,319,True,2.0,Delivered,3877.0499999999997,5,3,4
+C4691,Male,Senior,Islamabad,2025-02-04,2025-04-01,Burger King,Continental,3,525.95,Card,30,2025-06-28,266,True,4.0,Delivered,1577.8500000000001,4,3,3
+C3290,Female,Adult,Islamabad,2024-05-02,2024-10-29,KFC,Italian,1,451.84,Card,8,2025-02-04,275,True,1.0,Delayed,451.84,2,1,1
+C4160,Female,Teenager,Islamabad,2023-11-08,2025-02-05,Pizza Hut,Dessert,3,989.41,Card,27,2025-07-03,276,True,-1.0,Cancelled,2968.23,4,3,4
+C1006,Female,Senior,Islamabad,2025-01-22,2025-02-05,Subway,Chinese,2,867.21,Wallet,3,2025-06-02,376,True,5.0,Delayed,1734.42,4,1,3
+C3834,Other,Senior,Islamabad,2023-12-23,2025-02-05,Burger King,Continental,4,1011.02,Cash,25,2025-05-23,259,False,1.0,Delayed,4044.08,3,3,5
+C3720,Other,Adult,Islamabad,2024-04-30,2025-02-05,McDonald's,Fast Food,4,570.01,Cash,45,2025-02-15,373,True,4.0,Delayed,2280.04,2,5,3
+C4612,Female,Adult,Islamabad,2024-07-24,2025-02-06,Pizza Hut,Continental,5,1341.78,Card,1,2025-03-18,353,False,1.0,Delayed,6708.9,2,1,5
+C6232,Other,Teenager,Islamabad,2025-02-06,2025-02-25,Subway,Chinese,5,226.61,Cash,22,2025-07-24,461,True,-1.0,Cancelled,1133.0500000000002,5,3,2
+C3895,Other,Adult,Islamabad,2024-07-22,2025-02-06,Subway,Continental,2,504.24,Cash,35,2025-04-15,56,False,5.0,Delivered,1008.48,3,4,2
+C4788,Female,Senior,Islamabad,2024-12-07,2025-02-06,McDonald's,Fast Food,5,804.98,Cash,38,2025-07-21,52,False,-1.0,Cancelled,4024.9,5,4,5
+C5321,Other,Senior,Islamabad,2025-02-08,2025-06-10,KFC,Fast Food,4,505.65,Wallet,26,2025-06-25,382,True,2.0,Delayed,2022.6,4,3,3
+C2192,Other,Adult,Islamabad,2023-11-26,2024-09-23,KFC,Fast Food,3,458.06,Cash,21,2025-02-08,333,False,2.0,Delayed,1374.18,2,3,2
+C5019,Female,Teenager,Islamabad,2024-08-21,2024-12-28,Subway,Dessert,5,1038.74,Wallet,48,2025-02-09,317,True,4.0,Delayed,5193.7,2,5,5
+C6485,Female,Senior,Islamabad,2024-12-12,2025-01-29,Subway,Fast Food,2,619.07,Card,39,2025-02-10,45,True,-1.0,Cancelled,1238.14,2,4,2
+C6612,Other,Adult,Islamabad,2023-08-29,2024-09-18,McDonald's,Dessert,5,416.08,Wallet,29,2025-02-10,352,False,1.0,Delayed,2080.4,2,3,3
+C4137,Other,Teenager,Islamabad,2024-09-07,2025-02-10,Burger King,Fast Food,3,1445.39,Card,11,2025-04-13,282,True,4.0,Delayed,4336.17,3,1,5
+C4844,Male,Adult,Islamabad,2024-08-28,2025-02-11,Pizza Hut,Italian,3,713.67,Cash,13,2025-07-30,67,True,5.0,Delivered,2141.0099999999998,5,2,3
+C4955,Female,Teenager,Islamabad,2024-07-05,2024-09-21,Subway,Italian,3,466.82,Card,36,2025-02-13,498,False,-1.0,Cancelled,1400.46,2,4,2
+C5446,Male,Teenager,Islamabad,2025-01-24,2025-02-14,Burger King,Continental,1,643.3,Card,43,2025-05-27,239,True,1.0,Delayed,643.3,3,5,1
+C3917,Female,Adult,Islamabad,2023-10-17,2025-02-14,Subway,Fast Food,4,1393.95,Cash,29,2025-08-07,204,False,-1.0,Cancelled,5575.8,5,3,5
+C2097,Female,Senior,Islamabad,2024-07-30,2024-10-31,Pizza Hut,Italian,1,162.9,Wallet,31,2025-02-14,373,True,2.0,Delayed,162.9,2,4,1
+C4544,Male,Adult,Islamabad,2024-09-19,2025-02-15,Burger King,Italian,5,328.74,Wallet,1,2025-03-10,462,False,3.0,Delivered,1643.7,2,1,3
+C3517,Male,Senior,Islamabad,2025-02-15,2025-02-22,Subway,Continental,1,1407.83,Card,42,2025-07-20,198,True,1.0,Delayed,1407.83,5,5,2
+C1361,Other,Senior,Islamabad,2024-03-07,2025-02-16,Subway,Italian,3,979.89,Cash,47,2025-06-14,473,False,2.0,Delivered,2939.67,4,5,4
+C3627,Male,Senior,Islamabad,2024-06-27,2024-10-13,Burger King,Continental,1,969.91,Cash,24,2025-02-16,338,False,-1.0,Cancelled,969.91,2,3,2
+C4471,Other,Senior,Islamabad,2024-04-13,2024-10-28,McDonald's,Chinese,5,1002.19,Cash,43,2025-02-17,332,True,-1.0,Cancelled,5010.950000000001,2,5,5
+C6375,Other,Adult,Islamabad,2025-02-18,2025-03-18,Subway,Italian,1,206.17,Cash,2,2025-03-28,98,True,-1.0,Cancelled,206.17,2,1,1
+C1945,Other,Adult,Islamabad,2024-05-16,2024-08-30,KFC,Continental,3,432.47,Cash,48,2025-02-19,129,True,2.0,Delivered,1297.41,2,5,2
+C3232,Female,Senior,Islamabad,2024-10-13,2024-11-15,Pizza Hut,Dessert,3,1441.61,Cash,12,2025-02-19,159,False,2.0,Delivered,4324.83,2,2,5
+C3276,Female,Senior,Islamabad,2024-02-09,2024-11-27,KFC,Dessert,3,953.46,Cash,46,2025-02-19,461,False,3.0,Delivered,2860.38,2,5,4
+C2663,Female,Senior,Islamabad,2024-12-04,2025-02-20,Pizza Hut,Fast Food,1,1063.64,Cash,3,2025-04-09,276,False,4.0,Delivered,1063.64,3,1,2
+C2941,Male,Senior,Islamabad,2024-11-04,2025-02-20,McDonald's,Chinese,1,1498.39,Card,40,2025-05-31,416,False,1.0,Delayed,1498.39,4,4,3
+C3909,Female,Adult,Islamabad,2023-11-09,2024-09-28,Burger King,Fast Food,4,169.66,Card,11,2025-02-20,498,False,-1.0,Cancelled,678.64,2,1,1
+C4073,Female,Teenager,Islamabad,2024-06-04,2024-11-12,Burger King,Dessert,1,886.94,Wallet,4,2025-02-20,212,True,-1.0,Cancelled,886.94,2,1,2
+C5909,Female,Senior,Islamabad,2024-07-30,2025-02-05,Pizza Hut,Dessert,4,883.69,Cash,33,2025-02-20,212,True,-1.0,Cancelled,3534.76,2,4,4
+C3093,Male,Teenager,Islamabad,2023-12-03,2025-02-21,McDonald's,Dessert,2,1323.67,Card,44,2025-04-21,187,False,-1.0,Cancelled,2647.34,3,5,4
+C2112,Male,Teenager,Islamabad,2024-04-23,2025-02-21,Subway,Fast Food,4,352.9,Wallet,9,2025-06-27,265,False,-1.0,Cancelled,1411.6,4,1,2
+C6383,Female,Adult,Islamabad,2025-02-21,2025-02-22,Pizza Hut,Dessert,3,504.09,Card,22,2025-04-02,347,False,1.0,Delivered,1512.27,3,3,3
+C1128,Male,Adult,Islamabad,2024-02-13,2025-02-25,Subway,Dessert,4,1294.27,Card,7,2025-06-26,494,True,4.0,Delivered,5177.08,4,1,5
+C5218,Other,Teenager,Islamabad,2024-10-08,2024-11-16,Burger King,Fast Food,2,890.65,Cash,10,2025-02-26,135,True,-1.0,Cancelled,1781.3,2,1,3
+C3545,Female,Adult,Islamabad,2024-03-23,2024-12-18,Subway,Continental,1,1324.07,Card,6,2025-02-26,228,False,-1.0,Cancelled,1324.07,2,1,2
+C5765,Other,Adult,Islamabad,2023-09-09,2025-02-03,KFC,Chinese,3,712.73,Wallet,34,2025-02-26,450,False,2.0,Delivered,2138.19,2,4,3
+C4898,Male,Senior,Islamabad,2024-04-02,2025-02-27,McDonald's,Fast Food,3,1259.49,Card,42,2025-06-07,15,False,-1.0,Cancelled,3778.4700000000003,4,5,4
+C4979,Male,Teenager,Islamabad,2025-02-28,2025-03-21,Burger King,Chinese,2,319.32,Cash,45,2025-08-10,398,True,-1.0,Cancelled,638.64,5,5,1
+C2901,Male,Adult,Islamabad,2024-02-21,2025-03-01,KFC,Italian,4,1407.1,Wallet,26,2025-08-17,412,True,3.0,Delivered,5628.4,5,3,5
+C1584,Female,Adult,Islamabad,2024-11-28,2025-01-13,KFC,Fast Food,1,712.05,Card,16,2025-03-02,469,False,-1.0,Cancelled,712.05,2,2,1
+C1315,Male,Senior,Islamabad,2023-12-25,2024-09-29,KFC,Continental,5,724.35,Card,35,2025-03-02,109,True,1.0,Delivered,3621.75,2,4,4
+C4284,Male,Senior,Islamabad,2024-02-25,2025-03-02,KFC,Chinese,3,704.07,Card,31,2025-06-09,451,True,5.0,Delayed,2112.21,4,4,3
+C6089,Other,Teenager,Islamabad,2024-05-03,2025-03-03,KFC,Chinese,5,1376.73,Wallet,12,2025-06-15,377,False,2.0,Delivered,6883.65,4,2,5
+C4065,Other,Adult,Islamabad,2024-04-22,2025-01-08,Pizza Hut,Continental,5,900.25,Wallet,23,2025-03-03,71,False,-1.0,Cancelled,4501.25,2,3,5
+C3858,Female,Adult,Islamabad,2023-11-01,2024-09-13,Burger King,Dessert,1,1099.18,Card,50,2025-03-04,375,False,2.0,Delayed,1099.18,2,5,2
+C2030,Male,Teenager,Islamabad,2023-09-20,2025-03-05,McDonald's,Italian,3,1264.47,Card,19,2025-04-20,497,True,1.0,Delivered,3793.41,3,2,4
+C4319,Other,Senior,Islamabad,2025-01-03,2025-03-05,Subway,Italian,4,1418.42,Cash,6,2025-04-06,78,False,-1.0,Cancelled,5673.68,3,1,5
+C5060,Other,Adult,Islamabad,2024-08-29,2024-11-05,McDonald's,Dessert,4,536.43,Cash,45,2025-03-06,136,False,-1.0,Cancelled,2145.72,2,5,3
+C1518,Female,Teenager,Islamabad,2023-11-06,2024-12-30,McDonald's,Chinese,2,1467.64,Wallet,49,2025-03-07,431,True,-1.0,Cancelled,2935.28,2,5,4
+C6361,Female,Teenager,Islamabad,2024-11-02,2025-02-08,McDonald's,Italian,1,790.44,Cash,15,2025-03-07,206,False,3.0,Delayed,790.44,2,2,1
+C2667,Male,Senior,Islamabad,2023-09-21,2024-09-25,McDonald's,Fast Food,1,540.32,Cash,30,2025-03-07,235,True,4.0,Delivered,540.32,2,3,1
+C5277,Male,Adult,Islamabad,2024-02-02,2025-03-07,Burger King,Fast Food,4,779.36,Cash,5,2025-06-11,298,False,4.0,Delayed,3117.44,4,1,4
+C3068,Female,Adult,Islamabad,2025-03-07,2025-03-10,Subway,Fast Food,4,578.66,Cash,1,2025-06-01,256,True,2.0,Delivered,2314.64,4,1,3
+C4386,Male,Senior,Islamabad,2024-07-05,2024-11-11,KFC,Continental,2,123.69,Card,1,2025-03-08,151,True,4.0,Delivered,247.38,2,1,1
+C3163,Female,Adult,Islamabad,2023-10-27,2024-09-17,McDonald's,Italian,1,1424.95,Card,46,2025-03-09,479,True,5.0,Delivered,1424.95,2,5,2
+C3083,Other,Adult,Islamabad,2025-03-10,2025-03-23,Burger King,Continental,2,228.36,Cash,29,2025-06-21,91,True,-1.0,Cancelled,456.72,4,3,1
+C1837,Male,Teenager,Islamabad,2024-11-25,2025-03-11,KFC,Chinese,3,340.68,Wallet,14,2025-07-14,48,False,-1.0,Cancelled,1022.04,5,2,2
+C2926,Other,Senior,Islamabad,2024-04-06,2024-10-17,Pizza Hut,Dessert,5,1271.36,Wallet,38,2025-03-12,18,False,-1.0,Cancelled,6356.799999999999,2,4,5
+C1218,Female,Teenager,Islamabad,2024-04-14,2025-03-12,Pizza Hut,Italian,2,645.98,Wallet,12,2025-07-25,364,True,4.0,Delivered,1291.96,5,2,2
+C1142,Male,Senior,Islamabad,2024-03-10,2025-01-03,McDonald's,Continental,2,878.68,Card,30,2025-03-12,166,False,3.0,Delayed,1757.36,2,3,3
+C5343,Female,Senior,Islamabad,2024-01-05,2024-09-28,Pizza Hut,Chinese,1,317.27,Card,19,2025-03-13,62,True,5.0,Delivered,317.27,2,2,1
+C6029,Male,Senior,Islamabad,2024-11-19,2025-01-23,KFC,Dessert,3,1192.18,Card,12,2025-03-15,438,False,5.0,Delivered,3576.54,2,2,4
+C1492,Other,Teenager,Islamabad,2024-12-09,2025-02-13,Burger King,Italian,2,111.82,Card,27,2025-03-15,437,True,4.0,Delivered,223.64,2,3,1
+C6290,Female,Adult,Islamabad,2023-11-24,2024-10-30,Pizza Hut,Dessert,3,297.19,Cash,18,2025-03-16,19,True,5.0,Delayed,891.5699999999999,2,2,2
+C2299,Female,Teenager,Islamabad,2024-08-01,2025-03-16,Subway,Fast Food,5,576.82,Wallet,8,2025-05-23,202,False,-1.0,Cancelled,2884.1000000000004,3,1,4
+C1169,Other,Adult,Islamabad,2023-11-09,2025-02-03,Pizza Hut,Fast Food,1,608.81,Card,31,2025-03-17,6,True,3.0,Delayed,608.81,2,4,1
+C2329,Other,Teenager,Islamabad,2024-01-17,2025-03-19,Burger King,Fast Food,2,267.28,Card,24,2025-08-10,341,False,-1.0,Cancelled,534.56,5,3,1
+C2623,Other,Adult,Islamabad,2025-03-20,2025-05-20,Pizza Hut,Dessert,1,732.38,Card,32,2025-08-16,225,True,1.0,Delivered,732.38,5,4,1
+C4182,Other,Senior,Islamabad,2023-12-16,2025-03-21,McDonald's,Italian,2,1408.3,Wallet,17,2025-05-25,53,False,2.0,Delivered,2816.6,3,2,4
+C3188,Other,Teenager,Islamabad,2023-11-12,2024-09-28,Pizza Hut,Continental,5,397.59,Cash,39,2025-03-21,439,False,5.0,Delivered,1987.9499999999998,2,4,3
+C3490,Other,Teenager,Islamabad,2024-09-29,2025-03-21,KFC,Chinese,1,1483.25,Cash,37,2025-06-02,154,False,-1.0,Cancelled,1483.25,4,4,3
+C1890,Female,Senior,Islamabad,2024-09-30,2025-03-21,McDonald's,Chinese,1,426.21,Cash,50,2025-06-28,232,False,-1.0,Cancelled,426.21,4,5,1
+C2460,Male,Teenager,Islamabad,2024-07-16,2025-03-21,Burger King,Italian,2,1134.77,Cash,42,2025-04-10,178,False,3.0,Delivered,2269.54,3,5,3
+C3870,Male,Teenager,Islamabad,2024-12-20,2025-03-22,Pizza Hut,Fast Food,3,875.26,Card,2,2025-04-29,177,True,1.0,Delivered,2625.7799999999997,3,1,4
+C3913,Male,Senior,Islamabad,2024-02-28,2025-03-23,Subway,Chinese,2,1302.16,Card,35,2025-04-21,131,False,-1.0,Cancelled,2604.32,3,4,4
+C1981,Female,Senior,Islamabad,2025-01-31,2025-03-24,Burger King,Chinese,1,1045.01,Cash,30,2025-08-12,476,False,1.0,Delayed,1045.01,5,3,2
+C3052,Female,Teenager,Islamabad,2024-09-19,2025-03-25,Burger King,Continental,4,978.91,Wallet,45,2025-03-25,207,True,2.0,Delivered,3915.64,2,5,4
+C4334,Male,Senior,Islamabad,2024-10-17,2025-03-25,Burger King,Italian,5,1028.86,Card,21,2025-03-28,359,False,3.0,Delivered,5144.299999999999,2,3,5
+C4350,Other,Adult,Islamabad,2024-02-09,2025-03-26,Pizza Hut,Fast Food,3,1173.63,Wallet,4,2025-07-13,196,False,4.0,Delayed,3520.8900000000003,4,1,4
+C5725,Male,Adult,Islamabad,2024-01-01,2025-03-26,Burger King,Chinese,5,1497.3,Card,45,2025-06-12,63,False,5.0,Delayed,7486.5,4,5,5
+C3544,Female,Senior,Islamabad,2024-07-22,2025-03-06,Pizza Hut,Chinese,5,243.94,Cash,35,2025-03-28,479,True,5.0,Delivered,1219.7,2,4,2
+C3984,Female,Senior,Islamabad,2025-01-20,2025-03-29,Pizza Hut,Italian,1,1211.11,Cash,16,2025-08-04,453,False,3.0,Delayed,1211.11,5,2,2
+C1382,Female,Teenager,Islamabad,2025-03-13,2025-03-29,McDonald's,Continental,2,1043.85,Wallet,18,2025-08-16,491,False,4.0,Delivered,2087.7,5,2,3
+C3502,Female,Teenager,Islamabad,2025-02-11,2025-03-31,McDonald's,Italian,3,1192.98,Cash,39,2025-07-28,26,True,1.0,Delivered,3578.94,5,4,4
+C2761,Other,Teenager,Islamabad,2024-12-19,2025-03-31,KFC,Italian,4,1314.37,Cash,9,2025-04-14,500,True,3.0,Delayed,5257.48,3,1,5
+C3656,Female,Adult,Islamabad,2024-07-02,2025-02-10,McDonald's,Continental,1,192.16,Card,40,2025-03-31,345,False,-1.0,Cancelled,192.16,2,4,1
+C1876,Other,Teenager,Islamabad,2025-01-18,2025-04-01,Pizza Hut,Fast Food,3,456.04,Card,32,2025-06-29,74,False,-1.0,Cancelled,1368.1200000000001,4,4,2
+C5488,Female,Senior,Islamabad,2024-03-23,2024-10-29,Burger King,Italian,4,1213.47,Wallet,21,2025-04-01,330,True,-1.0,Cancelled,4853.88,2,3,5
+C4764,Other,Senior,Islamabad,2024-09-27,2025-04-01,Pizza Hut,Italian,5,826.73,Cash,4,2025-04-19,342,False,-1.0,Cancelled,4133.65,3,1,5
+C1703,Male,Adult,Islamabad,2024-07-10,2025-01-30,Pizza Hut,Continental,5,274.7,Card,12,2025-04-01,214,False,2.0,Delayed,1373.5,2,2,2
+C4890,Male,Senior,Islamabad,2025-01-21,2025-04-02,Pizza Hut,Italian,1,718.68,Cash,18,2025-06-23,498,True,5.0,Delayed,718.68,4,2,1
+C5026,Male,Teenager,Islamabad,2023-12-19,2024-11-30,Burger King,Fast Food,3,1363.76,Wallet,32,2025-04-03,347,False,2.0,Delayed,4091.2799999999997,3,4,5
+C5883,Female,Adult,Islamabad,2025-04-03,2025-05-07,Subway,Fast Food,5,308.69,Card,27,2025-05-27,150,True,-1.0,Cancelled,1543.45,3,3,3
+C2913,Male,Adult,Islamabad,2023-10-16,2025-04-03,Pizza Hut,Chinese,4,951.21,Wallet,22,2025-08-18,123,False,-1.0,Cancelled,3804.84,5,3,4
+C2627,Female,Senior,Islamabad,2024-01-06,2024-12-29,Burger King,Continental,4,1321.05,Cash,17,2025-04-04,396,True,3.0,Delivered,5284.2,3,2,5
+C1388,Other,Teenager,Islamabad,2024-02-25,2025-04-04,KFC,Dessert,3,1042.46,Cash,9,2025-06-23,472,True,-1.0,Cancelled,3127.38,4,1,4
+C6381,Female,Adult,Islamabad,2025-03-02,2025-04-04,Subway,Continental,2,146.58,Wallet,23,2025-07-15,319,True,1.0,Delayed,293.16,5,3,1
+C1268,Female,Adult,Islamabad,2025-01-27,2025-04-04,KFC,Fast Food,4,1022.55,Cash,16,2025-08-02,192,True,4.0,Delayed,4090.2,5,2,5
+C2582,Male,Teenager,Islamabad,2024-03-07,2025-04-05,KFC,Chinese,5,743.57,Wallet,37,2025-07-07,150,True,1.0,Delivered,3717.8500000000004,4,4,4
+C3131,Female,Teenager,Islamabad,2024-09-19,2025-04-06,KFC,Fast Food,5,220.48,Cash,16,2025-04-18,226,False,-1.0,Cancelled,1102.3999999999999,3,2,2
+C3348,Other,Senior,Islamabad,2023-10-24,2025-04-06,KFC,Chinese,1,769.97,Cash,44,2025-04-07,30,True,3.0,Delivered,769.97,3,5,1
+C3751,Other,Adult,Islamabad,2023-09-30,2025-04-07,McDonald's,Italian,1,349.52,Card,4,2025-05-09,75,False,4.0,Delivered,349.52,3,1,1
+C2971,Male,Teenager,Islamabad,2025-03-08,2025-04-07,Burger King,Continental,4,628.53,Cash,47,2025-04-23,460,True,-1.0,Cancelled,2514.12,3,5,4
+C6502,Other,Teenager,Islamabad,2024-09-04,2025-02-25,Subway,Chinese,5,1030.63,Wallet,37,2025-04-07,63,False,3.0,Delivered,5153.150000000001,3,4,5
+C3613,Male,Teenager,Islamabad,2024-09-29,2025-04-08,McDonald's,Continental,2,454.58,Cash,22,2025-08-12,125,False,2.0,Delivered,909.16,5,3,2
+C4446,Female,Senior,Islamabad,2024-09-07,2025-02-03,Pizza Hut,Fast Food,3,581.41,Wallet,19,2025-04-09,364,True,5.0,Delayed,1744.23,3,2,3
+C6529,Male,Senior,Islamabad,2024-07-15,2025-03-14,KFC,Fast Food,3,202.92,Card,34,2025-04-11,69,True,1.0,Delayed,608.76,3,4,1
+C6189,Female,Adult,Islamabad,2023-09-21,2024-12-25,Pizza Hut,Fast Food,1,820.62,Wallet,15,2025-04-11,74,False,-1.0,Cancelled,820.62,3,2,1
+C2353,Male,Senior,Islamabad,2024-01-30,2025-01-29,McDonald's,Chinese,2,498.6,Wallet,19,2025-04-11,14,True,1.0,Delivered,997.2,3,2,2
+C1251,Female,Senior,Islamabad,2024-01-07,2025-04-13,Burger King,Fast Food,4,769.46,Wallet,28,2025-05-01,86,False,4.0,Delayed,3077.84,3,3,4
+C6408,Female,Adult,Islamabad,2023-12-04,2024-10-18,McDonald's,Italian,1,779.13,Cash,16,2025-04-14,109,True,2.0,Delayed,779.13,3,2,1
+C2534,Male,Senior,Islamabad,2024-01-30,2025-01-20,McDonald's,Dessert,3,763.34,Cash,48,2025-04-14,145,True,1.0,Delayed,2290.02,3,5,3
+C6938,Female,Teenager,Islamabad,2024-07-29,2025-04-14,Pizza Hut,Italian,1,849.31,Cash,36,2025-05-24,1,False,-1.0,Cancelled,849.31,3,4,2
+C2874,Other,Senior,Islamabad,2023-09-03,2024-08-27,KFC,Continental,5,830.99,Cash,33,2025-04-14,403,False,-1.0,Cancelled,4154.95,3,4,5
+C5863,Male,Teenager,Islamabad,2024-08-03,2025-04-15,KFC,Chinese,3,786.86,Card,41,2025-06-04,55,False,5.0,Delivered,2360.58,4,5,3
+C1321,Female,Teenager,Islamabad,2024-12-15,2025-04-16,KFC,Fast Food,2,1369.32,Cash,5,2025-07-23,412,True,4.0,Delivered,2738.64,5,1,4
+C5219,Other,Adult,Islamabad,2023-09-16,2024-09-01,Subway,Chinese,3,1113.41,Card,7,2025-04-16,317,False,1.0,Delayed,3340.2300000000005,3,1,4
+C2053,Female,Adult,Islamabad,2025-01-21,2025-04-20,Burger King,Fast Food,5,527.11,Card,17,2025-06-21,495,False,-1.0,Cancelled,2635.55,4,2,4
+C2256,Other,Teenager,Islamabad,2023-11-05,2024-09-25,Burger King,Chinese,3,801.5,Card,33,2025-04-20,353,False,-1.0,Cancelled,2404.5,3,4,3
+C3916,Other,Teenager,Islamabad,2024-10-09,2024-11-06,KFC,Continental,2,226.3,Card,16,2025-04-20,105,False,4.0,Delivered,452.6,3,2,1
+C2951,Other,Adult,Islamabad,2024-07-03,2025-04-22,Burger King,Dessert,2,535.15,Card,27,2025-07-10,87,False,-1.0,Cancelled,1070.3,4,3,2
+C4376,Male,Teenager,Islamabad,2024-12-26,2025-04-24,KFC,Italian,1,295.14,Cash,8,2025-05-14,324,False,-1.0,Cancelled,295.14,3,1,1
+C3422,Female,Senior,Islamabad,2024-06-17,2025-04-24,Pizza Hut,Fast Food,3,1166.83,Card,27,2025-05-02,333,False,-1.0,Cancelled,3500.49,3,3,4
+C5484,Male,Adult,Islamabad,2024-04-28,2024-08-24,KFC,Continental,2,230.53,Cash,34,2025-04-25,205,False,1.0,Delayed,461.06,3,4,1
+C2891,Female,Senior,Islamabad,2023-10-04,2024-10-07,Subway,Italian,1,340.32,Card,26,2025-04-25,307,False,5.0,Delivered,340.32,3,3,1
+C4797,Other,Teenager,Islamabad,2023-11-27,2025-01-31,Subway,Dessert,3,966.86,Cash,22,2025-04-25,100,False,5.0,Delivered,2900.58,3,3,4
+C2235,Other,Adult,Islamabad,2024-11-30,2025-01-27,KFC,Chinese,1,646.43,Card,10,2025-04-26,438,True,4.0,Delivered,646.43,3,1,1
+C5302,Female,Senior,Islamabad,2024-12-08,2024-12-24,Pizza Hut,Continental,4,771.34,Wallet,27,2025-04-26,383,True,2.0,Delayed,3085.36,3,3,4
+C1374,Female,Teenager,Islamabad,2024-10-09,2024-12-30,Burger King,Fast Food,1,175.96,Cash,50,2025-04-27,236,False,-1.0,Cancelled,175.96,3,5,1
+C1092,Other,Adult,Islamabad,2025-01-16,2025-04-28,McDonald's,Dessert,3,838.38,Card,29,2025-07-31,217,False,4.0,Delayed,2515.14,5,3,4
+C1403,Male,Senior,Islamabad,2024-06-22,2025-04-28,Subway,Chinese,4,1200.23,Wallet,14,2025-06-24,374,False,-1.0,Cancelled,4800.92,4,2,5
+C2234,Female,Adult,Islamabad,2024-02-27,2025-04-29,Burger King,Dessert,5,171.17,Card,26,2025-06-29,479,False,-1.0,Cancelled,855.8499999999999,4,3,2
+C6916,Other,Senior,Islamabad,2024-04-05,2025-04-29,Pizza Hut,Continental,1,870.38,Cash,2,2025-06-12,125,False,3.0,Delivered,870.38,4,1,2
+C5053,Other,Teenager,Islamabad,2024-11-21,2025-04-29,Pizza Hut,Chinese,3,259.84,Cash,33,2025-08-05,205,True,3.0,Delivered,779.52,5,4,1
+C2485,Female,Adult,Islamabad,2024-08-06,2024-11-04,Subway,Continental,4,1106.48,Wallet,22,2025-04-30,484,True,4.0,Delivered,4425.92,3,3,5
+C1111,Male,Adult,Islamabad,2024-01-30,2025-01-14,Pizza Hut,Italian,3,330.8,Wallet,12,2025-04-30,300,False,-1.0,Cancelled,992.4000000000001,3,2,2
+C2175,Male,Teenager,Islamabad,2024-11-12,2024-12-29,Subway,Chinese,4,232.01,Card,32,2025-04-30,313,False,4.0,Delayed,928.04,3,4,2
+C5082,Male,Adult,Islamabad,2024-04-14,2025-02-15,Subway,Fast Food,2,475.07,Cash,12,2025-05-01,319,False,4.0,Delivered,950.14,3,2,2
+C2977,Male,Adult,Islamabad,2024-07-11,2024-11-28,Subway,Dessert,1,983.45,Wallet,38,2025-05-01,63,True,-1.0,Cancelled,983.45,3,4,2
+C5205,Other,Adult,Islamabad,2025-02-06,2025-03-07,Subway,Chinese,1,312.31,Card,29,2025-05-01,450,False,5.0,Delayed,312.31,3,3,1
+C6397,Other,Adult,Islamabad,2024-11-11,2024-12-10,McDonald's,Continental,2,1356.54,Card,9,2025-05-02,377,False,3.0,Delayed,2713.08,3,1,4
+C2939,Male,Adult,Islamabad,2024-02-08,2025-02-08,KFC,Fast Food,3,1239.5,Wallet,31,2025-05-03,303,True,3.0,Delivered,3718.5,3,4,4
+C2307,Other,Teenager,Islamabad,2024-02-11,2025-02-24,Burger King,Dessert,2,1196.77,Card,29,2025-05-03,227,True,5.0,Delayed,2393.54,3,3,3
+C4671,Male,Senior,Islamabad,2024-12-28,2025-05-04,McDonald's,Chinese,2,1072.35,Wallet,26,2025-07-09,107,True,-1.0,Cancelled,2144.7,4,3,3
+C1009,Female,Teenager,Islamabad,2023-08-25,2024-12-03,Burger King,Italian,2,382.73,Card,7,2025-05-07,355,False,5.0,Delayed,765.46,3,1,1
+C6997,Other,Adult,Islamabad,2024-09-29,2025-02-11,McDonald's,Fast Food,5,335.64,Wallet,28,2025-05-08,322,False,3.0,Delivered,1678.1999999999998,3,3,3
+C5162,Female,Senior,Islamabad,2024-07-19,2024-12-10,KFC,Dessert,1,1240.76,Card,17,2025-05-08,293,True,5.0,Delayed,1240.76,3,2,2
+C4564,Male,Adult,Islamabad,2023-09-19,2025-02-20,Burger King,Italian,4,991.66,Card,20,2025-05-09,319,False,3.0,Delivered,3966.64,3,2,5
+C1377,Female,Adult,Islamabad,2025-04-06,2025-05-10,KFC,Italian,5,949.42,Wallet,48,2025-05-27,18,True,1.0,Delayed,4747.099999999999,3,5,5
+C2838,Female,Senior,Islamabad,2024-07-30,2024-09-01,McDonald's,Italian,5,607.62,Cash,37,2025-05-11,285,False,4.0,Delivered,3038.1,3,4,4
+C1206,Other,Teenager,Islamabad,2025-05-11,2025-05-30,McDonald's,Chinese,3,874.62,Cash,1,2025-07-09,383,False,-1.0,Cancelled,2623.86,4,1,4
+C3183,Male,Teenager,Islamabad,2024-07-16,2024-09-07,KFC,Continental,3,904.79,Cash,25,2025-05-12,355,False,-1.0,Cancelled,2714.37,3,3,4
+C6328,Male,Adult,Islamabad,2025-01-08,2025-05-13,Burger King,Italian,4,412.23,Wallet,40,2025-05-29,222,False,-1.0,Cancelled,1648.92,4,4,3
+C5871,Male,Senior,Islamabad,2023-11-11,2025-05-10,Burger King,Italian,3,1321.33,Wallet,14,2025-05-13,251,False,5.0,Delivered,3963.99,3,2,5
+C6579,Other,Teenager,Islamabad,2024-08-08,2025-02-23,Pizza Hut,Continental,4,1424.6,Wallet,11,2025-05-14,14,True,-1.0,Cancelled,5698.4,3,1,5
+C4353,Male,Teenager,Islamabad,2024-12-12,2025-02-09,Burger King,Italian,5,1360.99,Wallet,17,2025-05-14,161,True,4.0,Delayed,6804.95,3,2,5
+C1796,Male,Adult,Islamabad,2024-08-16,2025-01-31,McDonald's,Fast Food,5,1259.93,Wallet,43,2025-05-14,437,True,5.0,Delivered,6299.650000000001,3,5,5
+C5709,Other,Teenager,Islamabad,2024-06-10,2024-09-07,Burger King,Continental,4,850.24,Wallet,49,2025-05-15,176,True,3.0,Delivered,3400.96,3,5,4
+C1387,Female,Senior,Islamabad,2023-09-03,2025-04-03,KFC,Fast Food,4,1167.28,Wallet,21,2025-05-17,358,True,5.0,Delivered,4669.12,3,3,5
+C1957,Male,Teenager,Islamabad,2024-11-16,2025-03-28,McDonald's,Chinese,1,142.26,Wallet,20,2025-05-17,368,True,3.0,Delayed,142.26,3,2,1
+C4011,Female,Teenager,Islamabad,2024-05-13,2025-05-18,Pizza Hut,Italian,4,750.05,Card,20,2025-07-02,53,True,-1.0,Cancelled,3000.2,4,2,4
+C3271,Female,Teenager,Islamabad,2024-11-17,2025-02-13,Pizza Hut,Fast Food,1,359.52,Card,12,2025-05-18,54,False,4.0,Delivered,359.52,3,2,1
+C5140,Female,Senior,Islamabad,2025-05-18,2025-05-18,Burger King,Fast Food,2,651.18,Card,28,2025-08-13,105,False,1.0,Delivered,1302.36,5,3,2
+C3494,Male,Adult,Islamabad,2024-03-16,2025-05-16,Pizza Hut,Italian,4,247.11,Wallet,35,2025-05-19,233,True,1.0,Delayed,988.44,3,4,2
+C2343,Male,Teenager,Islamabad,2024-03-29,2025-01-24,McDonald's,Italian,2,542.2,Cash,17,2025-05-19,464,True,-1.0,Cancelled,1084.4,3,2,2
+C2240,Other,Senior,Islamabad,2023-10-12,2025-05-19,McDonald's,Continental,1,1366.48,Card,19,2025-08-08,491,True,1.0,Delivered,1366.48,5,2,2
+C5814,Male,Teenager,Islamabad,2023-09-28,2025-05-20,Burger King,Continental,2,161.73,Cash,6,2025-08-20,8,False,4.0,Delivered,323.46,5,1,1
+C3548,Female,Adult,Islamabad,2024-12-03,2025-01-22,Subway,Italian,3,164.6,Card,26,2025-05-21,154,True,-1.0,Cancelled,493.79999999999995,3,3,1
+C1658,Female,Teenager,Islamabad,2024-08-27,2024-11-28,KFC,Dessert,2,108.62,Cash,40,2025-05-21,132,True,1.0,Delivered,217.24,3,4,1
+C3796,Female,Teenager,Islamabad,2024-06-11,2024-09-04,Pizza Hut,Italian,4,892.73,Card,34,2025-05-22,355,False,-1.0,Cancelled,3570.92,3,4,4
+C1872,Other,Teenager,Islamabad,2024-08-03,2025-03-08,Subway,Fast Food,5,401.14,Card,12,2025-05-22,385,False,-1.0,Cancelled,2005.6999999999998,3,2,3
+C3759,Male,Senior,Islamabad,2024-09-04,2025-01-07,Subway,Dessert,3,237.94,Card,12,2025-05-23,256,True,-1.0,Cancelled,713.8199999999999,3,2,1
+C6540,Female,Adult,Islamabad,2024-10-04,2024-11-01,McDonald's,Dessert,2,697.87,Wallet,18,2025-05-23,412,False,2.0,Delayed,1395.74,3,2,2
+C2746,Female,Adult,Islamabad,2024-06-23,2024-10-10,Subway,Fast Food,2,485.63,Cash,37,2025-05-24,292,False,2.0,Delayed,971.26,3,4,2
+C1812,Male,Adult,Islamabad,2023-11-21,2025-05-24,Pizza Hut,Italian,3,1409.13,Cash,11,2025-08-13,353,False,2.0,Delivered,4227.39,5,1,5
+C6179,Male,Adult,Islamabad,2024-04-06,2024-12-17,Burger King,Continental,4,121.1,Wallet,23,2025-05-24,123,False,4.0,Delayed,484.4,3,3,1
+C1051,Female,Senior,Islamabad,2024-07-26,2025-02-07,KFC,Continental,1,250.24,Wallet,5,2025-05-25,170,True,3.0,Delivered,250.24,3,1,1
+C4037,Male,Senior,Islamabad,2024-09-03,2025-03-16,McDonald's,Italian,4,411.39,Cash,31,2025-05-25,447,False,-1.0,Cancelled,1645.56,3,4,3
+C2527,Other,Teenager,Islamabad,2023-09-04,2025-03-28,McDonald's,Fast Food,5,817.06,Cash,47,2025-05-25,64,False,5.0,Delivered,4085.2999999999997,3,5,5
+C2359,Male,Senior,Islamabad,2025-02-03,2025-02-28,KFC,Chinese,3,310.36,Card,3,2025-05-27,12,True,4.0,Delayed,931.08,3,1,2
+C4889,Female,Adult,Islamabad,2024-12-05,2025-05-25,McDonald's,Italian,2,1397.55,Wallet,8,2025-05-27,333,False,4.0,Delayed,2795.1,3,1,4
+C4412,Other,Adult,Islamabad,2024-01-17,2025-02-17,McDonald's,Fast Food,1,882.12,Wallet,17,2025-05-27,178,False,-1.0,Cancelled,882.12,3,2,2
+C1171,Female,Adult,Islamabad,2025-02-26,2025-05-28,Pizza Hut,Continental,1,1273.46,Wallet,18,2025-07-15,430,False,-1.0,Cancelled,1273.46,5,2,2
+C3892,Female,Adult,Islamabad,2024-08-15,2025-04-11,Burger King,Fast Food,4,622.64,Cash,23,2025-05-29,239,False,1.0,Delayed,2490.56,4,3,4
+C3030,Other,Teenager,Islamabad,2024-09-17,2024-11-21,KFC,Fast Food,3,190.79,Card,18,2025-05-29,110,False,5.0,Delayed,572.37,4,2,1
+C2772,Other,Adult,Islamabad,2025-02-18,2025-03-04,KFC,Continental,5,1425.51,Cash,12,2025-05-29,130,True,4.0,Delivered,7127.55,4,2,5
+C1700,Other,Adult,Islamabad,2023-11-09,2024-10-22,Burger King,Italian,1,161.67,Wallet,40,2025-05-29,104,True,5.0,Delivered,161.67,4,4,1
+C3305,Female,Adult,Islamabad,2025-01-24,2025-04-21,Pizza Hut,Italian,5,921.51,Wallet,31,2025-05-30,469,False,3.0,Delivered,4607.55,4,4,5
+C4290,Other,Senior,Islamabad,2023-10-28,2025-02-22,KFC,Continental,1,676.31,Card,9,2025-06-01,226,True,-1.0,Cancelled,676.31,4,1,1
+C5654,Other,Senior,Islamabad,2024-10-21,2024-11-15,McDonald's,Continental,2,578.51,Cash,14,2025-06-01,76,False,4.0,Delivered,1157.02,4,2,2
+C5611,Male,Adult,Islamabad,2024-03-04,2025-03-06,KFC,Chinese,3,1458.72,Cash,25,2025-06-01,85,False,1.0,Delivered,4376.16,4,3,5
+C6253,Other,Adult,Islamabad,2025-01-08,2025-06-02,Burger King,Chinese,4,684.57,Wallet,5,2025-06-10,255,False,2.0,Delivered,2738.28,4,1,4
+C4638,Other,Senior,Islamabad,2025-05-16,2025-06-03,Pizza Hut,Dessert,3,1272.66,Cash,32,2025-07-10,57,True,2.0,Delivered,3817.9800000000005,4,4,4
+C4735,Other,Teenager,Islamabad,2025-01-08,2025-01-19,KFC,Dessert,5,296.54,Card,39,2025-06-03,29,True,5.0,Delivered,1482.7,4,4,3
+C2602,Other,Senior,Islamabad,2024-04-27,2025-01-12,KFC,Continental,4,1279.47,Cash,50,2025-06-04,177,True,3.0,Delivered,5117.88,4,5,5
+C6664,Male,Senior,Islamabad,2025-01-07,2025-04-29,Subway,Fast Food,3,851.7,Cash,20,2025-06-06,411,True,2.0,Delayed,2555.1000000000004,4,2,4
+C2170,Male,Teenager,Islamabad,2024-03-22,2024-10-26,Subway,Dessert,5,937.55,Card,49,2025-06-06,9,False,3.0,Delivered,4687.75,4,5,5
+C1802,Male,Adult,Islamabad,2023-12-21,2025-04-16,McDonald's,Continental,1,205.13,Card,39,2025-06-06,90,True,-1.0,Cancelled,205.13,4,4,1
+C6436,Male,Teenager,Islamabad,2023-12-25,2024-11-29,Burger King,Dessert,3,780.32,Card,26,2025-06-06,194,False,5.0,Delayed,2340.96,4,3,3
+C2635,Male,Teenager,Islamabad,2025-06-07,2025-06-14,Burger King,Fast Food,4,608.96,Cash,39,2025-08-19,427,False,5.0,Delayed,2435.84,5,4,4
+C4236,Other,Teenager,Islamabad,2024-08-01,2025-01-21,Subway,Chinese,5,403.4,Wallet,2,2025-06-07,452,True,3.0,Delayed,2017.0,4,1,3
+C3381,Male,Teenager,Islamabad,2024-09-25,2025-06-08,Subway,Italian,5,1468.24,Card,5,2025-07-16,388,True,2.0,Delayed,7341.2,5,1,5
+C5071,Male,Teenager,Islamabad,2024-10-29,2025-04-08,KFC,Continental,3,766.39,Card,50,2025-06-08,172,True,-1.0,Cancelled,2299.17,4,5,3
+C1970,Other,Adult,Islamabad,2025-02-16,2025-06-08,KFC,Chinese,1,1366.77,Card,20,2025-08-07,157,True,2.0,Delayed,1366.77,5,2,2
+C2739,Female,Adult,Islamabad,2025-03-08,2025-04-12,Burger King,Dessert,3,261.51,Wallet,3,2025-06-09,295,False,5.0,Delayed,784.53,4,1,1
+C1537,Other,Senior,Islamabad,2024-09-07,2025-05-09,McDonald's,Continental,4,356.27,Wallet,38,2025-06-09,389,False,-1.0,Cancelled,1425.08,4,4,2
+C2435,Male,Senior,Islamabad,2024-09-12,2024-12-23,Subway,Continental,2,250.11,Cash,8,2025-06-09,28,False,5.0,Delivered,500.22,4,1,1
+C4094,Female,Senior,Islamabad,2023-10-02,2025-01-09,Pizza Hut,Continental,4,1414.02,Cash,6,2025-06-09,13,True,3.0,Delivered,5656.08,4,1,5
+C5734,Other,Senior,Islamabad,2024-05-11,2025-06-02,Burger King,Dessert,5,1085.43,Cash,8,2025-06-10,88,True,3.0,Delayed,5427.150000000001,4,1,5
+C3876,Other,Teenager,Islamabad,2024-02-05,2025-01-15,Burger King,Dessert,2,1048.82,Wallet,16,2025-06-10,479,True,-1.0,Cancelled,2097.64,4,2,3
+C1295,Female,Teenager,Islamabad,2023-10-19,2025-03-04,Pizza Hut,Fast Food,4,634.67,Cash,50,2025-06-10,407,False,-1.0,Cancelled,2538.68,4,5,4
+C1596,Male,Teenager,Islamabad,2024-08-11,2025-02-22,McDonald's,Dessert,2,772.48,Cash,11,2025-06-11,36,True,2.0,Delayed,1544.96,4,1,3
+C3047,Female,Adult,Islamabad,2024-10-16,2025-02-14,KFC,Dessert,5,1172.43,Cash,7,2025-06-11,465,False,2.0,Delivered,5862.150000000001,4,1,5
+C6037,Female,Adult,Islamabad,2023-08-22,2025-04-13,McDonald's,Italian,4,1442.66,Wallet,23,2025-06-11,318,False,-1.0,Cancelled,5770.64,4,3,5
+C5491,Other,Adult,Islamabad,2024-12-21,2025-02-02,McDonald's,Italian,1,206.02,Card,3,2025-06-13,161,True,1.0,Delivered,206.02,4,1,1
+C4756,Male,Teenager,Islamabad,2024-10-10,2025-03-08,KFC,Dessert,3,677.12,Card,13,2025-06-15,31,True,1.0,Delivered,2031.3600000000001,4,2,3
+C2011,Female,Adult,Islamabad,2024-12-16,2025-06-15,Subway,Fast Food,4,1315.07,Cash,14,2025-07-03,95,True,5.0,Delayed,5260.28,4,2,5
+C6501,Male,Adult,Islamabad,2024-05-16,2025-03-08,KFC,Continental,2,236.14,Card,27,2025-06-15,158,True,5.0,Delayed,472.28,4,3,1
+C2003,Male,Senior,Islamabad,2024-11-03,2025-05-16,Subway,Fast Food,1,676.36,Card,40,2025-06-15,354,True,1.0,Delivered,676.36,4,4,1
+C2608,Female,Teenager,Islamabad,2023-11-01,2024-12-10,KFC,Italian,5,542.58,Wallet,35,2025-06-16,189,False,-1.0,Cancelled,2712.9,4,4,4
+C4901,Female,Adult,Islamabad,2025-05-11,2025-05-16,KFC,Dessert,3,784.63,Cash,17,2025-06-16,299,True,2.0,Delayed,2353.89,4,2,3
+C4863,Other,Adult,Islamabad,2025-05-11,2025-06-17,Pizza Hut,Italian,1,322.54,Wallet,45,2025-08-08,17,False,3.0,Delayed,322.54,5,5,1
+C6033,Female,Adult,Islamabad,2024-05-24,2025-02-26,KFC,Continental,3,841.76,Card,32,2025-06-17,221,True,5.0,Delayed,2525.2799999999997,4,4,4
+C2918,Other,Teenager,Islamabad,2024-03-18,2025-06-18,Burger King,Continental,3,891.09,Wallet,35,2025-07-21,182,False,1.0,Delayed,2673.27,5,4,4
+C2636,Male,Adult,Islamabad,2024-11-22,2025-01-22,Pizza Hut,Chinese,3,1272.06,Cash,35,2025-06-20,324,True,2.0,Delayed,3816.18,4,4,4
+C6254,Other,Teenager,Islamabad,2024-04-01,2024-11-01,Subway,Italian,1,918.15,Cash,11,2025-06-21,96,False,-1.0,Cancelled,918.15,4,1,2
+C1701,Other,Teenager,Islamabad,2025-01-01,2025-05-18,KFC,Dessert,5,454.63,Wallet,45,2025-06-24,441,False,-1.0,Cancelled,2273.15,4,5,3
+C6923,Female,Senior,Islamabad,2024-04-19,2024-10-20,Burger King,Continental,2,993.33,Wallet,33,2025-06-24,117,True,2.0,Delayed,1986.66,4,4,3
+C1068,Male,Teenager,Islamabad,2024-07-12,2025-06-25,KFC,Fast Food,1,1216.18,Cash,44,2025-07-16,450,False,4.0,Delivered,1216.18,5,5,2
+C5869,Male,Senior,Islamabad,2023-12-27,2025-06-26,KFC,Continental,5,714.36,Cash,24,2025-08-16,75,False,2.0,Delivered,3571.8,5,3,4
+C5886,Female,Adult,Islamabad,2024-11-11,2025-02-28,Burger King,Continental,3,1238.56,Card,6,2025-06-26,403,True,-1.0,Cancelled,3715.68,4,1,4
+C5837,Female,Teenager,Islamabad,2024-11-07,2024-12-30,Subway,Dessert,3,359.84,Wallet,16,2025-06-26,486,True,2.0,Delivered,1079.52,4,2,2
+C4018,Female,Senior,Islamabad,2024-03-06,2025-03-18,Pizza Hut,Continental,5,898.63,Cash,11,2025-06-27,405,False,-1.0,Cancelled,4493.15,4,1,5
+C2357,Female,Teenager,Islamabad,2024-02-03,2024-10-04,KFC,Italian,3,1063.78,Card,13,2025-06-27,96,True,5.0,Delayed,3191.34,4,2,4
+C6523,Other,Senior,Islamabad,2024-08-03,2025-06-29,KFC,Continental,2,502.91,Wallet,30,2025-07-07,109,False,5.0,Delivered,1005.82,4,3,2
+C6267,Other,Teenager,Islamabad,2024-10-04,2025-05-20,Pizza Hut,Italian,2,481.77,Card,41,2025-07-01,257,True,-1.0,Cancelled,963.54,4,5,2
+C3607,Female,Adult,Islamabad,2025-04-29,2025-05-10,Subway,Italian,5,1073.32,Wallet,45,2025-07-01,258,False,1.0,Delivered,5366.599999999999,4,5,5
+C4503,Other,Senior,Islamabad,2025-04-29,2025-07-03,KFC,Fast Food,1,1192.89,Cash,46,2025-08-21,349,True,-1.0,Cancelled,1192.89,5,5,2
+C1269,Female,Teenager,Islamabad,2025-05-24,2025-07-04,Subway,Italian,1,1127.93,Cash,22,2025-07-18,65,True,5.0,Delivered,1127.93,5,3,2
+C1339,Other,Senior,Islamabad,2025-07-05,2025-07-19,McDonald's,Italian,5,974.41,Card,47,2025-08-04,442,False,4.0,Delivered,4872.05,5,5,5
+C6675,Female,Teenager,Islamabad,2024-03-31,2024-12-09,Subway,Italian,1,540.82,Wallet,16,2025-07-07,127,True,5.0,Delayed,540.82,4,2,1
+C4792,Male,Adult,Islamabad,2024-10-01,2025-05-16,McDonald's,Continental,4,602.52,Card,19,2025-07-07,164,True,3.0,Delayed,2410.08,4,2,3
+C4673,Other,Adult,Islamabad,2024-09-21,2024-11-29,Burger King,Dessert,3,981.76,Wallet,17,2025-07-07,131,True,2.0,Delayed,2945.2799999999997,4,2,4
+C2086,Other,Adult,Islamabad,2025-04-05,2025-06-11,Pizza Hut,Continental,2,1227.21,Wallet,47,2025-07-07,106,True,4.0,Delivered,2454.42,4,5,4
+C2031,Other,Teenager,Islamabad,2024-12-16,2025-03-15,McDonald's,Dessert,1,1001.93,Card,16,2025-07-08,426,False,4.0,Delivered,1001.93,4,2,2
+C1131,Other,Adult,Islamabad,2023-11-12,2025-05-14,Subway,Dessert,5,724.01,Wallet,19,2025-07-09,165,True,-1.0,Cancelled,3620.05,4,2,4
+C4076,Other,Adult,Islamabad,2024-03-06,2025-04-20,Pizza Hut,Continental,4,428.75,Card,4,2025-07-11,398,True,5.0,Delayed,1715.0,4,1,3
+C5519,Female,Senior,Islamabad,2025-04-19,2025-05-17,Pizza Hut,Chinese,1,236.27,Card,9,2025-07-11,189,False,4.0,Delivered,236.27,4,1,1
+C3818,Female,Senior,Islamabad,2023-12-27,2025-03-19,Subway,Fast Food,2,559.49,Wallet,41,2025-07-11,297,True,3.0,Delivered,1118.98,4,5,2
+C6659,Female,Senior,Islamabad,2024-09-30,2024-10-24,Burger King,Dessert,4,856.25,Wallet,19,2025-07-12,331,False,2.0,Delivered,3425.0,4,2,4
+C3853,Female,Teenager,Islamabad,2024-05-16,2025-01-17,McDonald's,Chinese,2,249.38,Card,5,2025-07-13,67,True,4.0,Delayed,498.76,4,1,1
+C5662,Other,Adult,Islamabad,2025-04-07,2025-05-02,Burger King,Fast Food,2,1364.09,Cash,3,2025-07-14,141,False,1.0,Delivered,2728.18,5,1,4
+C4064,Male,Senior,Islamabad,2024-02-07,2025-04-21,McDonald's,Fast Food,2,162.9,Card,22,2025-07-16,159,True,5.0,Delayed,325.8,5,3,1
+C4230,Male,Teenager,Islamabad,2023-10-18,2025-04-13,Subway,Italian,3,1045.54,Wallet,22,2025-07-16,333,True,3.0,Delayed,3136.62,5,3,4
+C6333,Other,Teenager,Islamabad,2024-09-28,2025-05-20,Pizza Hut,Italian,3,781.45,Cash,20,2025-07-17,255,True,-1.0,Cancelled,2344.3500000000004,5,2,3
+C1110,Other,Adult,Islamabad,2024-12-10,2025-05-01,KFC,Chinese,1,830.92,Wallet,29,2025-07-17,387,True,1.0,Delayed,830.92,5,3,1
+C2311,Other,Adult,Islamabad,2024-01-01,2025-01-14,McDonald's,Chinese,1,1171.34,Card,17,2025-07-18,56,True,4.0,Delayed,1171.34,5,2,2
+C3790,Female,Adult,Islamabad,2024-08-31,2024-09-22,Burger King,Fast Food,4,542.53,Cash,11,2025-07-18,62,False,3.0,Delivered,2170.12,5,1,3
+C6987,Other,Teenager,Islamabad,2025-05-25,2025-07-19,KFC,Continental,3,1146.02,Card,34,2025-08-18,349,True,2.0,Delayed,3438.06,5,4,4
+C6626,Male,Teenager,Islamabad,2024-12-20,2025-05-11,Burger King,Fast Food,5,832.52,Wallet,14,2025-07-20,493,True,1.0,Delayed,4162.6,5,2,5
+C1163,Other,Teenager,Islamabad,2024-07-20,2025-06-25,Burger King,Italian,1,328.8,Wallet,31,2025-07-21,336,True,5.0,Delayed,328.8,5,4,1
+C5120,Male,Adult,Islamabad,2025-03-17,2025-03-31,Pizza Hut,Fast Food,1,1258.16,Wallet,18,2025-07-21,23,False,3.0,Delayed,1258.16,5,2,2
+C2023,Other,Teenager,Islamabad,2024-07-09,2024-09-27,Burger King,Continental,5,145.81,Cash,21,2025-07-22,91,False,1.0,Delayed,729.05,5,3,1
+C5136,Female,Senior,Islamabad,2024-12-07,2025-02-23,Pizza Hut,Chinese,5,1146.52,Cash,26,2025-07-22,47,False,4.0,Delayed,5732.6,5,3,5
+C1289,Other,Senior,Islamabad,2023-12-27,2025-01-16,McDonald's,Continental,1,1248.74,Wallet,34,2025-07-22,91,True,1.0,Delayed,1248.74,5,4,2
+C1320,Female,Teenager,Islamabad,2024-04-05,2025-03-12,Subway,Italian,5,1026.53,Card,20,2025-07-25,132,True,5.0,Delayed,5132.65,5,2,5
+C5382,Female,Adult,Islamabad,2024-06-17,2024-11-08,Pizza Hut,Chinese,3,906.33,Wallet,43,2025-07-25,288,True,-1.0,Cancelled,2718.9900000000002,5,5,4
+C4905,Male,Adult,Islamabad,2024-05-27,2025-04-02,Subway,Dessert,2,248.26,Wallet,40,2025-07-25,382,False,-1.0,Cancelled,496.52,5,4,1
+C1386,Male,Adult,Islamabad,2025-02-20,2025-07-15,KFC,Continental,4,145.98,Wallet,16,2025-07-26,419,True,2.0,Delivered,583.92,5,2,1
+C6989,Female,Teenager,Islamabad,2024-05-01,2025-01-05,Burger King,Italian,5,649.35,Wallet,3,2025-07-26,301,False,3.0,Delivered,3246.75,5,1,4
+C3543,Other,Teenager,Islamabad,2024-02-16,2025-04-22,KFC,Italian,4,1479.19,Wallet,43,2025-07-27,196,True,5.0,Delivered,5916.76,5,5,5
+C1371,Male,Adult,Islamabad,2025-03-19,2025-07-22,Subway,Fast Food,1,562.12,Cash,16,2025-07-28,133,True,3.0,Delayed,562.12,5,2,1
+C5672,Female,Teenager,Islamabad,2024-10-02,2025-06-04,Burger King,Italian,5,494.93,Card,5,2025-07-28,118,True,5.0,Delayed,2474.65,5,1,4
+C5472,Other,Teenager,Islamabad,2024-07-19,2025-07-03,Burger King,Chinese,3,635.41,Cash,43,2025-07-30,155,True,1.0,Delivered,1906.23,5,5,3
+C6010,Female,Teenager,Islamabad,2024-02-10,2025-05-12,McDonald's,Chinese,4,249.03,Wallet,14,2025-08-01,213,False,3.0,Delivered,996.12,5,2,2
+C2104,Other,Teenager,Islamabad,2024-10-10,2024-12-21,Subway,Chinese,4,821.37,Card,16,2025-08-01,180,True,-1.0,Cancelled,3285.48,5,2,4
+C5370,Male,Teenager,Islamabad,2023-12-21,2024-10-30,Pizza Hut,Dessert,3,311.23,Cash,37,2025-08-03,230,True,2.0,Delayed,933.69,5,4,2
+C2027,Male,Adult,Islamabad,2024-04-03,2025-03-06,McDonald's,Chinese,3,431.36,Wallet,44,2025-08-03,409,False,1.0,Delivered,1294.08,5,5,2
+C5750,Female,Adult,Islamabad,2023-11-15,2025-07-13,Subway,Chinese,2,308.09,Wallet,34,2025-08-03,298,True,4.0,Delayed,616.18,5,4,1
+C5594,Female,Teenager,Islamabad,2024-11-02,2025-06-21,Pizza Hut,Continental,1,1297.58,Cash,19,2025-08-04,47,True,5.0,Delivered,1297.58,5,2,2
+C5996,Other,Teenager,Islamabad,2024-05-14,2024-10-15,McDonald's,Italian,4,1133.94,Card,20,2025-08-04,230,False,3.0,Delivered,4535.76,5,2,5
+C4357,Female,Teenager,Islamabad,2025-04-24,2025-07-17,Pizza Hut,Continental,4,1174.8,Cash,26,2025-08-05,1,True,-1.0,Cancelled,4699.2,5,3,5
+C2544,Female,Senior,Islamabad,2024-11-20,2024-12-12,KFC,Continental,3,1366.65,Wallet,8,2025-08-05,189,False,-1.0,Cancelled,4099.950000000001,5,1,5
+C4522,Female,Adult,Islamabad,2025-03-11,2025-04-24,Pizza Hut,Italian,5,1160.99,Cash,8,2025-08-06,69,False,-1.0,Cancelled,5804.95,5,1,5
+C6017,Other,Adult,Islamabad,2025-04-21,2025-05-13,Subway,Fast Food,2,1069.04,Card,2,2025-08-06,149,False,3.0,Delayed,2138.08,5,1,3
+C1474,Female,Senior,Islamabad,2024-03-03,2025-05-19,McDonald's,Dessert,4,376.72,Cash,17,2025-08-07,428,False,2.0,Delayed,1506.88,5,2,3
+C1809,Female,Teenager,Islamabad,2024-10-18,2025-05-21,McDonald's,Italian,1,1322.34,Cash,34,2025-08-07,135,True,2.0,Delivered,1322.34,5,4,2
+C5310,Female,Teenager,Islamabad,2024-08-08,2025-03-31,Pizza Hut,Dessert,5,877.87,Wallet,28,2025-08-07,357,False,2.0,Delivered,4389.35,5,3,5
+C3624,Other,Senior,Islamabad,2023-09-28,2025-03-28,KFC,Chinese,4,534.82,Cash,30,2025-08-08,303,False,-1.0,Cancelled,2139.28,5,3,3
+C4803,Female,Teenager,Islamabad,2024-06-29,2025-08-08,Subway,Dessert,3,636.17,Cash,15,2025-08-20,494,False,-1.0,Cancelled,1908.5099999999998,5,2,3
+C5670,Other,Adult,Islamabad,2024-10-26,2025-08-08,Pizza Hut,Continental,4,473.35,Wallet,9,2025-08-20,404,True,-1.0,Cancelled,1893.4,5,1,3
+C5511,Other,Senior,Islamabad,2024-09-03,2024-09-24,Pizza Hut,Chinese,1,951.39,Cash,27,2025-08-09,498,True,4.0,Delayed,951.39,5,3,2
+C6771,Male,Adult,Islamabad,2024-04-30,2024-11-12,Burger King,Chinese,4,1135.95,Wallet,40,2025-08-09,324,False,-1.0,Cancelled,4543.8,5,4,5
+C4440,Female,Senior,Islamabad,2023-10-23,2025-05-04,Pizza Hut,Chinese,2,1388.69,Wallet,36,2025-08-10,274,False,4.0,Delivered,2777.38,5,4,4
+C3062,Other,Adult,Islamabad,2024-10-24,2025-07-04,McDonald's,Fast Food,3,1071.16,Cash,14,2025-08-10,37,True,2.0,Delivered,3213.4800000000005,5,2,4
+C1270,Male,Teenager,Islamabad,2023-12-27,2025-06-30,KFC,Dessert,3,816.25,Wallet,35,2025-08-11,280,False,2.0,Delivered,2448.75,5,4,4
+C4989,Female,Senior,Islamabad,2024-02-18,2025-08-12,KFC,Italian,1,1400.6,Wallet,37,2025-08-13,100,True,-1.0,Cancelled,1400.6,5,4,2
+C3078,Male,Teenager,Islamabad,2024-07-03,2025-05-23,McDonald's,Italian,2,545.17,Wallet,43,2025-08-12,227,True,3.0,Delayed,1090.34,5,5,2
+C6369,Other,Adult,Islamabad,2024-11-21,2025-06-06,McDonald's,Dessert,2,926.83,Cash,2,2025-08-13,13,False,-1.0,Cancelled,1853.66,5,1,3
+C6430,Other,Senior,Islamabad,2024-08-18,2025-02-11,Pizza Hut,Dessert,1,1163.86,Wallet,37,2025-08-13,236,True,1.0,Delayed,1163.86,5,4,2
+C3675,Female,Teenager,Islamabad,2024-11-04,2025-04-21,Burger King,Italian,1,817.41,Wallet,2,2025-08-13,166,False,-1.0,Cancelled,817.41,5,1,1
+C2957,Female,Adult,Islamabad,2025-08-01,2025-08-05,Burger King,Continental,5,1309.37,Cash,2,2025-08-14,430,True,1.0,Delayed,6546.849999999999,5,1,5
+C6407,Female,Adult,Islamabad,2024-04-07,2025-02-05,Subway,Dessert,4,818.08,Cash,39,2025-08-16,320,False,3.0,Delivered,3272.32,5,4,4
+C1362,Male,Teenager,Islamabad,2024-07-16,2025-02-28,McDonald's,Continental,5,276.11,Wallet,1,2025-08-17,294,True,3.0,Delivered,1380.5500000000002,5,1,2
+C3786,Other,Teenager,Islamabad,2024-09-23,2025-02-02,Pizza Hut,Dessert,3,918.86,Card,39,2025-08-19,475,True,5.0,Delivered,2756.58,5,4,4
+C1650,Female,Teenager,Islamabad,2024-12-08,2025-04-28,Pizza Hut,Dessert,2,707.0,Cash,9,2025-08-20,335,False,-1.0,Cancelled,1414.0,5,1,2
+C3787,Female,Adult,Islamabad,2025-01-28,2025-06-08,KFC,Italian,5,1118.26,Cash,12,2025-08-22,193,True,3.0,Delayed,5591.3,5,2,5
+C2841,Other,Teenager,Islamabad,2023-10-19,2024-12-30,KFC,Italian,4,1005.83,Card,31,2025-08-22,278,False,-1.0,Cancelled,4023.32,5,4,5
+C1624,Male,Adult,Islamabad,2024-06-17,2024-12-27,KFC,Fast Food,4,1226.1,Card,37,2025-08-22,55,True,2.0,Delivered,4904.4,5,4,5

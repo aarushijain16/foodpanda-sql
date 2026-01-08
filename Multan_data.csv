@@ -1,0 +1,1257 @@
+customer_id,gender,age,city,signup_date,order_date,restaurant_name,category,quantity,price,payment_method,order_frequency,last_order_date,loyalty_points,churned,rating,delivery_status,order_value,r_score,f_score,m_score,rfm_score
+C2831,Male,Adult,Multan,2023-08-23,2024-07-07,KFC,Italian,3,956.04,Wallet,24,2024-11-25,81,False,2.0,Delayed,2868.12,1,3,4,8
+C2851,Other,Senior,Multan,2023-08-23,2025-05-10,Pizza Hut,Italian,2,882.51,Cash,42,2025-06-20,82,True,3.0,Delayed,1765.02,4,5,3,12
+C3894,Female,Senior,Multan,2023-08-24,2024-09-26,Burger King,Fast Food,1,126.53,Wallet,45,2025-01-24,48,True,-1.0,Cancelled,126.53,2,5,1,8
+C4231,Female,Senior,Multan,2023-08-24,2024-11-12,Burger King,Continental,3,796.91,Wallet,39,2025-04-11,5,True,5.0,Delivered,2390.73,3,4,3,10
+C2975,Male,Teenager,Multan,2023-08-25,2024-09-28,Pizza Hut,Italian,3,1287.69,Wallet,49,2025-06-05,35,False,4.0,Delivered,3863.07,4,5,4,13
+C6340,Male,Senior,Multan,2023-08-26,2024-11-20,Burger King,Continental,2,209.77,Cash,16,2025-07-07,453,False,-1.0,Cancelled,419.54,4,2,1,7
+C2827,Male,Teenager,Multan,2023-08-26,2025-03-05,Pizza Hut,Italian,3,192.88,Wallet,26,2025-06-03,18,False,-1.0,Cancelled,578.64,4,3,1,8
+C4382,Male,Senior,Multan,2023-08-27,2025-01-20,Pizza Hut,Dessert,3,222.14,Wallet,4,2025-03-25,148,True,2.0,Delayed,666.42,2,1,1,4
+C3152,Other,Teenager,Multan,2023-08-27,2024-02-26,Subway,Chinese,3,768.49,Wallet,40,2024-12-23,495,True,5.0,Delivered,2305.4700000000003,1,4,3,8
+C4729,Female,Teenager,Multan,2023-08-27,2025-01-31,KFC,Chinese,2,198.12,Card,7,2025-07-18,13,True,-1.0,Cancelled,396.24,5,1,1,7
+C3247,Female,Senior,Multan,2023-08-27,2023-11-27,McDonald's,Italian,5,275.53,Cash,7,2024-12-06,138,False,2.0,Delivered,1377.6499999999999,1,1,2,4
+C5845,Other,Senior,Multan,2023-08-28,2024-10-14,Subway,Fast Food,3,1056.2,Card,26,2024-11-07,116,False,-1.0,Cancelled,3168.6000000000004,1,3,4,8
+C4203,Male,Adult,Multan,2023-08-28,2024-04-17,KFC,Italian,5,167.62,Card,13,2024-09-08,388,False,4.0,Delivered,838.1,1,2,1,4
+C1891,Male,Teenager,Multan,2023-08-29,2023-11-28,Pizza Hut,Chinese,5,1275.96,Card,28,2024-11-09,312,True,2.0,Delivered,6379.8,1,3,5,9
+C1972,Male,Teenager,Multan,2023-08-29,2024-06-03,McDonald's,Chinese,1,1462.99,Wallet,36,2025-03-26,316,True,-1.0,Cancelled,1462.99,2,4,3,9
+C5179,Male,Adult,Multan,2023-08-29,2023-09-03,McDonald's,Fast Food,1,1033.71,Card,47,2024-08-30,4,False,2.0,Delivered,1033.71,1,5,2,8
+C3775,Other,Adult,Multan,2023-09-01,2024-09-01,Burger King,Chinese,2,388.86,Cash,31,2024-12-29,39,True,-1.0,Cancelled,777.72,1,4,1,6
+C3733,Male,Adult,Multan,2023-09-01,2024-12-18,Burger King,Continental,4,172.76,Wallet,23,2025-05-18,356,True,5.0,Delivered,691.04,3,3,1,7
+C6843,Other,Senior,Multan,2023-09-02,2025-04-10,KFC,Italian,4,1014.28,Card,41,2025-07-22,0,False,1.0,Delivered,4057.12,5,5,5,15
+C5122,Other,Senior,Multan,2023-09-03,2025-03-30,McDonald's,Chinese,3,1201.49,Cash,37,2025-04-30,293,False,1.0,Delayed,3604.4700000000003,3,4,4,11
+C5223,Other,Adult,Multan,2023-09-04,2023-11-01,Subway,Chinese,3,1142.45,Wallet,9,2024-09-08,397,True,1.0,Delayed,3427.3500000000004,1,1,4,6
+C1434,Other,Senior,Multan,2023-09-05,2024-03-16,Subway,Chinese,4,949.24,Card,21,2025-06-15,264,False,-1.0,Cancelled,3796.96,4,3,4,11
+C3703,Other,Teenager,Multan,2023-09-05,2024-10-30,McDonald's,Fast Food,4,1071.49,Card,39,2025-06-04,1,False,2.0,Delayed,4285.96,4,4,5,13
+C1727,Male,Adult,Multan,2023-08-26,2023-09-05,Burger King,Dessert,3,465.28,Wallet,4,2025-06-06,71,False,4.0,Delivered,1395.84,4,1,2,7
+C5834,Other,Adult,Multan,2023-09-06,2023-10-06,Pizza Hut,Dessert,4,395.88,Card,37,2024-11-11,113,True,3.0,Delayed,1583.52,1,4,3,8
+C4303,Male,Adult,Multan,2023-09-06,2024-10-21,KFC,Dessert,2,893.55,Cash,17,2024-12-18,497,True,3.0,Delayed,1787.1,1,2,3,6
+C2514,Male,Teenager,Multan,2023-09-07,2024-08-10,Burger King,Fast Food,3,892.81,Cash,25,2025-07-02,335,True,-1.0,Cancelled,2678.43,4,3,4,11
+C5668,Female,Adult,Multan,2023-09-07,2024-10-20,KFC,Fast Food,2,1115.36,Card,9,2025-06-27,294,False,2.0,Delayed,2230.72,4,1,3,8
+C5722,Male,Teenager,Multan,2023-09-07,2025-06-26,Burger King,Continental,2,1215.67,Wallet,8,2025-06-29,186,True,4.0,Delivered,2431.34,4,1,3,8
+C6999,Female,Adult,Multan,2023-09-08,2024-05-16,Subway,Continental,2,1033.59,Card,1,2025-01-16,255,False,1.0,Delayed,2067.18,2,1,3,6
+C1799,Male,Adult,Multan,2023-09-09,2025-02-22,Burger King,Fast Food,3,1128.96,Card,12,2025-08-17,487,False,-1.0,Cancelled,3386.88,5,2,4,11
+C2167,Male,Senior,Multan,2023-09-10,2025-01-30,McDonald's,Italian,4,1460.35,Card,9,2025-04-19,315,False,-1.0,Cancelled,5841.4,3,1,5,9
+C3321,Male,Teenager,Multan,2023-09-10,2024-05-10,Burger King,Dessert,5,689.01,Card,3,2025-03-08,189,True,-1.0,Cancelled,3445.05,2,1,4,7
+C6145,Male,Senior,Multan,2023-09-10,2023-09-30,Subway,Continental,1,512.77,Cash,18,2025-01-01,434,True,-1.0,Cancelled,512.77,1,2,1,4
+C6753,Other,Teenager,Multan,2023-09-11,2024-08-24,KFC,Dessert,5,172.45,Cash,6,2025-01-07,338,False,-1.0,Cancelled,862.25,1,1,2,4
+C1800,Female,Adult,Multan,2023-09-11,2024-10-31,KFC,Chinese,4,412.61,Cash,47,2025-06-19,392,False,2.0,Delayed,1650.44,4,5,3,12
+C1043,Other,Senior,Multan,2023-09-12,2025-01-07,Pizza Hut,Continental,1,664.72,Card,11,2025-07-02,356,True,2.0,Delayed,664.72,4,1,1,6
+C5410,Male,Senior,Multan,2023-09-12,2024-01-13,Burger King,Continental,2,1217.64,Cash,27,2025-03-01,115,False,4.0,Delayed,2435.28,2,3,4,9
+C5067,Male,Senior,Multan,2023-09-12,2024-08-10,Pizza Hut,Fast Food,1,582.15,Cash,13,2024-12-25,492,False,5.0,Delayed,582.15,1,2,1,4
+C1918,Male,Teenager,Multan,2023-09-12,2023-11-29,Pizza Hut,Continental,5,1367.65,Wallet,7,2025-03-05,297,True,4.0,Delivered,6838.25,2,1,5,8
+C5102,Male,Adult,Multan,2023-09-13,2024-03-01,Burger King,Chinese,3,1275.91,Card,33,2024-08-30,368,False,4.0,Delayed,3827.7300000000005,1,4,4,9
+C2306,Other,Senior,Multan,2023-09-14,2024-04-10,McDonald's,Fast Food,4,1264.25,Cash,26,2024-08-22,337,True,-1.0,Cancelled,5057.0,1,3,5,9
+C1905,Female,Senior,Multan,2023-09-14,2024-12-30,McDonald's,Fast Food,5,1335.23,Wallet,11,2025-02-08,302,False,5.0,Delivered,6676.15,2,1,5,8
+C1366,Other,Senior,Multan,2023-09-15,2024-10-26,Subway,Chinese,5,532.27,Cash,4,2025-05-30,9,False,-1.0,Cancelled,2661.35,4,1,4,9
+C3174,Other,Senior,Multan,2023-09-15,2024-02-28,McDonald's,Fast Food,3,1016.5,Card,23,2025-06-13,235,True,3.0,Delayed,3049.5,4,3,4,11
+C6840,Other,Senior,Multan,2023-09-15,2024-05-27,Subway,Chinese,2,489.76,Wallet,26,2024-09-19,120,False,-1.0,Cancelled,979.52,1,3,2,6
+C1702,Female,Senior,Multan,2023-09-16,2024-06-24,Pizza Hut,Chinese,1,1266.44,Wallet,3,2024-08-27,437,True,5.0,Delayed,1266.44,1,1,2,4
+C4472,Male,Adult,Multan,2023-09-16,2024-08-23,Subway,Italian,4,1161.7,Wallet,21,2024-10-11,177,False,5.0,Delivered,4646.8,1,3,5,9
+C4540,Male,Senior,Multan,2023-09-16,2024-04-22,KFC,Dessert,2,179.31,Card,17,2024-11-10,210,False,5.0,Delayed,358.62,1,2,1,4
+C6262,Female,Senior,Multan,2023-09-16,2024-05-21,KFC,Fast Food,2,257.44,Card,41,2025-02-07,98,False,4.0,Delivered,514.88,2,5,1,8
+C5702,Other,Senior,Multan,2023-09-16,2023-10-20,Burger King,Dessert,4,200.97,Wallet,3,2024-09-12,238,True,5.0,Delayed,803.88,1,1,1,3
+C1698,Male,Adult,Multan,2023-09-17,2024-07-24,McDonald's,Dessert,4,1312.55,Card,39,2025-07-24,138,False,1.0,Delivered,5250.2,5,4,5,14
+C6047,Female,Teenager,Multan,2023-09-17,2024-09-13,Pizza Hut,Continental,4,293.44,Wallet,30,2024-09-18,327,True,1.0,Delivered,1173.76,1,3,2,6
+C5086,Female,Teenager,Multan,2023-09-18,2024-08-30,Burger King,Dessert,5,1287.99,Wallet,6,2025-05-16,186,True,-1.0,Cancelled,6439.95,3,1,5,9
+C3872,Other,Teenager,Multan,2023-09-18,2024-12-08,KFC,Fast Food,2,972.83,Card,2,2025-02-23,403,False,3.0,Delayed,1945.66,2,1,3,6
+C3375,Other,Teenager,Multan,2023-09-18,2025-07-27,Pizza Hut,Fast Food,2,127.52,Wallet,1,2025-07-31,204,False,1.0,Delayed,255.04,5,1,1,7
+C5858,Female,Adult,Multan,2023-09-19,2024-12-09,Subway,Chinese,2,946.03,Card,32,2025-06-14,193,True,5.0,Delayed,1892.06,4,4,3,11
+C1459,Other,Adult,Multan,2023-09-20,2024-04-05,Pizza Hut,Italian,5,434.85,Wallet,14,2024-09-12,148,True,5.0,Delivered,2174.25,1,2,3,6
+C4264,Female,Adult,Multan,2023-09-20,2025-03-11,McDonald's,Dessert,3,808.42,Wallet,29,2025-03-26,423,True,-1.0,Cancelled,2425.2599999999998,2,3,3,8
+C4849,Female,Adult,Multan,2023-09-20,2024-07-22,KFC,Continental,1,1323.97,Card,36,2025-05-01,448,True,5.0,Delayed,1323.97,3,4,2,9
+C5015,Male,Teenager,Multan,2023-09-20,2025-01-15,KFC,Continental,2,1441.48,Wallet,2,2025-07-31,40,False,5.0,Delivered,2882.96,5,1,4,10
+C1892,Other,Senior,Multan,2023-09-21,2024-12-13,Burger King,Chinese,2,681.72,Card,10,2025-03-22,397,True,5.0,Delivered,1363.44,2,1,2,5
+C3213,Other,Senior,Multan,2023-09-21,2024-07-10,KFC,Continental,3,841.78,Cash,25,2025-02-07,233,True,4.0,Delivered,2525.34,2,3,4,9
+C1710,Other,Teenager,Multan,2023-09-21,2023-11-01,KFC,Fast Food,3,436.54,Wallet,26,2025-01-30,391,True,-1.0,Cancelled,1309.6200000000001,2,3,2,7
+C3224,Female,Senior,Multan,2023-09-22,2024-03-20,Pizza Hut,Italian,3,931.67,Cash,3,2025-08-05,246,False,-1.0,Cancelled,2795.0099999999998,5,1,4,10
+C4787,Other,Teenager,Multan,2023-09-22,2024-07-15,Subway,Italian,4,160.81,Cash,2,2024-10-16,152,False,-1.0,Cancelled,643.24,1,1,1,3
+C2408,Male,Senior,Multan,2023-09-22,2025-07-14,Burger King,Italian,4,1395.01,Cash,19,2025-07-16,103,False,4.0,Delayed,5580.04,5,2,5,12
+C5596,Female,Senior,Multan,2023-09-23,2025-01-02,KFC,Continental,5,1414.0,Wallet,13,2025-07-22,338,False,4.0,Delayed,7070.0,5,2,5,12
+C3227,Other,Adult,Multan,2023-09-23,2024-01-29,KFC,Continental,4,980.0,Cash,1,2025-08-08,353,True,-1.0,Cancelled,3920.0,5,1,4,10
+C6271,Female,Teenager,Multan,2023-09-24,2025-01-28,KFC,Dessert,5,745.64,Cash,2,2025-05-24,429,True,1.0,Delivered,3728.2,3,1,4,8
+C4243,Other,Senior,Multan,2023-09-24,2023-12-21,Pizza Hut,Dessert,5,576.53,Wallet,17,2024-09-06,40,True,5.0,Delivered,2882.6499999999996,1,2,4,7
+C5836,Other,Adult,Multan,2023-09-25,2025-07-20,McDonald's,Fast Food,4,195.48,Cash,6,2025-08-08,213,True,-1.0,Cancelled,781.92,5,1,1,7
+C6345,Male,Senior,Multan,2023-09-25,2024-07-01,Subway,Italian,2,1164.01,Cash,5,2024-12-18,187,True,3.0,Delivered,2328.02,1,1,3,5
+C4195,Female,Senior,Multan,2023-09-26,2024-12-21,McDonald's,Continental,3,1025.94,Cash,9,2025-04-14,488,True,3.0,Delivered,3077.82,3,1,4,8
+C1878,Other,Teenager,Multan,2023-09-08,2023-09-26,Subway,Chinese,2,1421.08,Card,12,2025-03-09,116,False,2.0,Delayed,2842.16,2,2,4,8
+C6531,Female,Adult,Multan,2023-09-27,2024-10-04,Subway,Italian,1,908.4,Cash,47,2025-07-14,145,False,3.0,Delivered,908.4,5,5,2,12
+C1609,Male,Senior,Multan,2023-09-27,2024-02-16,Pizza Hut,Chinese,1,969.41,Wallet,37,2025-08-03,352,True,1.0,Delayed,969.41,5,4,2,11
+C5070,Female,Teenager,Multan,2023-09-28,2025-04-14,KFC,Fast Food,2,523.13,Wallet,14,2025-06-22,201,True,-1.0,Cancelled,1046.26,4,2,2,8
+C1877,Male,Teenager,Multan,2023-09-28,2024-01-30,Subway,Dessert,3,717.91,Card,29,2025-01-19,493,False,5.0,Delayed,2153.73,2,3,3,8
+C3336,Other,Senior,Multan,2023-09-28,2024-05-31,Burger King,Continental,3,1422.21,Cash,16,2024-11-13,468,False,3.0,Delivered,4266.63,1,2,5,8
+C2270,Male,Senior,Multan,2023-09-29,2024-12-10,Burger King,Fast Food,3,1271.26,Wallet,33,2025-03-16,386,True,-1.0,Cancelled,3813.7799999999997,2,4,4,10
+C4947,Other,Senior,Multan,2023-09-29,2025-05-20,Burger King,Continental,4,547.68,Card,44,2025-07-25,413,True,-1.0,Cancelled,2190.72,5,5,3,13
+C2341,Female,Adult,Multan,2023-08-31,2023-09-29,KFC,Italian,2,828.19,Cash,49,2025-05-03,214,True,5.0,Delivered,1656.38,3,5,3,11
+C6627,Male,Teenager,Multan,2023-09-29,2024-06-21,McDonald's,Continental,5,904.34,Card,13,2024-11-14,109,False,4.0,Delivered,4521.7,1,2,5,8
+C1852,Other,Teenager,Multan,2023-10-01,2025-04-11,KFC,Chinese,2,558.34,Wallet,40,2025-06-04,361,True,-1.0,Cancelled,1116.68,4,4,2,10
+C1310,Other,Adult,Multan,2023-10-01,2024-10-19,KFC,Chinese,1,689.59,Wallet,32,2024-12-11,387,True,1.0,Delayed,689.59,1,4,1,6
+C1871,Male,Adult,Multan,2023-10-01,2023-11-08,KFC,Chinese,4,539.86,Wallet,28,2025-05-01,26,False,4.0,Delayed,2159.44,3,3,3,9
+C4910,Other,Senior,Multan,2023-10-01,2023-11-25,Burger King,Italian,3,1456.76,Wallet,43,2025-03-13,291,True,-1.0,Cancelled,4370.28,2,5,5,12
+C1888,Other,Adult,Multan,2023-10-01,2024-09-30,KFC,Chinese,5,1472.72,Wallet,49,2025-03-30,112,False,4.0,Delayed,7363.6,2,5,5,12
+C6045,Female,Teenager,Multan,2023-10-02,2024-11-27,Subway,Dessert,1,184.69,Cash,25,2025-06-14,21,True,2.0,Delivered,184.69,4,3,1,8
+C5077,Male,Adult,Multan,2023-10-03,2024-01-16,Subway,Italian,5,1232.59,Cash,49,2024-10-30,43,False,3.0,Delayed,6162.95,1,5,5,11
+C5812,Male,Adult,Multan,2023-10-03,2024-02-07,Subway,Fast Food,5,918.17,Card,30,2025-04-30,347,True,3.0,Delayed,4590.849999999999,3,3,5,11
+C1173,Male,Teenager,Multan,2023-10-04,2024-08-22,Burger King,Italian,3,341.1,Wallet,1,2025-05-15,183,True,4.0,Delayed,1023.3000000000001,3,1,2,6
+C6061,Male,Teenager,Multan,2023-10-04,2024-07-20,McDonald's,Dessert,2,863.59,Wallet,36,2025-03-27,120,True,4.0,Delivered,1727.18,2,4,3,9
+C6192,Female,Adult,Multan,2023-10-05,2024-01-13,McDonald's,Fast Food,5,1067.86,Cash,41,2024-08-27,164,True,1.0,Delivered,5339.299999999999,1,5,5,11
+C4758,Other,Senior,Multan,2023-10-05,2025-03-30,Burger King,Chinese,2,1353.28,Wallet,10,2025-05-30,175,False,-1.0,Cancelled,2706.56,4,1,4,9
+C6515,Female,Teenager,Multan,2023-10-06,2025-01-05,Subway,Italian,4,197.71,Cash,20,2025-04-02,140,True,3.0,Delivered,790.84,3,2,1,6
+C3761,Other,Adult,Multan,2023-10-06,2024-05-09,McDonald's,Continental,2,743.12,Cash,34,2025-03-14,184,False,2.0,Delayed,1486.24,2,4,3,9
+C5677,Male,Adult,Multan,2023-10-07,2023-12-11,Burger King,Continental,3,489.92,Wallet,7,2025-06-06,363,False,2.0,Delayed,1469.76,4,1,3,8
+C5516,Other,Senior,Multan,2023-10-09,2024-10-29,Subway,Italian,2,948.7,Cash,14,2025-06-22,221,False,1.0,Delayed,1897.4,4,2,3,9
+C6537,Female,Senior,Multan,2023-10-09,2024-10-18,Subway,Dessert,5,623.82,Wallet,28,2024-12-19,419,False,1.0,Delivered,3119.1000000000004,1,3,4,8
+C4834,Male,Senior,Multan,2023-10-09,2024-08-01,Pizza Hut,Continental,2,387.95,Cash,2,2025-02-18,482,False,-1.0,Cancelled,775.9,2,1,1,4
+C1606,Female,Teenager,Multan,2023-10-09,2023-12-06,Subway,Fast Food,5,374.54,Cash,26,2024-10-24,442,False,1.0,Delayed,1872.7,1,3,3,7
+C2560,Male,Senior,Multan,2023-10-11,2024-12-10,KFC,Continental,5,130.33,Wallet,17,2025-07-06,283,True,-1.0,Cancelled,651.6500000000001,4,2,1,7
+C1041,Female,Adult,Multan,2023-10-12,2023-12-26,KFC,Italian,5,1036.39,Wallet,10,2024-09-19,108,False,2.0,Delayed,5181.950000000001,1,1,5,7
+C2141,Male,Senior,Multan,2023-10-13,2025-04-01,KFC,Chinese,5,1069.32,Wallet,9,2025-06-01,291,False,4.0,Delayed,5346.599999999999,4,1,5,10
+C6709,Female,Adult,Multan,2023-10-13,2024-02-07,McDonald's,Fast Food,2,488.25,Cash,42,2025-01-26,459,False,1.0,Delivered,976.5,2,5,2,9
+C1974,Female,Adult,Multan,2023-10-14,2024-12-23,McDonald's,Dessert,2,308.94,Cash,47,2025-04-18,429,False,3.0,Delayed,617.88,3,5,1,9
+C2388,Male,Teenager,Multan,2023-10-15,2024-05-02,Burger King,Fast Food,4,1019.58,Wallet,30,2024-10-11,92,True,2.0,Delivered,4078.32,1,3,5,9
+C4940,Other,Senior,Multan,2023-10-15,2023-12-19,Subway,Dessert,2,923.74,Cash,40,2025-03-19,118,True,-1.0,Cancelled,1847.48,2,4,3,9
+C1901,Female,Teenager,Multan,2023-10-16,2024-07-22,KFC,Italian,5,328.98,Cash,31,2025-08-18,200,False,5.0,Delayed,1644.9,5,4,3,12
+C3980,Male,Adult,Multan,2023-10-16,2025-05-16,Pizza Hut,Italian,1,1393.3,Cash,10,2025-06-06,84,True,5.0,Delayed,1393.3,4,1,2,7
+C5291,Male,Adult,Multan,2023-09-18,2023-10-17,Pizza Hut,Italian,1,716.46,Card,11,2024-11-15,145,True,5.0,Delivered,716.46,1,1,1,3
+C5859,Other,Senior,Multan,2023-10-17,2024-03-06,McDonald's,Italian,4,421.4,Cash,28,2024-09-17,182,True,4.0,Delivered,1685.6,1,3,3,7
+C5344,Male,Teenager,Multan,2023-10-18,2024-08-24,Subway,Dessert,2,1302.76,Cash,29,2025-03-06,410,True,4.0,Delayed,2605.52,2,3,4,9
+C1985,Female,Adult,Multan,2023-10-18,2024-09-08,Burger King,Dessert,2,623.28,Cash,38,2025-01-05,313,False,1.0,Delivered,1246.56,1,4,2,7
+C4186,Male,Senior,Multan,2023-10-19,2025-02-08,McDonald's,Fast Food,1,1034.47,Cash,44,2025-03-30,116,True,4.0,Delayed,1034.47,2,5,2,9
+C5246,Female,Senior,Multan,2023-10-19,2024-11-10,McDonald's,Chinese,4,221.81,Card,39,2025-05-15,420,True,-1.0,Cancelled,887.24,3,4,2,9
+C6156,Female,Teenager,Multan,2023-10-19,2024-07-29,McDonald's,Chinese,5,1372.76,Card,42,2024-11-03,448,False,4.0,Delayed,6863.8,1,5,5,11
+C1331,Female,Adult,Multan,2023-10-20,2024-03-27,Burger King,Dessert,4,1196.17,Card,17,2025-02-10,452,False,-1.0,Cancelled,4784.68,2,2,5,9
+C6889,Other,Adult,Multan,2023-10-20,2024-05-15,Subway,Continental,3,700.13,Cash,28,2025-04-08,348,True,-1.0,Cancelled,2100.39,3,3,3,9
+C1420,Male,Teenager,Multan,2023-10-21,2025-03-10,McDonald's,Chinese,2,186.18,Cash,40,2025-05-19,389,True,3.0,Delivered,372.36,3,4,1,8
+C1001,Male,Adult,Multan,2023-10-22,2024-08-27,Pizza Hut,Fast Food,5,322.72,Cash,45,2025-01-25,417,False,5.0,Delayed,1613.6000000000001,2,5,3,10
+C2692,Male,Adult,Multan,2023-10-22,2023-12-19,Burger King,Continental,4,209.85,Wallet,14,2024-11-11,456,True,3.0,Delayed,839.4,1,2,1,4
+C1954,Other,Teenager,Multan,2023-10-23,2024-03-02,Pizza Hut,Chinese,2,815.3,Card,7,2024-09-29,343,False,-1.0,Cancelled,1630.6,1,1,3,5
+C2374,Male,Senior,Multan,2023-10-23,2024-01-12,Burger King,Continental,1,1033.01,Card,43,2025-03-27,27,True,-1.0,Cancelled,1033.01,2,5,2,9
+C1895,Male,Adult,Multan,2023-10-24,2024-03-14,Pizza Hut,Chinese,4,1018.61,Card,38,2025-08-04,142,False,4.0,Delayed,4074.44,5,4,5,14
+C4266,Male,Senior,Multan,2023-10-26,2024-07-21,Subway,Fast Food,2,185.45,Cash,25,2024-09-11,98,True,4.0,Delivered,370.9,1,3,1,5
+C2723,Female,Teenager,Multan,2023-10-27,2024-03-18,KFC,Dessert,1,814.63,Card,13,2025-04-09,486,False,3.0,Delivered,814.63,3,2,1,6
+C6555,Other,Teenager,Multan,2023-10-27,2024-05-10,McDonald's,Dessert,1,1351.11,Card,48,2025-05-16,458,True,1.0,Delayed,1351.11,3,5,2,10
+C4229,Female,Senior,Multan,2023-10-27,2024-05-09,Burger King,Italian,1,303.3,Card,42,2024-08-30,457,False,-1.0,Cancelled,303.3,1,5,1,7
+C6152,Female,Adult,Multan,2023-10-28,2024-12-27,McDonald's,Chinese,2,294.61,Card,19,2025-08-13,254,False,-1.0,Cancelled,589.22,5,2,1,8
+C1240,Male,Senior,Multan,2023-10-29,2025-02-17,Pizza Hut,Italian,5,920.95,Card,22,2025-04-02,78,True,4.0,Delivered,4604.75,3,3,5,11
+C5467,Male,Senior,Multan,2023-10-30,2024-08-22,Subway,Italian,2,552.13,Cash,8,2024-11-14,321,True,3.0,Delayed,1104.26,1,1,2,4
+C2201,Other,Adult,Multan,2023-10-30,2024-08-23,KFC,Continental,5,1462.68,Wallet,45,2025-04-03,388,True,1.0,Delayed,7313.400000000001,3,5,5,13
+C4994,Female,Teenager,Multan,2023-10-30,2025-04-02,Subway,Dessert,1,1217.19,Cash,7,2025-05-05,88,False,2.0,Delivered,1217.19,3,1,2,6
+C3715,Other,Teenager,Multan,2023-10-30,2024-11-20,Pizza Hut,Italian,4,1049.77,Card,26,2025-04-12,139,True,5.0,Delivered,4199.08,3,3,5,11
+C2037,Male,Senior,Multan,2023-10-31,2024-05-25,Burger King,Chinese,1,1049.51,Cash,26,2024-11-02,307,False,4.0,Delivered,1049.51,1,3,2,6
+C3972,Female,Adult,Multan,2023-11-01,2024-11-27,Pizza Hut,Fast Food,1,618.05,Cash,33,2025-01-18,12,True,4.0,Delivered,618.05,2,4,1,7
+C5527,Male,Adult,Multan,2023-11-02,2024-05-06,KFC,Fast Food,2,114.1,Cash,10,2024-08-29,494,True,-1.0,Cancelled,228.2,1,1,1,3
+C5775,Male,Teenager,Multan,2023-11-02,2025-01-29,KFC,Dessert,5,1409.81,Wallet,2,2025-03-18,344,True,2.0,Delivered,7049.049999999999,2,1,5,8
+C3355,Other,Adult,Multan,2023-11-03,2024-08-12,McDonald's,Chinese,3,1336.05,Cash,32,2025-07-09,464,False,5.0,Delayed,4008.1499999999996,4,4,5,13
+C3833,Male,Teenager,Multan,2023-11-03,2024-09-23,Pizza Hut,Chinese,5,214.58,Wallet,32,2024-11-18,157,True,3.0,Delivered,1072.9,1,4,2,7
+C5020,Male,Teenager,Multan,2023-11-03,2024-04-08,McDonald's,Fast Food,3,311.08,Wallet,48,2025-06-23,198,False,4.0,Delayed,933.24,4,5,2,11
+C4799,Female,Senior,Multan,2023-08-28,2023-11-06,McDonald's,Fast Food,5,300.28,Card,31,2024-12-31,460,True,1.0,Delivered,1501.3999999999999,1,4,3,8
+C2257,Other,Teenager,Multan,2023-11-07,2023-11-11,McDonald's,Continental,4,728.89,Cash,21,2025-06-12,168,False,-1.0,Cancelled,2915.56,4,3,4,11
+C6592,Male,Teenager,Multan,2023-11-07,2024-03-29,Pizza Hut,Fast Food,3,570.02,Card,43,2024-12-01,85,True,1.0,Delayed,1710.06,1,5,3,9
+C4496,Male,Teenager,Multan,2023-11-08,2025-01-09,KFC,Continental,5,1100.88,Wallet,42,2025-04-22,52,True,1.0,Delivered,5504.400000000001,3,5,5,13
+C4124,Female,Teenager,Multan,2023-10-31,2023-11-09,Pizza Hut,Italian,4,385.2,Card,28,2024-12-24,445,True,2.0,Delivered,1540.8,1,3,3,7
+C1900,Female,Senior,Multan,2023-11-09,2024-07-14,Subway,Chinese,1,820.43,Card,12,2024-09-27,156,True,-1.0,Cancelled,820.43,1,2,1,4
+C3920,Other,Adult,Multan,2023-11-09,2024-11-26,McDonald's,Fast Food,1,1411.28,Wallet,17,2024-11-28,313,False,5.0,Delayed,1411.28,1,2,2,5
+C4569,Male,Adult,Multan,2023-11-10,2024-07-31,McDonald's,Chinese,1,109.77,Cash,14,2025-05-08,174,False,-1.0,Cancelled,109.77,3,2,1,6
+C4127,Female,Adult,Multan,2023-11-10,2024-12-16,Pizza Hut,Dessert,5,755.69,Cash,6,2025-07-02,185,True,1.0,Delayed,3778.4500000000003,4,1,4,9
+C6952,Female,Adult,Multan,2023-11-10,2024-05-17,Pizza Hut,Continental,4,258.0,Wallet,50,2024-10-29,500,False,1.0,Delivered,1032.0,1,5,2,8
+C6810,Other,Senior,Multan,2023-11-11,2024-11-02,KFC,Dessert,5,1464.24,Wallet,32,2024-12-09,457,False,-1.0,Cancelled,7321.2,1,4,5,10
+C6724,Female,Teenager,Multan,2023-10-23,2023-11-11,KFC,Chinese,5,1075.94,Cash,39,2025-07-26,100,False,3.0,Delivered,5379.700000000001,5,4,5,14
+C2401,Male,Senior,Multan,2023-11-11,2023-12-02,Burger King,Fast Food,2,213.28,Cash,37,2025-06-18,163,True,2.0,Delivered,426.56,4,4,1,9
+C6569,Male,Senior,Multan,2023-11-11,2025-02-15,McDonald's,Continental,2,827.9,Wallet,44,2025-06-09,483,False,5.0,Delivered,1655.8,4,5,3,12
+C3586,Female,Adult,Multan,2023-11-11,2024-02-15,Burger King,Dessert,3,128.78,Wallet,27,2024-08-26,389,False,-1.0,Cancelled,386.34000000000003,1,3,1,5
+C3182,Male,Teenager,Multan,2023-11-12,2024-05-13,KFC,Italian,5,1363.02,Card,48,2025-08-14,156,True,-1.0,Cancelled,6815.1,5,5,5,15
+C2846,Female,Adult,Multan,2023-11-12,2024-01-09,Burger King,Continental,4,312.92,Cash,33,2025-03-01,215,False,3.0,Delivered,1251.68,2,4,2,8
+C1853,Female,Adult,Multan,2023-11-13,2024-02-06,Pizza Hut,Fast Food,2,1201.48,Wallet,9,2024-12-11,80,True,-1.0,Cancelled,2402.96,1,1,3,5
+C1390,Male,Teenager,Multan,2023-11-13,2024-10-16,McDonald's,Italian,5,1188.09,Wallet,27,2024-11-26,463,True,3.0,Delivered,5940.45,1,3,5,9
+C4655,Male,Senior,Multan,2023-11-14,2024-02-24,Subway,Fast Food,3,952.66,Card,8,2024-10-28,120,True,4.0,Delivered,2857.98,1,1,4,6
+C4757,Female,Teenager,Multan,2023-11-15,2025-02-22,KFC,Continental,3,1411.25,Card,19,2025-08-18,312,True,-1.0,Cancelled,4233.75,5,2,5,12
+C3556,Male,Adult,Multan,2023-11-15,2024-11-12,Subway,Italian,3,125.49,Card,21,2025-05-20,70,False,2.0,Delivered,376.46999999999997,3,3,1,7
+C6660,Male,Adult,Multan,2023-11-15,2023-12-23,Subway,Fast Food,5,246.42,Wallet,46,2024-12-28,60,False,-1.0,Cancelled,1232.1,1,5,2,8
+C4836,Female,Teenager,Multan,2023-08-29,2023-11-16,Pizza Hut,Chinese,1,1287.45,Cash,36,2025-01-09,239,False,4.0,Delivered,1287.45,1,4,2,7
+C4486,Other,Teenager,Multan,2023-11-17,2025-07-10,Burger King,Italian,1,1003.06,Cash,26,2025-07-24,294,True,-1.0,Cancelled,1003.06,5,3,2,10
+C2189,Female,Senior,Multan,2023-11-17,2024-01-29,Subway,Fast Food,1,717.73,Cash,39,2024-11-15,157,True,-1.0,Cancelled,717.73,1,4,1,6
+C1946,Male,Senior,Multan,2023-11-19,2024-04-23,Subway,Continental,3,714.36,Card,31,2025-01-22,178,True,1.0,Delivered,2143.08,2,4,3,9
+C2525,Male,Adult,Multan,2023-11-20,2024-05-06,KFC,Dessert,1,1483.24,Cash,50,2025-01-22,427,True,2.0,Delivered,1483.24,2,5,3,10
+C6101,Other,Teenager,Multan,2023-11-20,2024-06-07,KFC,Continental,1,288.68,Card,45,2025-03-11,136,False,2.0,Delivered,288.68,2,5,1,8
+C3704,Male,Teenager,Multan,2023-11-22,2024-09-12,Subway,Continental,5,376.36,Cash,36,2024-12-27,306,False,1.0,Delivered,1881.8000000000002,1,4,3,8
+C3575,Female,Teenager,Multan,2023-11-22,2024-11-02,KFC,Dessert,1,1401.97,Cash,22,2025-06-18,251,False,5.0,Delivered,1401.97,4,3,2,9
+C3510,Male,Adult,Multan,2023-11-23,2024-09-20,Burger King,Chinese,5,210.48,Wallet,20,2025-03-12,51,False,3.0,Delivered,1052.3999999999999,2,2,2,6
+C2652,Other,Adult,Multan,2023-11-23,2024-02-02,Subway,Fast Food,3,249.11,Card,39,2025-08-05,237,True,-1.0,Cancelled,747.33,5,4,1,10
+C5151,Female,Senior,Multan,2023-11-24,2025-01-10,Subway,Continental,3,273.08,Wallet,32,2025-01-14,140,True,2.0,Delayed,819.24,1,4,1,6
+C4344,Other,Senior,Multan,2023-11-24,2024-11-04,Pizza Hut,Continental,1,643.62,Wallet,36,2025-07-29,183,False,2.0,Delivered,643.62,5,4,1,10
+C2541,Male,Teenager,Multan,2023-11-25,2024-10-07,Subway,Continental,3,1054.08,Wallet,1,2025-01-30,205,True,-1.0,Cancelled,3162.24,2,1,4,7
+C1256,Male,Adult,Multan,2023-10-10,2023-11-25,Burger King,Italian,1,905.48,Cash,26,2024-09-24,168,True,2.0,Delayed,905.48,1,3,2,6
+C1541,Female,Teenager,Multan,2023-11-25,2023-12-31,McDonald's,Continental,4,188.07,Wallet,7,2025-05-31,255,True,1.0,Delivered,752.28,4,1,1,6
+C6078,Female,Senior,Multan,2023-11-26,2024-06-22,Burger King,Italian,5,888.96,Card,38,2025-01-11,468,False,4.0,Delivered,4444.8,1,4,5,10
+C5744,Male,Teenager,Multan,2023-11-27,2024-04-04,KFC,Italian,5,365.33,Card,7,2024-09-10,405,False,5.0,Delayed,1826.6499999999999,1,1,3,5
+C6393,Female,Senior,Multan,2023-11-27,2025-07-04,Subway,Fast Food,5,420.66,Wallet,25,2025-07-10,221,True,2.0,Delayed,2103.3,4,3,3,10
+C4338,Male,Adult,Multan,2023-11-28,2025-02-03,Burger King,Italian,2,789.48,Card,50,2025-06-03,425,True,1.0,Delivered,1578.96,4,5,3,12
+C6281,Male,Adult,Multan,2023-11-28,2024-08-27,Burger King,Continental,5,1392.06,Cash,47,2025-04-30,213,True,-1.0,Cancelled,6960.299999999999,3,5,5,13
+C3025,Female,Senior,Multan,2023-11-29,2025-01-11,KFC,Continental,5,1172.52,Wallet,16,2025-05-11,387,False,5.0,Delivered,5862.6,3,2,5,10
+C5462,Male,Teenager,Multan,2023-11-30,2025-01-07,Pizza Hut,Fast Food,2,1344.28,Wallet,43,2025-03-19,18,False,5.0,Delayed,2688.56,2,5,4,11
+C2490,Male,Senior,Multan,2023-11-30,2024-06-13,Subway,Continental,3,163.47,Card,30,2025-04-13,48,True,-1.0,Cancelled,490.40999999999997,3,3,1,7
+C6758,Other,Teenager,Multan,2023-09-09,2023-11-30,KFC,Continental,2,1311.95,Wallet,32,2025-08-19,358,True,-1.0,Cancelled,2623.9,5,4,4,13
+C1365,Female,Senior,Multan,2023-12-01,2024-10-06,McDonald's,Dessert,5,117.17,Card,11,2025-04-24,281,False,4.0,Delivered,585.85,3,1,1,5
+C1587,Other,Senior,Multan,2023-12-01,2024-03-28,Pizza Hut,Continental,3,411.13,Card,19,2025-03-16,379,False,4.0,Delivered,1233.3899999999999,2,2,2,6
+C6963,Male,Senior,Multan,2023-12-01,2024-02-07,McDonald's,Italian,1,561.46,Cash,19,2025-08-02,340,True,1.0,Delayed,561.46,5,2,1,8
+C4996,Other,Teenager,Multan,2023-12-02,2024-11-06,KFC,Dessert,3,400.38,Wallet,32,2025-07-20,264,False,3.0,Delivered,1201.1399999999999,5,4,2,11
+C4255,Other,Teenager,Multan,2023-09-15,2023-12-02,Burger King,Chinese,3,192.0,Card,43,2024-12-17,261,True,-1.0,Cancelled,576.0,1,5,1,7
+C4794,Other,Adult,Multan,2023-12-03,2025-01-21,Burger King,Dessert,1,143.03,Card,32,2025-08-15,179,False,-1.0,Cancelled,143.03,5,4,1,10
+C4258,Male,Senior,Multan,2023-12-03,2025-03-27,Burger King,Fast Food,3,1049.62,Cash,48,2025-08-01,97,False,1.0,Delivered,3148.8599999999997,5,5,4,14
+C1654,Male,Adult,Multan,2023-12-03,2024-01-03,Subway,Fast Food,5,922.78,Cash,1,2025-02-03,99,True,1.0,Delayed,4613.9,2,1,5,8
+C6479,Male,Adult,Multan,2023-12-03,2024-05-13,Pizza Hut,Fast Food,2,311.55,Wallet,48,2025-01-25,320,False,-1.0,Cancelled,623.1,2,5,1,8
+C5242,Female,Senior,Multan,2023-12-04,2024-11-19,Pizza Hut,Continental,5,943.46,Cash,41,2025-07-14,74,False,2.0,Delivered,4717.3,5,5,5,15
+C6228,Male,Adult,Multan,2023-12-04,2025-02-09,McDonald's,Fast Food,3,1173.97,Cash,23,2025-07-16,423,True,2.0,Delivered,3521.91,5,3,4,12
+C2917,Female,Teenager,Multan,2023-12-05,2024-11-18,Pizza Hut,Italian,2,535.84,Cash,12,2025-05-06,221,True,-1.0,Cancelled,1071.68,3,2,2,7
+C1611,Female,Senior,Multan,2023-09-01,2023-12-05,KFC,Dessert,3,323.41,Card,17,2025-06-08,420,False,2.0,Delivered,970.23,4,2,2,8
+C3758,Male,Senior,Multan,2023-12-06,2023-12-22,Subway,Fast Food,3,675.16,Cash,1,2025-02-25,317,True,-1.0,Cancelled,2025.48,2,1,3,6
+C2366,Other,Senior,Multan,2023-12-07,2024-12-23,Pizza Hut,Chinese,5,1316.66,Card,5,2025-06-23,58,False,1.0,Delivered,6583.3,4,1,5,10
+C1709,Other,Teenager,Multan,2023-12-08,2024-08-19,McDonald's,Dessert,1,340.04,Card,2,2025-03-25,455,False,4.0,Delayed,340.04,2,1,1,4
+C6197,Male,Teenager,Multan,2023-09-07,2023-12-08,Pizza Hut,Continental,1,473.14,Card,30,2024-11-12,464,False,2.0,Delivered,473.14,1,3,1,5
+C2625,Other,Teenager,Multan,2023-12-08,2025-03-09,Pizza Hut,Continental,5,619.07,Card,39,2025-08-02,326,False,1.0,Delayed,3095.3500000000004,5,4,4,13
+C6662,Female,Teenager,Multan,2023-12-09,2024-04-11,Subway,Continental,4,1081.78,Wallet,24,2025-06-28,185,False,3.0,Delivered,4327.12,4,3,5,12
+C6852,Female,Adult,Multan,2023-12-10,2025-06-17,Burger King,Fast Food,5,172.02,Card,20,2025-06-18,254,False,-1.0,Cancelled,860.1,4,2,2,8
+C2498,Male,Teenager,Multan,2023-11-16,2023-12-11,KFC,Continental,5,1200.74,Cash,13,2025-07-31,351,False,-1.0,Cancelled,6003.7,5,2,5,12
+C3836,Other,Adult,Multan,2023-12-11,2024-11-09,McDonald's,Continental,5,1043.07,Wallet,43,2025-02-04,401,False,-1.0,Cancelled,5215.349999999999,2,5,5,12
+C5529,Female,Teenager,Multan,2023-12-12,2024-06-18,KFC,Chinese,2,1207.8,Cash,12,2024-10-02,452,True,4.0,Delayed,2415.6,1,2,3,6
+C4964,Other,Senior,Multan,2023-12-14,2025-02-21,Burger King,Italian,1,733.1,Card,22,2025-06-17,226,True,-1.0,Cancelled,733.1,4,3,1,8
+C6748,Other,Senior,Multan,2023-12-14,2024-11-01,McDonald's,Italian,2,1348.5,Wallet,11,2025-05-12,164,False,1.0,Delayed,2697.0,3,1,4,8
+C3105,Male,Senior,Multan,2023-12-14,2024-05-18,Subway,Continental,2,899.22,Card,17,2025-03-30,48,True,1.0,Delayed,1798.44,2,2,3,7
+C3287,Other,Teenager,Multan,2023-12-16,2024-04-26,KFC,Dessert,1,1464.61,Card,15,2024-12-11,455,True,4.0,Delivered,1464.61,1,2,3,6
+C1358,Female,Adult,Multan,2023-12-16,2024-11-01,KFC,Continental,5,1085.21,Wallet,20,2025-03-18,245,True,-1.0,Cancelled,5426.05,2,2,5,9
+C2297,Male,Adult,Multan,2023-12-17,2024-07-13,KFC,Continental,2,542.11,Cash,16,2024-08-31,176,False,-1.0,Cancelled,1084.22,1,2,2,5
+C2348,Male,Teenager,Multan,2023-12-17,2024-08-04,Pizza Hut,Dessert,1,963.34,Wallet,1,2025-02-13,110,False,-1.0,Cancelled,963.34,2,1,2,5
+C5407,Other,Teenager,Multan,2023-12-17,2024-10-04,Pizza Hut,Italian,4,875.31,Cash,21,2025-06-14,222,False,5.0,Delivered,3501.24,4,3,4,11
+C4269,Female,Adult,Multan,2023-09-27,2023-12-18,Subway,Dessert,4,330.26,Cash,24,2025-01-22,183,False,5.0,Delivered,1321.04,2,3,2,7
+C4140,Other,Senior,Multan,2023-12-19,2024-08-29,Pizza Hut,Continental,3,113.5,Wallet,16,2025-03-02,284,False,-1.0,Cancelled,340.5,2,2,1,5
+C4189,Other,Adult,Multan,2023-12-19,2024-01-14,McDonald's,Fast Food,2,314.19,Card,2,2025-06-27,55,False,1.0,Delayed,628.38,4,1,1,6
+C6117,Male,Teenager,Multan,2023-12-20,2025-02-08,KFC,Italian,5,1446.48,Cash,22,2025-07-02,278,True,4.0,Delivered,7232.4,4,3,5,12
+C2470,Female,Teenager,Multan,2023-12-21,2024-10-22,Burger King,Italian,4,1180.47,Cash,15,2025-04-28,421,True,5.0,Delayed,4721.88,3,2,5,10
+C5428,Other,Teenager,Multan,2023-12-21,2024-07-04,McDonald's,Dessert,1,779.98,Cash,15,2024-11-02,353,False,3.0,Delivered,779.98,1,2,1,4
+C2559,Other,Teenager,Multan,2023-12-21,2024-07-29,Subway,Italian,2,1337.8,Card,45,2025-05-29,461,False,2.0,Delivered,2675.6,4,5,4,13
+C6433,Other,Adult,Multan,2023-12-22,2024-11-29,Subway,Italian,5,1320.18,Card,36,2025-05-25,204,True,-1.0,Cancelled,6600.900000000001,3,4,5,12
+C1560,Female,Senior,Multan,2023-12-22,2024-01-30,Burger King,Dessert,4,288.68,Card,15,2025-08-02,183,False,2.0,Delivered,1154.72,5,2,2,9
+C5095,Other,Teenager,Multan,2023-12-22,2024-02-26,Subway,Dessert,4,985.46,Card,40,2025-08-19,476,True,4.0,Delayed,3941.84,5,4,4,13
+C2238,Other,Senior,Multan,2023-12-23,2024-09-19,KFC,Fast Food,2,1334.77,Card,49,2025-06-02,431,False,5.0,Delivered,2669.54,4,5,4,13
+C1605,Female,Adult,Multan,2023-12-24,2024-09-28,Subway,Italian,4,588.01,Wallet,30,2025-01-03,230,False,3.0,Delayed,2352.04,1,3,3,7
+C5806,Male,Adult,Multan,2023-12-24,2024-09-23,KFC,Continental,1,889.0,Card,25,2025-08-04,391,False,4.0,Delivered,889.0,5,3,2,10
+C6726,Male,Senior,Multan,2023-12-24,2025-03-30,Pizza Hut,Continental,2,1252.03,Cash,1,2025-06-13,187,False,2.0,Delayed,2504.06,4,1,4,9
+C5986,Other,Senior,Multan,2023-11-01,2023-12-24,Burger King,Chinese,4,1484.58,Wallet,50,2025-04-24,183,True,1.0,Delayed,5938.32,3,5,5,13
+C3795,Male,Teenager,Multan,2023-12-25,2024-06-03,Pizza Hut,Continental,4,857.32,Cash,34,2025-05-04,211,True,1.0,Delivered,3429.28,3,4,4,11
+C2801,Male,Senior,Multan,2023-12-26,2024-12-27,Burger King,Continental,3,393.33,Card,36,2025-07-14,176,True,-1.0,Cancelled,1179.99,5,4,2,11
+C4981,Female,Adult,Multan,2023-12-27,2025-03-27,Pizza Hut,Fast Food,2,1025.27,Card,27,2025-05-16,109,False,5.0,Delayed,2050.54,3,3,3,9
+C4952,Male,Teenager,Multan,2023-12-27,2024-10-10,KFC,Italian,5,971.92,Card,13,2025-06-20,39,True,2.0,Delivered,4859.599999999999,4,2,5,11
+C6056,Female,Senior,Multan,2023-09-30,2023-12-27,KFC,Italian,4,1382.62,Card,20,2025-04-24,139,True,1.0,Delivered,5530.48,3,2,5,10
+C6897,Male,Teenager,Multan,2023-12-29,2024-12-15,KFC,Continental,3,533.48,Cash,16,2025-01-12,346,False,1.0,Delivered,1600.44,1,2,3,6
+C4868,Other,Adult,Multan,2023-12-31,2024-04-26,KFC,Fast Food,4,384.57,Wallet,22,2025-06-16,120,False,4.0,Delayed,1538.28,4,3,3,10
+C5248,Male,Adult,Multan,2023-12-17,2023-12-31,McDonald's,Fast Food,1,709.1,Card,15,2025-06-07,54,True,-1.0,Cancelled,709.1,4,2,1,7
+C3091,Other,Senior,Multan,2024-01-02,2024-08-20,McDonald's,Fast Food,5,535.88,Card,15,2025-04-24,456,False,3.0,Delayed,2679.4,3,2,4,9
+C5894,Other,Adult,Multan,2024-01-02,2024-09-23,Pizza Hut,Chinese,2,937.39,Cash,22,2025-06-26,152,True,4.0,Delivered,1874.78,4,3,3,10
+C5959,Other,Senior,Multan,2024-01-03,2024-02-28,Pizza Hut,Continental,3,708.22,Wallet,19,2025-07-09,496,True,5.0,Delayed,2124.66,4,2,3,9
+C1378,Female,Senior,Multan,2024-01-03,2024-07-15,Pizza Hut,Dessert,3,1470.57,Cash,40,2025-06-18,5,False,2.0,Delivered,4411.71,4,4,5,13
+C1601,Male,Senior,Multan,2024-01-04,2024-10-31,KFC,Continental,3,1205.06,Cash,33,2024-12-28,197,True,-1.0,Cancelled,3615.18,1,4,4,9
+C6508,Male,Senior,Multan,2024-01-04,2025-04-23,Subway,Fast Food,2,287.7,Card,28,2025-05-30,228,True,-1.0,Cancelled,575.4,4,3,1,8
+C1977,Male,Adult,Multan,2024-01-05,2025-03-23,McDonald's,Fast Food,3,852.49,Card,2,2025-05-31,124,True,3.0,Delivered,2557.4700000000003,4,1,4,9
+C1976,Male,Teenager,Multan,2024-01-06,2025-01-11,McDonald's,Continental,4,813.69,Card,14,2025-02-09,437,True,5.0,Delayed,3254.76,2,2,4,8
+C2056,Male,Teenager,Multan,2024-01-07,2024-03-24,Subway,Fast Food,5,1482.39,Wallet,37,2025-06-24,141,False,-1.0,Cancelled,7411.950000000001,4,4,5,13
+C1562,Female,Adult,Multan,2024-01-07,2024-09-19,KFC,Chinese,2,941.03,Cash,30,2025-04-26,169,True,2.0,Delayed,1882.06,3,3,3,9
+C4536,Female,Teenager,Multan,2024-01-07,2024-11-11,KFC,Chinese,3,1402.39,Card,47,2025-05-24,266,False,1.0,Delayed,4207.17,3,5,5,13
+C6149,Other,Senior,Multan,2024-01-07,2024-06-03,Subway,Fast Food,4,665.27,Card,31,2025-06-15,79,False,5.0,Delivered,2661.08,4,4,4,12
+C1633,Other,Adult,Multan,2024-01-07,2024-07-19,Burger King,Continental,5,598.24,Cash,49,2025-07-27,8,True,4.0,Delivered,2991.2,5,5,4,14
+C5617,Other,Senior,Multan,2024-01-07,2024-03-21,KFC,Italian,4,535.8,Card,27,2024-09-27,486,False,1.0,Delivered,2143.2,1,3,3,7
+C1681,Female,Teenager,Multan,2024-01-08,2025-04-05,KFC,Fast Food,3,532.1,Cash,27,2025-06-05,373,False,-1.0,Cancelled,1596.3000000000002,4,3,3,10
+C1956,Female,Senior,Multan,2024-01-10,2024-05-23,McDonald's,Dessert,2,129.97,Cash,8,2024-11-25,143,True,5.0,Delayed,259.94,1,1,1,3
+C1369,Male,Senior,Multan,2023-08-28,2024-01-11,McDonald's,Dessert,2,737.59,Wallet,46,2024-11-30,328,False,4.0,Delivered,1475.18,1,5,3,9
+C1101,Female,Teenager,Multan,2024-01-12,2025-03-03,KFC,Chinese,5,1487.89,Card,19,2025-03-13,32,False,-1.0,Cancelled,7439.450000000001,2,2,5,9
+C1318,Other,Senior,Multan,2024-01-12,2024-12-21,Pizza Hut,Chinese,4,143.47,Cash,4,2025-04-23,119,True,5.0,Delivered,573.88,3,1,1,5
+C1082,Other,Senior,Multan,2024-01-13,2024-10-23,McDonald's,Fast Food,3,1128.31,Cash,20,2024-12-26,106,False,3.0,Delivered,3384.93,1,2,4,7
+C6231,Male,Teenager,Multan,2024-01-13,2025-05-06,Pizza Hut,Fast Food,1,1325.65,Cash,42,2025-06-08,349,False,4.0,Delayed,1325.65,4,5,2,11
+C4640,Other,Senior,Multan,2024-01-14,2024-11-09,McDonald's,Continental,2,1354.36,Wallet,4,2025-06-21,214,True,2.0,Delayed,2708.72,4,1,4,9
+C1916,Other,Adult,Multan,2024-01-14,2024-08-15,Subway,Chinese,2,1005.76,Wallet,9,2025-01-13,392,True,5.0,Delivered,2011.52,1,1,3,5
+C2704,Female,Senior,Multan,2024-01-14,2024-08-07,Burger King,Italian,2,721.24,Wallet,14,2024-10-08,156,False,-1.0,Cancelled,1442.48,1,2,2,5
+C6428,Female,Senior,Multan,2024-01-14,2025-01-28,Pizza Hut,Dessert,2,1055.19,Wallet,34,2025-07-22,170,False,-1.0,Cancelled,2110.38,5,4,3,12
+C2350,Male,Adult,Multan,2024-01-15,2024-11-26,Burger King,Fast Food,2,1455.41,Wallet,19,2025-03-20,451,False,3.0,Delivered,2910.82,2,2,4,8
+C1797,Female,Adult,Multan,2024-01-15,2025-03-13,Burger King,Continental,5,1225.3,Wallet,36,2025-04-24,466,False,-1.0,Cancelled,6126.5,3,4,5,12
+C5105,Female,Teenager,Multan,2024-01-16,2024-08-24,KFC,Continental,4,763.1,Cash,27,2025-01-27,0,True,-1.0,Cancelled,3052.4,2,3,4,9
+C4582,Female,Teenager,Multan,2024-01-17,2024-02-03,McDonald's,Fast Food,1,1103.37,Card,50,2025-06-03,474,True,4.0,Delayed,1103.37,4,5,2,11
+C4800,Male,Adult,Multan,2024-01-18,2024-05-05,Subway,Italian,5,1070.11,Card,33,2025-07-29,153,True,2.0,Delayed,5350.549999999999,5,4,5,14
+C2617,Female,Adult,Multan,2024-01-18,2024-06-11,Pizza Hut,Chinese,5,1347.83,Cash,14,2024-09-18,295,False,5.0,Delayed,6739.15,1,2,5,8
+C3102,Other,Senior,Multan,2024-01-19,2024-09-09,KFC,Continental,5,815.17,Cash,12,2024-12-23,478,False,3.0,Delivered,4075.85,1,2,5,8
+C3038,Female,Teenager,Multan,2024-01-19,2024-03-12,Pizza Hut,Fast Food,4,1049.54,Wallet,44,2025-01-03,324,True,1.0,Delayed,4198.16,1,5,5,11
+C6990,Male,Teenager,Multan,2023-11-30,2024-01-21,Subway,Continental,5,1126.55,Card,27,2025-01-03,448,True,-1.0,Cancelled,5632.75,1,3,5,9
+C3951,Other,Teenager,Multan,2024-01-22,2024-09-03,Subway,Italian,5,1311.51,Wallet,27,2025-02-05,75,False,-1.0,Cancelled,6557.55,2,3,5,10
+C6263,Male,Teenager,Multan,2024-01-22,2024-04-17,Pizza Hut,Chinese,5,380.27,Cash,37,2024-08-25,445,False,4.0,Delayed,1901.35,1,4,3,8
+C1255,Other,Teenager,Multan,2024-01-23,2024-08-17,Pizza Hut,Chinese,5,1471.38,Cash,27,2025-05-13,200,False,2.0,Delayed,7356.900000000001,3,3,5,11
+C6357,Other,Teenager,Multan,2024-01-23,2024-10-30,McDonald's,Chinese,3,381.22,Cash,24,2025-01-05,328,True,-1.0,Cancelled,1143.66,1,3,2,6
+C5385,Other,Senior,Multan,2024-01-24,2024-08-25,KFC,Continental,5,276.85,Cash,7,2025-01-03,114,True,-1.0,Cancelled,1384.25,1,1,2,4
+C1211,Male,Senior,Multan,2023-12-20,2024-01-24,Burger King,Italian,2,580.58,Wallet,46,2025-03-14,343,False,-1.0,Cancelled,1161.16,2,5,2,9
+C4913,Male,Senior,Multan,2023-12-16,2024-01-24,KFC,Fast Food,4,1461.55,Wallet,16,2025-01-17,50,False,-1.0,Cancelled,5846.2,2,2,5,9
+C2487,Male,Teenager,Multan,2024-01-25,2025-02-04,KFC,Dessert,4,1409.75,Wallet,38,2025-02-05,233,True,3.0,Delivered,5639.0,2,4,5,11
+C6098,Female,Senior,Multan,2024-01-25,2024-04-06,Pizza Hut,Chinese,1,354.09,Card,13,2025-08-09,85,False,-1.0,Cancelled,354.09,5,2,1,8
+C5117,Male,Teenager,Multan,2024-01-25,2025-01-01,McDonald's,Italian,3,919.5,Wallet,28,2025-01-18,180,False,4.0,Delayed,2758.5,2,3,4,9
+C2580,Other,Senior,Multan,2024-01-25,2025-03-06,Pizza Hut,Chinese,4,1277.04,Cash,30,2025-03-08,124,False,-1.0,Cancelled,5108.16,2,3,5,10
+C3358,Other,Teenager,Multan,2023-11-18,2024-01-27,KFC,Fast Food,5,964.26,Cash,35,2025-06-23,364,True,5.0,Delivered,4821.3,4,4,5,13
+C2502,Female,Senior,Multan,2024-01-28,2024-07-06,KFC,Dessert,2,1427.82,Card,20,2025-02-11,460,False,-1.0,Cancelled,2855.64,2,2,4,8
+C4793,Female,Teenager,Multan,2024-01-29,2024-11-23,KFC,Dessert,1,986.14,Card,23,2025-02-17,287,False,-1.0,Cancelled,986.14,2,3,2,7
+C5547,Female,Senior,Multan,2023-12-31,2024-01-30,McDonald's,Fast Food,4,1232.33,Card,5,2025-08-04,19,True,5.0,Delivered,4929.32,5,1,5,11
+C4944,Female,Senior,Multan,2023-10-22,2024-01-30,McDonald's,Dessert,5,418.94,Card,16,2025-01-25,73,True,2.0,Delivered,2094.7,2,2,3,7
+C3238,Other,Senior,Multan,2024-01-31,2024-11-02,Subway,Dessert,4,1425.94,Wallet,9,2025-03-29,15,True,-1.0,Cancelled,5703.76,2,1,5,8
+C6806,Other,Senior,Multan,2024-01-31,2024-11-16,Burger King,Italian,3,909.33,Card,29,2025-07-26,226,True,-1.0,Cancelled,2727.9900000000002,5,3,4,12
+C4518,Other,Senior,Multan,2023-10-19,2024-01-31,KFC,Fast Food,2,1202.07,Card,5,2024-10-22,242,False,1.0,Delivered,2404.14,1,1,3,5
+C3626,Male,Senior,Multan,2023-10-27,2024-02-01,Subway,Dessert,4,296.34,Wallet,12,2025-05-19,196,False,3.0,Delivered,1185.36,3,2,2,7
+C5185,Other,Senior,Multan,2023-12-04,2024-02-02,KFC,Chinese,3,178.65,Cash,40,2024-11-01,73,False,4.0,Delayed,535.95,1,4,1,6
+C4707,Other,Senior,Multan,2024-02-04,2024-05-16,Pizza Hut,Fast Food,1,1020.92,Wallet,33,2024-09-16,455,True,4.0,Delayed,1020.92,1,4,2,7
+C2423,Male,Adult,Multan,2024-02-04,2025-04-29,Subway,Dessert,1,380.52,Wallet,39,2025-07-02,313,False,-1.0,Cancelled,380.52,4,4,1,9
+C6084,Female,Senior,Multan,2024-02-06,2025-03-11,McDonald's,Dessert,5,548.59,Wallet,50,2025-05-18,311,False,5.0,Delayed,2742.9500000000003,3,5,4,12
+C5194,Other,Teenager,Multan,2024-02-08,2024-10-25,Pizza Hut,Dessert,1,1021.82,Wallet,15,2025-04-17,430,True,2.0,Delivered,1021.82,3,2,2,7
+C1319,Other,Senior,Multan,2024-02-08,2024-10-14,KFC,Chinese,2,1228.42,Cash,25,2025-06-23,409,True,4.0,Delivered,2456.84,4,3,4,11
+C2247,Female,Senior,Multan,2024-02-09,2024-10-23,Subway,Italian,4,1088.13,Wallet,44,2024-10-30,63,True,5.0,Delayed,4352.52,1,5,5,11
+C3508,Female,Teenager,Multan,2024-02-10,2024-06-13,McDonald's,Continental,2,721.57,Wallet,34,2024-12-11,201,False,-1.0,Cancelled,1443.14,1,4,2,7
+C6480,Male,Senior,Multan,2023-10-19,2024-02-10,McDonald's,Italian,1,820.63,Cash,4,2025-03-09,147,False,4.0,Delayed,820.63,2,1,1,4
+C2944,Male,Adult,Multan,2024-02-10,2024-08-08,McDonald's,Continental,3,455.0,Card,45,2025-03-18,403,False,-1.0,Cancelled,1365.0,2,5,2,9
+C6322,Female,Senior,Multan,2024-02-11,2024-05-23,Pizza Hut,Dessert,1,1250.97,Cash,16,2025-06-04,30,True,3.0,Delayed,1250.97,4,2,2,8
+C3219,Male,Teenager,Multan,2024-02-15,2024-08-23,Burger King,Chinese,1,729.97,Wallet,5,2025-07-16,472,False,4.0,Delivered,729.97,5,1,1,7
+C6991,Female,Teenager,Multan,2023-09-24,2024-02-15,KFC,Chinese,4,1298.75,Card,28,2024-09-22,285,False,1.0,Delivered,5195.0,1,3,5,9
+C5779,Other,Teenager,Multan,2024-02-16,2024-05-07,KFC,Continental,1,298.83,Card,23,2024-10-15,275,False,-1.0,Cancelled,298.83,1,3,1,5
+C2355,Male,Senior,Multan,2023-09-30,2024-02-16,McDonald's,Fast Food,2,1114.25,Cash,47,2025-03-30,60,False,-1.0,Cancelled,2228.5,2,5,3,10
+C4924,Male,Senior,Multan,2024-02-17,2025-01-16,Pizza Hut,Fast Food,5,701.73,Wallet,24,2025-06-27,394,False,3.0,Delayed,3508.65,4,3,4,11
+C4509,Other,Teenager,Multan,2024-02-17,2024-03-08,Subway,Continental,4,1106.76,Wallet,20,2025-06-11,368,False,3.0,Delivered,4427.04,4,2,5,11
+C3712,Male,Senior,Multan,2024-02-19,2024-09-27,McDonald's,Fast Food,3,298.73,Cash,17,2024-12-28,28,True,5.0,Delayed,896.19,1,2,2,5
+C5697,Male,Teenager,Multan,2023-09-18,2024-02-20,KFC,Dessert,2,1287.98,Cash,17,2025-01-11,392,False,5.0,Delivered,2575.96,1,2,4,7
+C4664,Male,Teenager,Multan,2024-02-20,2024-12-22,KFC,Continental,1,478.34,Card,9,2025-08-02,252,True,-1.0,Cancelled,478.34,5,1,1,7
+C6344,Female,Teenager,Multan,2024-02-21,2025-02-25,McDonald's,Chinese,1,854.74,Cash,40,2025-08-03,280,True,-1.0,Cancelled,854.74,5,4,2,11
+C4157,Female,Senior,Multan,2024-02-21,2025-03-03,Pizza Hut,Continental,2,1484.97,Cash,3,2025-05-04,323,True,4.0,Delayed,2969.94,3,1,4,8
+C2573,Female,Teenager,Multan,2024-02-22,2024-05-31,Subway,Chinese,3,1100.63,Cash,29,2024-12-08,412,False,-1.0,Cancelled,3301.8900000000003,1,3,4,8
+C2519,Other,Adult,Multan,2023-11-16,2024-02-22,KFC,Fast Food,3,1293.84,Cash,33,2024-12-01,198,False,4.0,Delayed,3881.5199999999995,1,4,4,9
+C6884,Other,Senior,Multan,2024-02-23,2025-04-13,Subway,Chinese,5,280.5,Cash,19,2025-05-16,144,True,3.0,Delivered,1402.5,3,2,2,7
+C4817,Female,Teenager,Multan,2023-08-30,2024-02-23,Burger King,Fast Food,2,488.08,Card,21,2024-12-10,21,True,3.0,Delivered,976.16,1,3,2,6
+C6703,Female,Teenager,Multan,2024-02-24,2025-05-15,McDonald's,Fast Food,3,369.79,Card,42,2025-07-14,47,True,2.0,Delivered,1109.3700000000001,5,5,2,12
+C4349,Other,Adult,Multan,2024-02-25,2024-08-07,KFC,Italian,2,908.07,Cash,13,2024-10-23,223,False,2.0,Delayed,1816.14,1,2,3,6
+C1498,Other,Senior,Multan,2024-02-25,2024-06-21,Subway,Fast Food,1,1275.47,Card,41,2025-06-21,236,True,5.0,Delayed,1275.47,4,5,2,11
+C6921,Male,Senior,Multan,2024-02-25,2024-11-15,Pizza Hut,Dessert,4,563.63,Card,8,2025-07-29,373,True,5.0,Delivered,2254.52,5,1,3,9
+C6482,Other,Teenager,Multan,2024-02-27,2024-03-03,KFC,Dessert,2,1349.84,Cash,7,2025-05-22,77,True,4.0,Delivered,2699.68,3,1,4,8
+C1220,Male,Adult,Multan,2023-10-30,2024-02-28,McDonald's,Chinese,2,495.99,Card,9,2025-08-10,477,False,1.0,Delayed,991.98,5,1,2,8
+C4091,Male,Adult,Multan,2024-02-28,2024-12-30,Pizza Hut,Continental,1,122.84,Wallet,31,2025-06-17,456,True,1.0,Delivered,122.84,4,4,1,9
+C2332,Other,Senior,Multan,2024-02-28,2025-04-02,McDonald's,Dessert,1,903.28,Cash,4,2025-05-19,352,True,2.0,Delayed,903.28,3,1,2,6
+C3443,Other,Teenager,Multan,2023-09-18,2024-02-29,Subway,Fast Food,2,1197.86,Cash,16,2025-04-16,195,True,1.0,Delivered,2395.72,3,2,3,8
+C3832,Female,Adult,Multan,2024-03-01,2025-01-26,KFC,Continental,4,292.94,Cash,11,2025-05-16,306,False,5.0,Delivered,1171.76,3,1,2,6
+C4016,Male,Teenager,Multan,2024-03-02,2025-06-02,Subway,Fast Food,1,119.17,Wallet,33,2025-07-16,400,True,3.0,Delayed,119.17,5,4,1,10
+C1558,Other,Teenager,Multan,2024-03-02,2024-10-27,McDonald's,Italian,2,333.04,Card,46,2025-01-20,252,False,3.0,Delivered,666.08,2,5,1,8
+C4384,Female,Senior,Multan,2024-03-02,2024-07-11,Pizza Hut,Italian,1,1056.72,Wallet,30,2025-03-23,152,True,3.0,Delivered,1056.72,2,3,2,7
+C3538,Female,Adult,Multan,2024-02-18,2024-03-02,McDonald's,Fast Food,4,474.89,Cash,2,2025-07-06,236,False,5.0,Delayed,1899.56,4,1,3,8
+C4394,Female,Senior,Multan,2024-03-03,2024-07-01,Pizza Hut,Continental,2,1177.68,Cash,22,2025-05-02,307,False,4.0,Delivered,2355.36,3,3,3,9
+C4859,Female,Adult,Multan,2024-03-04,2024-03-18,Burger King,Fast Food,2,742.1,Wallet,39,2025-07-24,78,False,2.0,Delivered,1484.2,5,4,3,12
+C4075,Female,Teenager,Multan,2024-03-05,2025-03-05,KFC,Italian,4,440.27,Cash,48,2025-04-28,365,True,-1.0,Cancelled,1761.08,3,5,3,11
+C6093,Female,Adult,Multan,2023-12-17,2024-03-06,Subway,Fast Food,4,823.13,Wallet,47,2024-12-22,414,True,3.0,Delivered,3292.52,1,5,4,10
+C2965,Female,Teenager,Multan,2024-03-06,2025-03-12,Burger King,Fast Food,4,1024.96,Wallet,23,2025-03-15,235,False,-1.0,Cancelled,4099.84,2,3,5,10
+C4777,Female,Adult,Multan,2024-03-06,2025-02-21,Pizza Hut,Continental,4,1185.28,Card,43,2025-03-03,46,False,-1.0,Cancelled,4741.12,2,5,5,12
+C4904,Other,Teenager,Multan,2024-03-06,2024-07-03,Pizza Hut,Fast Food,3,1083.08,Wallet,43,2025-04-01,193,False,-1.0,Cancelled,3249.24,2,5,4,11
+C4198,Male,Teenager,Multan,2023-10-17,2024-03-07,KFC,Continental,4,579.83,Cash,43,2024-09-16,219,True,-1.0,Cancelled,2319.32,1,5,3,9
+C2881,Male,Teenager,Multan,2024-03-08,2025-05-29,Burger King,Chinese,4,1034.14,Wallet,13,2025-06-28,218,True,3.0,Delivered,4136.56,4,2,5,11
+C6836,Female,Senior,Multan,2024-03-09,2024-04-19,Subway,Italian,3,1453.8,Card,33,2025-02-26,416,False,5.0,Delivered,4361.4,2,4,5,11
+C1336,Female,Senior,Multan,2024-03-09,2024-10-19,Burger King,Italian,4,1081.79,Cash,11,2024-11-08,81,True,1.0,Delivered,4327.16,1,1,5,7
+C4929,Male,Adult,Multan,2023-12-15,2024-03-13,McDonald's,Dessert,5,841.97,Cash,11,2025-01-27,338,True,5.0,Delivered,4209.85,2,1,5,8
+C6779,Other,Teenager,Multan,2024-01-10,2024-03-13,KFC,Chinese,5,831.37,Card,3,2024-10-27,52,False,-1.0,Cancelled,4156.85,1,1,5,7
+C4548,Female,Senior,Multan,2024-03-14,2024-10-12,Subway,Fast Food,4,1100.18,Cash,12,2025-03-07,368,False,5.0,Delivered,4400.72,2,2,5,9
+C4549,Female,Adult,Multan,2024-03-14,2024-12-20,Subway,Chinese,5,607.17,Card,10,2024-12-24,293,False,3.0,Delayed,3035.85,1,1,4,6
+C3173,Male,Senior,Multan,2024-03-14,2024-05-25,Pizza Hut,Italian,4,918.48,Cash,42,2024-12-11,99,True,-1.0,Cancelled,3673.92,1,5,4,10
+C1480,Male,Teenager,Multan,2024-03-15,2024-10-18,KFC,Italian,2,1092.53,Card,19,2025-02-04,500,False,1.0,Delivered,2185.06,2,2,3,7
+C6301,Male,Adult,Multan,2024-03-10,2024-03-17,Subway,Fast Food,5,1415.19,Cash,40,2025-04-06,19,True,5.0,Delayed,7075.950000000001,3,4,5,12
+C4993,Female,Senior,Multan,2024-03-17,2024-07-22,McDonald's,Fast Food,5,230.58,Card,36,2025-07-22,485,True,3.0,Delivered,1152.9,5,4,2,11
+C4133,Female,Adult,Multan,2023-12-05,2024-03-17,Subway,Fast Food,4,590.66,Card,2,2025-04-17,387,False,2.0,Delayed,2362.64,3,1,3,7
+C2231,Female,Adult,Multan,2024-03-17,2024-11-26,Subway,Fast Food,2,665.96,Card,18,2025-07-19,265,True,4.0,Delayed,1331.92,5,2,2,9
+C1095,Other,Senior,Multan,2023-09-25,2024-03-17,Burger King,Continental,5,1215.95,Cash,31,2025-03-21,29,True,-1.0,Cancelled,6079.75,2,4,5,11
+C2286,Female,Adult,Multan,2024-03-02,2024-03-18,Subway,Fast Food,3,345.92,Cash,20,2024-09-24,352,False,-1.0,Cancelled,1037.76,1,2,2,5
+C3654,Female,Teenager,Multan,2023-11-10,2024-03-18,Subway,Fast Food,4,1302.37,Cash,10,2025-03-23,247,True,-1.0,Cancelled,5209.48,2,1,5,8
+C1608,Other,Adult,Multan,2024-03-19,2024-04-26,McDonald's,Chinese,2,1219.27,Wallet,4,2024-12-28,330,False,-1.0,Cancelled,2438.54,1,1,4,6
+C3021,Male,Teenager,Multan,2024-03-19,2024-10-16,McDonald's,Dessert,5,267.73,Cash,32,2025-03-19,283,False,-1.0,Cancelled,1338.65,2,4,2,8
+C5747,Female,Adult,Multan,2024-02-24,2024-03-19,Pizza Hut,Continental,4,181.72,Cash,10,2025-05-23,213,False,3.0,Delayed,726.88,3,1,1,5
+C4923,Male,Teenager,Multan,2024-03-20,2024-11-01,McDonald's,Dessert,3,1274.73,Wallet,48,2025-02-25,415,False,-1.0,Cancelled,3824.19,2,5,4,11
+C2535,Male,Teenager,Multan,2024-03-22,2025-06-11,Burger King,Chinese,1,693.19,Card,17,2025-08-19,495,True,-1.0,Cancelled,693.19,5,2,1,8
+C2943,Female,Teenager,Multan,2023-11-18,2024-03-23,McDonald's,Italian,5,1269.83,Card,4,2024-12-24,259,True,-1.0,Cancelled,6349.15,1,1,5,7
+C5818,Male,Adult,Multan,2024-03-23,2025-06-30,McDonald's,Dessert,5,541.95,Card,26,2025-07-25,444,False,1.0,Delivered,2709.75,5,3,4,12
+C6002,Other,Senior,Multan,2024-03-24,2024-12-05,KFC,Continental,4,1311.76,Wallet,14,2025-07-16,130,False,5.0,Delivered,5247.04,5,2,5,12
+C4720,Female,Teenager,Multan,2024-03-24,2024-06-30,KFC,Continental,3,1200.85,Wallet,28,2025-04-18,26,True,1.0,Delayed,3602.5499999999997,3,3,4,10
+C1223,Other,Senior,Multan,2024-02-28,2024-03-27,Burger King,Continental,2,811.36,Cash,22,2024-10-04,14,False,1.0,Delivered,1622.72,1,3,3,7
+C5897,Female,Adult,Multan,2023-09-21,2024-03-27,KFC,Dessert,5,526.51,Card,23,2024-11-07,235,True,2.0,Delivered,2632.55,1,3,4,8
+C5737,Female,Teenager,Multan,2024-03-27,2025-04-23,McDonald's,Continental,1,703.07,Wallet,8,2025-05-16,51,True,5.0,Delayed,703.07,3,1,1,5
+C5591,Female,Senior,Multan,2024-02-21,2024-03-27,KFC,Fast Food,4,238.95,Cash,15,2025-06-24,382,True,2.0,Delivered,955.8,4,2,2,8
+C5581,Male,Teenager,Multan,2024-01-13,2024-03-28,Pizza Hut,Dessert,1,1316.01,Cash,28,2025-01-11,215,False,4.0,Delivered,1316.01,1,3,2,6
+C4042,Female,Adult,Multan,2024-03-29,2024-08-28,Subway,Fast Food,4,929.83,Cash,9,2024-10-16,479,False,1.0,Delayed,3719.32,1,1,4,6
+C4247,Female,Teenager,Multan,2024-03-29,2024-09-04,McDonald's,Dessert,5,1486.67,Wallet,40,2024-12-20,65,False,4.0,Delayed,7433.35,1,4,5,10
+C4545,Male,Adult,Multan,2023-10-28,2024-03-30,Burger King,Fast Food,5,372.09,Card,3,2025-03-28,417,False,5.0,Delayed,1860.4499999999998,2,1,3,6
+C3749,Female,Adult,Multan,2023-11-13,2024-03-31,Subway,Fast Food,4,330.41,Wallet,28,2024-10-05,71,True,-1.0,Cancelled,1321.64,1,3,2,6
+C6339,Other,Senior,Multan,2023-09-14,2024-04-01,McDonald's,Italian,4,1339.93,Wallet,19,2025-08-09,77,True,3.0,Delayed,5359.72,5,2,5,12
+C5576,Other,Teenager,Multan,2024-04-04,2025-01-10,Subway,Fast Food,3,1444.31,Cash,32,2025-04-11,319,True,2.0,Delayed,4332.93,3,4,5,12
+C1937,Other,Teenager,Multan,2024-04-05,2024-12-02,KFC,Fast Food,2,615.89,Wallet,26,2025-04-05,372,False,-1.0,Cancelled,1231.78,3,3,2,8
+C1055,Other,Senior,Multan,2023-12-11,2024-04-06,Pizza Hut,Fast Food,3,877.31,Card,16,2025-02-18,31,False,-1.0,Cancelled,2631.93,2,2,4,8
+C3526,Male,Senior,Multan,2024-04-08,2024-08-20,Subway,Fast Food,1,935.47,Card,36,2024-12-31,385,False,4.0,Delayed,935.47,1,4,2,7
+C3773,Other,Adult,Multan,2023-08-30,2024-04-09,McDonald's,Italian,5,273.55,Card,37,2025-05-10,101,True,3.0,Delayed,1367.75,3,4,2,9
+C5574,Male,Senior,Multan,2024-04-10,2025-05-26,Subway,Fast Food,2,291.54,Wallet,31,2025-07-05,38,False,2.0,Delivered,583.08,4,4,1,9
+C2412,Other,Senior,Multan,2024-04-12,2025-04-01,KFC,Fast Food,2,813.76,Card,33,2025-06-06,422,True,-1.0,Cancelled,1627.52,4,4,3,11
+C3297,Other,Teenager,Multan,2024-04-13,2024-09-14,KFC,Italian,2,564.24,Cash,48,2025-04-12,483,True,3.0,Delivered,1128.48,3,5,2,10
+C2733,Other,Senior,Multan,2024-04-13,2024-10-24,Pizza Hut,Italian,5,416.81,Wallet,36,2025-03-29,108,False,3.0,Delivered,2084.05,2,4,3,9
+C1453,Male,Teenager,Multan,2023-10-23,2024-04-14,Pizza Hut,Continental,5,204.29,Wallet,28,2025-01-06,467,True,1.0,Delayed,1021.4499999999999,1,3,2,6
+C4208,Female,Adult,Multan,2023-10-01,2024-04-14,Subway,Chinese,2,1249.22,Wallet,46,2024-12-19,141,False,4.0,Delayed,2498.44,1,5,4,10
+C1008,Male,Teenager,Multan,2024-03-14,2024-04-14,KFC,Fast Food,2,541.91,Card,7,2024-11-20,426,False,-1.0,Cancelled,1083.82,1,1,2,4
+C4058,Male,Teenager,Multan,2024-04-14,2024-10-22,McDonald's,Chinese,5,144.1,Cash,23,2025-05-04,100,False,2.0,Delayed,720.5,3,3,1,7
+C5647,Female,Teenager,Multan,2024-04-15,2024-05-13,Subway,Fast Food,5,1471.71,Wallet,12,2025-05-03,149,False,-1.0,Cancelled,7358.55,3,2,5,10
+C6892,Other,Senior,Multan,2024-03-30,2024-04-15,Burger King,Dessert,4,987.68,Cash,37,2025-04-02,35,False,4.0,Delayed,3950.72,3,4,4,11
+C3893,Female,Adult,Multan,2024-04-15,2024-11-03,Subway,Italian,3,1293.72,Card,12,2025-03-14,373,True,2.0,Delayed,3881.16,2,2,4,8
+C4181,Female,Adult,Multan,2024-04-16,2024-09-23,Subway,Italian,5,433.26,Card,16,2024-12-30,45,False,5.0,Delivered,2166.3,1,2,3,6
+C1472,Male,Senior,Multan,2024-04-19,2024-05-11,Pizza Hut,Fast Food,2,138.02,Cash,46,2024-12-12,255,False,1.0,Delivered,276.04,1,5,1,7
+C1509,Male,Teenager,Multan,2023-09-27,2024-04-19,Burger King,Chinese,1,436.88,Wallet,9,2024-09-17,297,False,2.0,Delayed,436.88,1,1,1,3
+C2326,Female,Adult,Multan,2023-11-08,2024-04-20,KFC,Dessert,4,1265.45,Card,35,2025-06-10,216,False,3.0,Delivered,5061.8,4,4,5,13
+C6749,Other,Teenager,Multan,2024-04-20,2024-08-29,KFC,Italian,2,438.56,Card,10,2025-01-31,403,False,3.0,Delayed,877.12,2,1,2,5
+C2491,Male,Teenager,Multan,2024-04-21,2024-11-03,Burger King,Dessert,4,1135.77,Cash,39,2025-05-15,385,False,2.0,Delayed,4543.08,3,4,5,12
+C5939,Female,Senior,Multan,2024-04-22,2025-04-03,McDonald's,Continental,1,786.54,Card,42,2025-04-19,298,True,-1.0,Cancelled,786.54,3,5,1,9
+C5659,Male,Adult,Multan,2024-04-07,2024-04-22,KFC,Dessert,4,159.56,Card,35,2025-08-03,380,False,-1.0,Cancelled,638.24,5,4,1,10
+C2590,Male,Teenager,Multan,2023-11-14,2024-04-22,Pizza Hut,Continental,4,721.66,Card,20,2024-12-14,158,True,-1.0,Cancelled,2886.64,1,2,4,7
+C4045,Other,Teenager,Multan,2024-04-23,2025-02-04,Pizza Hut,Fast Food,4,889.71,Cash,13,2025-02-06,126,False,4.0,Delayed,3558.84,2,2,4,8
+C1210,Other,Adult,Multan,2024-04-23,2024-07-09,McDonald's,Dessert,3,1259.72,Card,39,2025-04-12,59,True,1.0,Delayed,3779.16,3,4,4,11
+C5783,Female,Teenager,Multan,2024-04-23,2025-02-07,Pizza Hut,Continental,4,364.24,Card,25,2025-06-29,220,True,2.0,Delayed,1456.96,4,3,3,10
+C4265,Other,Adult,Multan,2024-03-17,2024-04-24,Burger King,Fast Food,3,606.24,Cash,10,2024-11-14,125,True,2.0,Delayed,1818.72,1,1,3,5
+C2671,Female,Senior,Multan,2024-04-24,2024-11-07,McDonald's,Chinese,3,644.27,Cash,17,2024-12-12,265,True,2.0,Delivered,1932.81,1,2,3,6
+C2365,Other,Teenager,Multan,2024-04-25,2024-07-02,Subway,Chinese,5,1315.23,Card,21,2025-03-26,155,False,1.0,Delivered,6576.15,2,3,5,10
+C3943,Female,Teenager,Multan,2024-04-25,2025-01-19,McDonald's,Italian,1,624.55,Wallet,13,2025-06-29,214,False,-1.0,Cancelled,624.55,4,2,1,7
+C3013,Female,Teenager,Multan,2024-02-06,2024-04-26,Subway,Continental,1,240.55,Wallet,47,2025-07-15,412,True,-1.0,Cancelled,240.55,5,5,1,11
+C4641,Other,Teenager,Multan,2023-10-18,2024-04-26,Burger King,Continental,3,1011.78,Wallet,25,2024-10-03,39,True,4.0,Delayed,3035.34,1,3,4,8
+C1585,Female,Teenager,Multan,2024-04-27,2024-10-30,Pizza Hut,Italian,2,957.04,Wallet,47,2025-03-22,380,True,-1.0,Cancelled,1914.08,2,5,3,10
+C6936,Female,Adult,Multan,2024-01-21,2024-04-27,Subway,Chinese,4,1227.07,Card,11,2025-04-03,291,False,5.0,Delivered,4908.28,3,1,5,9
+C4973,Other,Senior,Multan,2024-04-28,2024-09-14,Burger King,Italian,2,611.52,Wallet,21,2024-12-16,73,False,-1.0,Cancelled,1223.04,1,3,2,6
+C1479,Other,Adult,Multan,2023-12-07,2024-04-28,Pizza Hut,Dessert,2,160.82,Wallet,8,2025-07-24,285,True,2.0,Delivered,321.64,5,1,1,7
+C4239,Female,Teenager,Multan,2024-04-29,2025-08-13,KFC,Continental,2,1185.2,Card,46,2025-08-15,491,False,-1.0,Cancelled,2370.4,5,5,3,13
+C1980,Female,Senior,Multan,2024-02-26,2024-04-29,Subway,Continental,3,1029.41,Card,32,2025-07-20,45,True,3.0,Delivered,3088.2300000000005,5,4,4,13
+C2063,Other,Teenager,Multan,2024-04-29,2024-07-16,KFC,Fast Food,3,987.74,Cash,50,2025-05-14,228,False,1.0,Delivered,2963.2200000000003,3,5,4,12
+C1750,Female,Senior,Multan,2024-04-30,2024-05-29,Subway,Continental,4,173.93,Card,8,2025-05-03,310,False,1.0,Delivered,695.72,3,1,1,5
+C1186,Male,Teenager,Multan,2024-05-02,2024-07-26,Subway,Dessert,2,436.26,Card,14,2024-10-15,278,True,1.0,Delayed,872.52,1,2,2,5
+C1060,Female,Adult,Multan,2024-05-02,2024-05-06,Subway,Chinese,4,340.15,Cash,44,2025-06-10,450,False,-1.0,Cancelled,1360.6,4,5,2,11
+C6869,Male,Teenager,Multan,2024-05-03,2024-11-28,McDonald's,Italian,5,726.46,Cash,11,2025-01-24,386,True,4.0,Delivered,3632.3,2,1,4,7
+C2229,Other,Senior,Multan,2024-05-03,2024-05-19,Pizza Hut,Fast Food,5,739.23,Wallet,33,2025-05-05,333,False,-1.0,Cancelled,3696.15,3,4,4,11
+C5664,Female,Adult,Multan,2024-05-04,2025-02-19,KFC,Continental,1,492.37,Cash,4,2025-07-09,348,False,2.0,Delivered,492.37,4,1,1,6
+C2819,Male,Adult,Multan,2024-05-05,2025-02-12,Pizza Hut,Continental,3,806.34,Card,18,2025-02-18,278,True,-1.0,Cancelled,2419.02,2,2,3,7
+C3455,Other,Teenager,Multan,2024-05-05,2024-10-25,KFC,Dessert,2,1304.69,Cash,27,2024-10-31,436,False,3.0,Delivered,2609.38,1,3,4,8
+C4734,Female,Adult,Multan,2024-02-16,2024-05-05,Pizza Hut,Chinese,4,1317.71,Wallet,36,2024-11-13,252,True,-1.0,Cancelled,5270.84,1,4,5,10
+C4521,Other,Adult,Multan,2024-05-07,2024-09-20,Pizza Hut,Continental,2,1079.19,Wallet,4,2025-07-05,9,True,1.0,Delayed,2158.38,4,1,3,8
+C5749,Other,Senior,Multan,2024-05-08,2024-10-30,Burger King,Fast Food,3,1282.87,Cash,46,2025-03-28,480,True,5.0,Delayed,3848.6099999999997,2,5,4,11
+C4123,Other,Adult,Multan,2023-10-12,2024-05-08,KFC,Chinese,4,934.92,Wallet,32,2025-06-16,327,True,1.0,Delivered,3739.68,4,4,4,12
+C6939,Female,Teenager,Multan,2024-05-08,2024-12-08,KFC,Fast Food,2,364.05,Wallet,43,2024-12-11,244,True,1.0,Delayed,728.1,1,5,1,7
+C1037,Male,Adult,Multan,2024-05-08,2025-01-12,Subway,Continental,2,706.91,Cash,27,2025-02-06,310,True,2.0,Delivered,1413.82,2,3,2,7
+C5187,Female,Adult,Multan,2024-05-09,2024-09-26,Subway,Italian,1,219.54,Cash,42,2025-02-02,392,False,-1.0,Cancelled,219.54,2,5,1,8
+C3542,Other,Teenager,Multan,2023-09-20,2024-05-09,McDonald's,Continental,2,988.27,Wallet,10,2024-12-12,131,False,3.0,Delayed,1976.54,1,1,3,5
+C4926,Other,Adult,Multan,2024-05-09,2025-05-07,McDonald's,Fast Food,5,818.91,Cash,35,2025-07-07,243,True,-1.0,Cancelled,4094.5499999999997,4,4,5,13
+C2084,Other,Senior,Multan,2024-04-01,2024-05-10,Burger King,Italian,5,1469.53,Card,13,2025-06-03,165,False,5.0,Delivered,7347.65,4,2,5,11
+C3046,Other,Teenager,Multan,2023-10-16,2024-05-10,Burger King,Continental,1,469.04,Cash,14,2025-06-12,296,False,-1.0,Cancelled,469.04,4,2,1,7
+C6283,Male,Teenager,Multan,2024-01-19,2024-05-13,KFC,Dessert,5,1142.42,Card,36,2025-05-30,272,False,1.0,Delayed,5712.1,4,4,5,13
+C2493,Other,Teenager,Multan,2024-05-13,2024-09-16,Subway,Dessert,2,1071.07,Cash,41,2025-06-02,498,True,-1.0,Cancelled,2142.14,4,5,3,12
+C4697,Other,Teenager,Multan,2024-05-13,2024-08-26,McDonald's,Fast Food,1,622.02,Wallet,24,2024-09-24,164,False,-1.0,Cancelled,622.02,1,3,1,5
+C4069,Other,Senior,Multan,2024-05-14,2024-08-05,McDonald's,Fast Food,5,1273.03,Wallet,17,2025-05-19,309,False,2.0,Delivered,6365.15,3,2,5,10
+C5807,Male,Adult,Multan,2024-05-15,2024-10-25,KFC,Continental,4,505.52,Card,21,2025-04-18,276,True,5.0,Delayed,2022.08,3,3,3,9
+C1004,Other,Teenager,Multan,2024-05-15,2024-09-24,Pizza Hut,Chinese,1,1044.89,Wallet,40,2025-04-23,217,False,2.0,Delivered,1044.89,3,4,2,9
+C4202,Female,Teenager,Multan,2023-08-22,2024-05-15,McDonald's,Dessert,2,545.14,Cash,10,2024-12-16,35,False,-1.0,Cancelled,1090.28,1,1,2,4
+C3791,Male,Adult,Multan,2024-05-15,2025-03-18,Subway,Continental,1,1029.89,Wallet,12,2025-07-20,115,False,2.0,Delivered,1029.89,5,2,2,9
+C6623,Female,Adult,Multan,2024-05-16,2025-07-17,Subway,Dessert,2,539.63,Cash,5,2025-08-05,114,True,4.0,Delivered,1079.26,5,1,2,8
+C2626,Other,Adult,Multan,2024-05-17,2025-02-25,KFC,Fast Food,4,467.7,Card,34,2025-07-10,385,True,-1.0,Cancelled,1870.8,4,4,3,11
+C2857,Other,Adult,Multan,2024-05-17,2024-12-11,Subway,Italian,5,1498.72,Wallet,42,2025-05-02,70,False,2.0,Delayed,7493.6,3,5,5,13
+C3081,Female,Senior,Multan,2023-09-05,2024-05-18,Pizza Hut,Fast Food,2,1200.84,Card,2,2025-05-08,134,False,4.0,Delayed,2401.68,3,1,3,7
+C2674,Female,Adult,Multan,2024-05-18,2025-02-25,Burger King,Chinese,3,1341.7,Cash,30,2025-06-12,277,False,1.0,Delivered,4025.1000000000004,4,3,5,12
+C6329,Other,Senior,Multan,2024-05-18,2025-01-13,Pizza Hut,Italian,3,187.21,Cash,6,2025-01-13,5,True,2.0,Delivered,561.63,1,1,1,3
+C2157,Male,Adult,Multan,2024-05-18,2024-06-05,KFC,Italian,2,1266.83,Wallet,3,2025-07-03,51,False,5.0,Delivered,2533.66,4,1,4,9
+C4232,Female,Teenager,Multan,2024-05-18,2025-03-03,McDonald's,Italian,1,1411.3,Card,17,2025-06-25,249,True,3.0,Delivered,1411.3,4,2,2,8
+C3982,Female,Adult,Multan,2023-11-21,2024-05-19,McDonald's,Dessert,5,153.93,Cash,17,2025-02-07,486,True,5.0,Delivered,769.6500000000001,2,2,1,5
+C6722,Other,Teenager,Multan,2023-09-29,2024-05-19,McDonald's,Chinese,1,1058.71,Cash,6,2024-09-06,67,True,5.0,Delayed,1058.71,1,1,2,4
+C6564,Male,Senior,Multan,2024-05-19,2024-11-15,Pizza Hut,Continental,4,485.14,Card,47,2025-01-07,157,True,2.0,Delivered,1940.56,1,5,3,9
+C3963,Other,Teenager,Multan,2023-11-05,2024-05-20,KFC,Fast Food,3,228.46,Cash,11,2025-01-28,17,True,2.0,Delayed,685.38,2,1,1,4
+C4388,Female,Senior,Multan,2024-05-20,2024-12-19,Pizza Hut,Fast Food,5,709.31,Cash,36,2025-01-23,4,True,5.0,Delayed,3546.5499999999997,2,4,4,10
+C3896,Other,Adult,Multan,2024-05-21,2024-08-09,McDonald's,Chinese,3,748.73,Card,15,2025-02-06,254,True,5.0,Delivered,2246.19,2,2,3,7
+C3095,Male,Senior,Multan,2024-05-21,2024-09-24,McDonald's,Chinese,2,1449.82,Cash,37,2025-08-15,226,False,-1.0,Cancelled,2899.64,5,4,4,13
+C2510,Other,Teenager,Multan,2024-05-22,2024-09-19,Burger King,Fast Food,2,1307.54,Cash,49,2025-07-10,33,True,4.0,Delayed,2615.08,4,5,4,13
+C5879,Female,Adult,Multan,2024-05-06,2024-05-23,McDonald's,Chinese,4,1182.98,Card,12,2024-09-02,200,True,-1.0,Cancelled,4731.92,1,2,5,8
+C4005,Female,Teenager,Multan,2024-03-10,2024-05-24,Subway,Italian,5,1039.5,Card,22,2024-09-07,92,True,-1.0,Cancelled,5197.5,1,3,5,9
+C4020,Female,Adult,Multan,2024-05-25,2024-07-22,Pizza Hut,Dessert,3,1438.71,Card,21,2025-03-03,289,True,-1.0,Cancelled,4316.13,2,3,5,10
+C6392,Female,Senior,Multan,2024-05-26,2025-03-31,Pizza Hut,Dessert,5,424.28,Wallet,50,2025-06-08,345,True,3.0,Delivered,2121.3999999999996,4,5,3,12
+C4213,Female,Senior,Multan,2024-05-26,2024-12-15,KFC,Chinese,5,752.84,Card,14,2025-01-16,214,False,4.0,Delivered,3764.2000000000003,2,2,4,8
+C3374,Female,Teenager,Multan,2024-05-27,2025-02-22,KFC,Chinese,3,1452.02,Cash,3,2025-08-20,452,True,-1.0,Cancelled,4356.0599999999995,5,1,5,11
+C5723,Male,Adult,Multan,2024-05-28,2024-06-30,Burger King,Continental,5,509.22,Cash,21,2025-08-02,156,True,3.0,Delivered,2546.1000000000004,5,3,4,12
+C1769,Female,Senior,Multan,2024-05-22,2024-05-28,Pizza Hut,Italian,1,879.11,Card,31,2025-08-03,301,True,3.0,Delayed,879.11,5,4,2,11
+C6911,Male,Adult,Multan,2024-05-29,2024-11-05,KFC,Continental,2,341.76,Card,18,2025-04-13,176,False,-1.0,Cancelled,683.52,3,2,1,6
+C4226,Female,Teenager,Multan,2024-05-29,2025-01-14,Subway,Dessert,1,1420.56,Card,27,2025-06-03,346,True,3.0,Delayed,1420.56,4,3,2,9
+C1696,Male,Adult,Multan,2024-03-05,2024-05-30,Pizza Hut,Italian,4,787.98,Wallet,37,2025-03-07,31,False,-1.0,Cancelled,3151.92,2,4,4,10
+C3728,Female,Teenager,Multan,2024-05-30,2024-12-09,KFC,Dessert,3,1405.04,Card,33,2025-02-09,268,True,-1.0,Cancelled,4215.12,2,4,5,11
+C1602,Other,Adult,Multan,2024-05-31,2025-04-12,Pizza Hut,Continental,4,290.37,Cash,24,2025-07-18,226,True,2.0,Delivered,1161.48,5,3,2,10
+C3029,Other,Adult,Multan,2024-05-31,2024-08-20,Pizza Hut,Dessert,3,588.48,Wallet,48,2025-02-06,352,False,-1.0,Cancelled,1765.44,2,5,3,10
+C3926,Other,Senior,Multan,2024-06-01,2024-09-02,KFC,Italian,2,966.24,Card,39,2024-09-29,119,False,-1.0,Cancelled,1932.48,1,4,3,8
+C1373,Female,Teenager,Multan,2024-06-03,2024-07-11,Burger King,Dessert,4,1426.2,Cash,47,2025-01-20,372,False,2.0,Delivered,5704.8,2,5,5,12
+C3599,Male,Senior,Multan,2024-06-03,2024-08-25,McDonald's,Fast Food,3,612.37,Card,12,2025-03-09,414,False,-1.0,Cancelled,1837.1100000000001,2,2,3,7
+C4040,Female,Teenager,Multan,2024-04-04,2024-06-03,Subway,Dessert,3,757.95,Card,5,2025-05-01,297,True,-1.0,Cancelled,2273.8500000000004,3,1,3,7
+C6943,Female,Senior,Multan,2024-01-06,2024-06-03,Burger King,Fast Food,3,863.26,Wallet,30,2025-05-12,265,False,3.0,Delivered,2589.7799999999997,3,3,4,10
+C6591,Other,Teenager,Multan,2024-06-04,2024-10-12,Burger King,Fast Food,3,1164.12,Card,14,2025-05-24,247,True,4.0,Delayed,3492.3599999999997,3,2,4,9
+C1433,Male,Teenager,Multan,2024-06-04,2024-09-08,KFC,Continental,3,1491.06,Card,49,2025-05-25,274,False,-1.0,Cancelled,4473.18,3,5,5,13
+C5281,Other,Senior,Multan,2023-09-03,2024-06-06,KFC,Chinese,1,246.04,Wallet,40,2025-02-08,431,False,2.0,Delivered,246.04,2,4,1,7
+C6106,Other,Adult,Multan,2024-06-07,2025-07-14,Burger King,Italian,2,978.69,Wallet,17,2025-07-17,253,True,-1.0,Cancelled,1957.38,5,2,3,10
+C2922,Other,Adult,Multan,2024-05-03,2024-06-07,Pizza Hut,Dessert,4,822.44,Cash,49,2025-01-13,51,False,4.0,Delayed,3289.76,1,5,4,10
+C6325,Other,Teenager,Multan,2024-06-09,2024-10-08,KFC,Continental,5,219.85,Card,41,2025-05-09,360,False,3.0,Delayed,1099.25,3,5,2,10
+C3838,Male,Senior,Multan,2024-06-09,2024-12-11,Pizza Hut,Continental,3,459.7,Wallet,10,2025-05-25,416,True,-1.0,Cancelled,1379.1,3,1,2,6
+C4600,Male,Senior,Multan,2024-06-11,2024-11-11,Subway,Fast Food,3,198.38,Cash,36,2025-06-30,290,True,2.0,Delayed,595.14,4,4,1,9
+C1090,Male,Adult,Multan,2024-02-05,2024-06-11,Burger King,Italian,1,746.1,Cash,11,2025-05-14,265,True,4.0,Delivered,746.1,3,1,1,5
+C5787,Female,Adult,Multan,2024-06-11,2024-08-23,Burger King,Dessert,3,211.28,Cash,16,2025-02-03,45,False,1.0,Delayed,633.84,2,2,1,5
+C4832,Other,Senior,Multan,2024-05-08,2024-06-13,Subway,Italian,2,1219.31,Wallet,32,2024-08-28,130,True,-1.0,Cancelled,2438.62,1,4,4,9
+C6792,Other,Senior,Multan,2023-12-25,2024-06-13,Burger King,Italian,1,1430.87,Card,20,2025-06-21,407,False,-1.0,Cancelled,1430.87,4,2,2,8
+C2213,Female,Senior,Multan,2024-03-31,2024-06-16,Burger King,Chinese,2,373.18,Wallet,42,2024-09-13,23,False,5.0,Delivered,746.36,1,5,1,7
+C5090,Female,Senior,Multan,2024-05-29,2024-06-16,Pizza Hut,Continental,5,1285.55,Cash,49,2025-02-16,423,False,2.0,Delivered,6427.75,2,5,5,12
+C5076,Male,Teenager,Multan,2024-05-19,2024-06-16,McDonald's,Dessert,2,341.84,Wallet,35,2024-09-17,192,False,4.0,Delivered,683.68,1,4,1,6
+C3400,Other,Adult,Multan,2024-06-17,2024-10-16,Burger King,Dessert,1,746.89,Card,22,2025-04-28,113,False,5.0,Delayed,746.89,3,3,1,7
+C3879,Other,Senior,Multan,2023-10-03,2024-06-17,KFC,Chinese,1,808.87,Card,19,2024-10-06,47,False,2.0,Delivered,808.87,1,2,1,4
+C5250,Male,Teenager,Multan,2024-04-09,2024-06-17,Burger King,Continental,4,902.12,Card,11,2024-12-19,496,True,-1.0,Cancelled,3608.48,1,1,4,6
+C3242,Female,Senior,Multan,2024-06-18,2024-08-25,Burger King,Fast Food,4,666.42,Card,24,2025-06-18,32,False,2.0,Delivered,2665.68,4,3,4,11
+C1305,Male,Adult,Multan,2023-10-29,2024-06-18,Pizza Hut,Continental,5,944.43,Wallet,45,2024-12-04,366,True,5.0,Delivered,4722.15,1,5,5,11
+C6475,Female,Senior,Multan,2024-06-19,2024-10-06,McDonald's,Continental,3,183.44,Cash,7,2025-01-01,448,True,-1.0,Cancelled,550.3199999999999,1,1,1,3
+C4402,Male,Adult,Multan,2023-12-10,2024-06-19,Subway,Fast Food,1,721.0,Cash,1,2025-03-05,163,True,2.0,Delayed,721.0,2,1,1,4
+C1914,Male,Teenager,Multan,2024-06-19,2024-10-17,McDonald's,Chinese,1,1022.84,Wallet,30,2024-11-17,460,True,-1.0,Cancelled,1022.84,1,3,2,6
+C5931,Female,Adult,Multan,2024-06-19,2024-08-06,KFC,Fast Food,2,1002.9,Card,7,2025-02-26,57,False,-1.0,Cancelled,2005.8,2,1,3,6
+C2614,Male,Adult,Multan,2024-02-05,2024-06-20,Subway,Dessert,4,763.48,Wallet,9,2025-01-21,473,False,-1.0,Cancelled,3053.92,2,1,4,7
+C6048,Female,Teenager,Multan,2024-03-10,2024-06-21,McDonald's,Dessert,5,655.51,Card,42,2024-11-11,298,False,1.0,Delayed,3277.55,1,5,4,10
+C5862,Female,Adult,Multan,2024-06-21,2025-01-26,Pizza Hut,Italian,5,836.99,Wallet,22,2025-02-04,58,True,-1.0,Cancelled,4184.95,2,3,5,10
+C5900,Other,Senior,Multan,2024-06-21,2024-08-16,Burger King,Fast Food,1,1464.16,Card,2,2025-05-03,340,True,5.0,Delivered,1464.16,3,1,3,7
+C2577,Other,Senior,Multan,2024-06-22,2024-08-02,Subway,Chinese,1,1043.0,Card,25,2025-07-09,214,False,5.0,Delayed,1043.0,4,3,2,9
+C5769,Female,Senior,Multan,2024-06-22,2024-10-08,Pizza Hut,Dessert,4,665.96,Cash,33,2024-11-16,40,True,-1.0,Cancelled,2663.84,1,4,4,9
+C3167,Other,Senior,Multan,2024-06-22,2024-10-18,McDonald's,Fast Food,4,452.06,Wallet,14,2025-04-28,416,False,4.0,Delivered,1808.24,3,2,3,8
+C5925,Male,Teenager,Multan,2024-06-24,2024-11-18,KFC,Fast Food,3,708.48,Wallet,42,2025-06-12,207,False,3.0,Delayed,2125.44,4,5,3,12
+C2712,Female,Teenager,Multan,2024-06-25,2024-12-29,Pizza Hut,Dessert,2,1327.16,Cash,33,2025-03-02,44,True,1.0,Delayed,2654.32,2,4,4,10
+C4095,Male,Teenager,Multan,2024-06-26,2024-12-08,Subway,Fast Food,1,365.32,Card,6,2025-03-14,316,False,1.0,Delivered,365.32,2,1,1,4
+C6418,Male,Teenager,Multan,2023-12-04,2024-06-26,Subway,Dessert,2,1325.06,Card,4,2025-04-18,408,True,5.0,Delivered,2650.12,3,1,4,8
+C2129,Male,Senior,Multan,2024-06-27,2025-02-08,Pizza Hut,Italian,5,1166.23,Wallet,30,2025-06-10,75,False,-1.0,Cancelled,5831.15,4,3,5,12
+C4927,Female,Senior,Multan,2024-02-29,2024-06-27,McDonald's,Italian,3,1010.54,Wallet,1,2025-03-22,459,True,5.0,Delayed,3031.62,2,1,4,7
+C5177,Female,Adult,Multan,2024-02-22,2024-06-28,Pizza Hut,Continental,4,382.92,Cash,22,2025-08-02,386,True,5.0,Delayed,1531.68,5,3,3,11
+C5913,Female,Senior,Multan,2023-12-20,2024-06-28,Subway,Continental,2,435.3,Cash,38,2025-07-21,291,True,-1.0,Cancelled,870.6,5,4,2,11
+C4088,Male,Senior,Multan,2024-06-28,2024-12-21,Pizza Hut,Continental,2,1099.75,Cash,28,2025-06-10,6,True,1.0,Delivered,2199.5,4,3,3,10
+C5917,Male,Adult,Multan,2024-02-21,2024-06-29,Pizza Hut,Fast Food,2,926.49,Cash,41,2025-04-16,333,False,3.0,Delivered,1852.98,3,5,3,11
+C4596,Male,Teenager,Multan,2024-06-29,2024-10-21,KFC,Chinese,2,928.95,Card,36,2024-12-03,389,True,2.0,Delivered,1857.9,1,4,3,8
+C5156,Female,Senior,Multan,2024-06-29,2024-11-19,McDonald's,Continental,5,1046.93,Card,34,2025-08-04,409,True,4.0,Delivered,5234.650000000001,5,4,5,14
+C2632,Female,Senior,Multan,2024-07-01,2024-11-27,Pizza Hut,Italian,1,1218.3,Cash,2,2025-01-22,58,True,-1.0,Cancelled,1218.3,2,1,2,5
+C1308,Male,Senior,Multan,2024-07-02,2024-09-07,McDonald's,Italian,3,1433.7,Wallet,36,2025-02-28,235,False,2.0,Delivered,4301.1,2,4,5,11
+C6645,Male,Senior,Multan,2024-07-03,2025-03-28,McDonald's,Continental,3,1372.9,Cash,45,2025-07-19,180,False,-1.0,Cancelled,4118.700000000001,5,5,5,15
+C6370,Female,Teenager,Multan,2024-07-04,2024-08-08,Subway,Continental,2,778.26,Card,6,2025-08-19,172,False,3.0,Delayed,1556.52,5,1,3,9
+C6957,Other,Senior,Multan,2024-07-05,2024-08-15,Burger King,Italian,4,582.12,Card,12,2024-09-02,258,True,1.0,Delayed,2328.48,1,2,3,6
+C5392,Male,Teenager,Multan,2024-06-15,2024-07-05,KFC,Chinese,5,863.27,Cash,1,2025-05-30,416,False,2.0,Delivered,4316.35,4,1,5,10
+C4580,Male,Senior,Multan,2024-07-06,2025-03-25,Subway,Chinese,4,1188.71,Cash,12,2025-07-03,131,True,1.0,Delivered,4754.84,4,2,5,11
+C4661,Other,Teenager,Multan,2024-05-22,2024-07-06,Burger King,Dessert,3,172.41,Wallet,26,2025-04-10,313,True,1.0,Delayed,517.23,3,3,1,7
+C4180,Female,Adult,Multan,2023-09-19,2024-07-07,McDonald's,Continental,1,1180.57,Cash,27,2025-04-30,248,False,4.0,Delayed,1180.57,3,3,2,8
+C6257,Other,Teenager,Multan,2024-07-07,2024-11-16,Subway,Dessert,2,422.34,Wallet,4,2025-07-08,124,False,-1.0,Cancelled,844.68,4,1,2,7
+C3454,Other,Teenager,Multan,2024-02-20,2024-07-08,Pizza Hut,Chinese,4,980.7,Wallet,21,2025-04-04,188,True,-1.0,Cancelled,3922.8,3,3,4,10
+C3064,Female,Adult,Multan,2023-09-17,2024-07-08,McDonald's,Continental,2,1377.81,Card,36,2025-08-13,321,True,-1.0,Cancelled,2755.62,5,4,4,13
+C4576,Other,Teenager,Multan,2024-01-16,2024-07-09,McDonald's,Fast Food,2,1278.81,Card,18,2024-08-23,438,False,-1.0,Cancelled,2557.62,1,2,4,7
+C3814,Female,Teenager,Multan,2024-03-05,2024-07-10,McDonald's,Italian,1,486.95,Card,45,2025-07-24,8,True,3.0,Delayed,486.95,5,5,1,11
+C6094,Other,Senior,Multan,2024-07-10,2024-10-03,Pizza Hut,Fast Food,2,219.56,Card,3,2025-02-28,52,False,2.0,Delivered,439.12,2,1,1,4
+C2232,Male,Teenager,Multan,2024-05-30,2024-07-11,KFC,Chinese,5,205.37,Card,19,2025-04-13,160,False,1.0,Delayed,1026.85,3,2,2,7
+C5433,Female,Teenager,Multan,2024-07-11,2024-10-14,McDonald's,Dessert,3,188.09,Card,11,2025-06-21,370,False,4.0,Delivered,564.27,4,1,1,6
+C1133,Other,Adult,Multan,2023-09-28,2024-07-12,Pizza Hut,Continental,1,858.52,Cash,22,2025-04-09,465,True,-1.0,Cancelled,858.52,3,3,2,8
+C4693,Male,Teenager,Multan,2024-04-11,2024-07-13,Subway,Italian,1,446.59,Card,5,2024-10-11,198,True,5.0,Delivered,446.59,1,1,1,3
+C5571,Male,Adult,Multan,2023-10-06,2024-07-13,Burger King,Chinese,2,1156.93,Wallet,35,2024-10-09,408,True,-1.0,Cancelled,2313.86,1,4,3,8
+C3860,Other,Senior,Multan,2024-04-22,2024-07-14,KFC,Continental,4,1200.68,Wallet,26,2024-08-26,138,False,5.0,Delayed,4802.72,1,3,5,9
+C3841,Male,Adult,Multan,2024-07-14,2024-10-12,Subway,Continental,5,1045.6,Wallet,8,2025-08-15,207,False,1.0,Delivered,5228.0,5,1,5,11
+C6685,Male,Teenager,Multan,2023-11-19,2024-07-15,Burger King,Continental,5,347.06,Cash,31,2024-09-22,283,True,-1.0,Cancelled,1735.3,1,4,3,8
+C5303,Other,Senior,Multan,2024-05-23,2024-07-15,Pizza Hut,Fast Food,2,1307.01,Card,12,2025-01-02,462,True,3.0,Delayed,2614.02,1,2,4,7
+C5946,Male,Senior,Multan,2023-10-24,2024-07-15,Burger King,Continental,1,740.22,Card,19,2025-04-03,155,False,5.0,Delivered,740.22,3,2,1,6
+C6367,Other,Senior,Multan,2024-07-16,2024-10-06,Pizza Hut,Continental,1,607.26,Wallet,18,2025-02-23,231,False,1.0,Delayed,607.26,2,2,1,5
+C3045,Male,Teenager,Multan,2024-01-14,2024-07-16,McDonald's,Continental,5,392.75,Card,46,2025-08-06,446,False,-1.0,Cancelled,1963.75,5,5,3,13
+C5159,Female,Teenager,Multan,2024-07-17,2025-02-19,Subway,Continental,1,1414.35,Wallet,12,2025-06-22,48,False,-1.0,Cancelled,1414.35,4,2,2,8
+C4877,Female,Senior,Multan,2024-02-17,2024-07-19,KFC,Chinese,2,624.67,Card,3,2025-06-24,179,True,1.0,Delayed,1249.34,4,1,2,7
+C4489,Male,Senior,Multan,2023-10-19,2024-07-19,KFC,Dessert,4,373.81,Wallet,32,2025-03-21,87,True,5.0,Delivered,1495.24,2,4,3,9
+C2495,Male,Teenager,Multan,2024-07-20,2024-10-15,Burger King,Fast Food,3,625.76,Cash,12,2025-03-17,373,False,5.0,Delayed,1877.28,2,2,3,7
+C1984,Other,Adult,Multan,2024-03-08,2024-07-21,Subway,Dessert,3,825.59,Wallet,37,2025-05-15,477,True,1.0,Delivered,2476.77,3,4,4,11
+C4594,Female,Teenager,Multan,2024-07-22,2024-11-25,Pizza Hut,Italian,1,1284.47,Cash,11,2024-12-01,322,True,-1.0,Cancelled,1284.47,1,1,2,4
+C1655,Other,Teenager,Multan,2024-07-22,2024-11-28,McDonald's,Italian,1,757.25,Wallet,19,2025-03-31,391,True,-1.0,Cancelled,757.25,2,2,1,5
+C1674,Other,Senior,Multan,2023-12-09,2024-07-22,KFC,Continental,5,403.28,Wallet,19,2025-07-15,325,True,1.0,Delivered,2016.3999999999999,5,2,3,10
+C6954,Female,Senior,Multan,2024-07-22,2024-12-03,KFC,Continental,5,797.32,Cash,7,2025-06-27,453,False,3.0,Delayed,3986.6000000000004,4,1,5,10
+C1123,Male,Adult,Multan,2024-07-23,2024-09-15,McDonald's,Fast Food,3,744.96,Cash,39,2025-03-25,471,True,3.0,Delayed,2234.88,2,4,3,9
+C3075,Other,Teenager,Multan,2024-07-24,2025-01-15,Subway,Italian,2,674.02,Cash,24,2025-07-07,89,True,-1.0,Cancelled,1348.04,4,3,2,9
+C4842,Female,Adult,Multan,2023-12-03,2024-07-24,Burger King,Continental,3,820.55,Cash,46,2024-12-30,123,False,-1.0,Cancelled,2461.6499999999996,1,5,4,10
+C5173,Female,Adult,Multan,2024-07-25,2025-01-16,Pizza Hut,Italian,5,1106.3,Card,7,2025-08-12,463,False,-1.0,Cancelled,5531.5,5,1,5,11
+C1116,Other,Teenager,Multan,2023-09-12,2024-07-25,KFC,Fast Food,5,257.2,Card,20,2025-02-03,177,True,2.0,Delayed,1286.0,2,2,2,6
+C4166,Other,Adult,Multan,2024-07-25,2024-09-25,McDonald's,Continental,3,375.95,Wallet,12,2025-06-23,283,True,-1.0,Cancelled,1127.85,4,2,2,8
+C4493,Female,Senior,Multan,2024-05-10,2024-07-25,Pizza Hut,Continental,4,509.49,Wallet,17,2025-03-10,223,False,-1.0,Cancelled,2037.96,2,2,3,7
+C4416,Other,Senior,Multan,2024-07-26,2024-12-13,Pizza Hut,Fast Food,1,789.54,Card,33,2025-07-05,421,False,-1.0,Cancelled,789.54,4,4,1,9
+C3354,Male,Teenager,Multan,2024-07-26,2024-09-08,Burger King,Italian,1,414.91,Card,50,2024-10-10,167,True,3.0,Delayed,414.91,1,5,1,7
+C4343,Male,Adult,Multan,2024-07-26,2025-03-20,Subway,Chinese,3,378.51,Card,32,2025-06-11,28,True,-1.0,Cancelled,1135.53,4,4,2,10
+C1031,Male,Teenager,Multan,2024-07-27,2025-06-10,McDonald's,Dessert,2,307.72,Cash,48,2025-07-18,343,False,5.0,Delivered,615.44,5,5,1,11
+C2194,Male,Senior,Multan,2024-07-28,2024-10-17,Pizza Hut,Italian,5,1199.53,Cash,15,2025-01-18,289,True,-1.0,Cancelled,5997.65,2,2,5,9
+C6847,Other,Adult,Multan,2024-07-28,2024-10-13,Burger King,Italian,3,782.64,Wallet,29,2025-03-28,209,True,2.0,Delivered,2347.92,2,3,3,8
+C2239,Female,Senior,Multan,2023-11-12,2024-07-29,Burger King,Dessert,2,791.87,Wallet,22,2025-08-05,29,True,-1.0,Cancelled,1583.74,5,3,3,11
+C1079,Female,Adult,Multan,2024-02-17,2024-07-29,Pizza Hut,Continental,3,204.38,Cash,47,2025-01-14,169,True,3.0,Delivered,613.14,1,5,1,7
+C5047,Other,Adult,Multan,2024-05-04,2024-07-29,Pizza Hut,Fast Food,4,1198.36,Cash,13,2025-01-14,370,True,3.0,Delayed,4793.44,1,2,5,8
+C5295,Other,Adult,Multan,2024-07-29,2025-03-21,Pizza Hut,Italian,3,833.37,Wallet,26,2025-07-17,145,False,-1.0,Cancelled,2500.11,5,3,4,12
+C4665,Male,Teenager,Multan,2024-07-31,2025-01-05,Subway,Italian,3,1399.34,Card,27,2025-02-15,34,True,-1.0,Cancelled,4198.0199999999995,2,3,5,10
+C5911,Male,Adult,Multan,2024-08-01,2024-09-22,McDonald's,Chinese,5,1064.53,Wallet,48,2025-04-26,185,False,1.0,Delayed,5322.65,3,5,5,13
+C1959,Other,Teenager,Multan,2024-08-03,2024-08-09,Burger King,Dessert,1,111.72,Wallet,18,2024-11-07,263,False,1.0,Delayed,111.72,1,2,1,4
+C4942,Other,Adult,Multan,2023-12-02,2024-08-04,Pizza Hut,Chinese,2,1047.17,Card,9,2024-09-14,386,True,-1.0,Cancelled,2094.34,1,1,3,5
+C2245,Other,Senior,Multan,2023-10-02,2024-08-04,Pizza Hut,Chinese,3,782.48,Card,41,2025-04-10,170,False,2.0,Delayed,2347.44,3,5,3,11
+C4577,Other,Adult,Multan,2024-08-05,2025-01-01,Pizza Hut,Fast Food,2,303.68,Card,49,2025-03-07,440,True,-1.0,Cancelled,607.36,2,5,1,8
+C4191,Female,Teenager,Multan,2024-08-05,2025-03-06,KFC,Dessert,3,999.72,Card,47,2025-03-31,432,True,1.0,Delayed,2999.16,2,5,4,11
+C3663,Male,Senior,Multan,2024-08-05,2025-03-13,McDonald's,Fast Food,1,782.24,Cash,28,2025-08-06,242,False,1.0,Delivered,782.24,5,3,1,9
+C4572,Male,Teenager,Multan,2024-03-24,2024-08-06,Pizza Hut,Chinese,2,466.64,Card,4,2025-03-28,445,False,3.0,Delivered,933.28,2,1,2,5
+C6826,Other,Adult,Multan,2023-10-18,2024-08-06,Burger King,Italian,5,1087.01,Cash,37,2025-04-14,103,False,-1.0,Cancelled,5435.05,3,4,5,12
+C4753,Other,Teenager,Multan,2024-08-07,2025-05-12,Pizza Hut,Italian,4,746.59,Card,13,2025-07-05,443,True,5.0,Delivered,2986.36,4,2,4,10
+C4109,Female,Adult,Multan,2024-01-26,2024-08-07,McDonald's,Dessert,4,200.96,Wallet,29,2025-06-29,388,False,5.0,Delayed,803.84,4,3,1,8
+C3343,Male,Adult,Multan,2023-12-26,2024-08-09,Subway,Continental,5,318.4,Card,12,2024-09-07,459,True,4.0,Delivered,1592.0,1,2,3,6
+C5418,Female,Teenager,Multan,2024-08-10,2024-08-22,Pizza Hut,Italian,3,530.95,Cash,37,2025-03-19,293,False,1.0,Delayed,1592.8500000000001,2,4,3,9
+C4199,Other,Teenager,Multan,2024-08-11,2025-06-29,Subway,Dessert,4,234.93,Wallet,25,2025-07-22,94,True,1.0,Delivered,939.72,5,3,2,10
+C4626,Male,Teenager,Multan,2024-08-11,2025-01-27,Subway,Italian,3,433.2,Cash,43,2025-04-03,120,True,5.0,Delivered,1299.6,3,5,2,10
+C4617,Female,Adult,Multan,2023-10-09,2024-08-13,KFC,Italian,5,303.02,Card,26,2025-07-20,448,False,-1.0,Cancelled,1515.1,5,3,3,11
+C1286,Female,Adult,Multan,2024-08-14,2024-11-20,Pizza Hut,Dessert,5,532.65,Card,29,2025-03-08,410,False,5.0,Delivered,2663.25,2,3,4,9
+C6642,Other,Teenager,Multan,2023-10-24,2024-08-14,Subway,Dessert,2,548.67,Cash,30,2024-11-10,159,False,2.0,Delayed,1097.34,1,3,2,6
+C1484,Female,Adult,Multan,2023-09-24,2024-08-15,Pizza Hut,Chinese,5,908.81,Wallet,20,2024-10-05,387,False,3.0,Delivered,4544.049999999999,1,2,5,8
+C2080,Other,Senior,Multan,2024-06-07,2024-08-16,Burger King,Continental,1,807.59,Wallet,12,2025-06-07,499,False,4.0,Delayed,807.59,4,2,1,7
+C1644,Other,Teenager,Multan,2024-08-16,2024-12-02,Subway,Continental,2,235.81,Card,2,2025-02-17,28,True,3.0,Delivered,471.62,2,1,1,4
+C1656,Male,Teenager,Multan,2024-08-17,2025-01-25,Subway,Italian,1,195.29,Cash,45,2025-05-23,204,False,5.0,Delayed,195.29,3,5,1,9
+C1108,Male,Adult,Multan,2024-08-17,2024-10-29,Pizza Hut,Italian,5,607.07,Wallet,31,2025-05-22,29,True,4.0,Delayed,3035.3500000000004,3,4,4,11
+C6557,Male,Teenager,Multan,2024-01-12,2024-08-18,Subway,Continental,2,420.99,Wallet,25,2025-05-04,82,False,1.0,Delivered,841.98,3,3,2,8
+C5101,Male,Adult,Multan,2024-08-18,2024-10-19,Burger King,Continental,2,271.11,Wallet,8,2024-10-29,191,True,-1.0,Cancelled,542.22,1,1,1,3
+C1027,Female,Adult,Multan,2024-02-19,2024-08-19,McDonald's,Italian,1,1259.02,Card,24,2025-03-24,0,True,2.0,Delivered,1259.02,2,3,2,7
+C1874,Other,Teenager,Multan,2023-11-30,2024-08-20,Subway,Chinese,3,1065.41,Card,24,2025-07-07,315,True,4.0,Delayed,3196.2300000000005,4,3,4,11
+C1217,Other,Teenager,Multan,2024-05-21,2024-08-20,Subway,Italian,5,990.62,Cash,29,2024-11-17,403,True,3.0,Delivered,4953.1,1,3,5,9
+C1155,Female,Teenager,Multan,2024-06-05,2024-08-20,McDonald's,Continental,3,1269.85,Wallet,5,2025-05-11,480,False,-1.0,Cancelled,3809.5499999999997,3,1,4,8
+C6549,Female,Senior,Multan,2024-05-25,2024-08-20,Subway,Italian,1,1025.18,Wallet,45,2025-03-25,9,True,-1.0,Cancelled,1025.18,2,5,2,9
+C3086,Male,Senior,Multan,2024-08-21,2024-09-10,KFC,Fast Food,4,276.45,Cash,41,2024-10-04,190,False,-1.0,Cancelled,1105.8,1,5,2,8
+C1642,Other,Teenager,Multan,2024-08-21,2025-02-20,Burger King,Dessert,1,162.13,Card,19,2025-08-12,161,True,4.0,Delayed,162.13,5,2,1,8
+C2916,Other,Adult,Multan,2024-08-21,2025-05-31,McDonald's,Continental,3,402.44,Cash,11,2025-07-07,164,False,-1.0,Cancelled,1207.32,4,1,2,7
+C1306,Other,Teenager,Multan,2023-09-28,2024-08-22,Subway,Continental,2,495.25,Wallet,30,2024-10-27,41,True,5.0,Delivered,990.5,1,3,2,6
+C5586,Female,Adult,Multan,2024-08-24,2025-04-15,McDonald's,Fast Food,3,607.6,Cash,9,2025-08-20,373,False,1.0,Delivered,1822.8000000000002,5,1,3,9
+C1235,Male,Adult,Multan,2024-08-24,2024-09-03,Burger King,Continental,2,940.78,Wallet,34,2025-05-19,75,False,2.0,Delayed,1881.56,3,4,3,10
+C6020,Other,Teenager,Multan,2023-12-23,2024-08-25,Subway,Italian,3,919.21,Wallet,4,2025-07-31,131,True,5.0,Delivered,2757.63,5,1,4,10
+C4918,Other,Teenager,Multan,2023-10-17,2024-08-25,Burger King,Fast Food,5,991.87,Cash,13,2024-11-19,303,True,3.0,Delayed,4959.35,1,2,5,8
+C1873,Female,Teenager,Multan,2024-08-25,2024-09-11,Subway,Italian,5,111.39,Cash,11,2025-01-26,408,True,-1.0,Cancelled,556.95,2,1,1,4
+C4115,Female,Adult,Multan,2024-07-30,2024-08-26,Burger King,Chinese,3,495.84,Card,27,2024-11-07,41,True,-1.0,Cancelled,1487.52,1,3,3,7
+C4337,Male,Adult,Multan,2024-02-12,2024-08-27,McDonald's,Fast Food,1,1415.56,Card,6,2024-08-27,23,True,3.0,Delayed,1415.56,1,1,2,4
+C2120,Male,Adult,Multan,2023-08-27,2024-08-29,KFC,Italian,1,467.23,Card,8,2024-11-12,70,False,-1.0,Cancelled,467.23,1,1,1,3
+C2980,Female,Teenager,Multan,2024-08-29,2024-11-18,Burger King,Dessert,3,439.68,Wallet,18,2025-04-03,356,False,1.0,Delivered,1319.04,3,2,2,7
+C2557,Female,Senior,Multan,2024-08-29,2024-12-14,Burger King,Fast Food,3,532.51,Cash,48,2025-06-03,9,True,3.0,Delayed,1597.53,4,5,3,12
+C5830,Other,Senior,Multan,2024-09-03,2024-11-08,Pizza Hut,Italian,2,686.84,Card,5,2025-05-23,224,False,2.0,Delivered,1373.68,3,1,2,6
+C5007,Female,Senior,Multan,2024-07-08,2024-09-03,McDonald's,Dessert,3,784.77,Card,31,2025-08-19,43,True,4.0,Delayed,2354.31,5,4,3,12
+C6651,Male,Senior,Multan,2024-03-29,2024-09-03,McDonald's,Chinese,2,138.03,Card,46,2024-09-21,472,False,-1.0,Cancelled,276.06,1,5,1,7
+C2203,Other,Adult,Multan,2024-09-05,2024-10-21,Burger King,Italian,5,386.89,Card,38,2024-12-12,272,False,-1.0,Cancelled,1934.4499999999998,1,4,3,8
+C6730,Other,Teenager,Multan,2023-10-21,2024-09-05,Burger King,Chinese,2,915.08,Card,44,2024-09-22,459,True,2.0,Delayed,1830.16,1,5,3,9
+C6068,Other,Senior,Multan,2024-09-05,2025-04-09,Subway,Dessert,3,1281.68,Card,31,2025-04-28,281,False,3.0,Delivered,3845.04,3,4,4,11
+C5543,Other,Teenager,Multan,2024-09-05,2024-10-27,Subway,Continental,3,650.33,Cash,27,2025-07-01,32,True,1.0,Delivered,1950.9900000000002,4,3,3,10
+C6036,Male,Adult,Multan,2024-09-06,2025-02-10,McDonald's,Continental,4,521.34,Cash,42,2025-08-03,206,False,2.0,Delayed,2085.36,5,5,3,13
+C6603,Other,Adult,Multan,2023-08-30,2024-09-06,KFC,Chinese,1,1327.48,Card,1,2024-11-05,165,True,1.0,Delivered,1327.48,1,1,2,4
+C1753,Male,Teenager,Multan,2024-05-09,2024-09-06,Subway,Dessert,2,940.85,Wallet,37,2025-03-17,487,False,2.0,Delayed,1881.7,2,4,3,9
+C1725,Other,Teenager,Multan,2024-01-14,2024-09-07,Subway,Chinese,2,1439.3,Cash,29,2024-12-13,286,False,-1.0,Cancelled,2878.6,1,3,4,8
+C3696,Male,Senior,Multan,2024-09-07,2024-12-17,Burger King,Fast Food,2,1247.51,Wallet,3,2025-07-24,305,True,5.0,Delivered,2495.02,5,1,4,10
+C2197,Female,Senior,Multan,2024-09-07,2025-01-27,Burger King,Italian,1,1085.57,Card,25,2025-04-22,238,True,4.0,Delivered,1085.57,3,3,2,8
+C4779,Female,Teenager,Multan,2023-09-06,2024-09-08,KFC,Continental,2,463.41,Cash,34,2025-06-12,415,True,4.0,Delivered,926.82,4,4,2,10
+C2554,Male,Teenager,Multan,2023-08-22,2024-09-08,Pizza Hut,Continental,4,1350.62,Cash,5,2025-05-28,69,True,2.0,Delivered,5402.48,3,1,5,9
+C1140,Other,Senior,Multan,2024-09-08,2025-01-26,Subway,Chinese,3,407.46,Wallet,10,2025-08-19,471,True,-1.0,Cancelled,1222.3799999999999,5,1,2,8
+C4047,Other,Senior,Multan,2024-09-08,2025-01-16,Subway,Italian,2,647.68,Cash,29,2025-02-05,182,True,-1.0,Cancelled,1295.36,2,3,2,7
+C1678,Other,Adult,Multan,2024-09-08,2024-09-19,KFC,Continental,1,1227.07,Cash,46,2024-09-29,84,False,3.0,Delayed,1227.07,1,5,2,8
+C6801,Male,Senior,Multan,2024-03-04,2024-09-08,Burger King,Chinese,1,770.18,Cash,21,2025-02-11,254,True,1.0,Delayed,770.18,2,3,1,6
+C5953,Female,Teenager,Multan,2024-06-06,2024-09-08,Pizza Hut,Dessert,5,1101.14,Card,28,2024-10-30,413,True,1.0,Delayed,5505.700000000001,1,3,5,9
+C5468,Female,Adult,Multan,2024-06-25,2024-09-10,Pizza Hut,Chinese,3,298.97,Wallet,19,2024-10-04,366,False,2.0,Delayed,896.9100000000001,1,2,2,5
+C6694,Female,Adult,Multan,2024-05-13,2024-09-12,McDonald's,Chinese,2,424.91,Card,35,2024-09-29,217,True,1.0,Delivered,849.82,1,4,2,7
+C5210,Other,Teenager,Multan,2024-09-12,2024-10-11,Subway,Continental,1,986.49,Wallet,17,2025-04-04,134,True,1.0,Delivered,986.49,3,2,2,7
+C2518,Female,Adult,Multan,2024-05-06,2024-09-12,Pizza Hut,Italian,5,1281.96,Cash,5,2025-07-20,335,True,2.0,Delayed,6409.8,5,1,5,11
+C2726,Male,Senior,Multan,2023-08-29,2024-08-30,McDonald's,Italian,1,1076.78,Wallet,29,2024-09-12,500,True,3.0,Delivered,1076.78,1,3,2,6
+C6522,Other,Senior,Multan,2024-01-14,2024-09-13,Pizza Hut,Continental,3,973.67,Cash,8,2024-09-18,463,True,3.0,Delayed,2921.0099999999998,1,1,4,6
+C4502,Other,Senior,Multan,2024-09-14,2024-11-18,KFC,Italian,2,782.07,Cash,1,2024-12-09,192,False,-1.0,Cancelled,1564.14,1,1,3,5
+C6899,Female,Senior,Multan,2023-09-23,2024-09-14,Burger King,Fast Food,2,976.82,Cash,15,2024-12-29,119,False,1.0,Delivered,1953.64,1,2,3,6
+C4043,Male,Senior,Multan,2024-09-15,2024-11-18,McDonald's,Dessert,4,806.84,Wallet,45,2025-03-19,94,False,-1.0,Cancelled,3227.36,2,5,4,11
+C1344,Other,Senior,Multan,2024-03-23,2024-09-15,Subway,Continental,4,712.83,Cash,19,2024-09-29,310,True,-1.0,Cancelled,2851.32,1,2,4,7
+C6341,Other,Senior,Multan,2024-09-16,2024-10-26,McDonald's,Italian,4,606.63,Wallet,26,2025-07-17,345,False,2.0,Delayed,2426.52,5,3,3,11
+C4708,Male,Teenager,Multan,2023-12-21,2024-09-16,KFC,Chinese,5,1461.19,Wallet,17,2024-11-02,353,True,2.0,Delayed,7305.950000000001,1,2,5,8
+C2896,Other,Teenager,Multan,2024-04-22,2024-09-17,KFC,Chinese,1,128.0,Wallet,37,2025-01-04,265,False,4.0,Delayed,128.0,1,4,1,6
+C4802,Male,Senior,Multan,2024-09-17,2025-03-12,Subway,Continental,2,1423.89,Wallet,20,2025-07-11,122,True,5.0,Delayed,2847.78,4,2,4,10
+C6102,Male,Teenager,Multan,2023-11-02,2024-08-23,Pizza Hut,Italian,5,192.08,Cash,44,2024-09-17,184,True,-1.0,Cancelled,960.4000000000001,1,5,2,8
+C1157,Male,Senior,Multan,2023-09-02,2024-09-17,Subway,Italian,5,939.16,Card,14,2024-11-23,101,True,2.0,Delayed,4695.8,1,2,5,8
+C5100,Male,Senior,Multan,2024-09-17,2025-03-09,KFC,Dessert,1,844.59,Cash,1,2025-04-29,68,True,-1.0,Cancelled,844.59,3,1,2,6
+C1673,Male,Senior,Multan,2024-08-18,2024-09-18,KFC,Dessert,1,135.74,Cash,27,2024-10-22,8,False,1.0,Delivered,135.74,1,3,1,5
+C4097,Other,Senior,Multan,2023-09-29,2024-09-20,McDonald's,Dessert,2,904.28,Card,26,2025-01-15,92,True,-1.0,Cancelled,1808.56,1,3,3,7
+C5892,Male,Adult,Multan,2023-10-17,2024-09-20,Pizza Hut,Fast Food,3,322.59,Cash,4,2024-10-20,473,True,5.0,Delivered,967.77,1,1,2,4
+C5838,Male,Senior,Multan,2024-09-21,2025-02-24,Burger King,Continental,4,387.56,Cash,46,2025-06-08,327,True,-1.0,Cancelled,1550.24,4,5,3,12
+C5874,Male,Senior,Multan,2024-09-22,2025-07-01,Subway,Italian,3,1279.13,Wallet,43,2025-07-23,107,False,1.0,Delivered,3837.3900000000003,5,5,4,14
+C6455,Male,Teenager,Multan,2023-12-01,2024-09-23,Burger King,Chinese,1,266.54,Cash,17,2024-12-10,319,False,3.0,Delayed,266.54,1,2,1,4
+C5424,Other,Adult,Multan,2024-09-23,2024-11-03,Pizza Hut,Dessert,2,391.7,Cash,19,2025-01-12,383,False,3.0,Delayed,783.4,1,2,1,4
+C5630,Female,Adult,Multan,2024-05-09,2024-09-23,Pizza Hut,Dessert,5,389.02,Card,25,2025-01-27,155,True,3.0,Delayed,1945.1,2,3,3,8
+C3957,Other,Teenager,Multan,2024-08-03,2024-09-23,Pizza Hut,Fast Food,5,541.58,Card,27,2025-01-11,51,True,5.0,Delivered,2707.9,1,3,4,8
+C2215,Male,Senior,Multan,2023-08-29,2024-09-25,Pizza Hut,Dessert,1,365.49,Cash,44,2024-11-14,492,False,-1.0,Cancelled,365.49,1,5,1,7
+C3965,Female,Teenager,Multan,2024-09-25,2025-07-05,McDonald's,Chinese,3,1344.49,Card,22,2025-07-08,169,True,3.0,Delayed,4033.4700000000003,4,3,5,12
+C3384,Male,Teenager,Multan,2024-09-25,2024-12-04,Subway,Dessert,2,201.16,Card,31,2025-02-01,222,False,4.0,Delayed,402.32,2,4,1,7
+C3217,Other,Teenager,Multan,2024-01-31,2024-09-28,Subway,Dessert,1,321.4,Cash,28,2024-12-10,306,True,5.0,Delivered,321.4,1,3,1,5
+C5919,Female,Teenager,Multan,2024-09-28,2025-03-15,McDonald's,Fast Food,2,924.94,Card,2,2025-04-08,325,False,2.0,Delivered,1849.88,3,1,3,7
+C5857,Male,Teenager,Multan,2024-09-29,2025-01-17,Subway,Chinese,4,415.43,Card,44,2025-04-26,411,True,4.0,Delivered,1661.72,3,5,3,11
+C5326,Other,Teenager,Multan,2024-07-14,2024-09-30,McDonald's,Italian,4,117.18,Card,47,2025-05-03,142,False,2.0,Delayed,468.72,3,5,1,9
+C6222,Other,Adult,Multan,2024-09-30,2024-11-21,Pizza Hut,Continental,2,1368.66,Cash,16,2025-05-25,324,True,-1.0,Cancelled,2737.32,3,2,4,9
+C5932,Other,Adult,Multan,2023-09-29,2024-10-01,Subway,Chinese,2,197.12,Card,28,2025-01-07,187,False,1.0,Delayed,394.24,1,3,1,5
+C3007,Other,Adult,Multan,2023-09-19,2024-10-01,McDonald's,Continental,2,519.78,Cash,44,2024-12-06,373,False,-1.0,Cancelled,1039.56,1,5,2,8
+C1928,Other,Teenager,Multan,2024-05-20,2024-09-20,Subway,Continental,5,1489.28,Cash,33,2024-10-01,113,True,-1.0,Cancelled,7446.4,1,4,5,10
+C1552,Other,Senior,Multan,2024-10-02,2024-12-04,KFC,Continental,2,1024.95,Wallet,11,2025-02-26,74,True,4.0,Delayed,2049.9,2,1,3,6
+C5625,Other,Senior,Multan,2024-01-09,2024-10-02,McDonald's,Continental,4,763.94,Wallet,23,2025-04-21,360,True,-1.0,Cancelled,3055.76,3,3,4,10
+C1660,Other,Senior,Multan,2024-08-25,2024-08-27,KFC,Chinese,1,242.89,Cash,26,2024-10-02,463,True,5.0,Delayed,242.89,1,3,1,5
+C3802,Male,Teenager,Multan,2024-10-03,2024-12-09,Burger King,Italian,4,423.6,Wallet,19,2025-01-04,42,False,-1.0,Cancelled,1694.4,1,2,3,6
+C5263,Other,Teenager,Multan,2024-06-27,2024-10-04,Subway,Chinese,4,486.01,Card,48,2025-06-25,296,False,-1.0,Cancelled,1944.04,4,5,3,12
+C6178,Female,Adult,Multan,2024-06-01,2024-10-05,McDonald's,Fast Food,3,672.43,Card,48,2024-11-02,224,False,3.0,Delayed,2017.29,1,5,3,9
+C5051,Female,Senior,Multan,2024-04-23,2024-10-06,Subway,Continental,5,982.29,Cash,50,2025-06-24,378,False,4.0,Delayed,4911.45,4,5,5,14
+C1385,Female,Adult,Multan,2023-11-14,2024-10-06,Pizza Hut,Chinese,5,1184.49,Wallet,3,2024-12-24,394,False,2.0,Delayed,5922.45,1,1,5,7
+C4866,Other,Adult,Multan,2024-10-07,2024-10-07,Pizza Hut,Fast Food,3,693.56,Cash,44,2024-10-28,461,False,-1.0,Cancelled,2080.68,1,5,3,9
+C3725,Male,Senior,Multan,2024-08-04,2024-10-07,KFC,Fast Food,5,1433.03,Card,38,2025-08-17,160,True,2.0,Delayed,7165.15,5,4,5,14
+C1152,Female,Adult,Multan,2024-03-07,2024-10-08,Subway,Dessert,3,502.54,Card,37,2025-02-06,428,True,5.0,Delivered,1507.6200000000001,2,4,3,9
+C6902,Female,Teenager,Multan,2024-05-16,2024-10-09,Pizza Hut,Continental,5,599.76,Cash,8,2024-11-14,294,False,3.0,Delayed,2998.8,1,1,4,6
+C2906,Male,Adult,Multan,2024-10-09,2024-11-08,Subway,Chinese,3,331.42,Card,9,2025-01-19,398,False,4.0,Delivered,994.26,2,1,2,5
+C4145,Female,Teenager,Multan,2024-10-10,2025-04-24,KFC,Chinese,5,960.9,Card,14,2025-07-19,57,False,-1.0,Cancelled,4804.5,5,2,5,12
+C2702,Other,Adult,Multan,2023-10-28,2024-10-11,Subway,Fast Food,2,1212.65,Wallet,14,2024-12-18,138,True,5.0,Delayed,2425.3,1,2,3,6
+C6574,Other,Teenager,Multan,2023-09-05,2024-10-12,Subway,Italian,5,979.22,Card,4,2025-01-19,426,False,4.0,Delivered,4896.1,2,1,5,8
+C5729,Female,Senior,Multan,2023-10-24,2024-10-12,Pizza Hut,Italian,5,862.66,Card,30,2025-04-24,211,True,5.0,Delivered,4313.3,3,3,5,11
+C4451,Other,Teenager,Multan,2024-06-30,2024-10-05,KFC,Continental,5,854.84,Wallet,11,2024-10-12,409,True,1.0,Delayed,4274.2,1,1,5,7
+C5585,Other,Teenager,Multan,2024-07-16,2024-10-14,Burger King,Italian,3,1135.29,Cash,14,2024-12-18,386,False,-1.0,Cancelled,3405.87,1,2,4,7
+C2562,Male,Teenager,Multan,2024-10-15,2025-01-14,Burger King,Fast Food,2,740.4,Card,32,2025-01-30,32,False,-1.0,Cancelled,1480.8,2,4,3,9
+C1249,Male,Teenager,Multan,2024-10-15,2025-08-01,Burger King,Chinese,3,1145.88,Cash,45,2025-08-12,487,True,4.0,Delivered,3437.6400000000003,5,5,4,14
+C2426,Female,Adult,Multan,2024-10-15,2025-05-13,Pizza Hut,Continental,2,1198.61,Cash,23,2025-06-08,136,True,-1.0,Cancelled,2397.22,4,3,3,10
+C1889,Female,Teenager,Multan,2024-01-19,2024-10-16,Subway,Dessert,1,144.29,Cash,22,2025-03-14,484,True,-1.0,Cancelled,144.29,2,3,1,6
+C4100,Female,Adult,Multan,2023-09-14,2024-10-17,Burger King,Chinese,1,742.38,Wallet,31,2024-12-25,14,True,4.0,Delayed,742.38,1,4,1,6
+C3089,Other,Senior,Multan,2024-08-15,2024-10-17,Pizza Hut,Dessert,5,1398.51,Cash,3,2025-06-26,212,False,5.0,Delayed,6992.55,4,1,5,10
+C4331,Other,Teenager,Multan,2024-04-25,2024-10-18,KFC,Continental,3,545.84,Cash,6,2024-12-10,245,True,-1.0,Cancelled,1637.52,1,1,3,5
+C4731,Female,Adult,Multan,2024-05-05,2024-10-18,Burger King,Chinese,2,1078.05,Card,47,2025-02-22,428,True,-1.0,Cancelled,2156.1,2,5,3,10
+C1542,Other,Teenager,Multan,2023-10-16,2024-10-18,Burger King,Fast Food,4,989.58,Cash,4,2025-08-05,2,False,1.0,Delayed,3958.32,5,1,5,11
+C5928,Male,Adult,Multan,2024-10-19,2024-11-24,Subway,Dessert,2,293.54,Wallet,37,2025-08-01,133,False,1.0,Delivered,587.08,5,4,1,10
+C3997,Male,Senior,Multan,2024-01-15,2024-10-21,Pizza Hut,Italian,4,1394.7,Wallet,3,2025-01-01,450,True,4.0,Delayed,5578.8,1,1,5,7
+C4514,Other,Senior,Multan,2023-09-16,2024-10-22,Burger King,Dessert,3,1384.65,Card,23,2024-12-17,274,False,-1.0,Cancelled,4153.950000000001,1,3,5,9
+C5829,Other,Teenager,Multan,2023-09-16,2024-10-22,Subway,Fast Food,3,806.61,Card,28,2024-12-16,347,True,-1.0,Cancelled,2419.83,1,3,3,7
+C6624,Other,Adult,Multan,2024-08-25,2024-10-22,Pizza Hut,Continental,3,1311.14,Card,16,2025-06-07,24,False,-1.0,Cancelled,3933.42,4,2,4,10
+C6992,Female,Teenager,Multan,2024-02-25,2024-10-23,McDonald's,Dessert,2,767.87,Card,25,2025-04-12,188,True,-1.0,Cancelled,1535.74,3,3,3,9
+C4149,Male,Teenager,Multan,2023-12-29,2024-10-23,KFC,Chinese,4,432.41,Cash,47,2025-03-14,346,True,5.0,Delayed,1729.64,2,5,3,10
+C1772,Female,Senior,Multan,2024-09-17,2024-10-24,McDonald's,Continental,5,1164.68,Cash,35,2024-10-29,289,True,-1.0,Cancelled,5823.400000000001,1,4,5,10
+C1821,Female,Adult,Multan,2024-08-28,2024-10-25,Burger King,Italian,2,630.27,Wallet,5,2025-02-05,475,True,-1.0,Cancelled,1260.54,2,1,2,5
+C5316,Other,Teenager,Multan,2024-08-17,2024-10-26,McDonald's,Chinese,4,992.76,Cash,23,2025-06-15,384,True,4.0,Delivered,3971.04,4,3,5,12
+C5636,Male,Senior,Multan,2023-08-27,2024-10-27,Pizza Hut,Fast Food,3,358.71,Card,12,2025-04-24,219,False,-1.0,Cancelled,1076.1299999999999,3,2,2,7
+C4214,Other,Teenager,Multan,2024-06-01,2024-10-27,Burger King,Chinese,2,715.37,Wallet,43,2025-07-11,435,True,4.0,Delayed,1430.74,4,5,2,11
+C6641,Other,Senior,Multan,2023-10-01,2024-10-05,Subway,Fast Food,2,1347.57,Card,26,2024-10-27,196,False,-1.0,Cancelled,2695.14,1,3,4,8
+C6794,Female,Teenager,Multan,2023-09-17,2024-10-28,Subway,Fast Food,1,1142.67,Cash,22,2025-06-25,341,False,2.0,Delivered,1142.67,4,3,2,9
+C2271,Male,Adult,Multan,2024-10-28,2025-06-01,KFC,Dessert,5,1061.11,Cash,39,2025-08-13,116,True,-1.0,Cancelled,5305.549999999999,5,4,5,14
+C6051,Male,Teenager,Multan,2024-10-15,2024-10-28,McDonald's,Chinese,2,1347.57,Cash,18,2025-08-19,156,True,3.0,Delayed,2695.14,5,2,4,11
+C3356,Female,Adult,Multan,2024-10-29,2024-12-20,Subway,Italian,1,1122.77,Card,1,2025-06-30,112,False,-1.0,Cancelled,1122.77,4,1,2,7
+C2474,Female,Senior,Multan,2024-10-07,2024-10-29,Pizza Hut,Dessert,2,1048.0,Cash,13,2025-02-01,467,True,-1.0,Cancelled,2096.0,2,2,3,7
+C6143,Male,Senior,Multan,2024-10-30,2025-01-18,McDonald's,Italian,3,1077.95,Wallet,15,2025-06-26,213,True,-1.0,Cancelled,3233.8500000000004,4,2,4,10
+C4272,Female,Senior,Multan,2024-04-22,2024-11-02,Pizza Hut,Chinese,3,248.1,Card,38,2025-05-05,84,False,-1.0,Cancelled,744.3,3,4,1,8
+C2144,Male,Senior,Multan,2024-06-18,2024-11-03,Pizza Hut,Chinese,1,450.96,Card,14,2024-11-27,345,True,-1.0,Cancelled,450.96,1,2,1,4
+C2246,Other,Senior,Multan,2024-11-03,2025-03-08,Pizza Hut,Italian,4,814.44,Card,36,2025-05-01,317,False,-1.0,Cancelled,3257.76,3,4,4,11
+C1036,Male,Adult,Multan,2024-11-04,2024-12-13,KFC,Chinese,5,1167.94,Cash,14,2024-12-14,15,False,4.0,Delayed,5839.700000000001,1,2,5,8
+C2994,Female,Adult,Multan,2024-02-17,2024-11-05,KFC,Continental,1,952.31,Cash,23,2025-08-17,70,True,-1.0,Cancelled,952.31,5,3,2,10
+C2025,Male,Adult,Multan,2024-11-06,2025-05-05,Pizza Hut,Chinese,2,554.06,Card,35,2025-06-15,487,False,-1.0,Cancelled,1108.12,4,4,2,10
+C6877,Other,Adult,Multan,2023-12-29,2024-11-06,Subway,Italian,5,1364.43,Cash,36,2025-07-22,448,True,4.0,Delayed,6822.150000000001,5,4,5,14
+C2669,Female,Senior,Multan,2024-09-18,2024-11-06,Pizza Hut,Fast Food,4,1296.23,Card,16,2025-06-04,483,False,3.0,Delivered,5184.92,4,2,5,11
+C4608,Male,Adult,Multan,2024-09-27,2024-11-07,Subway,Continental,1,1161.06,Wallet,50,2025-08-11,355,False,-1.0,Cancelled,1161.06,5,5,2,12
+C5835,Female,Senior,Multan,2024-11-07,2024-12-07,Pizza Hut,Chinese,2,334.5,Card,7,2025-02-27,151,True,1.0,Delivered,669.0,2,1,1,4
+C5665,Male,Teenager,Multan,2023-09-10,2024-08-25,Burger King,Chinese,5,1367.94,Card,23,2024-11-07,418,True,2.0,Delivered,6839.700000000001,1,3,5,9
+C5426,Other,Adult,Multan,2024-08-25,2024-11-08,KFC,Continental,1,784.4,Wallet,36,2025-07-17,172,True,-1.0,Cancelled,784.4,5,4,1,10
+C1357,Male,Adult,Multan,2024-11-09,2025-02-06,Burger King,Fast Food,1,438.87,Card,29,2025-08-17,450,True,1.0,Delayed,438.87,5,3,1,9
+C5560,Other,Senior,Multan,2024-11-09,2024-12-26,KFC,Italian,4,1046.88,Cash,35,2025-05-27,38,True,1.0,Delivered,4187.52,3,4,5,12
+C3518,Other,Adult,Multan,2024-11-09,2025-05-19,Subway,Italian,5,321.03,Card,19,2025-07-28,485,False,1.0,Delayed,1605.1499999999999,5,2,3,10
+C6016,Female,Senior,Multan,2024-11-11,2024-12-18,McDonald's,Italian,4,863.48,Card,37,2025-04-17,426,True,3.0,Delivered,3453.92,3,4,4,11
+C6505,Other,Senior,Multan,2024-09-18,2024-11-11,Burger King,Italian,5,1334.61,Card,50,2025-04-13,245,False,4.0,Delivered,6673.049999999999,3,5,5,13
+C5624,Female,Teenager,Multan,2024-08-28,2024-11-11,Subway,Dessert,4,1411.33,Cash,46,2025-06-06,302,False,5.0,Delivered,5645.32,4,5,5,14
+C1265,Female,Adult,Multan,2024-11-13,2025-05-27,Burger King,Chinese,4,1064.83,Cash,27,2025-08-14,250,True,-1.0,Cancelled,4259.32,5,3,5,13
+C6371,Female,Senior,Multan,2024-11-13,2025-03-09,Subway,Italian,1,136.79,Cash,16,2025-05-12,267,True,4.0,Delayed,136.79,3,2,1,6
+C6886,Other,Teenager,Multan,2023-08-25,2024-11-14,KFC,Continental,3,1048.74,Card,9,2024-11-26,388,True,3.0,Delivered,3146.2200000000003,1,1,4,6
+C3783,Other,Adult,Multan,2024-08-23,2024-11-14,Burger King,Italian,4,349.62,Cash,6,2025-08-03,278,False,1.0,Delayed,1398.48,5,1,2,8
+C2695,Female,Teenager,Multan,2024-08-13,2024-11-14,Pizza Hut,Dessert,5,1161.99,Card,35,2025-03-03,311,True,1.0,Delivered,5809.95,2,4,5,11
+C1786,Other,Senior,Multan,2024-11-14,2025-04-11,Pizza Hut,Continental,5,1363.7,Wallet,24,2025-06-04,295,True,4.0,Delivered,6818.5,4,3,5,12
+C5171,Other,Teenager,Multan,2024-01-03,2024-09-23,Subway,Fast Food,1,857.54,Card,28,2024-11-14,8,False,2.0,Delayed,857.54,1,3,2,6
+C4241,Other,Senior,Multan,2023-09-19,2024-11-15,McDonald's,Dessert,3,819.64,Card,48,2025-04-05,160,False,4.0,Delivered,2458.92,3,5,4,12
+C4469,Other,Senior,Multan,2024-07-23,2024-11-15,Subway,Fast Food,4,405.53,Cash,17,2025-07-09,398,False,3.0,Delayed,1622.12,4,2,3,9
+C5882,Male,Teenager,Multan,2024-09-07,2024-11-16,Pizza Hut,Fast Food,5,180.74,Cash,7,2025-07-05,86,True,-1.0,Cancelled,903.7,4,1,2,7
+C1089,Other,Senior,Multan,2024-04-16,2024-11-17,KFC,Dessert,3,140.33,Cash,5,2024-11-30,141,True,5.0,Delayed,420.99,1,1,1,3
+C1893,Female,Teenager,Multan,2023-09-14,2024-11-17,Subway,Continental,3,1254.43,Card,8,2025-02-06,174,True,5.0,Delayed,3763.29,2,1,4,7
+C4599,Female,Adult,Multan,2024-11-18,2025-06-23,KFC,Fast Food,4,894.49,Cash,43,2025-07-12,392,False,4.0,Delayed,3577.96,4,5,4,13
+C6988,Other,Teenager,Multan,2024-08-26,2024-11-18,Burger King,Chinese,5,147.72,Wallet,30,2024-12-12,157,True,1.0,Delayed,738.6,1,3,1,5
+C4811,Female,Adult,Multan,2024-07-22,2024-11-19,Pizza Hut,Fast Food,3,126.22,Wallet,34,2025-06-16,433,False,-1.0,Cancelled,378.65999999999997,4,4,1,9
+C6113,Male,Adult,Multan,2024-07-06,2024-11-19,KFC,Italian,1,1370.11,Wallet,3,2025-05-16,490,False,3.0,Delayed,1370.11,3,1,2,6
+C2526,Other,Senior,Multan,2024-08-30,2024-11-20,Burger King,Dessert,5,445.2,Wallet,26,2025-07-05,250,True,5.0,Delivered,2226.0,4,3,3,10
+C4978,Male,Senior,Multan,2024-10-11,2024-11-20,Subway,Italian,2,329.48,Wallet,26,2025-05-01,417,True,5.0,Delayed,658.96,3,3,1,7
+C4304,Male,Adult,Multan,2024-06-22,2024-11-21,Burger King,Dessert,2,289.45,Wallet,48,2025-03-23,290,True,-1.0,Cancelled,578.9,2,5,1,8
+C4692,Female,Adult,Multan,2024-02-27,2024-11-21,KFC,Italian,5,492.96,Wallet,16,2025-01-27,243,False,-1.0,Cancelled,2464.7999999999997,2,2,4,8
+C2734,Female,Senior,Multan,2024-08-23,2024-11-21,KFC,Chinese,5,1041.32,Card,24,2025-03-20,468,True,5.0,Delayed,5206.599999999999,2,3,5,10
+C6334,Female,Senior,Multan,2024-01-24,2024-11-21,Burger King,Fast Food,5,1097.32,Cash,28,2025-07-12,14,False,-1.0,Cancelled,5486.599999999999,4,3,5,12
+C1061,Other,Senior,Multan,2024-05-03,2024-11-21,Subway,Fast Food,2,524.22,Cash,44,2025-03-11,351,False,-1.0,Cancelled,1048.44,2,5,2,9
+C5440,Other,Senior,Multan,2024-07-24,2024-10-26,KFC,Italian,3,498.08,Cash,49,2024-11-23,7,True,5.0,Delivered,1494.24,1,5,3,9
+C1990,Other,Adult,Multan,2024-11-24,2024-12-04,Pizza Hut,Fast Food,5,1450.74,Wallet,41,2025-05-09,448,True,4.0,Delayed,7253.7,3,5,5,13
+C3922,Female,Teenager,Multan,2024-05-17,2024-11-24,KFC,Chinese,2,1050.98,Card,32,2025-05-30,175,False,3.0,Delivered,2101.96,4,4,3,11
+C1444,Male,Adult,Multan,2024-05-26,2024-11-24,Pizza Hut,Fast Food,1,868.17,Card,5,2025-02-06,169,True,4.0,Delivered,868.17,2,1,2,5
+C6875,Other,Senior,Multan,2024-11-26,2024-12-01,McDonald's,Italian,2,302.13,Card,23,2025-05-25,122,False,2.0,Delivered,604.26,3,3,1,7
+C3631,Other,Teenager,Multan,2024-11-28,2025-02-18,McDonald's,Chinese,3,1176.35,Wallet,16,2025-03-01,107,False,-1.0,Cancelled,3529.0499999999997,2,2,4,8
+C6118,Male,Teenager,Multan,2024-11-29,2025-02-18,McDonald's,Dessert,5,847.57,Cash,48,2025-06-26,71,True,-1.0,Cancelled,4237.85,4,5,5,14
+C4698,Female,Teenager,Multan,2023-09-15,2024-11-29,Pizza Hut,Dessert,2,398.9,Card,46,2025-07-07,181,True,-1.0,Cancelled,797.8,4,5,1,10
+C4672,Male,Senior,Multan,2024-11-29,2025-05-23,Burger King,Italian,4,1324.72,Cash,32,2025-08-10,298,False,-1.0,Cancelled,5298.88,5,4,5,14
+C3299,Other,Adult,Multan,2024-08-25,2024-11-29,McDonald's,Italian,5,310.1,Cash,45,2025-05-03,352,True,3.0,Delivered,1550.5,3,5,3,11
+C4318,Male,Senior,Multan,2024-08-21,2024-12-02,Subway,Italian,2,268.89,Card,12,2025-03-29,247,False,2.0,Delivered,537.78,2,2,1,5
+C4271,Other,Adult,Multan,2024-07-30,2024-11-24,Pizza Hut,Italian,1,596.37,Cash,14,2024-12-02,485,True,2.0,Delayed,596.37,1,2,1,4
+C1649,Female,Adult,Multan,2024-07-21,2024-12-02,KFC,Dessert,2,997.28,Card,26,2024-12-16,176,False,1.0,Delivered,1994.56,1,3,3,7
+C3911,Male,Teenager,Multan,2024-03-24,2024-12-02,Pizza Hut,Chinese,1,1232.45,Wallet,12,2025-07-19,285,True,-1.0,Cancelled,1232.45,5,2,2,9
+C4967,Male,Teenager,Multan,2024-12-03,2025-03-30,McDonald's,Italian,2,1156.48,Cash,15,2025-04-06,374,True,4.0,Delayed,2312.96,3,2,3,8
+C2807,Male,Senior,Multan,2023-12-01,2024-12-04,Burger King,Italian,3,213.01,Cash,7,2025-07-16,384,True,5.0,Delivered,639.03,5,1,1,7
+C6688,Male,Adult,Multan,2024-10-28,2024-12-06,KFC,Fast Food,1,861.48,Wallet,12,2024-12-26,84,True,2.0,Delivered,861.48,1,2,2,5
+C4526,Male,Teenager,Multan,2024-12-06,2025-04-14,Pizza Hut,Fast Food,5,514.24,Cash,5,2025-07-17,272,False,1.0,Delivered,2571.2,5,1,4,10
+C5652,Female,Teenager,Multan,2024-04-16,2024-12-07,Burger King,Fast Food,2,554.07,Cash,4,2025-07-25,242,False,-1.0,Cancelled,1108.14,5,1,2,8
+C2119,Other,Adult,Multan,2024-09-16,2024-10-19,Subway,Chinese,1,464.51,Card,49,2024-12-09,32,True,5.0,Delivered,464.51,1,5,1,7
+C1024,Male,Adult,Multan,2024-04-02,2024-10-06,Burger King,Italian,5,458.21,Wallet,14,2024-12-09,325,False,3.0,Delivered,2291.0499999999997,1,2,3,6
+C4907,Male,Teenager,Multan,2024-08-21,2024-12-09,Subway,Continental,4,1252.65,Cash,18,2025-01-17,109,False,5.0,Delayed,5010.6,2,2,5,9
+C1782,Male,Senior,Multan,2024-01-04,2024-12-10,Burger King,Chinese,5,802.75,Cash,21,2025-01-23,429,False,1.0,Delivered,4013.75,2,3,5,10
+C2006,Male,Senior,Multan,2024-06-02,2024-12-10,Subway,Dessert,2,108.36,Cash,11,2025-03-28,141,False,3.0,Delivered,216.72,2,1,1,4
+C4399,Female,Adult,Multan,2024-08-31,2024-09-08,Pizza Hut,Chinese,5,1371.51,Card,43,2024-12-10,194,False,1.0,Delayed,6857.55,1,5,5,11
+C3209,Male,Senior,Multan,2023-12-07,2024-12-10,McDonald's,Italian,1,1358.81,Cash,34,2025-03-19,113,True,4.0,Delayed,1358.81,2,4,2,8
+C3812,Male,Teenager,Multan,2024-04-08,2024-12-11,Subway,Fast Food,2,1280.51,Cash,30,2025-06-19,373,False,-1.0,Cancelled,2561.02,4,3,4,11
+C2260,Other,Senior,Multan,2023-11-30,2024-12-12,Subway,Italian,2,463.5,Cash,4,2025-01-09,377,True,-1.0,Cancelled,927.0,1,1,2,4
+C4724,Female,Teenager,Multan,2024-10-22,2024-10-29,McDonald's,Chinese,3,125.64,Cash,6,2024-12-13,216,False,1.0,Delayed,376.92,1,1,1,3
+C5948,Female,Senior,Multan,2024-12-13,2025-06-09,Subway,Fast Food,5,801.8,Wallet,42,2025-07-18,27,False,1.0,Delivered,4009.0,5,5,5,15
+C6765,Male,Senior,Multan,2023-11-08,2024-12-15,Pizza Hut,Italian,5,461.78,Wallet,31,2025-05-26,333,True,2.0,Delayed,2308.8999999999996,3,4,3,10
+C4225,Female,Adult,Multan,2024-12-15,2025-02-24,McDonald's,Fast Food,2,443.87,Card,3,2025-05-29,302,False,-1.0,Cancelled,887.74,4,1,2,7
+C4432,Male,Teenager,Multan,2023-09-06,2024-09-13,McDonald's,Italian,4,837.89,Cash,34,2024-12-16,275,True,3.0,Delayed,3351.56,1,4,4,9
+C6069,Male,Adult,Multan,2024-05-19,2024-09-13,Subway,Fast Food,4,861.44,Cash,5,2024-12-16,245,False,1.0,Delivered,3445.76,1,1,4,6
+C4281,Female,Teenager,Multan,2024-12-16,2025-03-07,Pizza Hut,Dessert,3,632.18,Cash,31,2025-07-09,497,True,4.0,Delayed,1896.54,4,4,3,11
+C5921,Other,Teenager,Multan,2024-07-31,2024-12-16,Burger King,Fast Food,2,228.4,Wallet,39,2025-08-11,196,True,3.0,Delayed,456.8,5,4,1,10
+C1938,Male,Adult,Multan,2024-05-22,2024-12-10,Subway,Italian,4,568.33,Wallet,18,2024-12-18,21,False,-1.0,Cancelled,2273.32,1,2,3,6
+C2929,Female,Adult,Multan,2024-01-05,2024-12-19,KFC,Continental,2,1401.99,Cash,29,2025-08-06,110,False,3.0,Delayed,2803.98,5,3,4,12
+C4900,Female,Senior,Multan,2024-12-20,2025-01-02,Burger King,Italian,4,978.12,Wallet,5,2025-07-24,274,True,5.0,Delayed,3912.48,5,1,4,10
+C1953,Female,Senior,Multan,2024-12-20,2025-01-06,KFC,Italian,2,584.19,Wallet,46,2025-06-22,199,False,-1.0,Cancelled,1168.38,4,5,2,11
+C6606,Other,Adult,Multan,2023-09-01,2024-12-21,McDonald's,Continental,1,238.71,Card,37,2025-04-29,385,True,2.0,Delivered,238.71,3,4,1,8
+C4736,Male,Adult,Multan,2023-12-23,2024-10-25,KFC,Italian,3,238.59,Wallet,24,2024-12-23,360,True,5.0,Delivered,715.77,1,3,1,5
+C3827,Other,Teenager,Multan,2023-11-15,2024-12-23,Pizza Hut,Continental,3,223.19,Wallet,40,2025-04-19,326,True,-1.0,Cancelled,669.5699999999999,3,4,1,8
+C5517,Other,Senior,Multan,2024-10-23,2024-12-12,McDonald's,Continental,1,448.59,Card,46,2024-12-24,147,True,1.0,Delivered,448.59,1,5,1,7
+C4586,Male,Senior,Multan,2024-10-04,2024-12-25,KFC,Italian,3,1280.94,Card,32,2025-01-21,249,True,1.0,Delivered,3842.82,2,4,4,10
+C1338,Female,Adult,Multan,2024-08-06,2024-12-26,Subway,Chinese,1,806.63,Card,25,2025-02-01,92,True,-1.0,Cancelled,806.63,2,3,1,6
+C1682,Male,Senior,Multan,2023-10-30,2024-10-10,Subway,Fast Food,2,1439.3,Card,36,2024-12-26,318,True,2.0,Delayed,2878.6,1,4,4,9
+C3278,Male,Adult,Multan,2024-12-26,2025-01-03,Subway,Continental,5,1110.75,Card,40,2025-01-28,383,True,1.0,Delayed,5553.75,2,4,5,11
+C3683,Other,Adult,Multan,2024-05-24,2024-11-22,McDonald's,Italian,5,537.92,Wallet,44,2024-12-26,308,False,-1.0,Cancelled,2689.6,1,5,4,10
+C1427,Female,Senior,Multan,2023-12-05,2024-08-24,McDonald's,Fast Food,2,232.48,Wallet,24,2024-12-27,7,True,2.0,Delayed,464.96,1,3,1,5
+C3939,Female,Teenager,Multan,2024-10-28,2024-12-27,KFC,Italian,5,1013.38,Cash,12,2025-03-02,69,False,-1.0,Cancelled,5066.9,2,2,5,9
+C1579,Other,Senior,Multan,2024-12-29,2025-01-21,Subway,Continental,2,1142.88,Card,20,2025-08-10,349,True,5.0,Delayed,2285.76,5,2,3,10
+C4880,Female,Adult,Multan,2024-12-14,2024-12-29,Burger King,Fast Food,1,911.65,Card,40,2025-03-25,7,False,-1.0,Cancelled,911.65,2,4,2,8
+C1717,Female,Senior,Multan,2024-10-10,2024-12-30,Burger King,Italian,3,716.72,Wallet,14,2025-01-11,271,True,-1.0,Cancelled,2150.16,1,2,3,6
+C1880,Male,Senior,Multan,2023-10-08,2024-10-13,McDonald's,Dessert,4,812.5,Cash,44,2024-12-31,89,True,-1.0,Cancelled,3250.0,1,5,4,10
+C6472,Male,Adult,Multan,2024-12-31,2025-01-02,Subway,Fast Food,2,1274.51,Wallet,14,2025-04-27,428,True,-1.0,Cancelled,2549.02,3,2,4,9
+C5721,Other,Teenager,Multan,2024-03-07,2025-01-01,Pizza Hut,Fast Food,3,519.41,Card,43,2025-01-08,316,True,3.0,Delivered,1558.23,1,5,3,9
+C3881,Other,Teenager,Multan,2023-11-29,2025-01-02,Subway,Continental,2,1190.98,Wallet,29,2025-05-02,495,True,5.0,Delivered,2381.96,3,3,3,9
+C3370,Male,Teenager,Multan,2024-11-04,2025-01-03,Pizza Hut,Continental,3,269.43,Wallet,6,2025-05-15,32,True,-1.0,Cancelled,808.29,3,1,1,5
+C2871,Female,Teenager,Multan,2023-08-28,2024-10-22,Subway,Chinese,3,1015.79,Wallet,10,2025-01-04,115,True,1.0,Delivered,3047.37,1,1,4,6
+C3974,Male,Teenager,Multan,2024-02-20,2025-01-05,Pizza Hut,Dessert,5,1125.62,Wallet,49,2025-07-12,42,False,3.0,Delivered,5628.099999999999,4,5,5,14
+C1495,Male,Teenager,Multan,2025-01-07,2025-01-16,Subway,Dessert,5,1147.53,Cash,17,2025-04-27,256,True,4.0,Delivered,5737.65,3,2,5,10
+C3186,Male,Teenager,Multan,2025-01-08,2025-08-04,Burger King,Continental,5,1386.51,Card,19,2025-08-18,352,False,-1.0,Cancelled,6932.55,5,2,5,12
+C5990,Female,Senior,Multan,2024-06-12,2025-01-08,Subway,Chinese,3,150.84,Cash,49,2025-08-21,191,False,-1.0,Cancelled,452.52,5,5,1,11
+C4461,Other,Adult,Multan,2024-07-09,2025-01-09,Subway,Chinese,4,810.23,Wallet,40,2025-08-01,242,True,-1.0,Cancelled,3240.92,5,4,4,13
+C4368,Male,Adult,Multan,2025-01-09,2025-02-18,KFC,Continental,4,1188.89,Card,47,2025-05-08,131,True,2.0,Delivered,4755.56,3,5,5,13
+C1190,Other,Adult,Multan,2025-01-10,2025-04-08,KFC,Italian,1,466.78,Card,30,2025-06-25,155,True,2.0,Delivered,466.78,4,3,1,8
+C2207,Female,Adult,Multan,2023-11-13,2025-01-10,KFC,Continental,5,220.16,Wallet,24,2025-05-19,242,True,1.0,Delayed,1100.8,3,3,2,8
+C6193,Other,Senior,Multan,2023-10-02,2024-12-09,Burger King,Dessert,1,904.13,Card,18,2025-01-10,241,False,4.0,Delivered,904.13,1,2,2,5
+C1603,Female,Senior,Multan,2024-04-15,2024-10-17,Pizza Hut,Continental,5,1291.12,Cash,23,2025-01-11,427,True,2.0,Delivered,6455.599999999999,1,3,5,9
+C5128,Female,Senior,Multan,2025-01-11,2025-06-23,KFC,Italian,1,537.14,Card,36,2025-08-21,407,True,4.0,Delivered,537.14,5,4,1,10
+C1115,Other,Adult,Multan,2024-10-05,2025-01-12,Pizza Hut,Fast Food,5,206.83,Cash,26,2025-03-15,15,False,2.0,Delivered,1034.15,2,3,2,7
+C6498,Male,Senior,Multan,2024-12-14,2025-01-12,KFC,Chinese,5,1487.35,Cash,12,2025-05-02,430,False,4.0,Delayed,7436.75,3,2,5,10
+C5692,Female,Senior,Multan,2024-05-13,2025-01-12,Pizza Hut,Dessert,4,221.47,Wallet,45,2025-02-25,241,False,1.0,Delayed,885.88,2,5,2,9
+C3470,Female,Senior,Multan,2023-11-30,2024-10-16,McDonald's,Chinese,2,1467.5,Cash,48,2025-01-12,122,False,1.0,Delivered,2935.0,1,5,4,10
+C3650,Other,Senior,Multan,2023-09-30,2025-01-13,KFC,Fast Food,3,458.02,Card,5,2025-03-04,328,False,5.0,Delivered,1374.06,2,1,2,5
+C5956,Female,Adult,Multan,2024-05-14,2025-01-13,Burger King,Dessert,5,568.56,Wallet,8,2025-06-05,446,True,-1.0,Cancelled,2842.7999999999997,4,1,4,9
+C2776,Other,Senior,Multan,2023-11-14,2025-01-04,Subway,Chinese,4,1162.36,Wallet,32,2025-01-14,77,True,-1.0,Cancelled,4649.44,1,4,5,10
+C5575,Female,Senior,Multan,2024-08-12,2025-01-15,Subway,Fast Food,4,423.31,Card,28,2025-05-15,103,True,-1.0,Cancelled,1693.24,3,3,3,9
+C1375,Other,Senior,Multan,2024-07-25,2024-10-25,KFC,Chinese,1,1296.11,Wallet,4,2025-01-15,326,False,2.0,Delivered,1296.11,1,1,2,4
+C5850,Other,Teenager,Multan,2025-01-15,2025-04-07,Pizza Hut,Fast Food,4,725.56,Wallet,25,2025-05-20,24,False,-1.0,Cancelled,2902.24,3,3,4,10
+C2793,Female,Teenager,Multan,2024-12-30,2025-01-16,McDonald's,Dessert,4,1466.56,Card,25,2025-06-04,36,True,3.0,Delayed,5866.24,4,3,5,12
+C2467,Other,Senior,Multan,2023-10-02,2025-01-16,McDonald's,Italian,1,540.77,Wallet,10,2025-06-13,166,False,-1.0,Cancelled,540.77,4,1,1,6
+C4888,Female,Senior,Multan,2023-10-29,2025-01-16,KFC,Fast Food,1,1223.13,Card,35,2025-08-17,358,True,-1.0,Cancelled,1223.13,5,4,2,11
+C6737,Male,Teenager,Multan,2024-08-22,2024-10-04,Pizza Hut,Chinese,3,1021.83,Card,13,2025-01-19,452,True,4.0,Delayed,3065.4900000000002,2,2,4,8
+C1120,Male,Teenager,Multan,2024-12-20,2025-01-21,KFC,Dessert,1,834.14,Cash,34,2025-07-31,500,True,4.0,Delayed,834.14,5,4,1,10
+C2947,Male,Adult,Multan,2023-10-08,2024-08-30,McDonald's,Dessert,1,303.25,Card,38,2025-01-21,230,False,2.0,Delayed,303.25,2,4,1,7
+C6821,Female,Senior,Multan,2024-08-29,2025-01-21,Pizza Hut,Fast Food,5,163.24,Cash,37,2025-03-02,447,False,2.0,Delayed,816.2,2,4,1,7
+C5703,Other,Teenager,Multan,2025-01-21,2025-01-22,Subway,Continental,1,464.86,Cash,25,2025-06-07,172,True,-1.0,Cancelled,464.86,4,3,1,8
+C3983,Female,Teenager,Multan,2025-01-23,2025-01-31,Pizza Hut,Italian,5,794.07,Wallet,22,2025-03-01,186,False,4.0,Delayed,3970.3500000000004,2,3,5,10
+C6449,Male,Teenager,Multan,2024-06-14,2025-01-11,KFC,Chinese,3,1418.81,Card,35,2025-01-25,275,True,-1.0,Cancelled,4256.43,2,4,5,11
+C1653,Male,Adult,Multan,2024-09-15,2025-01-25,KFC,Chinese,2,463.26,Wallet,2,2025-06-04,355,True,-1.0,Cancelled,926.52,4,1,2,7
+C4092,Other,Senior,Multan,2024-10-04,2024-10-23,Burger King,Fast Food,1,293.97,Card,23,2025-01-25,125,False,3.0,Delivered,293.97,2,3,1,6
+C4828,Female,Senior,Multan,2024-12-18,2025-01-26,Pizza Hut,Italian,4,1411.16,Wallet,6,2025-04-08,193,False,4.0,Delayed,5644.64,3,1,5,9
+C5671,Male,Teenager,Multan,2024-06-28,2024-09-25,Subway,Italian,5,1000.73,Wallet,44,2025-01-26,311,False,2.0,Delayed,5003.65,2,5,5,12
+C6573,Male,Senior,Multan,2025-01-27,2025-04-18,McDonald's,Italian,5,1256.53,Cash,1,2025-04-27,405,False,3.0,Delivered,6282.65,3,1,5,9
+C4138,Male,Senior,Multan,2024-02-23,2025-01-27,McDonald's,Continental,2,180.89,Cash,37,2025-03-23,97,False,-1.0,Cancelled,361.78,2,4,1,7
+C3220,Male,Adult,Multan,2024-09-22,2024-10-11,McDonald's,Dessert,5,336.48,Card,11,2025-01-27,299,True,5.0,Delayed,1682.4,2,1,3,6
+C1147,Other,Teenager,Multan,2024-04-25,2024-11-25,Pizza Hut,Continental,3,975.88,Card,1,2025-01-28,393,False,-1.0,Cancelled,2927.64,2,1,4,7
+C6548,Female,Adult,Multan,2023-08-22,2025-01-28,Pizza Hut,Dessert,2,992.55,Card,49,2025-02-18,244,True,-1.0,Cancelled,1985.1,2,5,3,10
+C6808,Male,Adult,Multan,2023-10-13,2025-01-29,Burger King,Chinese,5,426.94,Cash,29,2025-02-16,319,False,5.0,Delayed,2134.7,2,3,3,8
+C6363,Other,Teenager,Multan,2024-06-26,2024-11-04,Burger King,Dessert,5,448.88,Card,6,2025-01-30,500,True,5.0,Delayed,2244.4,2,1,3,6
+C2719,Male,Senior,Multan,2024-10-04,2025-01-31,KFC,Fast Food,5,507.39,Cash,13,2025-04-12,205,True,2.0,Delivered,2536.95,3,2,4,9
+C2609,Other,Adult,Multan,2024-12-13,2025-01-31,Subway,Chinese,5,357.6,Card,33,2025-03-26,454,False,5.0,Delayed,1788.0,2,4,3,9
+C3636,Female,Senior,Multan,2024-05-15,2025-01-31,Subway,Fast Food,5,696.49,Cash,13,2025-08-14,139,True,3.0,Delivered,3482.45,5,2,4,11
+C1840,Female,Teenager,Multan,2023-08-26,2025-01-31,Pizza Hut,Fast Food,2,346.54,Wallet,40,2025-07-19,281,True,-1.0,Cancelled,693.08,5,4,1,10
+C4002,Female,Teenager,Multan,2024-08-14,2025-01-31,Pizza Hut,Dessert,3,213.28,Cash,20,2025-03-29,477,True,5.0,Delivered,639.84,2,2,1,5
+C3847,Other,Senior,Multan,2024-08-16,2024-09-14,KFC,Continental,3,1306.07,Wallet,28,2025-02-01,306,False,-1.0,Cancelled,3918.21,2,3,4,9
+C4861,Male,Teenager,Multan,2024-03-09,2025-02-01,McDonald's,Fast Food,2,950.9,Card,33,2025-05-13,230,False,-1.0,Cancelled,1901.8,3,4,3,10
+C4696,Male,Adult,Multan,2023-11-20,2024-10-29,KFC,Fast Food,2,1269.39,Card,13,2025-02-01,396,True,3.0,Delivered,2538.78,2,2,4,8
+C4879,Other,Adult,Multan,2025-01-19,2025-02-01,Pizza Hut,Continental,4,313.94,Cash,4,2025-05-07,177,False,5.0,Delivered,1255.76,3,1,2,6
+C1153,Other,Senior,Multan,2025-02-02,2025-02-13,Burger King,Chinese,5,816.03,Card,27,2025-03-29,38,True,-1.0,Cancelled,4080.1499999999996,2,3,5,10
+C6683,Male,Senior,Multan,2024-12-05,2025-02-03,McDonald's,Chinese,2,411.22,Card,36,2025-06-01,162,True,2.0,Delivered,822.44,4,4,1,9
+C1846,Female,Adult,Multan,2024-02-17,2025-02-03,Pizza Hut,Chinese,4,114.74,Cash,2,2025-06-06,424,True,-1.0,Cancelled,458.96,4,1,1,6
+C2098,Female,Teenager,Multan,2024-12-28,2025-01-28,Burger King,Continental,3,1411.78,Wallet,29,2025-02-03,106,True,-1.0,Cancelled,4235.34,2,3,5,10
+C1823,Female,Adult,Multan,2025-02-05,2025-04-25,Subway,Chinese,3,1058.42,Wallet,6,2025-06-15,298,False,-1.0,Cancelled,3175.26,4,1,4,9
+C3800,Other,Senior,Multan,2023-08-23,2024-10-01,Subway,Fast Food,3,273.2,Cash,47,2025-02-05,199,False,5.0,Delayed,819.5999999999999,2,5,1,8
+C2028,Female,Teenager,Multan,2024-07-20,2024-10-01,Pizza Hut,Chinese,3,614.43,Cash,10,2025-02-05,192,False,-1.0,Cancelled,1843.29,2,1,3,6
+C6122,Male,Teenager,Multan,2024-04-07,2024-10-31,Subway,Chinese,3,1350.37,Wallet,25,2025-02-07,306,False,1.0,Delayed,4051.1099999999997,2,3,5,10
+C3606,Male,Adult,Multan,2024-02-05,2024-08-22,Pizza Hut,Italian,1,709.42,Card,35,2025-02-07,268,False,-1.0,Cancelled,709.42,2,4,1,7
+C2611,Male,Senior,Multan,2024-12-06,2025-02-07,Subway,Continental,3,929.74,Card,44,2025-06-05,17,False,2.0,Delayed,2789.2200000000003,4,5,4,13
+C4983,Male,Adult,Multan,2023-12-14,2024-12-05,Pizza Hut,Fast Food,2,310.65,Wallet,39,2025-02-07,488,False,4.0,Delivered,621.3,2,4,1,7
+C4206,Male,Teenager,Multan,2024-09-04,2025-02-08,KFC,Chinese,3,1113.44,Wallet,2,2025-06-03,497,True,3.0,Delayed,3340.32,4,1,4,9
+C1020,Female,Adult,Multan,2024-12-11,2025-02-08,Pizza Hut,Dessert,5,1305.22,Cash,5,2025-04-18,52,True,2.0,Delivered,6526.1,3,1,5,9
+C1327,Female,Adult,Multan,2023-11-17,2025-02-08,Subway,Fast Food,2,436.21,Cash,17,2025-05-01,341,True,-1.0,Cancelled,872.42,3,2,2,7
+C3281,Female,Senior,Multan,2024-05-05,2025-02-08,Pizza Hut,Fast Food,4,369.86,Wallet,44,2025-06-14,460,True,-1.0,Cancelled,1479.44,4,5,3,12
+C6444,Female,Adult,Multan,2024-09-13,2025-02-04,KFC,Continental,2,180.48,Cash,21,2025-02-09,449,False,3.0,Delivered,360.96,2,3,1,6
+C5276,Other,Senior,Multan,2024-10-21,2025-02-10,KFC,Continental,4,728.58,Cash,6,2025-04-10,72,True,2.0,Delayed,2914.32,3,1,4,8
+C6286,Male,Teenager,Multan,2024-09-19,2025-02-13,Subway,Italian,5,458.62,Wallet,19,2025-08-14,339,False,2.0,Delayed,2293.1,5,2,3,10
+C4335,Male,Teenager,Multan,2024-12-06,2025-02-14,Burger King,Dessert,2,1198.82,Wallet,6,2025-02-24,227,True,5.0,Delivered,2397.64,2,1,3,6
+C6241,Male,Senior,Multan,2024-11-17,2025-01-28,KFC,Continental,4,1207.33,Card,3,2025-02-14,469,False,4.0,Delivered,4829.32,2,1,5,8
+C6013,Male,Teenager,Multan,2024-03-08,2024-09-07,Pizza Hut,Chinese,5,1441.55,Cash,10,2025-02-16,27,True,1.0,Delivered,7207.75,2,1,5,8
+C6541,Male,Teenager,Multan,2024-03-16,2025-02-16,McDonald's,Chinese,2,134.72,Card,39,2025-02-19,467,True,2.0,Delivered,269.44,2,4,1,7
+C5657,Female,Adult,Multan,2024-04-23,2025-01-15,Pizza Hut,Chinese,4,1177.08,Card,19,2025-02-16,267,True,5.0,Delayed,4708.32,2,2,5,9
+C5952,Other,Teenager,Multan,2025-02-03,2025-02-11,KFC,Fast Food,3,1318.6,Wallet,46,2025-02-16,71,True,-1.0,Cancelled,3955.7999999999997,2,5,4,11
+C5618,Female,Teenager,Multan,2023-09-12,2025-02-09,KFC,Chinese,4,1341.26,Card,4,2025-02-16,57,True,-1.0,Cancelled,5365.04,2,1,5,8
+C2843,Other,Senior,Multan,2025-01-29,2025-02-16,Pizza Hut,Chinese,1,1395.47,Cash,13,2025-05-17,321,True,3.0,Delayed,1395.47,3,2,2,7
+C5386,Other,Adult,Multan,2024-11-09,2025-02-16,McDonald's,Continental,5,1258.7,Cash,42,2025-08-03,198,True,4.0,Delivered,6293.5,5,5,5,15
+C1352,Female,Senior,Multan,2024-09-03,2025-02-12,McDonald's,Dessert,4,927.75,Cash,22,2025-02-16,153,True,3.0,Delivered,3711.0,2,3,4,9
+C3017,Male,Senior,Multan,2023-11-09,2024-12-06,McDonald's,Fast Food,5,482.39,Wallet,6,2025-02-17,283,True,-1.0,Cancelled,2411.95,2,1,3,6
+C5587,Other,Adult,Multan,2024-12-08,2025-02-17,Burger King,Chinese,4,502.33,Cash,28,2025-04-23,303,False,1.0,Delayed,2009.32,3,3,3,9
+C3257,Other,Senior,Multan,2024-11-03,2025-02-17,Burger King,Dessert,1,716.19,Cash,13,2025-07-14,22,True,1.0,Delivered,716.19,5,2,1,8
+C1844,Male,Adult,Multan,2024-04-09,2025-01-26,Subway,Italian,5,505.2,Card,12,2025-02-17,158,False,5.0,Delivered,2526.0,2,2,4,8
+C6901,Male,Teenager,Multan,2024-05-22,2025-02-18,McDonald's,Italian,2,864.21,Cash,30,2025-04-25,415,False,3.0,Delivered,1728.42,3,3,3,9
+C6406,Other,Senior,Multan,2023-10-13,2024-09-26,Subway,Fast Food,3,744.77,Card,42,2025-02-20,315,True,5.0,Delivered,2234.31,2,5,3,10
+C6519,Male,Teenager,Multan,2023-11-18,2024-08-29,Subway,Fast Food,2,1345.02,Wallet,19,2025-02-20,94,False,1.0,Delayed,2690.04,2,2,4,8
+C4662,Male,Adult,Multan,2024-10-25,2025-02-17,KFC,Dessert,1,169.8,Cash,44,2025-02-21,22,True,5.0,Delayed,169.8,2,5,1,8
+C2633,Male,Adult,Multan,2024-07-23,2025-02-22,KFC,Italian,1,738.36,Cash,7,2025-05-28,476,False,-1.0,Cancelled,738.36,3,1,1,5
+C4969,Male,Teenager,Multan,2024-09-26,2025-02-23,Burger King,Dessert,2,237.2,Wallet,2,2025-03-16,124,True,-1.0,Cancelled,474.4,2,1,1,4
+C3609,Female,Senior,Multan,2023-12-12,2025-02-24,Pizza Hut,Dessert,3,1231.12,Card,45,2025-05-14,54,True,-1.0,Cancelled,3693.3599999999997,3,5,4,12
+C3442,Male,Senior,Multan,2024-02-09,2024-10-16,Pizza Hut,Italian,5,419.45,Wallet,15,2025-02-24,177,False,1.0,Delivered,2097.25,2,2,3,7
+C4867,Male,Adult,Multan,2024-10-10,2024-12-25,Pizza Hut,Continental,3,547.43,Card,42,2025-02-26,42,False,5.0,Delayed,1642.29,2,5,3,10
+C2389,Male,Teenager,Multan,2025-02-26,2025-03-27,KFC,Continental,2,907.36,Cash,50,2025-08-19,79,True,5.0,Delayed,1814.72,5,5,3,13
+C4411,Male,Senior,Multan,2025-02-27,2025-05-18,KFC,Continental,3,396.25,Wallet,41,2025-07-25,457,True,-1.0,Cancelled,1188.75,5,5,2,12
+C3129,Male,Senior,Multan,2023-10-01,2025-02-27,KFC,Dessert,4,1426.26,Cash,3,2025-07-23,112,False,3.0,Delayed,5705.04,5,1,5,11
+C6643,Other,Senior,Multan,2024-06-12,2024-12-18,McDonald's,Fast Food,4,478.48,Cash,25,2025-02-27,385,False,4.0,Delivered,1913.92,2,3,3,8
+C2973,Other,Adult,Multan,2025-02-28,2025-06-08,Subway,Continental,5,692.08,Card,42,2025-08-09,61,True,5.0,Delivered,3460.4,5,5,4,14
+C6280,Male,Senior,Multan,2024-12-10,2025-02-28,Burger King,Fast Food,4,1093.38,Wallet,10,2025-05-06,60,False,4.0,Delayed,4373.52,3,1,5,9
+C6296,Male,Teenager,Multan,2024-05-20,2025-03-01,Burger King,Fast Food,2,1073.09,Card,8,2025-07-14,13,False,-1.0,Cancelled,2146.18,5,1,3,9
+C4082,Male,Teenager,Multan,2025-03-01,2025-05-17,Burger King,Fast Food,4,1048.96,Wallet,28,2025-06-23,59,False,3.0,Delivered,4195.84,4,3,5,12
+C4176,Female,Teenager,Multan,2024-03-01,2024-09-30,Subway,Italian,5,372.89,Card,14,2025-03-01,186,True,5.0,Delayed,1864.4499999999998,2,2,3,7
+C1395,Male,Senior,Multan,2024-07-06,2025-03-01,Burger King,Fast Food,4,825.89,Cash,31,2025-06-06,324,True,3.0,Delayed,3303.56,4,4,4,12
+C6440,Male,Teenager,Multan,2025-03-02,2025-03-19,Pizza Hut,Continental,4,729.32,Card,30,2025-04-29,218,True,1.0,Delivered,2917.28,3,3,4,10
+C4632,Female,Adult,Multan,2024-12-18,2025-03-02,KFC,Continental,3,1386.81,Cash,38,2025-07-17,174,False,-1.0,Cancelled,4160.43,5,4,5,14
+C4362,Male,Teenager,Multan,2025-03-02,2025-03-23,McDonald's,Italian,1,957.21,Cash,14,2025-08-20,475,False,1.0,Delivered,957.21,5,2,2,9
+C1691,Female,Senior,Multan,2024-12-03,2025-03-02,Subway,Fast Food,2,1497.51,Wallet,14,2025-07-19,20,False,1.0,Delayed,2995.02,5,2,4,11
+C3314,Male,Teenager,Multan,2025-01-05,2025-02-20,Burger King,Fast Food,5,832.72,Wallet,47,2025-03-02,474,True,2.0,Delivered,4163.6,2,5,5,12
+C5498,Male,Adult,Multan,2024-11-30,2025-03-03,Burger King,Italian,1,1188.11,Card,7,2025-03-09,254,True,4.0,Delayed,1188.11,2,1,2,5
+C4098,Male,Teenager,Multan,2024-07-23,2025-03-03,Burger King,Italian,4,1027.13,Wallet,47,2025-05-23,360,True,-1.0,Cancelled,4108.52,3,5,5,13
+C3764,Other,Senior,Multan,2024-05-15,2025-02-20,Pizza Hut,Fast Food,5,894.0,Cash,2,2025-03-03,313,True,4.0,Delivered,4470.0,2,1,5,8
+C3175,Other,Adult,Multan,2023-12-29,2024-12-07,McDonald's,Chinese,4,1094.31,Wallet,33,2025-03-04,336,True,2.0,Delivered,4377.24,2,4,5,11
+C6776,Male,Adult,Multan,2025-03-04,2025-05-08,Pizza Hut,Dessert,2,125.44,Cash,31,2025-08-09,477,True,-1.0,Cancelled,250.88,5,4,1,10
+C6958,Other,Teenager,Multan,2023-09-27,2025-03-06,Subway,Italian,5,1157.29,Wallet,43,2025-08-19,402,False,4.0,Delayed,5786.45,5,5,5,15
+C2868,Male,Senior,Multan,2024-10-25,2025-03-06,Pizza Hut,Dessert,5,674.64,Wallet,14,2025-07-06,469,True,-1.0,Cancelled,3373.2,4,2,4,10
+C1975,Other,Teenager,Multan,2025-01-05,2025-02-08,KFC,Chinese,1,695.68,Wallet,2,2025-03-07,71,True,3.0,Delayed,695.68,2,1,1,4
+C6302,Other,Adult,Multan,2024-01-29,2025-03-07,Subway,Dessert,1,1005.45,Cash,13,2025-08-09,58,False,1.0,Delivered,1005.45,5,2,2,9
+C5180,Female,Senior,Multan,2023-08-24,2025-02-07,Burger King,Chinese,1,790.13,Card,45,2025-03-08,192,False,-1.0,Cancelled,790.13,2,5,1,8
+C1294,Male,Adult,Multan,2024-09-05,2025-03-08,McDonald's,Chinese,4,814.18,Cash,15,2025-07-20,366,True,-1.0,Cancelled,3256.72,5,2,4,11
+C4171,Other,Adult,Multan,2024-10-07,2024-11-05,Pizza Hut,Continental,2,1142.63,Cash,43,2025-03-08,356,True,5.0,Delayed,2285.26,2,5,3,10
+C6092,Female,Teenager,Multan,2023-09-26,2024-09-24,Subway,Dessert,1,630.91,Cash,39,2025-03-08,329,False,4.0,Delivered,630.91,2,4,1,7
+C6060,Female,Senior,Multan,2023-12-28,2025-03-09,Burger King,Fast Food,3,1009.7,Card,47,2025-04-29,87,False,2.0,Delivered,3029.1000000000004,3,5,4,12
+C4556,Female,Adult,Multan,2023-12-17,2025-03-09,McDonald's,Fast Food,5,1473.62,Wallet,49,2025-04-03,171,False,2.0,Delivered,7368.099999999999,3,5,5,13
+C5048,Other,Teenager,Multan,2024-12-06,2025-03-10,KFC,Fast Food,4,1129.86,Wallet,24,2025-06-21,86,False,3.0,Delayed,4519.44,4,3,5,12
+C1088,Male,Adult,Multan,2024-03-23,2025-01-09,KFC,Fast Food,3,1149.92,Cash,48,2025-03-10,344,True,5.0,Delayed,3449.76,2,5,4,11
+C3768,Male,Adult,Multan,2023-09-11,2025-03-10,Subway,Chinese,2,1456.57,Cash,9,2025-05-31,485,True,3.0,Delayed,2913.14,4,1,4,9
+C6403,Other,Teenager,Multan,2023-12-21,2025-03-10,Subway,Continental,2,1031.62,Wallet,30,2025-03-31,420,True,1.0,Delivered,2063.24,2,3,3,8
+C3799,Other,Teenager,Multan,2024-02-02,2024-11-15,Burger King,Dessert,4,722.92,Card,8,2025-03-12,209,True,-1.0,Cancelled,2891.68,2,1,4,7
+C4249,Other,Teenager,Multan,2024-06-02,2025-03-12,McDonald's,Continental,4,901.11,Wallet,47,2025-03-14,56,False,-1.0,Cancelled,3604.44,2,5,4,11
+C5207,Female,Senior,Multan,2024-10-31,2025-03-12,Subway,Italian,1,1269.62,Wallet,49,2025-08-10,296,True,3.0,Delayed,1269.62,5,5,2,12
+C2043,Other,Adult,Multan,2024-06-25,2025-03-14,KFC,Italian,1,117.65,Wallet,6,2025-04-17,495,False,-1.0,Cancelled,117.65,3,1,1,5
+C2482,Female,Teenager,Multan,2024-05-24,2025-03-15,Pizza Hut,Continental,2,498.28,Wallet,49,2025-04-30,203,True,3.0,Delivered,996.56,3,5,2,10
+C4843,Female,Teenager,Multan,2024-10-14,2024-10-18,Pizza Hut,Fast Food,3,675.66,Card,25,2025-03-15,431,True,4.0,Delayed,2026.98,2,3,3,8
+C2481,Other,Teenager,Multan,2024-09-30,2024-12-09,KFC,Italian,5,1114.13,Wallet,23,2025-03-15,439,False,-1.0,Cancelled,5570.650000000001,2,3,5,10
+C2768,Other,Adult,Multan,2024-04-14,2025-01-27,KFC,Chinese,1,1246.76,Card,44,2025-03-16,217,True,-1.0,Cancelled,1246.76,2,5,2,9
+C3862,Other,Teenager,Multan,2024-07-05,2025-01-17,Pizza Hut,Continental,2,427.81,Wallet,28,2025-03-17,198,False,-1.0,Cancelled,855.62,2,3,2,7
+C1317,Female,Adult,Multan,2025-01-18,2025-03-17,Burger King,Continental,5,302.09,Cash,48,2025-06-10,25,False,1.0,Delayed,1510.4499999999998,4,5,3,12
+C3260,Female,Senior,Multan,2025-03-13,2025-03-17,McDonald's,Dessert,5,236.52,Cash,3,2025-03-27,446,False,3.0,Delayed,1182.6000000000001,2,1,2,5
+C2587,Male,Senior,Multan,2023-10-19,2024-12-27,Subway,Chinese,3,464.66,Wallet,35,2025-03-18,369,True,4.0,Delivered,1393.98,2,4,2,8
+C6127,Male,Teenager,Multan,2025-03-18,2025-03-23,KFC,Fast Food,3,346.28,Card,30,2025-08-12,270,True,-1.0,Cancelled,1038.84,5,3,2,10
+C1247,Female,Senior,Multan,2024-10-09,2024-10-25,Pizza Hut,Chinese,5,875.66,Cash,17,2025-03-19,185,False,-1.0,Cancelled,4378.3,2,2,5,9
+C6353,Male,Adult,Multan,2024-08-20,2025-03-20,Burger King,Continental,2,1417.91,Card,13,2025-06-20,366,True,-1.0,Cancelled,2835.82,4,2,4,10
+C1887,Other,Teenager,Multan,2024-04-21,2025-03-20,McDonald's,Italian,2,116.69,Cash,40,2025-05-17,291,False,5.0,Delayed,233.38,3,4,1,8
+C3571,Male,Adult,Multan,2024-12-08,2025-02-18,Pizza Hut,Italian,5,295.81,Cash,45,2025-03-20,437,True,-1.0,Cancelled,1479.05,2,5,3,10
+C1466,Other,Adult,Multan,2024-08-23,2025-03-20,Pizza Hut,Chinese,2,866.01,Wallet,27,2025-04-09,192,True,4.0,Delayed,1732.02,3,3,3,9
+C5504,Other,Teenager,Multan,2024-06-12,2025-01-13,KFC,Italian,5,1133.47,Cash,30,2025-03-20,256,False,1.0,Delayed,5667.35,2,3,5,10
+C6711,Male,Teenager,Multan,2024-10-29,2025-03-12,Subway,Chinese,3,607.24,Card,17,2025-03-21,303,True,4.0,Delayed,1821.72,2,2,3,7
+C3185,Male,Teenager,Multan,2024-06-22,2025-03-21,Burger King,Fast Food,3,1464.99,Cash,31,2025-05-21,447,False,5.0,Delayed,4394.97,3,4,5,12
+C6607,Other,Senior,Multan,2024-10-04,2025-03-21,KFC,Continental,5,599.68,Wallet,42,2025-04-07,368,False,-1.0,Cancelled,2998.3999999999996,3,5,4,12
+C2769,Male,Teenager,Multan,2025-03-20,2025-03-21,Subway,Dessert,5,782.84,Cash,37,2025-06-09,237,True,3.0,Delivered,3914.2000000000003,4,4,4,12
+C3365,Male,Senior,Multan,2025-01-08,2025-03-21,Pizza Hut,Italian,4,976.23,Cash,38,2025-06-25,37,True,1.0,Delivered,3904.92,4,4,4,12
+C6646,Male,Senior,Multan,2024-12-29,2025-03-22,KFC,Fast Food,5,553.73,Cash,43,2025-05-09,161,True,5.0,Delivered,2768.65,3,5,4,12
+C2013,Female,Senior,Multan,2025-03-22,2025-05-05,Burger King,Continental,3,974.46,Cash,10,2025-06-27,423,False,3.0,Delivered,2923.38,4,1,4,9
+C2484,Female,Senior,Multan,2023-10-27,2024-09-04,Burger King,Continental,1,1257.93,Cash,47,2025-03-22,266,False,-1.0,Cancelled,1257.93,2,5,2,9
+C5376,Male,Adult,Multan,2024-04-07,2025-03-22,Pizza Hut,Continental,2,1166.38,Card,8,2025-05-14,42,True,-1.0,Cancelled,2332.76,3,1,3,7
+C5786,Female,Senior,Multan,2024-02-29,2024-11-23,KFC,Continental,1,361.04,Cash,18,2025-03-22,332,True,2.0,Delivered,361.04,2,2,1,5
+C3300,Male,Adult,Multan,2023-10-23,2025-02-24,McDonald's,Fast Food,3,447.22,Wallet,20,2025-03-22,323,False,4.0,Delayed,1341.66,2,2,2,6
+C6802,Other,Teenager,Multan,2024-01-27,2025-03-23,McDonald's,Chinese,4,892.04,Cash,3,2025-06-13,443,False,-1.0,Cancelled,3568.16,4,1,4,9
+C6164,Male,Teenager,Multan,2025-03-24,2025-04-28,Pizza Hut,Chinese,5,814.22,Wallet,29,2025-06-17,73,False,5.0,Delayed,4071.1000000000004,4,3,5,12
+C2191,Male,Senior,Multan,2024-10-20,2024-11-16,Pizza Hut,Fast Food,4,403.61,Wallet,32,2025-03-24,137,False,2.0,Delivered,1614.44,2,4,3,9
+C6695,Other,Senior,Multan,2024-05-19,2025-01-11,Subway,Fast Food,1,1091.62,Wallet,11,2025-03-24,3,False,5.0,Delayed,1091.62,2,1,2,5
+C1651,Female,Adult,Multan,2024-11-12,2025-03-24,KFC,Continental,3,268.02,Cash,47,2025-04-27,237,True,2.0,Delivered,804.06,3,5,1,9
+C2300,Male,Adult,Multan,2025-01-25,2025-03-17,Burger King,Fast Food,4,909.36,Cash,47,2025-03-24,61,False,4.0,Delayed,3637.44,2,5,4,11
+C3883,Other,Senior,Multan,2024-08-04,2025-03-24,Burger King,Fast Food,5,981.06,Cash,33,2025-07-17,259,True,1.0,Delayed,4905.299999999999,5,4,5,14
+C5569,Male,Senior,Multan,2024-02-24,2025-03-25,KFC,Dessert,1,1314.0,Cash,9,2025-04-20,205,False,-1.0,Cancelled,1314.0,3,1,2,6
+C1425,Other,Senior,Multan,2024-01-05,2025-01-15,Burger King,Chinese,3,1496.37,Card,1,2025-03-25,300,True,3.0,Delayed,4489.11,2,1,5,8
+C5034,Female,Teenager,Multan,2024-08-22,2025-01-24,Pizza Hut,Chinese,5,341.83,Cash,49,2025-03-25,153,True,4.0,Delivered,1709.1499999999999,2,5,3,10
+C5549,Male,Adult,Multan,2024-01-29,2024-10-19,McDonald's,Dessert,5,576.92,Cash,35,2025-03-27,3,True,4.0,Delivered,2884.6,2,4,4,10
+C4807,Female,Senior,Multan,2023-08-25,2025-02-18,KFC,Fast Food,4,1262.65,Cash,21,2025-03-27,214,False,-1.0,Cancelled,5050.6,2,3,5,10
+C1272,Other,Teenager,Multan,2024-08-06,2025-03-28,Subway,Italian,4,1403.24,Wallet,5,2025-05-16,295,False,2.0,Delayed,5612.96,3,1,5,9
+C3134,Other,Senior,Multan,2024-01-18,2025-01-21,Subway,Italian,5,1499.37,Wallet,19,2025-03-29,312,True,5.0,Delivered,7496.849999999999,2,2,5,9
+C1720,Male,Senior,Multan,2025-03-07,2025-03-29,Subway,Continental,4,1326.39,Card,21,2025-05-23,477,False,2.0,Delayed,5305.56,3,3,5,11
+C5937,Female,Senior,Multan,2025-03-04,2025-03-30,KFC,Continental,3,300.81,Cash,33,2025-06-02,221,True,-1.0,Cancelled,902.4300000000001,4,4,2,10
+C1282,Other,Teenager,Multan,2025-03-30,2025-05-15,Subway,Italian,2,1125.03,Card,5,2025-06-24,402,False,5.0,Delivered,2250.06,4,1,3,8
+C2284,Female,Senior,Multan,2024-09-23,2025-03-30,Subway,Italian,4,647.97,Wallet,34,2025-08-06,243,False,-1.0,Cancelled,2591.88,5,4,4,13
+C2094,Female,Adult,Multan,2024-05-25,2024-10-29,McDonald's,Dessert,3,1291.27,Card,20,2025-03-30,474,True,2.0,Delayed,3873.81,2,2,4,8
+C4280,Female,Teenager,Multan,2024-10-03,2025-01-08,Subway,Italian,3,957.59,Wallet,11,2025-03-31,153,False,2.0,Delayed,2872.77,2,1,4,7
+C4873,Other,Senior,Multan,2024-07-14,2025-01-24,Pizza Hut,Continental,2,168.8,Card,38,2025-03-31,246,True,5.0,Delivered,337.6,2,4,1,7
+C4649,Other,Teenager,Multan,2024-03-09,2025-04-01,Burger King,Fast Food,3,523.28,Wallet,2,2025-08-04,165,False,-1.0,Cancelled,1569.84,5,1,3,9
+C3197,Female,Senior,Multan,2023-11-09,2025-03-11,KFC,Italian,3,253.6,Cash,4,2025-04-01,316,True,-1.0,Cancelled,760.8,2,1,1,4
+C1598,Male,Teenager,Multan,2024-10-26,2025-03-19,KFC,Fast Food,3,494.42,Wallet,1,2025-04-01,374,True,1.0,Delivered,1483.26,2,1,3,6
+C3918,Male,Senior,Multan,2024-11-30,2024-12-31,Pizza Hut,Italian,3,860.96,Wallet,6,2025-04-02,308,True,2.0,Delayed,2582.88,3,1,4,8
+C5312,Other,Teenager,Multan,2024-06-17,2025-03-02,Subway,Fast Food,1,428.49,Wallet,29,2025-04-02,434,True,5.0,Delayed,428.49,3,3,1,7
+C1413,Other,Senior,Multan,2025-04-02,2025-05-03,KFC,Continental,3,370.45,Cash,32,2025-08-09,355,True,1.0,Delayed,1111.35,5,4,2,11
+C1795,Other,Senior,Multan,2025-02-25,2025-04-03,KFC,Fast Food,1,882.37,Wallet,49,2025-07-31,479,True,1.0,Delayed,882.37,5,5,2,12
+C1348,Other,Senior,Multan,2024-03-26,2024-10-27,McDonald's,Continental,3,781.85,Card,47,2025-04-04,484,True,1.0,Delayed,2345.55,3,5,3,11
+C4027,Other,Adult,Multan,2024-10-05,2025-04-05,Subway,Italian,2,232.9,Cash,3,2025-04-07,29,False,3.0,Delivered,465.8,3,1,1,5
+C4958,Male,Senior,Multan,2024-08-29,2024-10-29,Subway,Dessert,1,250.5,Card,21,2025-04-06,454,True,-1.0,Cancelled,250.5,3,3,1,7
+C5502,Male,Senior,Multan,2023-12-05,2025-02-27,Subway,Italian,4,1296.23,Cash,5,2025-04-08,110,True,4.0,Delivered,5184.92,3,1,5,9
+C1028,Male,Teenager,Multan,2024-03-17,2025-04-05,McDonald's,Italian,1,1158.61,Wallet,17,2025-04-08,422,True,5.0,Delayed,1158.61,3,2,2,7
+C1212,Other,Teenager,Multan,2024-10-19,2025-01-19,KFC,Continental,3,701.39,Cash,16,2025-04-09,8,True,4.0,Delivered,2104.17,3,2,3,8
+C1379,Female,Adult,Multan,2023-12-07,2024-12-06,McDonald's,Chinese,1,520.92,Cash,48,2025-04-09,322,True,-1.0,Cancelled,520.92,3,5,1,9
+C6467,Male,Teenager,Multan,2025-01-14,2025-03-08,Burger King,Fast Food,3,1168.68,Cash,38,2025-04-09,204,False,5.0,Delivered,3506.04,3,4,4,11
+C5040,Male,Senior,Multan,2025-01-18,2025-02-09,Burger King,Continental,1,352.96,Cash,6,2025-04-09,405,True,-1.0,Cancelled,352.96,3,1,1,5
+C3373,Female,Adult,Multan,2024-10-31,2025-04-10,KFC,Fast Food,1,694.2,Cash,41,2025-04-15,108,True,-1.0,Cancelled,694.2,3,5,1,9
+C5294,Female,Adult,Multan,2024-05-23,2024-09-13,Pizza Hut,Dessert,5,1116.21,Cash,36,2025-04-10,247,False,-1.0,Cancelled,5581.05,3,4,5,12
+C1162,Other,Teenager,Multan,2025-03-01,2025-04-11,Subway,Italian,5,119.28,Wallet,2,2025-04-18,405,True,2.0,Delayed,596.4,3,1,1,5
+C2520,Other,Teenager,Multan,2023-11-04,2025-04-12,Subway,Fast Food,3,1272.36,Card,22,2025-04-30,320,False,-1.0,Cancelled,3817.08,3,3,4,10
+C6639,Male,Adult,Multan,2024-08-10,2025-04-12,McDonald's,Italian,1,1290.8,Card,1,2025-08-04,86,True,4.0,Delivered,1290.8,5,1,2,8
+C3391,Male,Adult,Multan,2024-05-30,2025-03-04,McDonald's,Continental,1,673.48,Wallet,39,2025-04-13,177,False,5.0,Delivered,673.48,3,4,1,8
+C5755,Other,Senior,Multan,2024-12-06,2025-04-14,Subway,Italian,4,233.22,Wallet,20,2025-06-04,467,True,-1.0,Cancelled,932.88,4,2,2,8
+C6076,Female,Teenager,Multan,2024-11-14,2025-01-20,McDonald's,Dessert,1,388.59,Cash,29,2025-04-15,46,False,5.0,Delayed,388.59,3,3,1,7
+C6359,Male,Teenager,Multan,2025-01-30,2025-04-15,Pizza Hut,Fast Food,4,1424.32,Cash,16,2025-06-14,257,False,-1.0,Cancelled,5697.28,4,2,5,11
+C5249,Other,Adult,Multan,2024-10-21,2024-12-19,Subway,Italian,2,277.23,Wallet,30,2025-04-16,88,False,-1.0,Cancelled,554.46,3,3,1,7
+C4103,Female,Adult,Multan,2024-05-01,2024-09-16,Burger King,Chinese,3,1379.85,Cash,21,2025-04-17,138,False,1.0,Delivered,4139.549999999999,3,3,5,11
+C2762,Male,Adult,Multan,2024-04-06,2025-03-21,Subway,Continental,4,1290.58,Card,40,2025-04-18,29,True,-1.0,Cancelled,5162.32,3,4,5,12
+C6491,Other,Senior,Multan,2024-12-05,2025-02-10,Subway,Fast Food,3,258.77,Cash,27,2025-04-18,100,True,5.0,Delayed,776.31,3,3,1,7
+C4511,Other,Senior,Multan,2023-11-04,2024-11-23,Subway,Continental,4,739.0,Wallet,10,2025-04-18,294,True,1.0,Delivered,2956.0,3,1,4,8
+C1894,Female,Adult,Multan,2023-10-29,2025-04-20,Burger King,Chinese,2,588.96,Wallet,50,2025-07-12,188,False,-1.0,Cancelled,1177.92,4,5,2,11
+C4517,Male,Teenager,Multan,2024-12-05,2025-04-07,Burger King,Dessert,3,566.76,Cash,31,2025-04-21,91,False,2.0,Delayed,1700.28,3,4,3,10
+C1227,Other,Adult,Multan,2023-10-24,2025-04-21,Subway,Continental,2,1499.95,Wallet,7,2025-08-13,497,True,-1.0,Cancelled,2999.9,5,1,4,10
+C5705,Male,Adult,Multan,2023-09-26,2025-02-22,Subway,Dessert,5,1243.32,Cash,11,2025-04-21,408,True,2.0,Delivered,6216.599999999999,3,1,5,9
+C4036,Other,Senior,Multan,2024-11-01,2025-04-22,KFC,Italian,1,837.28,Wallet,11,2025-08-14,218,False,1.0,Delayed,837.28,5,1,1,7
+C5954,Female,Adult,Multan,2024-12-19,2025-04-23,KFC,Fast Food,1,761.93,Wallet,38,2025-08-12,259,False,4.0,Delayed,761.93,5,4,1,10
+C2869,Other,Senior,Multan,2024-09-03,2025-03-31,Burger King,Fast Food,1,272.61,Card,7,2025-04-24,422,True,3.0,Delivered,272.61,3,1,1,5
+C2815,Female,Senior,Multan,2024-01-27,2024-09-21,Burger King,Italian,3,560.78,Wallet,32,2025-04-25,16,True,-1.0,Cancelled,1682.34,3,4,3,10
+C3989,Other,Teenager,Multan,2025-04-10,2025-04-25,KFC,Dessert,5,409.72,Wallet,46,2025-06-16,137,True,-1.0,Cancelled,2048.6000000000004,4,5,3,12
+C3698,Other,Senior,Multan,2024-11-21,2024-12-13,KFC,Italian,1,475.81,Card,7,2025-04-26,263,True,2.0,Delayed,475.81,3,1,1,5
+C3788,Female,Adult,Multan,2023-12-05,2024-10-02,Pizza Hut,Chinese,2,181.8,Card,21,2025-04-26,329,False,-1.0,Cancelled,363.6,3,3,1,7
+C6850,Other,Teenager,Multan,2024-09-18,2024-10-09,McDonald's,Chinese,3,310.67,Wallet,18,2025-04-26,69,False,-1.0,Cancelled,932.01,3,2,2,7
+C2340,Other,Senior,Multan,2023-11-20,2024-10-25,KFC,Chinese,3,1201.64,Card,4,2025-04-27,412,False,-1.0,Cancelled,3604.92,3,1,4,8
+C2799,Male,Senior,Multan,2025-02-15,2025-04-27,McDonald's,Chinese,4,447.67,Wallet,22,2025-08-20,75,True,1.0,Delayed,1790.68,5,3,3,11
+C4760,Other,Senior,Multan,2025-01-09,2025-02-23,Burger King,Italian,1,1359.23,Cash,21,2025-04-27,171,False,4.0,Delayed,1359.23,3,3,2,8
+C5695,Other,Adult,Multan,2024-11-30,2025-04-27,Pizza Hut,Fast Food,1,1201.04,Cash,37,2025-08-10,194,False,-1.0,Cancelled,1201.04,5,4,2,11
+C3900,Female,Adult,Multan,2024-04-04,2025-02-08,KFC,Fast Food,2,939.98,Cash,48,2025-04-27,300,True,4.0,Delayed,1879.96,3,5,3,11
+C4733,Female,Teenager,Multan,2024-09-25,2025-03-12,McDonald's,Fast Food,3,1049.72,Cash,18,2025-04-30,41,False,2.0,Delivered,3149.16,3,2,4,9
+C1775,Other,Adult,Multan,2024-04-03,2025-05-02,Subway,Chinese,5,1389.33,Cash,8,2025-06-14,74,False,-1.0,Cancelled,6946.65,4,1,5,10
+C4986,Female,Adult,Multan,2023-11-16,2025-05-02,Burger King,Fast Food,4,384.51,Cash,44,2025-05-17,209,False,-1.0,Cancelled,1538.04,3,5,3,11
+C2571,Female,Senior,Multan,2024-09-08,2025-03-19,Burger King,Continental,5,975.15,Card,27,2025-05-03,443,False,5.0,Delayed,4875.75,3,3,5,11
+C1540,Male,Senior,Multan,2023-10-27,2024-10-21,McDonald's,Fast Food,4,798.62,Cash,7,2025-05-03,11,True,4.0,Delayed,3194.48,3,1,4,8
+C6941,Female,Senior,Multan,2024-07-04,2025-03-30,Burger King,Italian,4,935.99,Card,17,2025-05-03,158,False,5.0,Delivered,3743.96,3,2,4,9
+C6800,Other,Teenager,Multan,2024-08-14,2025-03-26,Burger King,Continental,3,548.68,Card,48,2025-05-04,260,False,5.0,Delivered,1646.04,3,5,3,11
+C1643,Other,Teenager,Multan,2023-11-23,2025-02-25,KFC,Continental,1,1083.88,Wallet,23,2025-05-04,60,False,3.0,Delivered,1083.88,3,3,2,8
+C3781,Female,Adult,Multan,2024-01-27,2024-09-26,KFC,Fast Food,3,499.97,Cash,22,2025-05-05,49,False,4.0,Delayed,1499.91,3,3,3,9
+C1143,Male,Adult,Multan,2024-02-06,2025-05-06,Subway,Italian,4,1456.25,Wallet,47,2025-07-03,29,True,-1.0,Cancelled,5825.0,4,5,5,14
+C1487,Other,Teenager,Multan,2023-09-08,2024-11-16,KFC,Fast Food,5,1325.09,Card,18,2025-05-06,461,False,-1.0,Cancelled,6625.45,3,2,5,10
+C2928,Other,Senior,Multan,2024-10-17,2025-05-07,Pizza Hut,Italian,4,463.79,Wallet,29,2025-08-15,245,True,2.0,Delayed,1855.16,5,3,3,11
+C6719,Other,Teenager,Multan,2024-04-11,2025-05-08,Subway,Chinese,3,558.06,Wallet,12,2025-06-29,498,True,3.0,Delayed,1674.1799999999998,4,2,3,9
+C6070,Male,Adult,Multan,2023-12-20,2025-01-03,KFC,Continental,3,257.37,Wallet,24,2025-05-08,276,True,3.0,Delayed,772.11,3,3,1,7
+C5860,Other,Adult,Multan,2024-09-03,2025-05-08,Subway,Chinese,4,980.01,Card,11,2025-07-24,90,True,-1.0,Cancelled,3920.04,5,1,4,10
+C2123,Male,Adult,Multan,2025-05-14,2025-05-24,KFC,Fast Food,5,433.17,Card,19,2025-06-15,411,True,3.0,Delivered,2165.85,4,2,3,9
+C6974,Male,Senior,Multan,2023-08-24,2025-05-14,Burger King,Fast Food,3,165.98,Wallet,15,2025-05-15,478,True,-1.0,Cancelled,497.93999999999994,3,2,1,6
+C5121,Other,Teenager,Multan,2025-02-02,2025-02-23,McDonald's,Fast Food,2,181.48,Wallet,18,2025-05-15,446,False,-1.0,Cancelled,362.96,3,2,1,6
+C1138,Male,Senior,Multan,2024-09-28,2025-01-06,Subway,Italian,2,1308.63,Wallet,37,2025-05-15,471,True,1.0,Delivered,2617.26,3,4,4,11
+C6080,Female,Adult,Multan,2024-09-23,2025-04-08,Pizza Hut,Chinese,5,734.85,Cash,25,2025-05-16,127,False,-1.0,Cancelled,3674.25,3,3,4,10
+C2820,Female,Senior,Multan,2024-10-01,2024-10-06,Subway,Chinese,1,685.07,Card,12,2025-05-17,410,True,-1.0,Cancelled,685.07,3,2,1,6
+C5704,Male,Senior,Multan,2023-10-21,2025-01-23,McDonald's,Fast Food,3,277.04,Wallet,33,2025-05-19,483,False,4.0,Delayed,831.1200000000001,3,4,1,8
+C3033,Other,Senior,Multan,2024-06-07,2025-02-09,KFC,Dessert,3,1433.58,Cash,17,2025-05-19,407,False,1.0,Delivered,4300.74,3,2,5,10
+C5877,Female,Teenager,Multan,2025-02-12,2025-05-13,McDonald's,Italian,2,1236.39,Card,37,2025-05-19,173,True,-1.0,Cancelled,2472.78,3,4,4,11
+C5935,Female,Adult,Multan,2024-03-22,2025-05-20,KFC,Continental,1,1270.43,Cash,22,2025-06-19,76,True,5.0,Delayed,1270.43,4,3,2,9
+C1856,Female,Teenager,Multan,2024-02-23,2025-05-21,KFC,Italian,4,1243.1,Wallet,38,2025-07-07,475,True,4.0,Delayed,4972.4,4,4,5,13
+C1481,Male,Adult,Multan,2025-05-11,2025-05-21,McDonald's,Fast Food,5,645.05,Wallet,11,2025-08-01,243,False,4.0,Delivered,3225.25,5,1,4,10
+C1940,Other,Senior,Multan,2025-01-17,2025-05-22,Subway,Fast Food,1,205.79,Wallet,13,2025-08-16,240,False,-1.0,Cancelled,205.79,5,2,1,8
+C4268,Male,Senior,Multan,2024-03-12,2025-04-17,Subway,Chinese,4,524.94,Cash,14,2025-05-22,488,True,3.0,Delayed,2099.76,3,2,3,8
+C2316,Female,Senior,Multan,2025-04-08,2025-05-23,Pizza Hut,Dessert,5,783.99,Cash,7,2025-07-04,110,False,4.0,Delivered,3919.95,4,1,4,9
+C5764,Male,Teenager,Multan,2024-10-26,2024-11-08,KFC,Italian,3,994.5,Card,36,2025-05-23,168,True,4.0,Delayed,2983.5,3,4,4,11
+C6741,Other,Senior,Multan,2024-10-10,2024-11-15,Burger King,Dessert,2,933.9,Cash,19,2025-05-26,152,True,4.0,Delivered,1867.8,3,2,3,8
+C5005,Male,Teenager,Multan,2024-11-25,2025-01-07,McDonald's,Dessert,1,549.79,Card,8,2025-05-27,470,False,4.0,Delayed,549.79,3,1,1,5
+C4150,Other,Teenager,Multan,2023-09-13,2025-02-04,Subway,Dessert,2,137.94,Cash,40,2025-05-27,92,True,4.0,Delayed,275.88,3,4,1,8
+C6920,Male,Adult,Multan,2024-11-24,2025-05-27,McDonald's,Chinese,2,1068.41,Card,29,2025-07-19,149,False,2.0,Delivered,2136.82,5,3,3,11
+C6851,Other,Adult,Multan,2024-07-08,2024-10-09,Pizza Hut,Chinese,3,586.56,Wallet,26,2025-05-28,300,True,-1.0,Cancelled,1759.6799999999998,3,3,3,9
+C4142,Female,Teenager,Multan,2024-02-22,2025-04-23,Pizza Hut,Dessert,2,1180.28,Cash,24,2025-05-28,302,True,5.0,Delivered,2360.56,3,3,3,9
+C2139,Male,Senior,Multan,2023-11-21,2025-05-28,McDonald's,Dessert,4,565.1,Cash,7,2025-07-28,157,True,2.0,Delayed,2260.4,5,1,3,9
+C3509,Female,Senior,Multan,2023-10-30,2024-12-17,Subway,Fast Food,2,220.14,Card,15,2025-05-28,56,True,-1.0,Cancelled,440.28,3,2,1,6
+C3069,Female,Teenager,Multan,2025-03-23,2025-05-05,Subway,Dessert,5,886.76,Wallet,44,2025-05-28,299,True,4.0,Delayed,4433.8,3,5,5,13
+C2363,Male,Senior,Multan,2025-04-11,2025-05-30,Subway,Chinese,1,889.53,Wallet,17,2025-06-09,408,True,4.0,Delayed,889.53,4,2,2,8
+C5401,Female,Adult,Multan,2024-05-28,2025-05-09,Subway,Fast Food,4,974.2,Wallet,22,2025-05-31,10,True,1.0,Delivered,3896.8,4,3,4,11
+C5930,Female,Adult,Multan,2023-12-17,2025-06-01,KFC,Dessert,4,1203.18,Cash,48,2025-08-07,458,True,5.0,Delivered,4812.72,5,5,5,15
+C4374,Male,Adult,Multan,2024-08-29,2024-11-04,Pizza Hut,Dessert,1,323.06,Card,17,2025-06-01,109,True,-1.0,Cancelled,323.06,4,2,1,7
+C1159,Male,Senior,Multan,2025-02-26,2025-06-01,KFC,Italian,2,1497.83,Card,29,2025-07-28,13,False,4.0,Delivered,2995.66,5,3,4,12
+C3026,Female,Senior,Multan,2024-03-08,2024-11-07,McDonald's,Fast Food,1,749.26,Wallet,46,2025-06-02,449,False,3.0,Delayed,749.26,4,5,1,10
+C5268,Other,Senior,Multan,2023-12-06,2025-06-02,Subway,Continental,1,963.42,Cash,39,2025-06-02,276,False,-1.0,Cancelled,963.42,4,4,2,10
+C1278,Female,Teenager,Multan,2024-08-22,2024-12-04,McDonald's,Italian,2,1407.36,Wallet,46,2025-06-02,446,True,3.0,Delayed,2814.72,4,5,4,13
+C2721,Other,Adult,Multan,2024-12-29,2025-05-15,Subway,Chinese,2,168.43,Cash,40,2025-06-03,218,True,2.0,Delayed,336.86,4,4,1,9
+C5927,Female,Teenager,Multan,2023-09-12,2025-06-03,McDonald's,Fast Food,4,1217.08,Card,44,2025-06-13,307,True,-1.0,Cancelled,4868.32,4,5,5,14
+C6913,Male,Adult,Multan,2024-12-15,2025-01-31,Burger King,Continental,2,773.38,Card,14,2025-06-04,131,True,4.0,Delayed,1546.76,4,2,3,9
+C6497,Female,Senior,Multan,2025-06-04,2025-06-20,KFC,Italian,4,857.22,Card,5,2025-06-29,355,False,-1.0,Cancelled,3428.88,4,1,4,9
+C1563,Female,Teenager,Multan,2024-08-21,2025-02-15,McDonald's,Continental,5,1309.83,Wallet,15,2025-06-04,8,False,-1.0,Cancelled,6549.15,4,2,5,11
+C5495,Male,Adult,Multan,2025-03-17,2025-06-05,Subway,Fast Food,3,1413.88,Wallet,37,2025-08-07,489,False,1.0,Delayed,4241.64,5,4,5,14
+C3014,Female,Senior,Multan,2024-05-09,2024-08-25,KFC,Italian,4,412.8,Cash,34,2025-06-05,453,True,4.0,Delayed,1651.2,4,4,3,11
+C6107,Male,Senior,Multan,2024-03-26,2024-12-10,Burger King,Fast Food,1,742.73,Cash,41,2025-06-06,421,True,3.0,Delivered,742.73,4,5,1,10
+C2171,Female,Teenager,Multan,2023-12-26,2024-12-17,Burger King,Italian,1,929.78,Wallet,45,2025-06-06,137,False,3.0,Delayed,929.78,4,5,2,11
+C1559,Male,Teenager,Multan,2023-10-18,2025-06-06,McDonald's,Chinese,3,126.68,Card,1,2025-08-06,453,False,3.0,Delayed,380.04,5,1,1,7
+C1312,Other,Adult,Multan,2024-02-08,2024-09-02,Subway,Continental,3,1203.33,Cash,10,2025-06-06,360,True,-1.0,Cancelled,3609.99,4,1,4,9
+C1259,Female,Adult,Multan,2025-06-07,2025-08-03,McDonald's,Dessert,3,119.6,Card,46,2025-08-06,311,True,5.0,Delivered,358.79999999999995,5,5,1,11
+C4315,Other,Adult,Multan,2024-08-31,2025-02-12,Burger King,Chinese,5,173.87,Wallet,12,2025-06-07,321,False,-1.0,Cancelled,869.35,4,2,2,8
+C5699,Male,Teenager,Multan,2024-09-25,2025-02-07,KFC,Continental,4,983.0,Wallet,15,2025-06-07,41,True,-1.0,Cancelled,3932.0,4,2,4,10
+C4340,Other,Senior,Multan,2023-09-29,2025-04-09,McDonald's,Fast Food,5,836.38,Card,14,2025-06-08,161,False,1.0,Delivered,4181.9,4,2,5,11
+C1699,Other,Senior,Multan,2025-02-21,2025-06-08,Burger King,Fast Food,2,921.45,Wallet,15,2025-06-15,474,False,-1.0,Cancelled,1842.9,4,2,3,9
+C1930,Male,Teenager,Multan,2024-09-06,2025-02-19,Subway,Fast Food,3,903.63,Wallet,21,2025-06-08,97,False,5.0,Delivered,2710.89,4,3,4,11
+C3770,Male,Senior,Multan,2023-11-18,2024-11-05,McDonald's,Dessert,1,940.91,Cash,4,2025-06-09,240,True,-1.0,Cancelled,940.91,4,1,2,7
+C3874,Male,Senior,Multan,2023-11-21,2025-05-30,Burger King,Fast Food,5,676.02,Card,10,2025-06-10,80,True,-1.0,Cancelled,3380.1,4,1,4,9
+C3409,Female,Senior,Multan,2024-11-19,2025-03-17,Burger King,Italian,3,402.35,Cash,13,2025-06-10,164,True,-1.0,Cancelled,1207.0500000000002,4,2,2,8
+C4950,Female,Teenager,Multan,2024-10-09,2024-12-24,Burger King,Continental,3,433.82,Cash,19,2025-06-11,249,False,5.0,Delayed,1301.46,4,2,2,8
+C4447,Female,Teenager,Multan,2024-09-30,2024-12-31,McDonald's,Dessert,3,1332.01,Card,1,2025-06-11,489,True,2.0,Delivered,3996.0299999999997,4,1,5,10
+C6066,Other,Teenager,Multan,2024-11-06,2024-11-30,Burger King,Fast Food,2,1430.67,Card,45,2025-06-11,370,True,-1.0,Cancelled,2861.34,4,5,4,13
+C4474,Male,Adult,Multan,2024-05-05,2025-05-30,Pizza Hut,Continental,1,890.71,Card,29,2025-06-11,481,False,5.0,Delivered,890.71,4,3,2,9
+C6689,Other,Adult,Multan,2024-09-23,2025-06-12,Subway,Chinese,4,1422.54,Card,36,2025-08-07,410,False,-1.0,Cancelled,5690.16,5,4,5,14
+C4022,Other,Senior,Multan,2024-12-03,2025-06-12,McDonald's,Italian,1,1469.6,Card,20,2025-07-11,357,False,4.0,Delayed,1469.6,4,2,3,9
+C1792,Other,Adult,Multan,2025-06-13,2025-07-20,McDonald's,Fast Food,1,119.53,Wallet,34,2025-07-28,320,False,5.0,Delivered,119.53,5,4,1,10
+C3604,Other,Teenager,Multan,2024-02-11,2024-10-05,Pizza Hut,Continental,5,800.94,Wallet,32,2025-06-15,69,False,4.0,Delayed,4004.7000000000003,4,4,5,13
+C1921,Other,Senior,Multan,2025-03-17,2025-04-29,Subway,Continental,4,728.66,Wallet,42,2025-06-15,314,False,-1.0,Cancelled,2914.64,4,5,4,13
+C1229,Male,Teenager,Multan,2023-09-24,2024-11-21,Subway,Chinese,5,754.11,Wallet,49,2025-06-15,313,False,-1.0,Cancelled,3770.55,4,5,4,13
+C6024,Other,Teenager,Multan,2025-05-26,2025-06-16,KFC,Continental,3,461.03,Cash,15,2025-08-19,432,False,1.0,Delayed,1383.09,5,2,2,9
+C2403,Other,Adult,Multan,2024-02-09,2025-06-16,Subway,Italian,5,1458.18,Wallet,25,2025-08-05,481,False,-1.0,Cancelled,7290.900000000001,5,3,5,13
+C5443,Female,Senior,Multan,2025-02-27,2025-06-16,McDonald's,Dessert,5,348.82,Card,17,2025-07-23,386,False,4.0,Delayed,1744.1,5,2,3,10
+C1099,Male,Senior,Multan,2025-01-05,2025-02-18,Burger King,Fast Food,5,1108.18,Cash,2,2025-06-17,149,False,-1.0,Cancelled,5540.900000000001,4,1,5,10
+C2263,Male,Teenager,Multan,2023-10-05,2025-06-17,Pizza Hut,Italian,2,1197.89,Card,27,2025-08-15,338,True,-1.0,Cancelled,2395.78,5,3,3,11
+C2377,Other,Teenager,Multan,2024-06-13,2025-04-29,KFC,Dessert,1,1413.02,Wallet,20,2025-06-18,97,False,4.0,Delivered,1413.02,4,2,2,8
+C1884,Other,Adult,Multan,2024-10-30,2025-05-18,Pizza Hut,Dessert,3,145.56,Card,43,2025-06-19,8,True,1.0,Delayed,436.68,4,5,1,10
+C5383,Male,Teenager,Multan,2023-09-08,2025-06-20,Subway,Fast Food,1,1255.59,Wallet,48,2025-08-13,220,False,3.0,Delivered,1255.59,5,5,2,12
+C1767,Other,Teenager,Multan,2023-11-20,2024-12-29,McDonald's,Continental,5,939.38,Cash,34,2025-06-21,393,False,4.0,Delivered,4696.9,4,4,5,13
+C4966,Male,Senior,Multan,2024-06-14,2024-08-29,Pizza Hut,Dessert,5,318.76,Card,26,2025-06-21,472,True,4.0,Delayed,1593.8,4,3,3,10
+C4481,Other,Teenager,Multan,2024-04-27,2025-06-21,Pizza Hut,Continental,5,798.52,Card,10,2025-06-24,361,False,-1.0,Cancelled,3992.6,4,1,5,10
+C5767,Male,Adult,Multan,2023-11-24,2025-06-08,KFC,Italian,1,1465.65,Wallet,20,2025-06-22,31,True,2.0,Delivered,1465.65,4,2,3,9
+C2524,Male,Senior,Multan,2024-01-06,2025-05-14,KFC,Dessert,4,1371.97,Cash,33,2025-06-23,362,True,3.0,Delivered,5487.88,4,4,5,13
+C4723,Female,Adult,Multan,2023-11-21,2025-06-04,McDonald's,Dessert,4,1281.53,Cash,14,2025-06-24,136,True,-1.0,Cancelled,5126.12,4,2,5,11
+C2236,Female,Adult,Multan,2024-09-09,2024-11-08,Subway,Continental,2,740.3,Wallet,31,2025-06-24,358,False,1.0,Delivered,1480.6,4,4,3,11
+C5494,Male,Adult,Multan,2025-05-19,2025-06-25,KFC,Chinese,1,196.0,Cash,37,2025-07-26,152,False,-1.0,Cancelled,196.0,5,4,1,10
+C1228,Female,Adult,Multan,2025-06-06,2025-06-25,McDonald's,Continental,2,1093.72,Card,23,2025-06-30,153,False,2.0,Delayed,2187.44,4,3,3,10
+C2237,Female,Adult,Multan,2025-06-14,2025-06-25,Subway,Chinese,2,1108.27,Cash,40,2025-07-30,50,False,5.0,Delayed,2216.54,5,4,3,12
+C6486,Other,Teenager,Multan,2024-01-28,2025-03-04,Burger King,Continental,5,1305.89,Wallet,17,2025-06-26,185,True,3.0,Delivered,6529.450000000001,4,2,5,11
+C1571,Female,Adult,Multan,2024-09-02,2024-09-03,KFC,Chinese,5,996.97,Card,26,2025-06-26,177,False,-1.0,Cancelled,4984.85,4,3,5,12
+C4933,Male,Teenager,Multan,2024-07-11,2024-11-02,Pizza Hut,Continental,1,906.37,Card,25,2025-06-27,251,True,-1.0,Cancelled,906.37,4,3,2,9
+C4054,Other,Adult,Multan,2024-01-31,2024-11-12,KFC,Fast Food,3,436.72,Card,3,2025-06-27,245,True,3.0,Delivered,1310.16,4,1,2,7
+C3886,Other,Teenager,Multan,2024-03-15,2025-01-04,Subway,Dessert,4,1202.95,Wallet,37,2025-06-29,183,True,4.0,Delayed,4811.8,4,4,5,13
+C2794,Other,Teenager,Multan,2024-11-30,2025-01-03,Subway,Dessert,3,728.59,Cash,3,2025-06-30,378,False,-1.0,Cancelled,2185.77,4,1,3,8
+C5143,Female,Teenager,Multan,2023-12-19,2025-02-13,Pizza Hut,Italian,2,290.15,Wallet,7,2025-07-02,343,False,1.0,Delayed,580.3,4,1,1,6
+C1722,Male,Teenager,Multan,2025-02-16,2025-07-02,KFC,Continental,1,830.84,Card,3,2025-07-16,174,True,3.0,Delayed,830.84,5,1,1,7
+C3475,Female,Adult,Multan,2024-07-16,2024-09-14,McDonald's,Italian,5,652.96,Card,21,2025-07-03,381,False,-1.0,Cancelled,3264.8,4,3,4,11
+C1236,Male,Senior,Multan,2024-06-16,2024-11-25,Pizza Hut,Italian,3,279.66,Cash,17,2025-07-04,264,False,3.0,Delayed,838.98,4,2,1,7
+C2323,Other,Senior,Multan,2025-02-13,2025-05-10,Burger King,Italian,3,405.58,Cash,8,2025-07-05,203,True,-1.0,Cancelled,1216.74,4,1,2,7
+C1886,Male,Teenager,Multan,2024-01-28,2025-06-17,Subway,Fast Food,1,494.19,Card,13,2025-07-07,134,True,5.0,Delivered,494.19,4,2,1,7
+C5231,Male,Senior,Multan,2023-12-16,2025-04-05,Burger King,Chinese,1,1160.7,Card,25,2025-07-08,371,False,1.0,Delayed,1160.7,4,3,2,9
+C2961,Female,Senior,Multan,2024-09-16,2025-05-30,Subway,Chinese,3,362.75,Wallet,12,2025-07-09,187,False,5.0,Delayed,1088.25,4,2,2,8
+C6321,Other,Senior,Multan,2024-09-10,2025-07-07,Subway,Italian,2,675.36,Wallet,19,2025-07-10,413,False,3.0,Delivered,1350.72,4,2,2,8
+C2421,Other,Senior,Multan,2024-02-11,2025-06-22,Pizza Hut,Dessert,1,1158.58,Card,24,2025-07-10,16,True,1.0,Delayed,1158.58,4,3,2,9
+C1431,Other,Senior,Multan,2024-02-17,2025-01-29,Pizza Hut,Italian,4,1195.98,Card,4,2025-07-11,394,False,4.0,Delivered,4783.92,4,1,5,10
+C4703,Male,Adult,Multan,2025-02-18,2025-06-24,Burger King,Continental,1,838.08,Card,6,2025-07-12,14,True,-1.0,Cancelled,838.08,4,1,1,6
+C3376,Male,Adult,Multan,2024-02-07,2024-09-02,Pizza Hut,Italian,1,845.52,Cash,35,2025-07-12,418,False,3.0,Delivered,845.52,4,4,2,10
+C2824,Other,Teenager,Multan,2024-12-04,2025-02-17,Subway,Italian,1,659.46,Cash,16,2025-07-13,336,False,5.0,Delivered,659.46,4,2,1,7
+C1405,Male,Senior,Multan,2024-09-10,2025-04-18,Pizza Hut,Italian,2,1385.1,Cash,8,2025-07-13,94,False,4.0,Delayed,2770.2,4,1,4,9
+C6126,Male,Teenager,Multan,2023-09-18,2025-04-29,KFC,Dessert,3,509.45,Card,11,2025-07-13,183,True,4.0,Delayed,1528.35,4,1,3,8
+C3968,Male,Senior,Multan,2024-10-07,2025-07-14,Subway,Chinese,3,1067.69,Wallet,14,2025-07-23,232,True,4.0,Delayed,3203.07,5,2,4,11
+C2503,Female,Teenager,Multan,2025-07-14,2025-07-30,KFC,Fast Food,3,1092.45,Cash,37,2025-08-02,392,True,2.0,Delivered,3277.3500000000004,5,4,4,13
+C3249,Other,Senior,Multan,2024-03-07,2024-11-27,McDonald's,Continental,1,679.09,Cash,8,2025-07-14,21,False,-1.0,Cancelled,679.09,5,1,1,7
+C6652,Female,Teenager,Multan,2024-08-24,2024-09-01,Pizza Hut,Continental,5,1241.34,Cash,1,2025-07-14,388,False,5.0,Delivered,6206.7,5,1,5,11
+C3448,Female,Adult,Multan,2024-04-21,2025-07-06,Pizza Hut,Fast Food,1,413.33,Card,24,2025-07-16,441,False,-1.0,Cancelled,413.33,5,3,1,9
+C4072,Female,Teenager,Multan,2024-11-27,2025-06-30,Pizza Hut,Italian,5,296.69,Card,36,2025-07-16,8,True,5.0,Delivered,1483.45,5,4,3,12
+C1404,Female,Senior,Multan,2024-05-19,2025-01-31,Pizza Hut,Italian,2,1388.47,Cash,13,2025-07-16,66,True,-1.0,Cancelled,2776.94,5,2,4,11
+C2009,Male,Teenager,Multan,2024-08-03,2024-11-29,Subway,Dessert,3,1149.13,Wallet,29,2025-07-17,57,False,4.0,Delivered,3447.3900000000003,5,3,4,12
+C6277,Male,Adult,Multan,2024-06-17,2025-07-17,KFC,Dessert,3,1059.46,Cash,16,2025-08-03,422,True,1.0,Delayed,3178.38,5,2,4,11
+C3315,Female,Adult,Multan,2024-03-07,2025-04-02,Subway,Continental,4,269.01,Card,27,2025-07-18,166,False,1.0,Delivered,1076.04,5,3,2,10
+C5736,Male,Senior,Multan,2025-04-08,2025-05-03,Subway,Fast Food,1,791.45,Card,25,2025-07-18,497,True,-1.0,Cancelled,791.45,5,3,1,9
+C1014,Other,Senior,Multan,2025-02-12,2025-06-19,Subway,Continental,2,928.25,Card,7,2025-07-18,491,True,4.0,Delivered,1856.5,5,1,3,9
+C3056,Female,Teenager,Multan,2024-09-07,2024-12-20,Pizza Hut,Chinese,1,1399.33,Card,8,2025-07-18,83,True,3.0,Delayed,1399.33,5,1,2,8
+C5658,Other,Adult,Multan,2023-09-24,2024-12-30,Subway,Continental,5,1495.46,Cash,19,2025-07-19,179,True,5.0,Delayed,7477.3,5,2,5,12
+C4542,Other,Teenager,Multan,2024-07-25,2024-12-12,Burger King,Italian,4,935.31,Card,9,2025-07-19,236,True,3.0,Delivered,3741.24,5,1,4,10
+C5912,Male,Senior,Multan,2025-03-20,2025-04-19,Subway,Dessert,4,784.79,Wallet,31,2025-07-19,285,False,3.0,Delayed,3139.16,5,4,4,13
+C6838,Female,Senior,Multan,2024-07-05,2025-05-04,Pizza Hut,Italian,3,672.95,Card,12,2025-07-20,5,True,-1.0,Cancelled,2018.8500000000001,5,2,3,10
+C6600,Other,Teenager,Multan,2025-02-27,2025-07-20,McDonald's,Chinese,1,589.04,Cash,11,2025-08-05,426,True,5.0,Delivered,589.04,5,1,1,7
+C2624,Other,Teenager,Multan,2024-08-02,2025-03-06,Subway,Fast Food,2,825.01,Card,27,2025-07-21,312,True,2.0,Delivered,1650.02,5,3,3,11
+C2385,Female,Teenager,Multan,2023-10-22,2025-07-21,KFC,Continental,1,997.72,Cash,45,2025-08-21,76,True,5.0,Delivered,997.72,5,5,2,12
+C6073,Female,Adult,Multan,2023-09-01,2024-11-10,Burger King,Chinese,4,572.34,Cash,16,2025-07-22,461,True,-1.0,Cancelled,2289.36,5,2,3,10
+C2461,Male,Teenager,Multan,2024-08-21,2025-07-15,KFC,Fast Food,2,1003.4,Cash,33,2025-07-23,89,False,1.0,Delivered,2006.8,5,4,3,12
+C5045,Other,Senior,Multan,2024-07-06,2025-05-06,McDonald's,Fast Food,5,973.72,Cash,11,2025-07-24,108,False,2.0,Delivered,4868.6,5,1,5,11
+C6105,Other,Senior,Multan,2024-04-23,2024-08-28,Burger King,Dessert,1,325.01,Wallet,4,2025-07-25,364,False,3.0,Delayed,325.01,5,1,1,7
+C5572,Other,Adult,Multan,2024-08-11,2025-06-19,Burger King,Italian,4,916.95,Wallet,37,2025-07-26,55,False,-1.0,Cancelled,3667.8,5,4,4,13
+C6116,Other,Senior,Multan,2023-10-02,2024-12-29,KFC,Italian,3,333.35,Cash,11,2025-07-26,94,True,3.0,Delayed,1000.0500000000001,5,1,2,8
+C1098,Female,Senior,Multan,2025-05-16,2025-07-27,KFC,Continental,2,610.22,Cash,3,2025-07-27,301,True,-1.0,Cancelled,1220.44,5,1,2,8
+C2867,Male,Teenager,Multan,2024-09-27,2024-11-29,KFC,Dessert,1,213.08,Cash,31,2025-07-28,330,False,5.0,Delivered,213.08,5,4,1,10
+C2511,Male,Teenager,Multan,2024-12-26,2025-06-09,McDonald's,Chinese,1,1199.63,Cash,41,2025-07-28,374,True,3.0,Delayed,1199.63,5,5,2,12
+C5408,Female,Adult,Multan,2025-02-02,2025-07-28,McDonald's,Chinese,1,1435.72,Wallet,42,2025-08-21,239,True,5.0,Delivered,1435.72,5,5,2,12
+C1252,Other,Senior,Multan,2024-08-21,2025-04-17,Burger King,Chinese,1,1368.07,Card,15,2025-07-28,121,False,1.0,Delayed,1368.07,5,2,2,9
+C3334,Male,Adult,Multan,2024-12-03,2025-04-24,KFC,Italian,4,579.79,Wallet,1,2025-07-28,279,True,-1.0,Cancelled,2319.16,5,1,3,9
+C4822,Male,Teenager,Multan,2024-04-25,2024-09-05,Burger King,Italian,1,1226.67,Card,6,2025-07-29,195,False,4.0,Delayed,1226.67,5,1,2,8
+C5761,Other,Senior,Multan,2024-02-02,2025-04-11,Burger King,Dessert,2,1152.64,Cash,43,2025-07-29,329,False,3.0,Delayed,2305.28,5,5,3,13
+C6012,Other,Adult,Multan,2024-09-10,2025-07-25,Pizza Hut,Continental,5,1085.51,Wallet,6,2025-07-29,386,True,1.0,Delivered,5427.55,5,1,5,11
+C6223,Female,Senior,Multan,2024-06-04,2025-05-16,Pizza Hut,Dessert,2,238.76,Card,25,2025-07-29,435,True,2.0,Delayed,477.52,5,3,1,9
+C1683,Other,Senior,Multan,2023-10-18,2024-12-14,Burger King,Continental,5,794.84,Card,32,2025-07-29,322,False,-1.0,Cancelled,3974.2000000000003,5,4,5,14
+C6457,Male,Adult,Multan,2024-09-02,2025-03-23,Subway,Fast Food,3,1134.45,Card,29,2025-07-30,477,False,5.0,Delivered,3403.3500000000004,5,3,4,12
+C3063,Male,Senior,Multan,2024-10-12,2025-01-25,Subway,Dessert,2,243.68,Card,15,2025-07-30,175,False,4.0,Delayed,487.36,5,2,1,8
+C3113,Male,Senior,Multan,2023-11-24,2025-07-22,Subway,Fast Food,3,509.94,Cash,2,2025-08-01,395,True,-1.0,Cancelled,1529.82,5,1,3,9
+C2738,Female,Teenager,Multan,2024-12-29,2025-05-30,McDonald's,Italian,3,1143.18,Card,4,2025-08-01,43,False,5.0,Delivered,3429.54,5,1,4,10
+C1530,Male,Teenager,Multan,2024-03-10,2024-08-23,Burger King,Continental,2,140.16,Card,38,2025-08-01,359,False,4.0,Delivered,280.32,5,4,1,10
+C1506,Male,Adult,Multan,2025-01-29,2025-07-01,KFC,Fast Food,2,113.42,Cash,42,2025-08-02,299,True,3.0,Delivered,226.84,5,5,1,11
+C5839,Male,Senior,Multan,2024-06-15,2025-03-25,Subway,Chinese,5,835.09,Wallet,31,2025-08-02,370,False,2.0,Delivered,4175.45,5,4,5,14
+C1193,Other,Teenager,Multan,2023-10-26,2024-12-05,McDonald's,Chinese,5,834.87,Wallet,27,2025-08-02,324,False,4.0,Delayed,4174.35,5,3,5,13
+C3162,Male,Adult,Multan,2023-09-05,2025-05-19,Subway,Chinese,1,1146.15,Wallet,15,2025-08-02,451,True,5.0,Delivered,1146.15,5,2,2,9
+C2005,Female,Adult,Multan,2025-06-03,2025-08-02,McDonald's,Continental,2,728.37,Cash,15,2025-08-09,274,True,-1.0,Cancelled,1456.74,5,2,3,10
+C4561,Other,Adult,Multan,2024-07-17,2024-09-26,McDonald's,Dessert,2,1387.42,Card,11,2025-08-03,297,False,1.0,Delivered,2774.84,5,1,4,10
+C5463,Female,Senior,Multan,2024-10-19,2025-02-19,McDonald's,Continental,2,268.18,Card,34,2025-08-03,69,True,1.0,Delayed,536.36,5,4,1,10
+C3203,Other,Adult,Multan,2023-11-09,2025-06-19,Burger King,Italian,3,612.35,Card,15,2025-08-04,274,False,2.0,Delayed,1837.0500000000002,5,2,3,10
+C2184,Other,Senior,Multan,2024-09-13,2025-07-15,McDonald's,Fast Food,4,1449.72,Cash,43,2025-08-04,186,False,-1.0,Cancelled,5798.88,5,5,5,15
+C6294,Other,Adult,Multan,2024-12-27,2025-05-27,Pizza Hut,Italian,3,1273.04,Cash,39,2025-08-05,70,False,-1.0,Cancelled,3819.12,5,4,4,13
+C4718,Other,Adult,Multan,2024-08-06,2025-07-01,KFC,Fast Food,2,633.07,Card,43,2025-08-06,170,False,1.0,Delivered,1266.14,5,5,2,12
+C5374,Female,Teenager,Multan,2024-04-11,2025-05-13,McDonald's,Continental,1,493.85,Cash,21,2025-08-06,84,False,5.0,Delivered,493.85,5,3,1,9
+C6844,Female,Senior,Multan,2023-12-18,2025-07-20,Pizza Hut,Fast Food,5,709.31,Wallet,43,2025-08-06,327,False,1.0,Delivered,3546.5499999999997,5,5,4,14
+C5562,Male,Senior,Multan,2024-05-29,2024-10-07,McDonald's,Chinese,3,416.44,Cash,19,2025-08-06,84,False,3.0,Delayed,1249.32,5,2,2,9
+C3104,Female,Adult,Multan,2024-01-20,2025-04-29,Pizza Hut,Continental,5,432.64,Wallet,28,2025-08-07,115,False,1.0,Delivered,2163.2,5,3,3,11
+C3752,Male,Adult,Multan,2024-01-23,2024-11-26,Pizza Hut,Chinese,4,1319.47,Card,38,2025-08-07,383,True,3.0,Delayed,5277.88,5,4,5,14
+C1064,Male,Adult,Multan,2023-10-13,2024-10-24,Burger King,Italian,5,1041.61,Wallet,36,2025-08-08,286,False,-1.0,Cancelled,5208.049999999999,5,4,5,14
+C4296,Female,Senior,Multan,2023-09-07,2024-09-06,KFC,Fast Food,2,1318.89,Card,42,2025-08-08,462,True,-1.0,Cancelled,2637.78,5,5,4,14
+C6860,Female,Teenager,Multan,2025-07-28,2025-08-05,McDonald's,Italian,4,257.2,Wallet,2,2025-08-10,404,True,4.0,Delayed,1028.8,5,1,2,8
+C4620,Male,Teenager,Multan,2024-08-05,2025-05-11,Burger King,Italian,2,841.04,Wallet,38,2025-08-12,137,True,1.0,Delayed,1682.08,5,4,3,12
+C5338,Male,Teenager,Multan,2024-09-07,2025-07-19,Burger King,Dessert,4,537.57,Wallet,24,2025-08-12,43,False,3.0,Delayed,2150.28,5,3,3,11
+C2802,Female,Adult,Multan,2025-02-20,2025-08-13,Pizza Hut,Dessert,1,1112.4,Cash,48,2025-08-14,221,True,2.0,Delivered,1112.4,5,5,2,12
+C5361,Other,Senior,Multan,2025-03-13,2025-04-04,Burger King,Chinese,1,637.36,Card,27,2025-08-14,349,True,3.0,Delivered,637.36,5,3,1,9
+C1007,Male,Adult,Multan,2024-10-15,2025-06-24,Subway,Continental,1,994.97,Cash,15,2025-08-15,448,True,2.0,Delayed,994.97,5,2,2,9
+C2743,Male,Adult,Multan,2023-09-02,2024-10-25,McDonald's,Chinese,4,318.92,Cash,23,2025-08-15,172,False,-1.0,Cancelled,1275.68,5,3,2,10
+C1421,Other,Adult,Multan,2024-12-13,2025-06-20,Burger King,Continental,4,1029.9,Card,10,2025-08-15,257,True,5.0,Delivered,4119.6,5,1,5,11
+C1241,Other,Adult,Multan,2024-11-14,2025-03-16,KFC,Dessert,5,274.94,Wallet,19,2025-08-15,444,False,1.0,Delivered,1374.7,5,2,2,9
+C3565,Male,Senior,Multan,2023-08-31,2025-06-21,Subway,Fast Food,1,251.78,Wallet,30,2025-08-16,158,True,4.0,Delayed,251.78,5,3,1,9
+C5881,Female,Teenager,Multan,2023-09-14,2025-01-08,Subway,Continental,3,1376.26,Cash,43,2025-08-16,380,False,4.0,Delivered,4128.78,5,5,5,15
+C1087,Female,Adult,Multan,2024-11-27,2025-08-17,McDonald's,Continental,3,1435.56,Cash,9,2025-08-21,219,False,3.0,Delivered,4306.68,5,1,5,11
+C3420,Male,Senior,Multan,2024-03-06,2025-08-18,Pizza Hut,Chinese,3,293.3,Card,14,2025-08-21,383,True,3.0,Delayed,879.9000000000001,5,2,2,9
+C1349,Other,Senior,Multan,2024-09-06,2025-01-22,Pizza Hut,Fast Food,1,837.66,Cash,46,2025-08-18,116,False,2.0,Delayed,837.66,5,5,1,11
+C2798,Female,Teenager,Multan,2024-08-25,2024-09-18,Burger King,Dessert,5,436.27,Cash,29,2025-08-19,107,True,5.0,Delayed,2181.35,5,3,3,11
+C4726,Female,Teenager,Multan,2024-05-29,2025-02-25,Subway,Chinese,4,1145.9,Cash,16,2025-08-20,8,True,4.0,Delivered,4583.6,5,2,5,12
+C4870,Male,Teenager,Multan,2025-03-10,2025-04-02,McDonald's,Italian,3,857.9,Wallet,27,2025-08-21,486,False,1.0,Delivered,2573.7,5,3,4,12
+C3042,Other,Adult,Multan,2024-09-28,2025-07-14,Subway,Continental,2,1479.85,Wallet,19,2025-08-21,374,True,5.0,Delayed,2959.7,5,2,4,11
+C2893,Male,Adult,Multan,2024-08-13,2025-06-30,Burger King,Chinese,5,598.92,Cash,49,2025-08-21,259,False,-1.0,Cancelled,2994.6,5,5,4,14
+C5793,Other,Senior,Multan,2023-10-01,2025-05-21,Subway,Italian,2,1375.28,Cash,42,2025-08-21,237,False,1.0,Delivered,2750.56,5,5,4,14
+C5590,Female,Adult,Multan,2024-08-11,2024-11-28,McDonald's,Chinese,4,598.01,Card,1,2025-08-22,457,True,-1.0,Cancelled,2392.04,5,1,3,9
+C6849,Male,Adult,Multan,2024-11-25,2024-11-29,Pizza Hut,Italian,4,875.71,Cash,28,2025-08-22,166,False,-1.0,Cancelled,3502.84,5,3,4,12
+C2068,Female,Adult,Multan,2025-03-15,2025-06-13,Burger King,Fast Food,3,1131.27,Card,2,2025-08-22,41,True,1.0,Delayed,3393.81,5,1,4,10

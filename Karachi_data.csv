@@ -1,0 +1,1146 @@
+customer_id,gender,age,city,signup_date,order_date,restaurant_name,category,quantity,price,payment_method,order_frequency,last_order_date,loyalty_points,churned,rating,delivery_status,order_value,r_score,f_score,m_score,rfm_score
+C6543,Other,Adult,Karachi,2023-08-24,2023-09-28,Burger King,Fast Food,5,1213.62,Cash,45,2024-10-10,418,True,4.0,Delivered,6068.099999999999,1,5,5,11
+C5146,Other,Senior,Karachi,2023-08-24,2024-12-17,KFC,Dessert,5,596.96,Wallet,1,2025-05-16,24,False,4.0,Delayed,2984.8,3,1,4,8
+C3579,Male,Adult,Karachi,2023-08-24,2023-10-13,Pizza Hut,Continental,2,1443.25,Cash,15,2025-02-23,270,True,3.0,Delayed,2886.5,2,2,4,8
+C4975,Female,Teenager,Karachi,2023-08-25,2025-06-20,Burger King,Dessert,1,673.86,Wallet,38,2025-07-07,439,True,2.0,Delivered,673.86,4,4,1,9
+C2748,Other,Teenager,Karachi,2023-08-25,2024-07-07,Pizza Hut,Dessert,2,1304.8,Cash,2,2024-12-01,435,True,-1.0,Cancelled,2609.6,1,1,4,6
+C1351,Female,Adult,Karachi,2023-08-26,2024-06-16,KFC,Chinese,3,761.47,Card,3,2025-01-08,240,True,2.0,Delivered,2284.41,1,1,3,5
+C2454,Other,Teenager,Karachi,2023-08-27,2023-12-04,KFC,Italian,1,249.9,Cash,20,2025-03-22,70,True,1.0,Delayed,249.9,2,2,1,5
+C4046,Other,Adult,Karachi,2023-08-27,2024-11-10,Subway,Continental,4,1226.08,Cash,32,2025-02-06,372,False,4.0,Delivered,4904.32,2,4,5,11
+C2583,Female,Adult,Karachi,2023-08-29,2024-08-10,Pizza Hut,Fast Food,1,492.46,Cash,10,2025-01-16,383,False,1.0,Delivered,492.46,2,1,1,4
+C5895,Female,Adult,Karachi,2023-08-29,2025-02-12,McDonald's,Chinese,2,1221.24,Cash,13,2025-02-19,286,False,-1.0,Cancelled,2442.48,2,2,4,8
+C2727,Other,Senior,Karachi,2023-08-30,2024-11-05,Subway,Continental,1,1416.38,Wallet,27,2024-11-27,25,True,-1.0,Cancelled,1416.38,1,3,2,6
+C3210,Other,Teenager,Karachi,2023-09-01,2025-02-08,Burger King,Fast Food,2,528.24,Cash,24,2025-06-05,149,True,4.0,Delayed,1056.48,4,3,2,9
+C6640,Female,Adult,Karachi,2023-09-06,2024-12-19,Subway,Italian,1,368.03,Cash,25,2025-01-31,83,True,4.0,Delayed,368.03,2,3,1,6
+C1410,Male,Teenager,Karachi,2023-09-07,2025-01-19,KFC,Fast Food,1,708.22,Cash,39,2025-04-06,441,False,5.0,Delayed,708.22,3,4,1,8
+C1577,Male,Senior,Karachi,2023-09-07,2024-08-19,KFC,Italian,1,820.53,Card,18,2025-05-24,402,True,1.0,Delivered,820.53,3,2,1,6
+C3815,Male,Teenager,Karachi,2023-09-09,2025-04-07,Pizza Hut,Italian,5,122.84,Cash,43,2025-05-24,104,False,5.0,Delivered,614.2,3,5,1,9
+C2045,Male,Adult,Karachi,2023-09-09,2024-06-22,Burger King,Chinese,2,1207.62,Wallet,46,2025-02-22,91,False,2.0,Delivered,2415.24,2,5,3,10
+C5061,Female,Teenager,Karachi,2023-09-09,2024-06-30,McDonald's,Chinese,2,1417.09,Card,46,2025-01-01,355,False,-1.0,Cancelled,2834.18,1,5,4,10
+C4423,Male,Teenager,Karachi,2023-09-09,2024-06-21,Pizza Hut,Italian,5,1010.15,Cash,25,2025-03-08,461,False,-1.0,Cancelled,5050.75,2,3,5,10
+C2161,Female,Senior,Karachi,2023-09-10,2025-01-20,KFC,Fast Food,1,394.08,Card,1,2025-02-06,169,True,4.0,Delayed,394.08,2,1,1,4
+C2536,Female,Adult,Karachi,2023-09-10,2023-12-26,McDonald's,Fast Food,3,882.75,Wallet,16,2025-01-28,13,False,4.0,Delayed,2648.25,2,2,4,8
+C3641,Male,Adult,Karachi,2023-09-11,2024-09-17,Burger King,Continental,3,191.26,Card,33,2025-03-06,393,True,-1.0,Cancelled,573.78,2,4,1,7
+C3998,Female,Senior,Karachi,2023-09-11,2024-08-31,Pizza Hut,Fast Food,1,309.02,Card,2,2025-07-03,477,False,-1.0,Cancelled,309.02,4,1,1,6
+C6266,Other,Senior,Karachi,2023-09-11,2024-07-16,Pizza Hut,Dessert,3,465.95,Card,38,2024-10-26,275,True,-1.0,Cancelled,1397.85,1,4,2,7
+C1279,Female,Teenager,Karachi,2023-09-11,2025-03-14,KFC,Dessert,4,167.37,Cash,24,2025-03-14,442,True,3.0,Delayed,669.48,2,3,1,6
+C2280,Male,Teenager,Karachi,2023-09-11,2024-10-05,McDonald's,Chinese,1,739.3,Cash,14,2024-10-29,481,True,-1.0,Cancelled,739.3,1,2,1,4
+C5166,Female,Teenager,Karachi,2023-09-11,2024-06-29,McDonald's,Chinese,3,898.92,Cash,27,2024-12-31,169,False,3.0,Delivered,2696.7599999999998,1,3,4,8
+C3672,Male,Adult,Karachi,2023-09-12,2023-11-22,McDonald's,Italian,1,1394.3,Cash,16,2025-07-06,288,True,-1.0,Cancelled,1394.3,4,2,2,8
+C6181,Other,Adult,Karachi,2023-09-12,2024-04-05,Subway,Chinese,5,752.8,Card,33,2025-04-19,76,True,4.0,Delivered,3764.0,3,4,4,11
+C5964,Male,Senior,Karachi,2023-09-13,2025-02-03,Subway,Italian,3,1382.02,Wallet,6,2025-03-05,26,True,-1.0,Cancelled,4146.0599999999995,2,1,5,8
+C5371,Other,Adult,Karachi,2023-09-13,2024-02-25,McDonald's,Fast Food,2,899.49,Card,29,2025-01-04,209,False,3.0,Delayed,1798.98,1,3,3,7
+C3554,Male,Teenager,Karachi,2023-09-14,2025-03-06,Pizza Hut,Fast Food,2,940.68,Card,49,2025-05-01,225,True,4.0,Delivered,1881.36,3,5,3,11
+C6465,Female,Senior,Karachi,2023-09-14,2025-02-05,McDonald's,Chinese,3,952.38,Card,31,2025-05-13,12,False,3.0,Delivered,2857.14,3,4,4,11
+C5563,Male,Teenager,Karachi,2023-09-14,2024-07-04,Subway,Fast Food,2,502.9,Wallet,32,2025-04-03,189,True,2.0,Delivered,1005.8,3,4,2,9
+C4401,Male,Adult,Karachi,2023-09-16,2024-09-28,KFC,Italian,3,923.55,Cash,18,2025-05-15,275,True,-1.0,Cancelled,2770.6499999999996,3,2,4,9
+C2317,Male,Adult,Karachi,2023-09-16,2025-02-11,McDonald's,Continental,4,1314.73,Wallet,18,2025-08-13,310,False,5.0,Delivered,5258.92,5,2,5,12
+C6165,Female,Teenager,Karachi,2023-09-16,2025-01-22,Burger King,Dessert,4,1074.93,Card,5,2025-03-15,215,False,-1.0,Cancelled,4299.72,2,1,5,8
+C5285,Female,Senior,Karachi,2023-09-16,2023-10-21,Pizza Hut,Fast Food,2,209.07,Wallet,23,2024-11-01,257,False,2.0,Delivered,418.14,1,3,1,5
+C3674,Female,Adult,Karachi,2023-09-18,2024-03-21,Pizza Hut,Chinese,1,1353.56,Wallet,34,2025-06-25,385,False,4.0,Delivered,1353.56,4,4,2,10
+C6356,Other,Teenager,Karachi,2023-09-18,2024-10-08,Subway,Continental,1,284.05,Cash,2,2024-10-28,459,True,-1.0,Cancelled,284.05,1,1,1,3
+C6040,Male,Senior,Karachi,2023-09-18,2024-08-29,McDonald's,Dessert,4,938.61,Card,49,2025-02-14,119,True,-1.0,Cancelled,3754.44,2,5,4,11
+C4941,Other,Senior,Karachi,2023-09-18,2023-12-03,Subway,Fast Food,3,1214.61,Card,5,2025-05-28,330,True,4.0,Delayed,3643.83,3,1,4,8
+C3041,Other,Senior,Karachi,2023-09-19,2024-10-29,KFC,Fast Food,2,923.22,Wallet,31,2025-03-18,431,True,2.0,Delivered,1846.44,2,4,3,9
+C1743,Female,Teenager,Karachi,2023-09-15,2023-09-19,KFC,Italian,3,1223.56,Cash,32,2025-01-27,200,False,-1.0,Cancelled,3670.68,2,4,4,10
+C1814,Female,Adult,Karachi,2023-09-20,2024-01-03,Subway,Continental,5,695.11,Wallet,13,2025-04-29,17,True,2.0,Delayed,3475.55,3,2,4,9
+C3006,Female,Teenager,Karachi,2023-09-20,2024-09-10,McDonald's,Continental,5,1088.13,Cash,40,2025-03-11,382,True,-1.0,Cancelled,5440.650000000001,2,4,5,11
+C2180,Male,Adult,Karachi,2023-09-20,2023-09-21,Burger King,Fast Food,5,1065.93,Wallet,32,2025-07-12,97,False,3.0,Delivered,5329.650000000001,4,4,5,13
+C2694,Female,Senior,Karachi,2023-09-22,2024-01-02,KFC,Chinese,3,862.59,Wallet,45,2025-01-08,152,True,3.0,Delivered,2587.77,1,5,4,10
+C3151,Male,Teenager,Karachi,2023-09-22,2024-01-11,Burger King,Fast Food,4,292.18,Cash,2,2025-07-12,374,False,5.0,Delivered,1168.72,4,1,2,7
+C3427,Female,Senior,Karachi,2023-09-22,2024-12-17,Subway,Fast Food,1,1340.07,Cash,36,2025-02-12,347,False,-1.0,Cancelled,1340.07,2,4,2,8
+C5097,Other,Senior,Karachi,2023-09-22,2024-08-28,KFC,Chinese,2,121.9,Wallet,15,2024-10-08,492,True,1.0,Delivered,243.8,1,2,1,4
+C6304,Female,Teenager,Karachi,2023-09-23,2024-08-26,Burger King,Italian,1,228.02,Cash,7,2024-11-08,458,False,4.0,Delayed,228.02,1,1,1,3
+C3942,Male,Teenager,Karachi,2023-09-24,2024-11-23,McDonald's,Continental,4,1104.37,Card,6,2025-02-25,223,False,5.0,Delivered,4417.48,2,1,5,8
+C1774,Male,Adult,Karachi,2023-09-24,2024-10-14,KFC,Chinese,1,1359.52,Card,6,2024-11-23,228,False,-1.0,Cancelled,1359.52,1,1,2,4
+C4683,Other,Senior,Karachi,2023-09-24,2024-02-02,Subway,Chinese,1,273.98,Card,37,2024-09-02,173,False,-1.0,Cancelled,273.98,1,4,1,6
+C3107,Other,Senior,Karachi,2023-09-27,2024-04-22,KFC,Fast Food,3,1271.96,Cash,49,2024-10-30,27,True,5.0,Delayed,3815.88,1,5,4,10
+C2697,Other,Teenager,Karachi,2023-09-27,2025-04-11,KFC,Fast Food,3,392.26,Card,16,2025-08-03,294,True,2.0,Delayed,1176.78,5,2,2,9
+C6708,Female,Teenager,Karachi,2023-09-27,2024-04-25,Burger King,Continental,2,782.3,Cash,42,2025-02-04,344,True,4.0,Delayed,1564.6,2,5,3,10
+C4637,Other,Teenager,Karachi,2023-09-28,2024-10-30,McDonald's,Dessert,3,379.4,Cash,38,2025-07-03,357,False,1.0,Delivered,1138.1999999999998,4,4,2,10
+C4165,Male,Senior,Karachi,2023-09-30,2023-10-18,McDonald's,Continental,2,1378.13,Card,6,2025-04-08,435,False,5.0,Delayed,2756.26,3,1,4,8
+C3146,Male,Teenager,Karachi,2023-09-30,2024-08-05,McDonald's,Continental,5,658.32,Cash,8,2025-06-27,142,False,4.0,Delayed,3291.6000000000004,4,1,4,9
+C4588,Female,Adult,Karachi,2023-10-01,2024-09-01,Burger King,Continental,3,602.79,Card,29,2025-04-12,166,False,2.0,Delayed,1808.37,3,3,3,9
+C3098,Male,Teenager,Karachi,2023-10-03,2024-11-14,Burger King,Continental,1,1479.44,Wallet,15,2024-11-18,268,False,-1.0,Cancelled,1479.44,1,2,3,6
+C6696,Other,Senior,Karachi,2023-10-03,2024-05-15,Subway,Dessert,5,1184.79,Cash,35,2024-11-09,315,True,5.0,Delayed,5923.95,1,4,5,10
+C1180,Male,Teenager,Karachi,2023-10-04,2024-05-24,Burger King,Fast Food,2,837.52,Wallet,32,2024-10-27,268,True,-1.0,Cancelled,1675.04,1,4,3,8
+C3598,Female,Senior,Karachi,2023-10-05,2025-03-19,Burger King,Fast Food,4,658.8,Wallet,10,2025-08-15,19,False,-1.0,Cancelled,2635.2,5,1,4,10
+C3948,Female,Adult,Karachi,2023-09-08,2023-10-05,KFC,Continental,3,307.64,Card,37,2025-01-09,17,False,2.0,Delivered,922.92,1,4,2,7
+C3616,Male,Senior,Karachi,2023-10-06,2024-05-16,McDonald's,Italian,5,1111.88,Wallet,1,2024-11-05,202,True,5.0,Delayed,5559.400000000001,1,1,5,7
+C6559,Other,Senior,Karachi,2023-09-14,2023-10-07,KFC,Chinese,1,1404.83,Cash,45,2024-12-31,31,False,5.0,Delayed,1404.83,1,5,2,8
+C3748,Female,Senior,Karachi,2023-10-07,2024-12-08,Pizza Hut,Fast Food,1,321.34,Wallet,22,2025-04-21,29,False,2.0,Delivered,321.34,3,3,1,7
+C5441,Female,Adult,Karachi,2023-09-02,2023-10-07,Subway,Continental,1,504.21,Wallet,37,2025-02-21,467,False,5.0,Delayed,504.21,2,4,1,7
+C6315,Male,Senior,Karachi,2023-10-08,2024-04-25,Subway,Chinese,5,914.58,Cash,11,2024-10-23,500,True,-1.0,Cancelled,4572.900000000001,1,1,5,7
+C5138,Female,Adult,Karachi,2023-10-09,2025-01-18,KFC,Chinese,5,1175.72,Card,38,2025-05-08,68,True,-1.0,Cancelled,5878.6,3,4,5,12
+C1801,Female,Senior,Karachi,2023-10-09,2024-01-06,McDonald's,Italian,4,292.59,Card,11,2025-02-09,105,True,3.0,Delayed,1170.36,2,1,2,5
+C6970,Male,Senior,Karachi,2023-10-10,2024-10-29,KFC,Fast Food,3,1016.59,Wallet,32,2025-01-21,373,True,-1.0,Cancelled,3049.77,2,4,4,10
+C4965,Other,Adult,Karachi,2023-10-10,2024-05-13,Pizza Hut,Dessert,4,740.92,Wallet,13,2025-05-29,311,False,-1.0,Cancelled,2963.68,4,2,4,10
+C2118,Other,Teenager,Karachi,2023-10-13,2024-09-19,Pizza Hut,Continental,4,802.55,Card,38,2025-06-11,125,False,2.0,Delivered,3210.2,4,4,4,12
+C3651,Female,Teenager,Karachi,2023-09-02,2023-10-13,KFC,Continental,4,1189.0,Cash,4,2025-02-15,163,False,4.0,Delivered,4756.0,2,1,5,8
+C5789,Female,Teenager,Karachi,2023-10-13,2024-12-23,McDonald's,Continental,2,817.18,Cash,15,2025-08-01,417,True,2.0,Delayed,1634.36,5,2,3,10
+C3680,Other,Adult,Karachi,2023-10-15,2024-01-05,KFC,Fast Food,2,1368.1,Cash,32,2024-10-22,205,True,-1.0,Cancelled,2736.2,1,4,4,9
+C5983,Male,Senior,Karachi,2023-10-05,2023-10-16,Burger King,Dessert,1,408.56,Wallet,24,2025-06-08,344,True,1.0,Delayed,408.56,4,3,1,8
+C3159,Female,Teenager,Karachi,2023-10-16,2025-03-03,Pizza Hut,Continental,2,1019.81,Card,30,2025-03-07,191,False,3.0,Delayed,2039.62,2,3,3,8
+C4667,Male,Senior,Karachi,2023-10-16,2025-03-03,McDonald's,Dessert,1,179.23,Card,50,2025-08-18,412,False,2.0,Delayed,179.23,5,5,1,11
+C4324,Other,Teenager,Karachi,2023-10-17,2024-02-03,KFC,Fast Food,3,234.84,Cash,21,2024-09-27,377,False,3.0,Delivered,704.52,1,3,1,5
+C6780,Female,Adult,Karachi,2023-10-17,2024-09-21,Pizza Hut,Italian,2,838.2,Card,28,2025-05-24,366,True,3.0,Delivered,1676.4,3,3,3,9
+C3999,Male,Teenager,Karachi,2023-10-19,2024-03-04,KFC,Italian,1,503.13,Cash,15,2024-09-19,85,False,2.0,Delivered,503.13,1,2,1,4
+C1763,Male,Adult,Karachi,2023-10-19,2025-05-28,Burger King,Fast Food,2,839.66,Card,7,2025-05-30,424,False,1.0,Delayed,1679.32,4,1,3,8
+C5074,Male,Senior,Karachi,2023-10-19,2024-01-04,Pizza Hut,Continental,2,1029.96,Wallet,50,2024-12-24,439,False,5.0,Delayed,2059.92,1,5,3,9
+C1114,Female,Teenager,Karachi,2023-10-20,2023-12-17,Pizza Hut,Continental,5,149.23,Cash,1,2025-08-10,212,True,-1.0,Cancelled,746.15,5,1,1,7
+C3702,Other,Senior,Karachi,2023-10-20,2024-08-27,KFC,Italian,3,1466.23,Card,42,2024-12-03,488,True,4.0,Delivered,4398.6900000000005,1,5,5,11
+C5751,Other,Adult,Karachi,2023-10-21,2024-09-14,Burger King,Fast Food,3,557.9,Cash,20,2025-04-27,265,True,5.0,Delayed,1673.6999999999998,3,2,3,8
+C1231,Female,Teenager,Karachi,2023-10-21,2023-10-29,KFC,Italian,3,1173.19,Wallet,46,2025-02-08,362,True,1.0,Delayed,3519.57,2,5,4,11
+C3559,Other,Senior,Karachi,2023-10-21,2024-07-12,McDonald's,Italian,3,686.97,Wallet,12,2025-01-09,431,False,-1.0,Cancelled,2060.91,1,2,3,6
+C1239,Other,Teenager,Karachi,2023-10-21,2025-01-02,Subway,Italian,5,232.07,Wallet,46,2025-01-15,180,True,-1.0,Cancelled,1160.35,1,5,2,8
+C4552,Other,Adult,Karachi,2023-10-23,2024-02-17,McDonald's,Continental,5,1271.19,Card,17,2025-01-03,143,True,-1.0,Cancelled,6355.950000000001,1,2,5,8
+C3721,Female,Teenager,Karachi,2023-10-23,2024-03-09,Pizza Hut,Chinese,2,823.3,Cash,49,2025-01-20,300,False,5.0,Delivered,1646.6,2,5,3,10
+C2219,Other,Teenager,Karachi,2023-10-23,2024-01-21,Pizza Hut,Italian,4,1014.88,Card,26,2024-11-28,54,True,-1.0,Cancelled,4059.52,1,3,5,9
+C2781,Female,Adult,Karachi,2023-10-23,2024-09-04,Subway,Italian,5,841.99,Cash,23,2025-04-03,470,True,1.0,Delivered,4209.95,3,3,5,11
+C5653,Female,Adult,Karachi,2023-10-24,2023-12-08,McDonald's,Italian,2,289.67,Cash,42,2025-07-08,107,False,1.0,Delivered,579.34,4,5,1,10
+C4168,Male,Teenager,Karachi,2023-10-24,2024-08-09,Pizza Hut,Fast Food,1,1470.46,Cash,4,2025-04-17,78,False,-1.0,Cancelled,1470.46,3,1,3,7
+C4763,Female,Adult,Karachi,2023-10-24,2024-11-19,KFC,Chinese,4,371.85,Cash,31,2025-02-14,10,True,1.0,Delivered,1487.4,2,4,3,9
+C3667,Male,Teenager,Karachi,2023-10-24,2024-03-28,Subway,Italian,2,1061.01,Wallet,18,2024-12-28,383,True,-1.0,Cancelled,2122.02,1,2,3,6
+C5415,Female,Teenager,Karachi,2023-10-26,2024-11-21,Pizza Hut,Dessert,2,746.82,Card,37,2025-07-01,213,False,2.0,Delivered,1493.64,4,4,3,11
+C3670,Female,Senior,Karachi,2023-10-26,2025-01-31,Pizza Hut,Fast Food,3,1433.0,Cash,19,2025-07-17,310,True,-1.0,Cancelled,4299.0,5,2,5,12
+C4562,Other,Senior,Karachi,2023-10-27,2024-09-01,Subway,Dessert,1,1264.17,Card,15,2024-12-11,246,False,4.0,Delivered,1264.17,1,2,2,5
+C1686,Male,Adult,Karachi,2023-10-28,2024-07-27,Burger King,Fast Food,5,1480.61,Card,6,2024-11-10,490,False,-1.0,Cancelled,7403.049999999999,1,1,5,7
+C3593,Other,Teenager,Karachi,2023-10-30,2025-05-18,KFC,Italian,4,802.08,Cash,26,2025-07-25,88,True,-1.0,Cancelled,3208.32,5,3,4,12
+C1275,Female,Senior,Karachi,2023-10-31,2024-05-27,Pizza Hut,Chinese,2,1035.4,Wallet,44,2024-10-12,132,True,1.0,Delayed,2070.8,1,5,3,9
+C5014,Other,Teenager,Karachi,2023-10-31,2024-05-01,McDonald's,Dessert,3,1041.92,Cash,3,2025-08-09,360,False,3.0,Delayed,3125.76,5,1,4,10
+C4610,Male,Teenager,Karachi,2023-11-01,2024-01-25,McDonald's,Dessert,3,732.93,Cash,31,2025-05-14,428,True,-1.0,Cancelled,2198.79,3,4,3,10
+C3090,Male,Adult,Karachi,2023-11-01,2024-10-22,Burger King,Continental,3,1431.66,Cash,48,2025-05-14,302,True,-1.0,Cancelled,4294.9800000000005,3,5,5,13
+C6599,Male,Senior,Karachi,2023-11-01,2023-11-09,KFC,Fast Food,3,1405.54,Wallet,5,2024-08-26,13,False,2.0,Delivered,4216.62,1,1,5,7
+C6996,Male,Senior,Karachi,2023-11-02,2025-03-13,KFC,Dessert,4,1117.04,Card,42,2025-03-24,120,True,5.0,Delayed,4468.16,2,5,5,12
+C2499,Female,Senior,Karachi,2023-11-02,2024-11-05,Burger King,Chinese,4,942.14,Wallet,17,2025-06-20,456,True,2.0,Delivered,3768.56,4,2,4,10
+C3492,Other,Senior,Karachi,2023-09-05,2023-11-02,Pizza Hut,Chinese,2,890.41,Card,16,2025-01-30,208,False,-1.0,Cancelled,1780.82,2,2,3,7
+C5297,Female,Senior,Karachi,2023-11-02,2024-11-08,Burger King,Chinese,3,804.41,Wallet,3,2025-02-06,340,True,5.0,Delayed,2413.23,2,1,3,6
+C1906,Male,Senior,Karachi,2023-11-03,2023-12-22,McDonald's,Dessert,2,538.18,Card,28,2024-10-17,280,False,-1.0,Cancelled,1076.36,1,3,2,6
+C4308,Other,Teenager,Karachi,2023-11-04,2025-02-12,KFC,Chinese,1,122.48,Card,21,2025-04-02,405,False,4.0,Delayed,122.48,3,3,1,7
+C1085,Other,Senior,Karachi,2023-11-05,2024-04-19,Burger King,Chinese,4,812.01,Wallet,48,2024-12-27,141,True,-1.0,Cancelled,3248.04,1,5,4,10
+C4059,Other,Adult,Karachi,2023-11-06,2024-01-07,Subway,Chinese,1,193.63,Wallet,44,2025-08-16,384,False,5.0,Delayed,193.63,5,5,1,11
+C2204,Other,Teenager,Karachi,2023-11-06,2023-11-19,Pizza Hut,Dessert,1,946.77,Card,11,2024-10-28,292,False,3.0,Delivered,946.77,1,1,2,4
+C1080,Female,Teenager,Karachi,2023-11-06,2024-10-21,Pizza Hut,Dessert,1,178.49,Cash,15,2025-01-29,446,False,5.0,Delayed,178.49,2,2,1,5
+C4719,Male,Senior,Karachi,2023-11-06,2024-01-11,KFC,Chinese,1,721.89,Card,49,2024-09-09,58,True,-1.0,Cancelled,721.89,1,5,1,7
+C3610,Other,Teenager,Karachi,2023-11-08,2024-09-16,Burger King,Continental,3,355.37,Wallet,34,2025-06-19,214,True,3.0,Delivered,1066.1100000000001,4,4,2,10
+C1181,Male,Senior,Karachi,2023-11-08,2024-04-07,Pizza Hut,Dessert,1,1483.22,Wallet,37,2025-03-12,379,False,3.0,Delivered,1483.22,2,4,3,9
+C4812,Male,Adult,Karachi,2023-11-09,2024-01-21,Burger King,Italian,4,1432.29,Cash,34,2024-11-10,199,True,4.0,Delivered,5729.16,1,4,5,10
+C1968,Male,Adult,Karachi,2023-11-12,2025-01-16,Burger King,Fast Food,5,955.89,Wallet,14,2025-06-18,184,True,1.0,Delayed,4779.45,4,2,5,11
+C5163,Female,Adult,Karachi,2023-09-09,2023-11-12,KFC,Fast Food,2,1212.2,Card,1,2024-11-11,363,True,1.0,Delivered,2424.4,1,1,3,5
+C3212,Female,Teenager,Karachi,2023-11-12,2024-10-10,Subway,Fast Food,3,635.23,Cash,34,2025-03-24,273,False,5.0,Delivered,1905.69,2,4,3,9
+C3121,Male,Teenager,Karachi,2023-11-13,2024-06-21,McDonald's,Italian,3,490.08,Card,29,2024-11-08,475,False,3.0,Delivered,1470.24,1,3,3,7
+C5714,Female,Senior,Karachi,2023-11-13,2024-12-22,Burger King,Dessert,4,597.23,Cash,33,2025-03-01,161,True,5.0,Delivered,2388.92,2,4,3,9
+C5414,Female,Teenager,Karachi,2023-11-14,2024-07-04,Burger King,Fast Food,1,147.64,Wallet,47,2025-07-01,327,True,5.0,Delayed,147.64,4,5,1,10
+C4004,Female,Adult,Karachi,2023-11-14,2024-08-11,Subway,Continental,4,859.3,Cash,13,2024-11-07,320,True,4.0,Delivered,3437.2,1,2,4,7
+C1897,Male,Senior,Karachi,2023-11-15,2024-10-23,Pizza Hut,Dessert,1,610.38,Card,32,2024-12-22,280,False,1.0,Delayed,610.38,1,4,1,6
+C1783,Other,Senior,Karachi,2023-11-16,2023-12-10,KFC,Fast Food,2,741.49,Cash,31,2025-05-03,319,True,4.0,Delivered,1482.98,3,4,3,10
+C2991,Male,Senior,Karachi,2023-11-17,2024-11-19,KFC,Fast Food,2,139.63,Wallet,6,2025-05-11,193,False,5.0,Delivered,279.26,3,1,1,5
+C3412,Male,Senior,Karachi,2023-11-17,2024-08-21,Pizza Hut,Chinese,1,242.42,Wallet,9,2025-01-31,2,True,-1.0,Cancelled,242.42,2,1,1,4
+C5979,Female,Teenager,Karachi,2023-11-18,2024-06-30,Pizza Hut,Chinese,1,357.22,Card,14,2025-06-01,392,False,3.0,Delayed,357.22,4,2,1,7
+C3561,Female,Teenager,Karachi,2023-11-19,2024-12-20,Pizza Hut,Continental,3,344.72,Wallet,14,2025-01-28,290,True,2.0,Delayed,1034.16,2,2,2,6
+C2921,Other,Teenager,Karachi,2023-10-18,2023-11-19,McDonald's,Chinese,5,601.64,Wallet,3,2024-11-19,478,True,3.0,Delivered,3008.2,1,1,4,6
+C3907,Female,Teenager,Karachi,2023-11-20,2024-09-15,KFC,Dessert,3,620.36,Cash,32,2025-06-03,48,False,-1.0,Cancelled,1861.08,4,4,3,11
+C3643,Female,Senior,Karachi,2023-11-22,2025-03-07,Burger King,Chinese,2,1321.53,Card,2,2025-05-24,198,True,4.0,Delivered,2643.06,3,1,4,8
+C2735,Female,Senior,Karachi,2023-11-23,2024-08-21,Subway,Italian,4,1054.3,Cash,48,2025-06-24,159,True,4.0,Delayed,4217.2,4,5,5,14
+C2315,Other,Senior,Karachi,2023-11-23,2024-08-28,Subway,Dessert,5,390.67,Wallet,11,2025-02-16,352,True,-1.0,Cancelled,1953.3500000000001,2,1,3,6
+C5854,Female,Senior,Karachi,2023-11-24,2025-04-25,Subway,Italian,1,185.34,Cash,27,2025-08-07,313,False,3.0,Delayed,185.34,5,3,1,9
+C1202,Female,Teenager,Karachi,2023-11-24,2024-10-29,KFC,Chinese,2,303.19,Card,17,2025-02-12,245,False,5.0,Delivered,606.38,2,2,1,5
+C4245,Female,Senior,Karachi,2023-09-05,2023-11-24,Burger King,Fast Food,4,363.52,Cash,21,2025-07-06,158,True,2.0,Delayed,1454.08,4,3,3,10
+C1726,Other,Adult,Karachi,2023-11-24,2024-03-10,KFC,Chinese,1,776.22,Cash,41,2024-09-03,212,True,4.0,Delivered,776.22,1,5,1,7
+C1971,Female,Senior,Karachi,2023-11-25,2024-10-21,Subway,Chinese,4,492.93,Cash,21,2025-01-07,91,True,5.0,Delivered,1971.72,1,3,3,7
+C5273,Other,Teenager,Karachi,2023-11-25,2024-09-23,Subway,Italian,2,1102.09,Card,11,2025-01-26,300,False,1.0,Delivered,2204.18,2,1,3,6
+C3930,Male,Adult,Karachi,2023-11-27,2025-01-13,Subway,Continental,2,1134.14,Card,37,2025-03-30,184,False,-1.0,Cancelled,2268.28,2,4,3,9
+C3298,Female,Adult,Karachi,2023-11-28,2024-11-17,Burger King,Dessert,3,1370.22,Wallet,19,2025-03-18,134,False,4.0,Delivered,4110.66,2,2,5,9
+C5715,Male,Teenager,Karachi,2023-11-28,2024-02-24,KFC,Italian,2,1452.56,Wallet,8,2025-07-14,276,False,1.0,Delayed,2905.12,5,1,4,10
+C5601,Female,Senior,Karachi,2023-11-28,2024-04-13,Subway,Dessert,1,188.42,Cash,15,2025-02-05,481,False,1.0,Delayed,188.42,2,2,1,5
+C6735,Female,Teenager,Karachi,2023-11-29,2024-07-30,Pizza Hut,Continental,2,650.44,Card,22,2025-08-03,191,True,3.0,Delivered,1300.88,5,3,2,10
+C2993,Other,Adult,Karachi,2023-11-29,2024-07-05,KFC,Fast Food,4,148.49,Cash,30,2025-04-06,370,False,1.0,Delivered,593.96,3,3,1,7
+C6961,Male,Senior,Karachi,2023-11-30,2025-02-24,Subway,Continental,1,216.3,Wallet,30,2025-07-12,219,False,5.0,Delivered,216.3,4,3,1,8
+C5822,Female,Adult,Karachi,2023-11-22,2023-11-30,McDonald's,Chinese,4,687.77,Cash,17,2024-12-28,2,True,4.0,Delayed,2751.08,1,2,4,7
+C1646,Other,Senior,Karachi,2023-12-01,2024-08-31,Subway,Italian,5,358.0,Wallet,35,2025-03-11,456,False,2.0,Delivered,1790.0,2,4,3,9
+C1913,Other,Adult,Karachi,2023-12-01,2024-04-05,McDonald's,Italian,1,255.52,Wallet,13,2025-07-04,44,False,1.0,Delivered,255.52,4,2,1,7
+C1170,Male,Teenager,Karachi,2023-12-01,2024-08-03,Burger King,Italian,5,845.59,Cash,8,2025-04-28,146,False,1.0,Delivered,4227.95,3,1,5,9
+C5355,Female,Senior,Karachi,2023-12-02,2024-07-24,KFC,Fast Food,2,517.38,Wallet,25,2025-07-12,44,True,4.0,Delayed,1034.76,4,3,2,9
+C4659,Female,Adult,Karachi,2023-12-02,2025-01-18,KFC,Chinese,2,1332.67,Cash,10,2025-04-04,492,False,4.0,Delayed,2665.34,3,1,4,8
+C3335,Male,Adult,Karachi,2023-12-02,2024-06-27,Pizza Hut,Chinese,2,604.46,Wallet,18,2024-09-27,222,True,-1.0,Cancelled,1208.92,1,2,2,5
+C5528,Male,Adult,Karachi,2023-12-03,2023-12-06,Burger King,Italian,3,1228.56,Cash,17,2025-05-15,458,True,-1.0,Cancelled,3685.68,3,2,4,9
+C6507,Other,Teenager,Karachi,2023-12-03,2023-12-16,Pizza Hut,Fast Food,5,1198.52,Card,50,2025-05-18,425,True,2.0,Delayed,5992.6,3,5,5,13
+C1399,Female,Teenager,Karachi,2023-12-03,2024-08-10,McDonald's,Continental,4,1236.0,Wallet,2,2024-09-23,11,True,-1.0,Cancelled,4944.0,1,1,5,7
+C3099,Other,Adult,Karachi,2023-12-04,2024-06-03,Burger King,Fast Food,5,1403.15,Wallet,18,2025-03-20,391,True,5.0,Delayed,7015.75,2,2,5,9
+C3901,Other,Senior,Karachi,2023-12-05,2024-09-24,Burger King,Fast Food,3,1030.23,Card,27,2024-11-05,50,False,1.0,Delayed,3090.69,1,3,4,8
+C2576,Other,Teenager,Karachi,2023-12-06,2023-12-21,Burger King,Italian,3,1107.19,Wallet,33,2024-12-13,238,False,2.0,Delayed,3321.57,1,4,4,9
+C2145,Female,Senior,Karachi,2023-12-07,2023-12-29,KFC,Italian,2,1359.53,Wallet,50,2025-04-12,118,False,1.0,Delayed,2719.06,3,5,4,12
+C5638,Other,Teenager,Karachi,2023-12-07,2025-04-29,Subway,Continental,2,425.46,Card,18,2025-07-26,27,True,5.0,Delayed,850.92,5,2,2,9
+C5261,Male,Teenager,Karachi,2023-12-08,2024-11-01,KFC,Continental,2,1394.64,Cash,36,2025-02-03,425,True,-1.0,Cancelled,2789.28,2,4,4,10
+C5745,Male,Teenager,Karachi,2023-11-21,2023-12-09,Subway,Chinese,4,1184.3,Wallet,13,2024-09-04,331,True,1.0,Delivered,4737.2,1,2,5,8
+C4739,Male,Senior,Karachi,2023-12-09,2025-01-20,Pizza Hut,Chinese,5,948.06,Cash,10,2025-05-16,193,False,1.0,Delivered,4740.299999999999,3,1,5,9
+C3352,Other,Adult,Karachi,2023-12-10,2024-04-15,Burger King,Dessert,5,1131.6,Cash,4,2024-11-04,498,True,5.0,Delivered,5658.0,1,1,5,7
+C4074,Male,Adult,Karachi,2023-12-13,2024-09-25,Burger King,Chinese,5,597.89,Wallet,47,2025-01-29,104,False,-1.0,Cancelled,2989.45,2,5,4,11
+C1704,Other,Adult,Karachi,2023-12-13,2024-05-05,KFC,Italian,1,674.19,Wallet,30,2024-11-24,265,True,1.0,Delayed,674.19,1,3,1,5
+C2202,Other,Teenager,Karachi,2023-12-13,2024-09-27,Burger King,Continental,1,1166.57,Card,41,2025-01-12,457,False,3.0,Delivered,1166.57,1,5,2,8
+C4928,Female,Senior,Karachi,2023-12-14,2025-03-08,Burger King,Dessert,1,978.87,Cash,42,2025-04-15,171,True,5.0,Delayed,978.87,3,5,2,10
+C4684,Other,Senior,Karachi,2023-12-15,2024-07-14,McDonald's,Dessert,5,1255.39,Cash,29,2025-06-30,120,False,4.0,Delivered,6276.950000000001,4,3,5,12
+C6509,Male,Senior,Karachi,2023-12-01,2023-12-15,Burger King,Italian,1,1263.39,Cash,40,2024-11-27,468,True,5.0,Delayed,1263.39,1,4,2,7
+C4238,Female,Adult,Karachi,2023-12-15,2024-02-29,McDonald's,Italian,2,354.1,Card,15,2025-01-15,3,False,5.0,Delayed,708.2,1,2,1,4
+C6306,Male,Adult,Karachi,2023-12-17,2024-09-18,McDonald's,Italian,4,1442.2,Wallet,5,2025-03-16,294,True,4.0,Delivered,5768.8,2,1,5,8
+C5388,Other,Senior,Karachi,2023-12-18,2024-10-29,Pizza Hut,Chinese,2,1484.22,Cash,50,2024-11-22,224,False,1.0,Delivered,2968.44,1,5,4,10
+C5237,Male,Teenager,Karachi,2023-12-18,2024-01-02,KFC,Dessert,3,1120.83,Wallet,11,2025-02-19,172,False,3.0,Delivered,3362.49,2,1,4,7
+C4347,Female,Teenager,Karachi,2023-12-18,2024-12-20,KFC,Fast Food,1,1346.57,Wallet,11,2025-06-16,205,False,-1.0,Cancelled,1346.57,4,1,2,7
+C2682,Male,Teenager,Karachi,2023-12-20,2024-11-10,Pizza Hut,Dessert,3,1484.83,Card,33,2025-07-30,398,False,2.0,Delivered,4454.49,5,4,5,14
+C4056,Other,Adult,Karachi,2023-12-21,2024-08-04,KFC,Fast Food,4,1096.58,Wallet,11,2025-04-11,96,False,2.0,Delivered,4386.32,3,1,5,9
+C4253,Other,Teenager,Karachi,2023-12-21,2024-09-22,McDonald's,Continental,1,612.07,Cash,32,2024-10-22,388,False,-1.0,Cancelled,612.07,1,4,1,6
+C6926,Female,Senior,Karachi,2023-12-21,2024-11-05,KFC,Continental,5,306.21,Cash,25,2025-02-18,416,True,2.0,Delayed,1531.05,2,3,3,8
+C1836,Female,Adult,Karachi,2023-12-22,2024-01-23,Burger King,Italian,3,446.28,Card,31,2025-02-19,31,True,-1.0,Cancelled,1338.84,2,4,2,8
+C4193,Other,Adult,Karachi,2023-12-23,2025-02-19,KFC,Chinese,2,225.98,Wallet,44,2025-04-08,461,False,1.0,Delivered,451.96,3,5,1,9
+C3246,Female,Adult,Karachi,2023-12-24,2024-04-18,KFC,Fast Food,2,673.57,Cash,26,2025-08-05,216,True,3.0,Delayed,1347.14,5,3,2,10
+C5993,Other,Adult,Karachi,2023-12-02,2023-12-24,Subway,Fast Food,5,1329.11,Cash,11,2024-12-23,82,True,-1.0,Cancelled,6645.549999999999,1,1,5,7
+C4669,Male,Adult,Karachi,2023-11-16,2023-12-24,Burger King,Continental,1,819.69,Cash,30,2025-02-12,224,False,-1.0,Cancelled,819.69,2,3,1,6
+C5852,Other,Adult,Karachi,2023-12-25,2025-06-15,Burger King,Fast Food,2,633.42,Wallet,9,2025-08-01,415,True,-1.0,Cancelled,1266.84,5,1,2,8
+C5873,Female,Senior,Karachi,2023-12-25,2024-11-16,Burger King,Italian,1,1383.98,Wallet,1,2025-03-31,408,False,1.0,Delivered,1383.98,2,1,2,5
+C1631,Female,Teenager,Karachi,2023-12-26,2024-05-19,Pizza Hut,Italian,1,1416.87,Card,9,2025-07-11,302,False,4.0,Delivered,1416.87,4,1,2,7
+C4512,Female,Adult,Karachi,2023-12-27,2024-12-20,Burger King,Fast Food,4,1489.93,Card,26,2025-04-02,413,False,-1.0,Cancelled,5959.72,3,3,5,11
+C4840,Male,Senior,Karachi,2023-09-17,2023-12-29,Pizza Hut,Dessert,3,376.91,Cash,45,2024-10-20,467,True,-1.0,Cancelled,1130.73,1,5,2,8
+C3681,Other,Teenager,Karachi,2023-12-31,2024-12-07,Pizza Hut,Fast Food,3,995.56,Cash,30,2025-05-11,5,False,-1.0,Cancelled,2986.68,3,3,4,10
+C5478,Female,Adult,Karachi,2024-01-02,2024-10-08,McDonald's,Dessert,1,1016.55,Card,30,2025-07-10,216,False,5.0,Delayed,1016.55,4,3,2,9
+C2619,Female,Senior,Karachi,2024-01-02,2025-01-10,Burger King,Fast Food,2,1234.2,Wallet,21,2025-01-26,87,True,2.0,Delivered,2468.4,2,3,4,9
+C2473,Male,Teenager,Karachi,2024-01-03,2024-08-21,Burger King,Fast Food,4,218.0,Card,44,2025-04-24,411,False,5.0,Delayed,872.0,3,5,2,10
+C5731,Female,Teenager,Karachi,2024-01-04,2024-11-24,McDonald's,Chinese,2,920.59,Cash,49,2025-06-19,248,False,4.0,Delayed,1841.18,4,5,3,12
+C5707,Other,Adult,Karachi,2024-01-04,2024-12-23,Subway,Chinese,1,1162.28,Wallet,28,2025-05-30,40,True,-1.0,Cancelled,1162.28,4,3,2,9
+C1198,Female,Senior,Karachi,2024-01-05,2024-09-14,McDonald's,Italian,1,839.34,Cash,18,2025-06-24,347,False,-1.0,Cancelled,839.34,4,2,1,7
+C3311,Male,Adult,Karachi,2024-01-05,2025-03-03,Subway,Italian,2,846.02,Card,24,2025-06-09,98,False,2.0,Delivered,1692.04,4,3,3,10
+C5420,Other,Adult,Karachi,2024-01-05,2024-04-29,KFC,Continental,3,377.77,Cash,4,2024-09-14,481,True,5.0,Delivered,1133.31,1,1,2,4
+C1784,Male,Senior,Karachi,2023-12-11,2024-01-06,Pizza Hut,Dessert,3,1166.73,Cash,4,2025-04-22,286,True,4.0,Delivered,3500.19,3,1,4,8
+C6405,Other,Adult,Karachi,2024-01-07,2024-08-31,KFC,Continental,3,321.23,Card,45,2025-08-20,262,True,-1.0,Cancelled,963.69,5,5,2,12
+C4615,Male,Senior,Karachi,2024-01-08,2024-07-26,Subway,Fast Food,3,567.96,Wallet,2,2025-05-03,212,True,5.0,Delayed,1703.88,3,1,3,7
+C1164,Male,Teenager,Karachi,2024-01-09,2024-12-01,Subway,Italian,2,348.49,Card,3,2025-05-18,475,True,-1.0,Cancelled,696.98,3,1,1,5
+C3842,Other,Teenager,Karachi,2024-01-09,2024-08-31,Burger King,Fast Food,5,1433.75,Cash,41,2024-09-05,233,False,1.0,Delivered,7168.75,1,5,5,11
+C1158,Female,Teenager,Karachi,2024-01-10,2025-03-20,McDonald's,Chinese,4,906.49,Wallet,6,2025-06-13,319,False,-1.0,Cancelled,3625.96,4,1,4,9
+C2379,Other,Teenager,Karachi,2024-01-10,2024-09-10,Pizza Hut,Fast Food,1,1446.89,Card,46,2024-12-01,218,False,2.0,Delivered,1446.89,1,5,3,9
+C6173,Female,Senior,Karachi,2024-01-10,2024-12-18,McDonald's,Italian,5,1028.53,Card,11,2024-12-30,477,False,2.0,Delayed,5142.65,1,1,5,7
+C5843,Male,Senior,Karachi,2024-01-11,2024-11-04,Pizza Hut,Italian,5,697.14,Cash,20,2025-01-05,69,False,1.0,Delivered,3485.7,1,2,4,7
+C1521,Female,Adult,Karachi,2024-01-11,2024-12-10,McDonald's,Italian,4,818.25,Card,14,2025-06-04,226,False,3.0,Delivered,3273.0,4,2,4,10
+C5439,Female,Adult,Karachi,2024-01-12,2025-08-06,Subway,Chinese,2,475.11,Wallet,20,2025-08-13,103,False,1.0,Delayed,950.22,5,2,2,9
+C5216,Other,Senior,Karachi,2024-01-12,2024-08-21,Subway,Fast Food,4,806.86,Card,24,2024-08-22,235,True,-1.0,Cancelled,3227.44,1,3,4,8
+C5155,Male,Adult,Karachi,2024-01-13,2024-04-14,McDonald's,Dessert,1,463.29,Wallet,21,2025-05-24,166,True,-1.0,Cancelled,463.29,3,3,1,7
+C5379,Female,Senior,Karachi,2024-01-13,2024-11-26,Subway,Continental,3,402.48,Card,47,2025-05-08,209,False,1.0,Delivered,1207.44,3,5,2,10
+C3967,Female,Teenager,Karachi,2024-01-13,2025-01-11,McDonald's,Fast Food,4,263.72,Wallet,29,2025-05-27,457,True,-1.0,Cancelled,1054.88,3,3,2,8
+C4297,Male,Teenager,Karachi,2024-01-14,2024-12-06,Pizza Hut,Dessert,1,626.89,Cash,26,2024-12-10,136,False,3.0,Delayed,626.89,1,3,1,5
+C3823,Female,Teenager,Karachi,2024-01-15,2024-07-16,McDonald's,Italian,2,1278.98,Card,11,2024-09-15,433,False,-1.0,Cancelled,2557.96,1,1,4,6
+C6239,Female,Adult,Karachi,2024-01-15,2024-11-19,Pizza Hut,Chinese,4,1179.12,Cash,20,2025-03-20,77,False,-1.0,Cancelled,4716.48,2,2,5,9
+C5037,Other,Teenager,Karachi,2024-01-16,2025-02-24,McDonald's,Chinese,2,523.58,Cash,33,2025-07-01,125,False,2.0,Delivered,1047.16,4,4,2,10
+C6864,Male,Teenager,Karachi,2024-01-16,2024-11-11,McDonald's,Dessert,2,571.79,Cash,17,2025-07-08,207,False,5.0,Delivered,1143.58,4,2,2,8
+C4721,Other,Teenager,Karachi,2024-01-16,2024-07-07,Pizza Hut,Chinese,5,474.41,Cash,44,2025-08-17,133,True,-1.0,Cancelled,2372.05,5,5,3,13
+C2146,Other,Adult,Karachi,2024-01-17,2024-04-08,Burger King,Chinese,5,1485.9,Wallet,22,2024-12-17,394,False,3.0,Delivered,7429.5,1,3,5,9
+C3331,Other,Adult,Karachi,2023-09-05,2024-01-18,McDonald's,Continental,3,642.75,Cash,34,2024-10-10,403,False,-1.0,Cancelled,1928.25,1,4,3,8
+C6446,Other,Adult,Karachi,2024-01-18,2024-11-01,McDonald's,Italian,3,1304.81,Cash,10,2024-11-30,365,True,-1.0,Cancelled,3914.43,1,1,4,6
+C2940,Other,Adult,Karachi,2024-01-19,2025-06-06,Pizza Hut,Fast Food,1,592.9,Cash,35,2025-06-19,127,True,-1.0,Cancelled,592.9,4,4,1,9
+C1035,Other,Adult,Karachi,2024-01-19,2024-05-28,Burger King,Fast Food,4,464.52,Card,13,2025-05-25,112,True,3.0,Delivered,1858.08,3,2,3,8
+C3856,Female,Adult,Karachi,2024-01-19,2024-11-20,Pizza Hut,Continental,5,947.23,Card,10,2025-02-02,269,True,1.0,Delayed,4736.15,2,1,5,8
+C3816,Other,Adult,Karachi,2024-01-21,2025-04-21,McDonald's,Fast Food,5,790.88,Wallet,13,2025-06-24,190,False,2.0,Delivered,3954.4,4,2,4,10
+C2688,Female,Teenager,Karachi,2024-01-22,2024-03-06,KFC,Dessert,3,352.06,Wallet,21,2024-09-05,394,False,4.0,Delayed,1056.18,1,3,2,6
+C5899,Male,Senior,Karachi,2024-01-23,2024-09-02,KFC,Fast Food,2,1044.36,Cash,8,2025-01-03,144,True,-1.0,Cancelled,2088.72,1,1,3,5
+C1995,Other,Adult,Karachi,2024-01-23,2024-12-10,McDonald's,Italian,3,465.92,Wallet,47,2025-02-11,248,False,1.0,Delayed,1397.76,2,5,2,9
+C4651,Female,Senior,Karachi,2023-12-02,2024-01-23,KFC,Continental,4,429.31,Cash,10,2025-06-29,15,True,4.0,Delivered,1717.24,4,1,3,8
+C6720,Other,Teenager,Karachi,2023-09-19,2024-01-23,Pizza Hut,Dessert,4,1224.6,Card,8,2025-07-09,254,False,4.0,Delivered,4898.4,4,1,5,10
+C5445,Female,Adult,Karachi,2024-01-23,2024-12-07,Burger King,Italian,3,1069.27,Card,6,2025-05-01,268,True,3.0,Delivered,3207.81,3,1,4,8
+C2834,Other,Teenager,Karachi,2024-01-24,2024-12-04,Pizza Hut,Dessert,2,591.03,Card,1,2025-04-14,23,False,-1.0,Cancelled,1182.06,3,1,2,6
+C5976,Male,Teenager,Karachi,2023-12-17,2024-01-24,Pizza Hut,Continental,3,585.86,Card,49,2025-01-18,219,False,4.0,Delayed,1757.58,2,5,3,10
+C4801,Other,Teenager,Karachi,2024-01-26,2024-06-03,Pizza Hut,Chinese,3,1337.76,Card,39,2024-12-28,13,True,2.0,Delivered,4013.2799999999997,1,4,5,10
+C2749,Female,Teenager,Karachi,2024-01-26,2024-10-25,KFC,Italian,2,1135.77,Card,36,2025-01-23,416,False,4.0,Delayed,2271.54,2,4,3,9
+C6981,Female,Teenager,Karachi,2024-01-26,2025-04-28,McDonald's,Continental,4,764.18,Card,18,2025-06-04,476,False,-1.0,Cancelled,3056.72,4,2,4,10
+C6610,Male,Senior,Karachi,2024-01-26,2024-08-19,McDonald's,Dessert,3,1433.71,Wallet,11,2025-05-08,217,True,1.0,Delayed,4301.13,3,1,5,9
+C5345,Female,Adult,Karachi,2024-01-27,2024-09-16,McDonald's,Continental,3,661.62,Cash,42,2024-11-17,401,False,-1.0,Cancelled,1984.8600000000001,1,5,3,9
+C6348,Female,Adult,Karachi,2024-01-27,2024-04-01,Burger King,Chinese,3,801.26,Card,22,2024-09-17,142,False,4.0,Delivered,2403.7799999999997,1,3,3,7
+C1328,Male,Senior,Karachi,2023-12-11,2024-01-27,Subway,Continental,1,910.55,Card,10,2025-04-27,203,True,-1.0,Cancelled,910.55,3,1,2,6
+C2078,Other,Senior,Karachi,2024-01-27,2024-10-22,McDonald's,Dessert,5,371.56,Cash,48,2025-05-17,311,True,5.0,Delivered,1857.8,3,5,3,11
+C6567,Male,Senior,Karachi,2023-09-02,2024-01-28,Burger King,Chinese,3,526.09,Cash,34,2025-04-29,378,True,2.0,Delivered,1578.27,3,4,3,10
+C1322,Male,Adult,Karachi,2024-01-28,2025-02-07,Pizza Hut,Continental,1,466.7,Cash,41,2025-07-22,131,False,1.0,Delayed,466.7,5,5,1,11
+C5603,Other,Senior,Karachi,2024-01-28,2025-04-26,Subway,Chinese,1,1489.11,Cash,46,2025-07-04,141,False,3.0,Delivered,1489.11,4,5,3,12
+C1714,Female,Senior,Karachi,2024-01-29,2024-09-21,Burger King,Continental,5,328.51,Cash,17,2025-03-04,108,False,1.0,Delayed,1642.55,2,2,3,7
+C6861,Female,Senior,Karachi,2024-01-30,2024-11-29,KFC,Dessert,3,596.24,Wallet,49,2024-12-06,177,False,4.0,Delayed,1788.72,1,5,3,9
+C5257,Other,Teenager,Karachi,2023-11-01,2024-01-30,Pizza Hut,Continental,4,862.35,Wallet,48,2024-10-23,400,True,2.0,Delivered,3449.4,1,5,4,10
+C4301,Other,Adult,Karachi,2024-01-08,2024-01-31,Subway,Chinese,1,763.67,Card,30,2025-07-20,315,True,4.0,Delivered,763.67,5,3,1,9
+C3084,Other,Adult,Karachi,2024-02-01,2024-06-01,Subway,Dessert,4,956.21,Cash,35,2025-01-24,39,True,2.0,Delivered,3824.84,2,4,4,10
+C5982,Female,Adult,Karachi,2024-02-01,2024-04-16,Pizza Hut,Fast Food,4,814.0,Cash,34,2025-04-24,280,True,3.0,Delivered,3256.0,3,4,4,11
+C1860,Other,Adult,Karachi,2023-08-26,2024-02-01,Subway,Chinese,3,1361.64,Wallet,31,2024-10-23,30,True,-1.0,Cancelled,4084.92,1,4,5,10
+C2439,Other,Adult,Karachi,2024-01-07,2024-02-01,McDonald's,Continental,4,1196.99,Card,32,2024-12-03,252,False,-1.0,Cancelled,4787.96,1,4,5,10
+C2864,Male,Teenager,Karachi,2024-02-02,2025-03-23,KFC,Dessert,1,1286.55,Cash,4,2025-06-08,454,False,1.0,Delayed,1286.55,4,1,2,7
+C6733,Other,Teenager,Karachi,2024-02-02,2024-11-08,Burger King,Dessert,5,1464.98,Wallet,30,2025-07-11,382,True,3.0,Delivered,7324.9,4,3,5,12
+C6063,Female,Adult,Karachi,2024-02-04,2024-02-07,Burger King,Fast Food,5,1157.27,Cash,25,2025-06-22,140,True,1.0,Delivered,5786.35,4,3,5,12
+C6744,Other,Adult,Karachi,2024-02-05,2024-08-26,Pizza Hut,Fast Food,3,1385.57,Card,44,2025-06-26,150,False,-1.0,Cancelled,4156.71,4,5,5,14
+C1950,Other,Senior,Karachi,2024-02-05,2025-01-02,McDonald's,Chinese,5,973.19,Wallet,37,2025-02-27,371,True,2.0,Delivered,4865.950000000001,2,4,5,11
+C3708,Female,Adult,Karachi,2023-12-13,2024-02-06,Subway,Fast Food,1,1073.18,Wallet,1,2024-12-04,96,True,1.0,Delivered,1073.18,1,1,2,4
+C6919,Other,Adult,Karachi,2024-02-07,2025-04-26,McDonald's,Italian,1,435.08,Card,46,2025-07-26,358,False,2.0,Delayed,435.08,5,5,1,11
+C1497,Male,Teenager,Karachi,2024-02-07,2025-03-24,Burger King,Fast Food,3,1494.29,Wallet,17,2025-05-08,495,True,-1.0,Cancelled,4482.87,3,2,5,10
+C5480,Other,Adult,Karachi,2024-02-08,2024-03-14,Subway,Italian,5,1421.13,Card,39,2025-07-27,352,False,3.0,Delayed,7105.650000000001,5,4,5,14
+C2589,Female,Senior,Karachi,2024-02-08,2024-12-30,McDonald's,Italian,3,748.42,Wallet,3,2025-05-12,462,True,1.0,Delayed,2245.2599999999998,3,1,3,7
+C2352,Other,Adult,Karachi,2024-02-08,2024-08-21,KFC,Fast Food,1,938.44,Card,3,2025-03-03,241,False,5.0,Delayed,938.44,2,1,2,5
+C3039,Other,Senior,Karachi,2023-10-16,2024-02-09,Pizza Hut,Chinese,4,150.64,Cash,45,2025-03-24,367,False,3.0,Delivered,602.56,2,5,1,8
+C6512,Other,Senior,Karachi,2024-02-11,2024-06-28,McDonald's,Continental,4,1449.23,Card,41,2025-05-29,257,True,2.0,Delayed,5796.92,4,5,5,14
+C5515,Male,Senior,Karachi,2023-09-10,2024-02-11,Burger King,Chinese,1,985.03,Wallet,43,2024-09-29,344,True,-1.0,Cancelled,985.03,1,5,2,8
+C2828,Female,Adult,Karachi,2024-02-11,2024-03-15,Subway,Continental,5,1104.92,Cash,11,2025-07-14,404,False,2.0,Delivered,5524.6,5,1,5,11
+C3108,Female,Adult,Karachi,2024-01-28,2024-02-14,Subway,Dessert,5,344.8,Cash,7,2025-03-02,400,False,4.0,Delivered,1724.0,2,1,3,6
+C2407,Female,Teenager,Karachi,2024-02-15,2024-12-15,KFC,Fast Food,5,1493.07,Cash,14,2025-02-13,423,False,-1.0,Cancelled,7465.349999999999,2,2,5,9
+C2199,Female,Senior,Karachi,2024-02-15,2024-12-28,KFC,Chinese,5,695.51,Wallet,27,2025-03-23,227,True,-1.0,Cancelled,3477.55,2,3,4,9
+C1533,Other,Adult,Karachi,2024-02-15,2024-11-07,Burger King,Chinese,2,420.11,Card,15,2025-07-17,281,True,1.0,Delayed,840.22,5,2,1,8
+C2508,Other,Teenager,Karachi,2024-02-16,2024-03-05,KFC,Italian,2,178.97,Cash,21,2025-02-20,322,True,1.0,Delayed,357.94,2,3,1,6
+C4398,Female,Teenager,Karachi,2024-02-16,2025-02-20,KFC,Italian,2,893.7,Wallet,33,2025-07-03,245,False,1.0,Delayed,1787.4,4,4,3,11
+C6581,Female,Teenager,Karachi,2024-02-17,2024-11-20,McDonald's,Dessert,2,865.17,Card,8,2025-07-04,374,True,3.0,Delayed,1730.34,4,1,3,8
+C2707,Female,Senior,Karachi,2024-02-17,2024-10-03,Pizza Hut,Dessert,1,988.94,Cash,49,2024-12-07,443,False,-1.0,Cancelled,988.94,1,5,2,8
+C6746,Female,Senior,Karachi,2024-02-18,2024-12-08,Burger King,Fast Food,1,861.14,Cash,46,2025-06-17,15,False,1.0,Delivered,861.14,4,5,2,11
+C1214,Other,Adult,Karachi,2024-02-18,2024-05-18,McDonald's,Fast Food,4,1074.34,Wallet,35,2024-10-26,225,False,-1.0,Cancelled,4297.36,1,4,5,10
+C3772,Other,Senior,Karachi,2024-02-19,2024-03-16,Pizza Hut,Dessert,5,478.06,Wallet,25,2025-07-03,390,True,-1.0,Cancelled,2390.3,4,3,3,10
+C1446,Other,Adult,Karachi,2024-01-10,2024-02-21,Burger King,Dessert,2,113.28,Wallet,16,2025-02-06,141,False,-1.0,Cancelled,226.56,2,2,1,5
+C4838,Male,Teenager,Karachi,2024-02-23,2024-09-30,KFC,Dessert,2,186.86,Cash,36,2025-02-17,326,True,2.0,Delayed,373.72,2,4,1,7
+C4871,Female,Teenager,Karachi,2023-11-06,2024-02-23,KFC,Dessert,2,847.31,Card,1,2024-12-21,189,False,-1.0,Cancelled,1694.62,1,1,3,5
+C4445,Male,Adult,Karachi,2024-02-24,2024-03-29,Burger King,Italian,1,1241.56,Card,38,2025-01-02,148,False,1.0,Delayed,1241.56,1,4,2,7
+C2433,Male,Teenager,Karachi,2024-02-24,2024-11-27,Subway,Chinese,3,291.42,Cash,18,2025-04-24,105,True,-1.0,Cancelled,874.26,3,2,2,7
+C1496,Male,Adult,Karachi,2024-02-24,2025-02-24,Pizza Hut,Chinese,5,154.51,Wallet,50,2025-07-22,421,False,-1.0,Cancelled,772.55,5,5,1,11
+C4618,Other,Teenager,Karachi,2024-02-24,2024-06-25,Burger King,Fast Food,2,970.41,Cash,24,2024-12-08,478,True,1.0,Delayed,1940.82,1,3,3,7
+C3547,Male,Senior,Karachi,2023-10-06,2024-02-24,KFC,Italian,5,1229.12,Cash,17,2025-01-26,361,True,2.0,Delivered,6145.599999999999,2,2,5,9
+C3402,Female,Adult,Karachi,2024-02-25,2024-08-22,Subway,Continental,1,646.95,Cash,23,2025-06-08,473,False,-1.0,Cancelled,646.95,4,3,1,8
+C4292,Male,Adult,Karachi,2024-02-25,2024-10-15,Subway,Fast Food,5,1089.43,Card,37,2024-11-28,265,True,4.0,Delivered,5447.150000000001,1,4,5,10
+C3824,Other,Adult,Karachi,2024-02-09,2024-02-25,KFC,Italian,2,951.54,Card,24,2025-08-02,101,False,3.0,Delivered,1903.08,5,3,3,11
+C5240,Female,Adult,Karachi,2024-02-25,2024-08-28,Burger King,Italian,4,397.36,Wallet,25,2024-09-20,439,False,4.0,Delayed,1589.44,1,3,3,7
+C5334,Other,Teenager,Karachi,2024-02-26,2025-01-26,Pizza Hut,Fast Food,3,1474.62,Wallet,41,2025-03-12,267,True,3.0,Delivered,4423.86,2,5,5,12
+C1407,Female,Adult,Karachi,2024-02-26,2024-09-23,Subway,Chinese,2,283.32,Cash,30,2024-11-24,91,False,-1.0,Cancelled,566.64,1,3,1,5
+C2968,Male,Senior,Karachi,2024-02-26,2024-10-04,KFC,Italian,5,268.8,Cash,5,2024-12-13,357,False,-1.0,Cancelled,1344.0,1,1,2,4
+C2713,Female,Adult,Karachi,2024-02-27,2024-12-05,Pizza Hut,Dessert,1,399.92,Cash,48,2025-05-27,5,False,2.0,Delivered,399.92,3,5,1,9
+C4789,Female,Adult,Karachi,2024-02-28,2024-02-28,Subway,Italian,3,843.85,Cash,34,2024-11-26,391,False,5.0,Delayed,2531.55,1,4,4,9
+C4705,Male,Senior,Karachi,2024-02-29,2024-09-01,KFC,Dessert,3,505.66,Wallet,8,2024-10-07,354,True,1.0,Delivered,1516.98,1,1,3,5
+C5364,Male,Adult,Karachi,2024-02-29,2024-08-04,Pizza Hut,Italian,4,1350.29,Wallet,44,2024-11-01,148,True,3.0,Delivered,5401.16,1,5,5,11
+C4676,Other,Senior,Karachi,2024-02-29,2025-01-25,KFC,Chinese,3,697.93,Wallet,17,2025-02-20,89,True,4.0,Delivered,2093.79,2,2,3,7
+C3429,Male,Teenager,Karachi,2024-03-02,2024-12-17,Subway,Italian,2,826.15,Card,29,2025-06-18,258,False,3.0,Delayed,1652.3,4,3,3,10
+C1622,Other,Teenager,Karachi,2024-03-04,2025-04-24,Burger King,Dessert,4,636.18,Card,48,2025-06-13,458,False,-1.0,Cancelled,2544.72,4,5,4,13
+C5430,Male,Senior,Karachi,2024-03-05,2024-11-07,Burger King,Dessert,4,564.96,Wallet,10,2025-03-20,339,False,-1.0,Cancelled,2259.84,2,1,3,6
+C3591,Female,Adult,Karachi,2024-03-05,2025-04-04,KFC,Italian,3,879.03,Cash,22,2025-04-17,439,False,5.0,Delivered,2637.09,3,3,4,10
+C1062,Male,Senior,Karachi,2024-03-05,2025-03-26,Pizza Hut,Dessert,2,199.56,Wallet,47,2025-05-28,442,False,3.0,Delivered,399.12,3,5,1,9
+C5323,Other,Adult,Karachi,2024-03-05,2025-03-08,KFC,Chinese,3,1144.9,Card,28,2025-07-19,331,False,5.0,Delivered,3434.7000000000003,5,3,4,12
+C2091,Male,Senior,Karachi,2024-01-04,2024-03-06,KFC,Dessert,3,944.9,Wallet,11,2025-06-06,152,True,-1.0,Cancelled,2834.7,4,1,4,9
+C4139,Male,Adult,Karachi,2024-03-07,2024-04-21,McDonald's,Dessert,1,591.59,Card,7,2025-06-16,417,False,-1.0,Cancelled,591.59,4,1,1,6
+C2283,Other,Adult,Karachi,2024-03-08,2024-08-27,McDonald's,Continental,3,814.98,Card,19,2025-04-11,135,False,1.0,Delayed,2444.94,3,2,4,9
+C6837,Other,Senior,Karachi,2024-02-25,2024-03-09,Pizza Hut,Continental,1,495.9,Wallet,13,2025-07-22,361,True,-1.0,Cancelled,495.9,5,2,1,8
+C5867,Female,Adult,Karachi,2023-11-04,2024-03-10,McDonald's,Continental,2,1175.65,Cash,40,2024-10-27,248,False,3.0,Delivered,2351.3,1,4,3,8
+C6556,Other,Teenager,Karachi,2024-03-11,2024-07-26,McDonald's,Dessert,4,636.22,Card,41,2025-03-09,278,False,1.0,Delayed,2544.88,2,5,4,11
+C2181,Male,Senior,Karachi,2023-12-21,2024-03-12,KFC,Fast Food,5,589.58,Cash,36,2025-07-30,263,False,3.0,Delivered,2947.9,5,4,4,13
+C3730,Female,Adult,Karachi,2024-03-12,2024-12-12,Burger King,Chinese,5,437.22,Card,5,2025-01-08,34,False,5.0,Delayed,2186.1000000000004,1,1,3,5
+C6030,Other,Adult,Karachi,2024-03-12,2024-07-23,Subway,Continental,2,674.2,Card,15,2025-01-15,187,False,-1.0,Cancelled,1348.4,1,2,2,5
+C6553,Other,Teenager,Karachi,2023-08-22,2024-03-13,Subway,Continental,1,552.93,Card,20,2025-06-29,331,False,4.0,Delayed,552.93,4,2,1,7
+C2370,Female,Adult,Karachi,2024-03-14,2024-09-30,Subway,Italian,3,846.31,Wallet,18,2024-10-13,448,False,5.0,Delayed,2538.93,1,2,4,7
+C4387,Male,Senior,Karachi,2024-03-15,2024-06-17,KFC,Fast Food,5,1233.15,Cash,25,2025-03-10,347,False,-1.0,Cancelled,6165.75,2,3,5,10
+C3360,Female,Teenager,Karachi,2024-03-16,2024-04-07,Subway,Dessert,2,1375.22,Cash,8,2024-11-12,27,False,3.0,Delivered,2750.44,1,1,4,6
+C5254,Other,Senior,Karachi,2024-03-17,2025-04-18,Pizza Hut,Italian,3,1036.96,Wallet,28,2025-06-20,395,True,4.0,Delivered,3110.88,4,3,4,11
+C4218,Male,Senior,Karachi,2023-09-04,2024-03-17,Subway,Dessert,2,387.95,Wallet,47,2025-05-06,347,True,2.0,Delivered,775.9,3,5,1,9
+C6783,Male,Adult,Karachi,2024-03-18,2025-06-14,Subway,Chinese,1,632.37,Card,49,2025-08-07,353,False,5.0,Delayed,632.37,5,5,1,11
+C2330,Other,Adult,Karachi,2024-03-19,2025-01-09,Pizza Hut,Chinese,3,322.95,Cash,11,2025-02-28,166,True,3.0,Delivered,968.8499999999999,2,1,2,5
+C1298,Other,Senior,Karachi,2024-03-21,2024-05-31,Burger King,Italian,5,249.79,Card,16,2024-11-10,236,True,5.0,Delayed,1248.95,1,2,2,5
+C1225,Male,Teenager,Karachi,2024-03-22,2024-04-28,Pizza Hut,Fast Food,1,663.09,Cash,39,2024-09-18,327,True,5.0,Delivered,663.09,1,4,1,6
+C1754,Other,Adult,Karachi,2024-01-15,2024-03-22,Pizza Hut,Continental,1,380.58,Card,19,2024-09-29,8,True,3.0,Delivered,380.58,1,2,1,4
+C4030,Male,Adult,Karachi,2024-03-23,2025-02-16,KFC,Continental,5,301.69,Wallet,46,2025-08-17,367,False,-1.0,Cancelled,1508.45,5,5,3,13
+C3323,Other,Adult,Karachi,2024-03-23,2024-08-05,Burger King,Continental,1,238.13,Cash,15,2025-01-16,451,False,1.0,Delivered,238.13,2,2,1,5
+C1100,Male,Adult,Karachi,2024-03-23,2024-03-24,KFC,Dessert,1,486.5,Card,29,2025-05-05,305,True,5.0,Delayed,486.5,3,3,1,7
+C3440,Male,Adult,Karachi,2024-03-26,2025-04-17,Burger King,Italian,3,486.22,Card,5,2025-06-20,469,True,5.0,Delayed,1458.66,4,1,3,8
+C2445,Other,Senior,Karachi,2024-03-27,2025-02-19,KFC,Chinese,3,957.8,Cash,38,2025-03-01,315,True,-1.0,Cancelled,2873.3999999999996,2,4,4,10
+C6355,Female,Teenager,Karachi,2024-03-28,2024-10-16,McDonald's,Continental,4,128.63,Cash,23,2024-11-28,154,False,5.0,Delayed,514.52,1,3,1,5
+C5872,Other,Teenager,Karachi,2024-03-28,2025-03-14,Burger King,Chinese,2,284.9,Wallet,32,2025-06-19,289,False,4.0,Delivered,569.8,4,4,1,9
+C5893,Male,Teenager,Karachi,2023-09-09,2024-03-29,Burger King,Continental,1,1405.01,Card,23,2024-10-23,417,False,1.0,Delivered,1405.01,1,3,2,6
+C3714,Female,Senior,Karachi,2024-03-29,2025-06-05,KFC,Chinese,2,310.77,Cash,50,2025-07-08,128,False,3.0,Delayed,621.54,4,5,1,10
+C4007,Female,Teenager,Karachi,2023-10-07,2024-03-29,McDonald's,Continental,4,975.23,Card,26,2024-11-19,189,False,5.0,Delivered,3900.92,1,3,4,8
+C3274,Male,Adult,Karachi,2024-01-17,2024-03-30,McDonald's,Continental,1,1249.58,Card,30,2025-08-05,419,True,3.0,Delayed,1249.58,5,3,2,10
+C3187,Male,Teenager,Karachi,2024-03-30,2024-09-19,Burger King,Dessert,5,537.59,Cash,36,2025-03-29,88,False,3.0,Delivered,2687.9500000000003,2,4,4,10
+C6654,Male,Adult,Karachi,2023-10-23,2024-03-31,Subway,Italian,2,186.77,Card,24,2025-06-14,88,True,1.0,Delayed,373.54,4,3,1,8
+C2288,Male,Adult,Karachi,2024-04-02,2024-09-11,KFC,Dessert,3,464.29,Cash,34,2025-01-20,124,True,5.0,Delivered,1392.8700000000001,2,4,2,8
+C1648,Other,Teenager,Karachi,2024-04-03,2024-09-24,Subway,Fast Food,2,1463.89,Card,3,2025-04-25,305,True,-1.0,Cancelled,2927.78,3,1,4,8
+C3398,Other,Teenager,Karachi,2023-11-09,2024-04-04,KFC,Dessert,3,736.23,Cash,16,2025-07-11,55,True,3.0,Delayed,2208.69,4,2,3,9
+C1665,Female,Senior,Karachi,2024-04-04,2025-02-26,Subway,Fast Food,2,753.44,Card,34,2025-06-16,371,True,-1.0,Cancelled,1506.88,4,4,3,11
+C5503,Other,Teenager,Karachi,2024-04-04,2024-11-08,Subway,Continental,5,1055.72,Wallet,5,2025-08-20,487,True,-1.0,Cancelled,5278.6,5,1,5,11
+C4985,Male,Teenager,Karachi,2023-08-26,2024-04-06,Pizza Hut,Fast Food,1,1100.43,Wallet,22,2024-10-29,51,False,-1.0,Cancelled,1100.43,1,3,2,6
+C3844,Other,Teenager,Karachi,2024-04-07,2024-12-06,Subway,Dessert,4,438.45,Card,28,2025-03-23,324,False,-1.0,Cancelled,1753.8,2,3,3,8
+C6035,Male,Teenager,Karachi,2024-04-07,2025-01-27,KFC,Chinese,3,946.01,Wallet,27,2025-02-19,254,True,1.0,Delayed,2838.0299999999997,2,3,4,9
+C5079,Other,Senior,Karachi,2024-04-08,2024-10-05,McDonald's,Chinese,3,501.34,Wallet,22,2025-05-09,169,True,-1.0,Cancelled,1504.02,3,3,3,9
+C5965,Male,Senior,Karachi,2024-04-09,2025-04-13,KFC,Chinese,5,282.42,Cash,50,2025-07-13,178,True,-1.0,Cancelled,1412.1000000000001,4,5,2,11
+C4169,Male,Teenager,Karachi,2024-02-27,2024-04-09,Burger King,Continental,5,580.21,Cash,30,2025-07-22,414,False,1.0,Delivered,2901.05,5,3,4,12
+C6259,Other,Teenager,Karachi,2024-04-10,2024-06-04,Subway,Continental,4,1260.3,Card,41,2025-03-13,300,False,4.0,Delivered,5041.2,2,5,5,12
+C5133,Male,Teenager,Karachi,2024-04-11,2025-02-21,Burger King,Chinese,3,1150.16,Cash,7,2025-06-11,184,True,-1.0,Cancelled,3450.4800000000005,4,1,4,9
+C6853,Other,Adult,Karachi,2024-01-06,2024-04-12,Pizza Hut,Italian,1,1353.19,Card,6,2025-01-11,361,True,2.0,Delayed,1353.19,1,1,2,4
+C4212,Male,Senior,Karachi,2024-03-22,2024-04-13,McDonald's,Chinese,2,1276.74,Card,42,2025-03-12,104,True,3.0,Delivered,2553.48,2,5,4,11
+C6614,Female,Teenager,Karachi,2024-02-12,2024-04-13,Pizza Hut,Dessert,5,1308.6,Card,47,2025-06-18,264,True,-1.0,Cancelled,6543.0,4,5,5,14
+C2932,Male,Adult,Karachi,2024-04-15,2024-06-03,Burger King,Fast Food,3,1165.12,Wallet,16,2025-04-28,217,False,1.0,Delivered,3495.3599999999997,3,2,4,9
+C6622,Male,Senior,Karachi,2024-04-15,2024-12-10,Burger King,Continental,2,708.98,Card,21,2025-01-30,279,False,3.0,Delivered,1417.96,2,3,2,7
+C4504,Other,Adult,Karachi,2023-09-24,2024-04-17,McDonald's,Dessert,3,271.27,Card,2,2025-05-04,211,True,2.0,Delayed,813.81,3,1,1,5
+C1607,Male,Adult,Karachi,2024-03-01,2024-04-17,Pizza Hut,Dessert,3,652.76,Cash,11,2024-12-06,133,False,-1.0,Cancelled,1958.28,1,1,3,5
+C5456,Other,Senior,Karachi,2024-04-17,2025-04-25,McDonald's,Fast Food,5,1225.63,Cash,37,2025-07-28,351,True,-1.0,Cancelled,6128.150000000001,5,4,5,14
+C1597,Female,Senior,Karachi,2023-11-05,2024-04-19,KFC,Chinese,3,1297.02,Cash,27,2025-02-26,30,True,3.0,Delayed,3891.06,2,3,4,9
+C2102,Male,Senior,Karachi,2024-04-19,2024-08-17,McDonald's,Continental,5,743.39,Wallet,49,2025-06-08,387,False,3.0,Delayed,3716.95,4,5,4,13
+C3070,Female,Senior,Karachi,2024-04-19,2025-01-06,Burger King,Continental,1,1231.51,Card,40,2025-05-06,128,False,-1.0,Cancelled,1231.51,3,4,2,9
+C6588,Male,Adult,Karachi,2023-12-06,2024-04-19,Pizza Hut,Continental,4,1107.49,Card,25,2025-06-27,141,True,-1.0,Cancelled,4429.96,4,3,5,12
+C5680,Other,Teenager,Karachi,2024-04-20,2024-05-30,McDonald's,Fast Food,3,1194.59,Cash,18,2024-12-12,198,True,-1.0,Cancelled,3583.7699999999995,1,2,4,7
+C4418,Male,Teenager,Karachi,2024-04-21,2024-10-18,Pizza Hut,Chinese,5,588.62,Wallet,32,2025-06-09,235,False,3.0,Delayed,2943.1,4,4,4,12
+C5368,Other,Teenager,Karachi,2024-04-21,2024-09-18,McDonald's,Italian,4,622.33,Wallet,16,2025-07-24,405,True,3.0,Delivered,2489.32,5,2,4,11
+C4055,Male,Teenager,Karachi,2024-04-22,2025-03-04,Pizza Hut,Dessert,2,875.73,Wallet,30,2025-08-10,155,True,3.0,Delayed,1751.46,5,3,3,11
+C3097,Male,Teenager,Karachi,2024-04-22,2025-01-06,KFC,Chinese,5,261.03,Wallet,25,2025-04-04,171,False,-1.0,Cancelled,1305.1499999999999,3,3,2,8
+C1503,Female,Teenager,Karachi,2024-04-22,2025-02-26,Pizza Hut,Fast Food,5,193.42,Cash,49,2025-03-12,75,False,2.0,Delayed,967.0999999999999,2,5,2,9
+C3195,Other,Adult,Karachi,2024-04-24,2025-02-10,Burger King,Fast Food,5,1300.96,Card,8,2025-06-30,269,True,-1.0,Cancelled,6504.8,4,1,5,10
+C3466,Male,Senior,Karachi,2023-11-11,2024-04-24,McDonald's,Italian,4,476.38,Wallet,27,2024-11-28,222,True,-1.0,Cancelled,1905.52,1,3,3,7
+C4172,Female,Teenager,Karachi,2024-04-24,2024-08-11,McDonald's,Continental,1,125.81,Card,47,2025-04-08,311,False,-1.0,Cancelled,125.81,3,5,1,9
+C5660,Male,Adult,Karachi,2024-04-24,2024-12-12,Burger King,Italian,4,1498.16,Cash,42,2025-05-07,446,False,4.0,Delivered,5992.64,3,5,5,13
+C5290,Other,Senior,Karachi,2024-04-25,2024-07-24,McDonald's,Chinese,2,1255.34,Card,42,2024-11-24,102,True,-1.0,Cancelled,2510.68,1,5,4,10
+C2622,Male,Teenager,Karachi,2023-11-16,2024-04-25,Burger King,Chinese,2,1048.17,Wallet,9,2025-04-05,407,False,3.0,Delivered,2096.34,3,1,3,7
+C6955,Other,Teenager,Karachi,2024-04-25,2025-05-31,Subway,Chinese,2,751.25,Card,1,2025-07-22,77,True,5.0,Delivered,1502.5,5,1,3,9
+C1850,Male,Teenager,Karachi,2023-09-29,2024-04-25,Pizza Hut,Continental,3,726.99,Wallet,28,2024-09-09,192,True,3.0,Delivered,2180.9700000000003,1,3,3,7
+C5924,Female,Adult,Karachi,2024-04-01,2024-04-26,McDonald's,Fast Food,1,1098.54,Wallet,13,2025-06-05,15,False,4.0,Delayed,1098.54,4,2,2,8
+C1478,Other,Adult,Karachi,2024-04-26,2024-08-23,Subway,Fast Food,5,481.17,Card,48,2025-03-02,391,True,-1.0,Cancelled,2405.85,2,5,3,10
+C3423,Other,Adult,Karachi,2024-04-26,2024-09-29,KFC,Chinese,3,1387.34,Card,40,2025-02-17,51,False,-1.0,Cancelled,4162.0199999999995,2,4,5,11
+C2409,Female,Senior,Karachi,2024-02-22,2024-04-26,Pizza Hut,Dessert,2,1363.15,Cash,32,2025-01-06,471,True,2.0,Delivered,2726.3,1,4,4,9
+C2863,Male,Teenager,Karachi,2024-04-26,2024-06-19,Pizza Hut,Italian,3,1204.55,Card,47,2025-04-07,400,True,3.0,Delayed,3613.6499999999996,3,5,4,12
+C3322,Male,Teenager,Karachi,2024-04-07,2024-04-28,Pizza Hut,Continental,1,411.37,Cash,30,2025-06-11,243,False,-1.0,Cancelled,411.37,4,3,1,8
+C4101,Other,Teenager,Karachi,2024-04-29,2024-10-18,Subway,Chinese,5,1265.29,Wallet,4,2024-12-17,262,False,3.0,Delivered,6326.45,1,1,5,7
+C4359,Male,Adult,Karachi,2024-04-29,2024-11-18,Subway,Dessert,5,1386.81,Wallet,19,2025-01-10,240,False,1.0,Delivered,6934.049999999999,1,2,5,8
+C2128,Female,Adult,Karachi,2024-04-30,2024-10-14,KFC,Fast Food,1,1275.78,Wallet,47,2024-10-30,351,True,1.0,Delivered,1275.78,1,5,2,8
+C5597,Other,Teenager,Karachi,2024-05-02,2024-10-11,KFC,Fast Food,2,614.21,Cash,11,2025-06-13,361,True,1.0,Delayed,1228.42,4,1,2,7
+C6136,Female,Senior,Karachi,2024-05-02,2025-03-05,Burger King,Fast Food,2,1369.3,Card,45,2025-06-28,48,True,5.0,Delivered,2738.6,4,5,4,13
+C4437,Male,Teenager,Karachi,2023-11-04,2024-05-03,Burger King,Fast Food,4,1130.54,Card,14,2025-04-28,315,False,2.0,Delivered,4522.16,3,2,5,10
+C5521,Female,Adult,Karachi,2024-05-03,2024-07-06,Subway,Chinese,2,702.87,Cash,20,2025-06-28,258,False,-1.0,Cancelled,1405.74,4,2,2,8
+C4917,Female,Adult,Karachi,2024-05-04,2025-03-28,KFC,Italian,3,876.4,Wallet,7,2025-04-27,137,False,-1.0,Cancelled,2629.2,3,1,4,8
+C1334,Other,Adult,Karachi,2024-05-04,2024-10-22,KFC,Chinese,3,236.93,Card,49,2025-02-11,446,False,3.0,Delivered,710.79,2,5,1,8
+C1555,Other,Senior,Karachi,2023-09-20,2024-05-04,KFC,Italian,1,171.97,Wallet,19,2024-09-09,412,True,4.0,Delivered,171.97,1,2,1,4
+C2782,Other,Adult,Karachi,2023-09-12,2024-05-07,Subway,Continental,3,1024.57,Card,32,2025-07-29,409,False,4.0,Delivered,3073.71,5,4,4,13
+C2087,Other,Adult,Karachi,2024-05-02,2024-05-09,Pizza Hut,Chinese,5,1300.15,Card,42,2024-09-16,14,False,2.0,Delayed,6500.75,1,5,5,11
+C1909,Male,Senior,Karachi,2023-09-01,2024-05-10,Burger King,Chinese,4,539.85,Cash,21,2024-10-31,370,False,-1.0,Cancelled,2159.4,1,3,3,7
+C1843,Female,Adult,Karachi,2024-05-10,2024-08-24,Burger King,Italian,5,448.63,Wallet,41,2025-01-01,464,False,5.0,Delivered,2243.15,1,5,3,9
+C6682,Female,Senior,Karachi,2024-05-10,2025-01-28,KFC,Dessert,4,1344.65,Card,46,2025-06-21,307,True,3.0,Delivered,5378.6,4,5,5,14
+C3061,Female,Teenager,Karachi,2024-05-13,2024-09-18,KFC,Continental,4,1449.32,Cash,45,2024-11-15,326,False,5.0,Delivered,5797.28,1,5,5,11
+C3850,Male,Teenager,Karachi,2024-05-13,2024-09-02,McDonald's,Chinese,5,810.36,Wallet,4,2025-05-31,26,False,5.0,Delivered,4051.8,4,1,5,10
+C2835,Other,Senior,Karachi,2024-05-15,2024-10-19,KFC,Fast Food,4,1239.29,Wallet,32,2025-04-10,141,False,1.0,Delivered,4957.16,3,4,5,12
+C6984,Male,Senior,Karachi,2023-11-17,2024-05-16,Pizza Hut,Continental,2,1463.74,Cash,9,2025-07-06,281,False,-1.0,Cancelled,2927.48,4,1,4,9
+C2230,Female,Teenager,Karachi,2024-05-16,2024-05-24,McDonald's,Continental,3,168.76,Cash,30,2025-03-24,258,False,4.0,Delivered,506.28,2,3,1,6
+C6995,Other,Teenager,Karachi,2023-09-26,2024-05-16,KFC,Chinese,3,655.0,Wallet,25,2025-03-18,19,False,2.0,Delivered,1965.0,2,3,3,8
+C4228,Male,Teenager,Karachi,2024-05-16,2024-12-11,Pizza Hut,Chinese,3,1040.6,Wallet,39,2025-07-26,484,True,3.0,Delayed,3121.7999999999997,5,4,4,13
+C4062,Other,Senior,Karachi,2024-05-16,2024-05-19,Subway,Fast Food,1,1287.14,Card,17,2025-01-04,325,False,4.0,Delivered,1287.14,1,2,2,5
+C1401,Female,Teenager,Karachi,2023-09-15,2024-05-16,Subway,Chinese,1,654.3,Card,15,2025-04-01,423,False,5.0,Delivered,654.3,2,2,1,5
+C2396,Other,Adult,Karachi,2024-05-17,2024-10-05,Burger King,Dessert,3,382.54,Wallet,33,2024-11-16,322,True,4.0,Delivered,1147.6200000000001,1,4,2,7
+C4327,Other,Adult,Karachi,2024-05-18,2025-06-11,Burger King,Italian,3,573.79,Card,42,2025-07-16,26,False,5.0,Delayed,1721.37,5,5,3,13
+C6414,Male,Teenager,Karachi,2023-10-19,2024-05-18,Burger King,Chinese,1,982.15,Wallet,50,2025-02-18,376,True,-1.0,Cancelled,982.15,2,5,2,9
+C6386,Other,Senior,Karachi,2024-05-18,2024-08-26,McDonald's,Continental,5,663.78,Wallet,32,2025-05-27,153,False,4.0,Delivered,3318.8999999999996,3,4,4,11
+C5320,Male,Adult,Karachi,2024-05-18,2024-10-24,KFC,Fast Food,2,690.46,Card,26,2025-07-11,214,True,1.0,Delivered,1380.92,4,3,2,9
+C1345,Female,Teenager,Karachi,2024-05-20,2024-09-05,Burger King,Continental,5,1113.3,Wallet,35,2025-05-16,294,False,-1.0,Cancelled,5566.5,3,4,5,12
+C4252,Other,Senior,Karachi,2024-05-20,2025-04-11,Pizza Hut,Fast Food,4,905.45,Card,14,2025-07-08,303,False,4.0,Delivered,3621.8,4,2,4,10
+C1501,Male,Senior,Karachi,2024-05-21,2024-09-09,McDonald's,Continental,3,1346.4,Wallet,8,2024-11-04,381,True,-1.0,Cancelled,4039.2000000000003,1,1,5,7
+C3527,Male,Adult,Karachi,2024-05-21,2024-10-08,Pizza Hut,Fast Food,3,701.39,Card,38,2025-08-21,197,False,3.0,Delayed,2104.17,5,4,3,12
+C3792,Male,Senior,Karachi,2024-05-22,2024-06-05,KFC,Fast Food,3,1258.67,Card,25,2024-10-17,111,False,5.0,Delayed,3776.01,1,3,4,8
+C1733,Other,Senior,Karachi,2024-05-22,2024-09-21,Pizza Hut,Dessert,1,760.45,Card,21,2025-08-12,308,False,2.0,Delayed,760.45,5,3,1,9
+C1342,Other,Adult,Karachi,2024-05-22,2024-09-12,Pizza Hut,Continental,3,788.69,Cash,32,2025-06-04,436,True,3.0,Delivered,2366.07,4,4,3,11
+C4809,Male,Adult,Karachi,2024-02-26,2024-05-23,McDonald's,Italian,1,1442.58,Wallet,7,2024-12-11,38,False,5.0,Delayed,1442.58,1,1,2,4
+C2931,Male,Adult,Karachi,2024-05-23,2024-10-12,Burger King,Chinese,1,539.24,Cash,30,2024-10-15,192,False,-1.0,Cancelled,539.24,1,3,1,5
+C4261,Male,Senior,Karachi,2024-01-07,2024-05-23,Pizza Hut,Italian,3,1252.33,Wallet,4,2024-09-05,256,False,-1.0,Cancelled,3756.99,1,1,4,6
+C3350,Female,Adult,Karachi,2024-05-27,2024-11-20,KFC,Dessert,3,1451.36,Wallet,19,2025-03-24,268,False,-1.0,Cancelled,4354.08,2,2,5,9
+C1149,Female,Senior,Karachi,2023-12-08,2024-05-28,KFC,Chinese,5,1147.95,Card,50,2024-12-31,163,True,5.0,Delivered,5739.75,1,5,5,11
+C4375,Female,Senior,Karachi,2024-05-28,2024-09-26,Burger King,Chinese,1,1281.95,Wallet,9,2025-06-16,174,False,2.0,Delayed,1281.95,4,1,2,7
+C1967,Female,Adult,Karachi,2024-05-30,2024-10-04,Subway,Continental,4,326.84,Card,35,2025-03-11,51,False,4.0,Delayed,1307.36,2,4,2,8
+C2282,Other,Senior,Karachi,2024-02-22,2024-05-30,Subway,Continental,5,538.88,Cash,22,2024-10-14,243,True,-1.0,Cancelled,2694.4,1,3,4,8
+C4934,Female,Senior,Karachi,2024-04-24,2024-05-30,KFC,Dessert,4,1007.79,Cash,5,2024-10-20,171,True,1.0,Delivered,4031.16,1,1,5,7
+C5137,Other,Senior,Karachi,2023-10-16,2024-05-31,Subway,Dessert,1,337.41,Wallet,41,2025-03-25,55,False,2.0,Delivered,337.41,2,5,1,8
+C5127,Other,Adult,Karachi,2023-10-18,2024-06-01,Pizza Hut,Dessert,5,146.74,Card,16,2025-07-08,383,False,-1.0,Cancelled,733.7,4,2,1,7
+C1429,Female,Senior,Karachi,2024-05-09,2024-06-01,Pizza Hut,Dessert,1,1040.28,Card,10,2025-04-06,129,False,4.0,Delayed,1040.28,3,1,2,6
+C2429,Female,Adult,Karachi,2024-06-01,2025-03-13,Pizza Hut,Italian,2,277.02,Wallet,29,2025-07-05,394,True,3.0,Delivered,554.04,4,3,1,8
+C1074,Male,Senior,Karachi,2024-05-03,2024-06-03,KFC,Fast Food,1,438.0,Wallet,7,2025-08-15,124,True,2.0,Delayed,438.0,5,1,1,7
+C5234,Female,Teenager,Karachi,2024-06-03,2025-01-08,McDonald's,Chinese,5,548.1,Cash,35,2025-05-25,182,True,-1.0,Cancelled,2740.5,3,4,4,11
+C4026,Other,Senior,Karachi,2024-06-03,2025-01-01,Pizza Hut,Continental,1,562.68,Card,2,2025-04-14,236,True,-1.0,Cancelled,562.68,3,1,1,5
+C1706,Female,Adult,Karachi,2024-06-04,2025-02-10,Subway,Continental,3,460.02,Cash,16,2025-03-13,360,False,3.0,Delivered,1380.06,2,2,2,6
+C3793,Other,Senior,Karachi,2024-06-04,2024-11-15,Pizza Hut,Fast Food,2,264.49,Card,5,2025-06-26,7,True,5.0,Delayed,528.98,4,1,1,6
+C3206,Male,Adult,Karachi,2023-10-25,2024-06-04,KFC,Fast Food,1,136.56,Cash,28,2025-07-04,25,False,1.0,Delivered,136.56,4,3,1,8
+C3181,Male,Teenager,Karachi,2024-06-04,2024-10-31,Subway,Dessert,4,327.77,Cash,46,2024-11-07,123,False,-1.0,Cancelled,1311.08,1,5,2,8
+C5366,Male,Senior,Karachi,2024-06-05,2024-11-01,KFC,Italian,4,252.12,Card,20,2025-08-18,350,False,2.0,Delivered,1008.48,5,2,2,9
+C2014,Male,Senior,Karachi,2023-09-02,2024-06-06,McDonald's,Continental,1,252.64,Card,29,2025-03-02,286,False,5.0,Delivered,252.64,2,3,1,6
+C3933,Other,Adult,Karachi,2024-06-06,2024-07-18,McDonald's,Continental,5,300.25,Cash,42,2025-06-20,190,True,3.0,Delivered,1501.25,4,5,3,12
+C1936,Male,Senior,Karachi,2024-06-08,2025-01-11,KFC,Italian,2,774.83,Card,21,2025-04-29,158,False,4.0,Delayed,1549.66,3,3,3,9
+C5987,Male,Teenager,Karachi,2024-06-08,2025-05-05,McDonald's,Continental,1,1485.59,Cash,43,2025-05-20,45,False,1.0,Delivered,1485.59,3,5,3,11
+C5256,Other,Senior,Karachi,2024-06-09,2025-03-18,Burger King,Italian,1,1205.34,Card,36,2025-06-11,103,False,-1.0,Cancelled,1205.34,4,4,2,10
+C3697,Male,Senior,Karachi,2023-12-16,2024-06-09,Pizza Hut,Italian,3,1193.59,Wallet,35,2025-05-27,253,False,4.0,Delivered,3580.7699999999995,3,4,4,11
+C4804,Male,Senior,Karachi,2024-06-10,2024-10-12,Burger King,Dessert,2,946.78,Wallet,1,2025-05-21,368,False,-1.0,Cancelled,1893.56,3,1,3,7
+C1811,Female,Teenager,Karachi,2024-06-10,2024-11-16,Burger King,Italian,3,823.1,Cash,14,2024-12-26,169,False,1.0,Delayed,2469.3,1,2,4,7
+C4314,Male,Teenager,Karachi,2024-06-10,2024-07-17,Subway,Fast Food,4,484.62,Card,24,2024-08-26,27,True,2.0,Delayed,1938.48,1,3,3,7
+C4948,Male,Senior,Karachi,2024-06-11,2024-12-31,Pizza Hut,Continental,4,1343.41,Wallet,46,2025-07-29,233,False,5.0,Delayed,5373.64,5,5,5,15
+C2253,Female,Adult,Karachi,2024-03-20,2024-06-14,KFC,Dessert,4,309.67,Card,4,2025-04-06,379,False,1.0,Delivered,1238.68,3,1,2,6
+C2132,Other,Senior,Karachi,2024-06-15,2025-06-09,McDonald's,Continental,1,1298.15,Card,19,2025-06-11,196,False,5.0,Delivered,1298.15,4,2,2,8
+C3288,Female,Teenager,Karachi,2024-06-15,2024-08-31,Burger King,Italian,3,388.57,Card,19,2025-02-24,67,False,-1.0,Cancelled,1165.71,2,2,2,6
+C2425,Other,Teenager,Karachi,2024-06-15,2024-12-28,Burger King,Chinese,2,744.2,Wallet,17,2025-05-25,411,True,2.0,Delayed,1488.4,3,2,3,8
+C4473,Other,Adult,Karachi,2024-05-17,2024-06-15,Pizza Hut,Dessert,4,1002.89,Wallet,6,2024-09-20,79,True,5.0,Delayed,4011.56,1,1,5,7
+C3946,Other,Adult,Karachi,2024-06-16,2025-01-23,McDonald's,Fast Food,3,1097.71,Cash,35,2025-07-20,7,False,3.0,Delayed,3293.13,5,4,4,13
+C5823,Male,Senior,Karachi,2024-06-16,2024-11-30,KFC,Continental,1,1020.1,Wallet,34,2025-07-24,45,True,3.0,Delivered,1020.1,5,4,2,11
+C5021,Other,Teenager,Karachi,2024-06-16,2024-12-26,Subway,Dessert,1,1060.48,Card,17,2025-06-23,423,True,3.0,Delayed,1060.48,4,2,2,8
+C6604,Other,Senior,Karachi,2024-02-06,2024-06-17,Burger King,Dessert,4,943.53,Cash,7,2025-05-11,353,True,1.0,Delayed,3774.12,3,1,4,8
+C4821,Male,Teenager,Karachi,2024-06-17,2025-04-21,Subway,Italian,2,1108.26,Cash,19,2025-07-18,468,True,2.0,Delayed,2216.52,5,2,3,10
+C2424,Male,Teenager,Karachi,2024-06-18,2025-04-14,KFC,Italian,2,1076.49,Cash,18,2025-05-08,401,True,3.0,Delayed,2152.98,3,2,3,8
+C3037,Female,Adult,Karachi,2024-01-11,2024-06-18,McDonald's,Fast Food,5,1371.51,Cash,18,2024-12-25,129,True,3.0,Delayed,6857.55,1,2,5,8
+C6546,Female,Senior,Karachi,2024-03-03,2024-06-19,Subway,Chinese,5,388.88,Wallet,35,2025-01-31,165,False,1.0,Delayed,1944.4,2,4,3,9
+C2558,Other,Senior,Karachi,2024-06-19,2024-07-17,Subway,Dessert,5,350.56,Wallet,15,2025-03-06,497,False,2.0,Delayed,1752.8,2,2,3,7
+C4413,Female,Adult,Karachi,2024-06-20,2025-08-07,Subway,Dessert,4,595.96,Card,39,2025-08-11,2,True,2.0,Delivered,2383.84,5,4,3,12
+C4291,Male,Teenager,Karachi,2024-06-21,2024-09-25,McDonald's,Continental,2,843.83,Card,6,2025-02-26,131,False,4.0,Delivered,1687.66,2,1,3,6
+C6050,Male,Adult,Karachi,2024-06-22,2024-09-19,Pizza Hut,Italian,1,377.81,Cash,47,2024-11-28,290,True,-1.0,Cancelled,377.81,1,5,1,7
+C5065,Other,Teenager,Karachi,2024-06-22,2025-05-20,Burger King,Chinese,2,433.5,Cash,43,2025-07-31,28,True,1.0,Delivered,867.0,5,5,2,12
+C5349,Other,Senior,Karachi,2024-06-23,2024-10-09,Subway,Continental,1,1042.35,Wallet,50,2025-03-01,189,False,-1.0,Cancelled,1042.35,2,5,2,9
+C2060,Other,Adult,Karachi,2024-06-23,2024-07-04,Burger King,Fast Food,1,1217.29,Cash,44,2025-06-09,99,False,-1.0,Cancelled,1217.29,4,5,2,11
+C3619,Female,Senior,Karachi,2023-12-24,2024-06-23,McDonald's,Continental,3,959.58,Wallet,46,2025-04-18,120,False,-1.0,Cancelled,2878.7400000000002,3,5,4,12
+C3617,Other,Adult,Karachi,2024-06-24,2025-05-13,Burger King,Dessert,5,683.33,Card,10,2025-08-08,52,True,5.0,Delayed,3416.65,5,1,4,10
+C4537,Female,Adult,Karachi,2024-06-25,2024-09-14,Subway,Continental,1,642.39,Card,17,2025-05-31,347,True,-1.0,Cancelled,642.39,4,2,1,7
+C4126,Male,Adult,Karachi,2024-06-25,2024-08-20,McDonald's,Italian,5,1149.15,Wallet,49,2024-10-25,275,False,1.0,Delivered,5745.75,1,5,5,11
+C4070,Female,Senior,Karachi,2024-06-25,2024-08-13,Pizza Hut,Fast Food,5,1112.14,Wallet,4,2024-10-20,131,True,-1.0,Cancelled,5560.700000000001,1,1,5,7
+C2764,Female,Senior,Karachi,2023-09-10,2024-06-25,Subway,Fast Food,1,749.06,Cash,36,2024-09-23,310,True,1.0,Delivered,749.06,1,4,1,6
+C1105,Male,Teenager,Karachi,2024-06-26,2024-10-11,KFC,Italian,3,1146.47,Cash,18,2025-01-05,410,False,1.0,Delivered,3439.41,1,2,4,7
+C6153,Male,Teenager,Karachi,2024-06-26,2025-02-15,Pizza Hut,Dessert,3,1403.0,Card,23,2025-03-11,400,True,1.0,Delivered,4209.0,2,3,5,10
+C4919,Male,Senior,Karachi,2024-06-29,2025-02-13,McDonald's,Italian,5,1480.35,Cash,37,2025-06-10,388,True,4.0,Delivered,7401.75,4,4,5,13
+C2741,Female,Teenager,Karachi,2024-06-29,2024-10-23,KFC,Dessert,1,273.8,Wallet,31,2025-03-05,234,True,2.0,Delivered,273.8,2,4,1,7
+C3549,Female,Senior,Karachi,2024-06-29,2024-08-24,McDonald's,Continental,2,997.38,Card,30,2025-03-31,121,False,4.0,Delivered,1994.76,2,3,3,8
+C3955,Male,Senior,Karachi,2024-03-04,2024-06-29,McDonald's,Fast Food,2,863.79,Wallet,16,2024-12-05,481,True,5.0,Delayed,1727.58,1,2,3,6
+C1438,Female,Adult,Karachi,2024-06-30,2025-01-26,Pizza Hut,Continental,4,1006.22,Wallet,8,2025-01-27,444,True,1.0,Delivered,4024.88,2,1,5,8
+C5255,Female,Teenager,Karachi,2024-05-31,2024-06-30,KFC,Dessert,1,360.8,Cash,17,2025-04-25,436,False,-1.0,Cancelled,360.8,3,2,1,6
+C4765,Male,Senior,Karachi,2024-06-30,2024-12-06,Pizza Hut,Fast Food,4,192.44,Card,44,2025-03-26,21,False,4.0,Delivered,769.76,2,5,1,8
+C6442,Other,Senior,Karachi,2023-11-12,2024-07-01,KFC,Dessert,1,1284.43,Wallet,38,2025-03-08,50,True,-1.0,Cancelled,1284.43,2,4,2,8
+C1134,Female,Adult,Karachi,2023-12-30,2024-07-03,Subway,Dessert,5,496.55,Card,14,2024-11-19,322,False,-1.0,Cancelled,2482.75,1,2,4,7
+C6613,Female,Senior,Karachi,2024-07-04,2025-03-24,McDonald's,Fast Food,3,1104.1,Wallet,9,2025-07-10,390,False,-1.0,Cancelled,3312.2999999999997,4,1,4,9
+C6309,Male,Senior,Karachi,2024-07-05,2024-09-24,Subway,Dessert,3,1321.32,Cash,1,2024-12-05,11,False,3.0,Delayed,3963.96,1,1,5,7
+C2233,Other,Teenager,Karachi,2024-07-05,2024-10-02,Pizza Hut,Dessert,1,890.79,Card,14,2025-07-22,326,True,2.0,Delayed,890.79,5,2,2,9
+C6881,Other,Senior,Karachi,2024-05-31,2024-07-06,KFC,Italian,5,874.38,Cash,36,2025-06-18,60,True,-1.0,Cancelled,4371.9,4,4,5,13
+C6275,Female,Senior,Karachi,2024-07-06,2025-02-04,Burger King,Continental,1,1407.87,Cash,11,2025-07-05,130,False,5.0,Delivered,1407.87,4,1,2,7
+C3500,Other,Adult,Karachi,2024-02-16,2024-07-06,Pizza Hut,Italian,3,961.41,Cash,15,2024-12-23,29,True,5.0,Delivered,2884.23,1,2,4,7
+C6132,Female,Teenager,Karachi,2024-01-10,2024-07-06,Burger King,Chinese,1,901.55,Cash,10,2024-09-29,72,True,2.0,Delayed,901.55,1,1,2,4
+C4454,Other,Teenager,Karachi,2024-04-02,2024-07-07,Pizza Hut,Chinese,3,991.61,Wallet,15,2025-02-15,239,True,4.0,Delayed,2974.83,2,2,4,8
+C1465,Other,Adult,Karachi,2024-07-08,2025-05-30,Burger King,Dessert,4,630.02,Card,33,2025-06-12,98,False,2.0,Delayed,2520.08,4,4,4,12
+C5341,Other,Adult,Karachi,2024-07-08,2025-01-07,Pizza Hut,Italian,1,1290.26,Wallet,6,2025-01-22,328,False,-1.0,Cancelled,1290.26,2,1,2,5
+C3954,Male,Teenager,Karachi,2024-07-08,2024-08-01,Burger King,Dessert,3,1200.07,Card,45,2025-04-29,287,False,3.0,Delayed,3600.21,3,5,4,12
+C4813,Male,Adult,Karachi,2024-07-11,2025-02-09,Burger King,Fast Food,1,153.8,Card,50,2025-06-24,459,False,5.0,Delivered,153.8,4,5,1,10
+C3486,Female,Senior,Karachi,2024-07-11,2025-05-15,Subway,Italian,4,1030.89,Cash,12,2025-08-07,26,False,4.0,Delivered,4123.56,5,2,5,12
+C6380,Male,Teenager,Karachi,2024-07-11,2024-12-17,McDonald's,Italian,4,1093.79,Cash,6,2025-04-13,98,False,-1.0,Cancelled,4375.16,3,1,5,9
+C5957,Other,Senior,Karachi,2024-06-29,2024-07-12,KFC,Continental,3,691.42,Cash,30,2025-01-26,371,True,2.0,Delivered,2074.2599999999998,2,3,3,8
+C1822,Other,Senior,Karachi,2024-07-12,2025-02-22,McDonald's,Dessert,2,1402.26,Card,22,2025-04-09,267,False,-1.0,Cancelled,2804.52,3,3,4,10
+C2258,Female,Adult,Karachi,2024-07-12,2025-02-12,KFC,Chinese,3,724.04,Cash,44,2025-07-04,274,False,3.0,Delivered,2172.12,4,5,3,12
+C2992,Female,Adult,Karachi,2024-07-13,2024-09-07,Subway,Italian,5,1433.5,Card,28,2025-03-26,224,True,4.0,Delayed,7167.5,2,3,5,10
+C4244,Male,Senior,Karachi,2024-06-13,2024-07-13,KFC,Fast Food,1,510.99,Card,7,2024-09-17,134,True,-1.0,Cancelled,510.99,1,1,1,3
+C2568,Other,Adult,Karachi,2024-07-14,2024-08-23,Burger King,Chinese,1,157.44,Cash,10,2024-10-24,196,False,3.0,Delivered,157.44,1,1,1,3
+C3016,Male,Teenager,Karachi,2024-07-14,2024-09-29,Pizza Hut,Chinese,5,273.52,Cash,47,2025-03-26,216,True,5.0,Delayed,1367.6,2,5,2,9
+C6044,Other,Adult,Karachi,2023-10-27,2024-07-14,Subway,Chinese,1,1123.98,Card,46,2025-05-05,198,True,3.0,Delivered,1123.98,3,5,2,10
+C6229,Other,Adult,Karachi,2024-07-16,2024-07-31,Subway,Dessert,5,299.94,Wallet,12,2024-09-18,470,True,5.0,Delivered,1499.7,1,2,3,6
+C3001,Male,Adult,Karachi,2024-07-08,2024-07-16,KFC,Italian,1,420.97,Card,48,2024-11-06,168,False,5.0,Delayed,420.97,1,5,1,7
+C3244,Male,Adult,Karachi,2024-07-16,2024-10-15,McDonald's,Continental,5,1222.56,Wallet,6,2025-03-23,490,False,-1.0,Cancelled,6112.799999999999,2,1,5,8
+C2216,Male,Adult,Karachi,2024-07-17,2025-01-03,Subway,Continental,1,1416.43,Card,38,2025-03-23,45,False,4.0,Delivered,1416.43,2,4,2,8
+C2209,Female,Adult,Karachi,2024-07-17,2024-11-05,Subway,Fast Food,2,1366.57,Wallet,29,2025-06-25,103,True,1.0,Delayed,2733.14,4,3,4,11
+C6701,Other,Teenager,Karachi,2024-02-09,2024-07-17,Burger King,Italian,1,1300.94,Wallet,7,2024-09-12,194,True,1.0,Delivered,1300.94,1,1,2,4
+C4470,Female,Senior,Karachi,2024-07-18,2024-07-21,KFC,Fast Food,2,298.27,Wallet,36,2024-08-29,461,True,4.0,Delayed,596.54,1,4,1,6
+C3737,Other,Adult,Karachi,2024-07-18,2025-02-26,Subway,Continental,3,1388.57,Cash,47,2025-03-14,212,True,-1.0,Cancelled,4165.71,2,5,5,12
+C2584,Female,Senior,Karachi,2024-07-19,2024-12-22,Pizza Hut,Chinese,2,1214.31,Wallet,5,2025-07-13,170,False,-1.0,Cancelled,2428.62,4,1,3,8
+C4134,Male,Adult,Karachi,2024-07-19,2024-10-22,Burger King,Fast Food,2,596.31,Card,9,2025-03-30,56,True,2.0,Delayed,1192.62,2,1,2,5
+C4882,Male,Adult,Karachi,2024-07-19,2024-09-29,Burger King,Chinese,4,152.35,Wallet,8,2024-11-27,379,True,4.0,Delayed,609.4,1,1,1,3
+C3237,Female,Teenager,Karachi,2024-07-19,2025-05-28,McDonald's,Chinese,3,199.97,Wallet,24,2025-07-08,38,False,3.0,Delayed,599.91,4,3,1,8
+C2684,Female,Senior,Karachi,2023-12-19,2024-07-20,Burger King,Continental,5,957.0,Wallet,41,2025-04-19,191,True,2.0,Delayed,4785.0,3,5,5,13
+C3060,Other,Senior,Karachi,2024-07-23,2025-03-07,Pizza Hut,Continental,1,1220.35,Card,45,2025-06-20,408,False,-1.0,Cancelled,1220.35,4,5,2,11
+C2818,Male,Senior,Karachi,2024-07-23,2025-01-16,KFC,Continental,1,646.36,Card,27,2025-04-03,437,False,4.0,Delivered,646.36,3,3,1,7
+C3615,Female,Teenager,Karachi,2024-07-25,2025-04-27,KFC,Italian,3,1452.68,Wallet,9,2025-07-16,465,False,-1.0,Cancelled,4358.04,5,1,5,11
+C5283,Female,Teenager,Karachi,2024-07-25,2024-09-20,Burger King,Italian,3,534.19,Wallet,50,2025-05-14,478,True,2.0,Delivered,1602.5700000000002,3,5,3,11
+C3461,Female,Teenager,Karachi,2024-03-12,2024-07-26,Pizza Hut,Fast Food,2,1225.5,Wallet,6,2024-12-28,17,True,2.0,Delivered,2451.0,1,1,4,6
+C2294,Male,Senior,Karachi,2024-01-17,2024-07-26,McDonald's,Dessert,5,604.13,Cash,22,2025-05-25,316,False,-1.0,Cancelled,3020.65,3,3,4,10
+C4367,Female,Adult,Karachi,2024-07-27,2025-01-16,KFC,Chinese,3,506.73,Cash,27,2025-07-31,452,False,1.0,Delivered,1520.19,5,3,3,11
+C5149,Male,Teenager,Karachi,2024-07-27,2025-05-01,Subway,Continental,1,282.7,Cash,23,2025-06-06,79,False,4.0,Delivered,282.7,4,3,1,8
+C5348,Female,Senior,Karachi,2024-07-27,2024-09-16,Pizza Hut,Italian,4,394.65,Wallet,10,2025-06-16,473,False,3.0,Delayed,1578.6,4,1,3,8
+C6488,Other,Adult,Karachi,2023-10-22,2024-07-27,Pizza Hut,Chinese,1,284.4,Wallet,24,2025-04-26,436,False,1.0,Delivered,284.4,3,3,1,7
+C3637,Other,Senior,Karachi,2024-07-27,2025-06-08,McDonald's,Dessert,1,1061.21,Wallet,33,2025-07-09,422,True,-1.0,Cancelled,1061.21,4,4,2,10
+C5770,Female,Senior,Karachi,2023-11-14,2024-07-27,KFC,Chinese,4,1124.17,Cash,8,2025-01-14,162,False,4.0,Delivered,4496.68,1,1,5,7
+C4835,Other,Adult,Karachi,2023-08-31,2024-07-28,Burger King,Dessert,5,208.86,Card,49,2024-11-04,164,True,-1.0,Cancelled,1044.3000000000002,1,5,2,8
+C2763,Male,Teenager,Karachi,2024-03-11,2024-07-28,Subway,Continental,4,1387.34,Card,46,2024-12-19,479,False,-1.0,Cancelled,5549.36,1,5,5,11
+C6251,Female,Senior,Karachi,2024-07-29,2025-03-17,Burger King,Chinese,3,856.75,Cash,47,2025-08-07,32,False,5.0,Delayed,2570.25,5,5,4,14
+C3390,Other,Adult,Karachi,2023-12-24,2024-07-29,Burger King,Dessert,4,465.64,Cash,4,2025-04-21,215,False,-1.0,Cancelled,1862.56,3,1,3,7
+C6922,Other,Senior,Karachi,2024-07-29,2025-01-08,McDonald's,Chinese,2,1365.77,Cash,10,2025-01-13,156,True,3.0,Delayed,2731.54,1,1,4,6
+C5000,Other,Teenager,Karachi,2024-07-29,2024-12-15,Subway,Continental,4,1274.35,Wallet,19,2025-06-15,390,False,1.0,Delayed,5097.4,4,2,5,11
+C6200,Male,Adult,Karachi,2024-07-30,2024-08-06,KFC,Continental,3,139.98,Cash,10,2025-03-25,351,True,2.0,Delayed,419.93999999999994,2,1,1,4
+C3536,Other,Teenager,Karachi,2024-07-31,2025-02-19,McDonald's,Continental,4,702.58,Wallet,6,2025-04-03,482,True,1.0,Delivered,2810.32,3,1,4,8
+C4786,Male,Teenager,Karachi,2024-07-31,2024-10-17,KFC,Dessert,4,170.17,Wallet,48,2024-11-17,363,False,2.0,Delayed,680.68,1,5,1,7
+C1517,Other,Adult,Karachi,2024-07-03,2024-08-02,Pizza Hut,Dessert,4,751.84,Card,40,2024-10-09,3,True,5.0,Delivered,3007.36,1,4,4,9
+C3139,Female,Teenager,Karachi,2023-11-12,2024-08-02,Subway,Fast Food,4,864.57,Wallet,35,2024-11-13,152,False,4.0,Delivered,3458.28,1,4,4,9
+C2700,Male,Senior,Karachi,2024-02-13,2024-08-03,KFC,Chinese,1,748.15,Card,49,2025-04-19,197,True,3.0,Delivered,748.15,3,5,1,9
+C1372,Other,Senior,Karachi,2024-08-03,2024-09-17,Subway,Dessert,3,407.57,Wallet,43,2025-05-29,300,True,5.0,Delayed,1222.71,4,5,2,11
+C2111,Female,Teenager,Karachi,2023-09-06,2024-08-03,Pizza Hut,Fast Food,3,1493.79,Cash,28,2025-02-19,386,False,2.0,Delivered,4481.37,2,3,5,10
+C6870,Male,Adult,Karachi,2024-07-21,2024-08-05,Subway,Dessert,4,662.34,Wallet,44,2025-06-26,132,False,1.0,Delayed,2649.36,4,5,4,13
+C3346,Other,Adult,Karachi,2024-04-29,2024-08-05,McDonald's,Continental,4,1007.12,Wallet,20,2025-04-27,138,True,4.0,Delayed,4028.48,3,2,5,10
+C3243,Female,Teenager,Karachi,2024-08-06,2024-09-15,Subway,Continental,1,124.85,Card,24,2025-04-13,74,True,5.0,Delayed,124.85,3,3,1,7
+C1969,Female,Teenager,Karachi,2023-12-19,2024-08-07,Burger King,Continental,5,209.18,Cash,32,2024-09-07,51,False,5.0,Delivered,1045.9,1,4,2,7
+C4217,Male,Adult,Karachi,2024-08-08,2024-11-09,Pizza Hut,Continental,4,1429.77,Cash,25,2025-02-15,71,True,2.0,Delayed,5719.08,2,3,5,10
+C1744,Male,Teenager,Karachi,2024-08-09,2024-08-22,KFC,Continental,5,422.47,Wallet,32,2024-12-16,297,True,2.0,Delivered,2112.3500000000004,1,4,3,8
+C1076,Female,Adult,Karachi,2023-12-10,2024-08-09,McDonald's,Fast Food,2,1151.01,Wallet,50,2024-12-20,338,True,4.0,Delayed,2302.02,1,5,3,9
+C2978,Female,Adult,Karachi,2024-08-10,2025-01-05,KFC,Continental,3,687.35,Wallet,36,2025-02-03,274,True,-1.0,Cancelled,2062.05,2,4,3,9
+C4853,Other,Adult,Karachi,2024-03-29,2024-08-10,Burger King,Italian,3,136.55,Card,30,2025-02-28,123,True,-1.0,Cancelled,409.65000000000003,2,3,1,6
+C4630,Male,Senior,Karachi,2023-11-19,2024-08-10,McDonald's,Fast Food,2,612.46,Card,19,2024-11-23,386,True,1.0,Delivered,1224.92,1,2,2,5
+C4053,Other,Teenager,Karachi,2023-12-15,2024-08-10,KFC,Italian,2,580.12,Wallet,2,2025-02-08,247,True,1.0,Delivered,1160.24,2,1,2,5
+C2927,Female,Senior,Karachi,2023-11-17,2024-08-11,Subway,Continental,5,1168.4,Cash,39,2024-12-23,23,False,-1.0,Cancelled,5842.0,1,4,5,10
+C4365,Other,Senior,Karachi,2024-08-11,2025-05-27,Burger King,Dessert,2,645.38,Cash,40,2025-08-18,394,True,5.0,Delayed,1290.76,5,4,2,11
+C4939,Female,Adult,Karachi,2024-08-11,2025-01-05,McDonald's,Fast Food,4,265.48,Card,22,2025-02-01,195,True,2.0,Delivered,1061.92,2,3,2,7
+C2226,Male,Adult,Karachi,2024-08-11,2024-09-21,Pizza Hut,Chinese,5,765.54,Card,40,2024-10-08,34,False,2.0,Delayed,3827.7,1,4,4,9
+C5646,Other,Adult,Karachi,2024-03-06,2024-08-13,Burger King,Dessert,5,209.32,Card,14,2025-04-16,477,False,3.0,Delayed,1046.6,3,2,2,7
+C6615,Female,Teenager,Karachi,2023-10-12,2024-08-14,Subway,Fast Food,3,406.95,Cash,9,2025-07-16,400,True,1.0,Delivered,1220.85,5,1,2,8
+C1113,Female,Teenager,Karachi,2024-08-14,2024-08-25,Pizza Hut,Continental,3,336.68,Wallet,5,2024-12-08,286,True,-1.0,Cancelled,1010.04,1,1,2,4
+C6299,Female,Teenager,Karachi,2024-08-14,2025-03-31,McDonald's,Dessert,4,911.91,Cash,24,2025-07-31,103,False,1.0,Delayed,3647.64,5,3,4,12
+C3804,Other,Adult,Karachi,2024-01-02,2024-08-15,Burger King,Chinese,2,322.67,Card,16,2025-01-15,428,True,-1.0,Cancelled,645.34,1,2,1,4
+C1789,Other,Teenager,Karachi,2024-02-21,2024-08-15,McDonald's,Continental,3,181.05,Cash,13,2025-05-02,476,True,-1.0,Cancelled,543.1500000000001,3,2,1,6
+C3304,Male,Adult,Karachi,2024-08-15,2024-12-25,Burger King,Chinese,2,1164.46,Cash,14,2025-07-14,473,True,-1.0,Cancelled,2328.92,5,2,3,10
+C2125,Other,Senior,Karachi,2024-08-17,2024-09-03,McDonald's,Fast Food,3,146.58,Wallet,10,2024-11-03,136,True,4.0,Delayed,439.74,1,1,1,3
+C3071,Female,Adult,Karachi,2024-08-17,2025-02-15,Burger King,Italian,5,323.75,Cash,35,2025-06-18,313,True,2.0,Delayed,1618.75,4,4,3,11
+C5532,Female,Adult,Karachi,2024-08-17,2025-02-07,KFC,Chinese,5,183.92,Cash,34,2025-08-02,236,False,1.0,Delayed,919.5999999999999,5,4,2,11
+C1690,Male,Senior,Karachi,2024-03-10,2024-08-17,Pizza Hut,Italian,1,514.15,Cash,32,2025-08-18,352,True,5.0,Delayed,514.15,5,4,1,10
+C2670,Male,Senior,Karachi,2024-08-19,2024-12-20,Pizza Hut,Dessert,5,1146.09,Cash,50,2025-06-11,246,False,2.0,Delivered,5730.45,4,5,5,14
+C5160,Female,Adult,Karachi,2024-01-20,2024-08-19,KFC,Fast Food,5,374.34,Card,26,2025-03-01,254,True,2.0,Delayed,1871.6999999999998,2,3,3,8
+C3718,Female,Senior,Karachi,2024-02-12,2024-08-20,Burger King,Dessert,2,863.68,Card,19,2025-07-21,449,True,-1.0,Cancelled,1727.36,5,2,3,10
+C1428,Female,Senior,Karachi,2024-02-25,2024-08-22,Subway,Continental,3,893.54,Cash,38,2025-06-24,489,True,-1.0,Cancelled,2680.62,4,4,4,12
+C3852,Female,Adult,Karachi,2023-09-20,2024-08-22,KFC,Fast Food,1,1382.53,Wallet,20,2024-10-24,328,False,-1.0,Cancelled,1382.53,1,2,2,5
+C2934,Female,Senior,Karachi,2024-08-22,2025-01-21,KFC,Italian,2,1069.58,Cash,47,2025-05-28,51,False,2.0,Delivered,2139.16,3,5,3,11
+C3731,Female,Teenager,Karachi,2023-12-17,2024-08-22,Subway,Continental,3,896.42,Cash,25,2024-12-27,471,False,-1.0,Cancelled,2689.2599999999998,1,3,4,8
+C3612,Other,Senior,Karachi,2024-06-16,2024-08-22,Burger King,Italian,2,737.23,Wallet,39,2025-04-10,28,True,3.0,Delivered,1474.46,3,4,3,10
+C2879,Other,Teenager,Karachi,2024-08-24,2025-03-29,McDonald's,Fast Food,5,229.13,Wallet,39,2025-08-19,435,True,4.0,Delivered,1145.65,5,4,2,11
+C1625,Other,Adult,Karachi,2024-08-24,2024-12-16,KFC,Dessert,4,852.01,Wallet,8,2025-07-12,161,True,4.0,Delivered,3408.04,4,1,4,9
+C1069,Male,Teenager,Karachi,2024-06-20,2024-08-25,Burger King,Continental,4,778.31,Cash,32,2025-08-08,52,False,2.0,Delivered,3113.24,5,4,4,13
+C5201,Other,Senior,Karachi,2024-08-25,2025-05-10,Subway,Fast Food,1,819.41,Cash,24,2025-06-12,417,False,-1.0,Cancelled,819.41,4,3,1,8
+C5236,Other,Adult,Karachi,2024-08-25,2025-01-27,Subway,Italian,1,1138.15,Cash,10,2025-02-10,101,False,3.0,Delivered,1138.15,2,1,2,5
+C1663,Female,Adult,Karachi,2024-08-25,2025-02-14,KFC,Fast Food,1,121.23,Card,27,2025-04-16,481,True,-1.0,Cancelled,121.23,3,3,1,7
+C5920,Female,Adult,Karachi,2024-04-15,2024-08-25,Burger King,Fast Food,5,616.98,Card,26,2024-09-22,9,True,-1.0,Cancelled,3084.9,1,3,4,8
+C1172,Other,Teenager,Karachi,2024-08-27,2025-02-23,McDonald's,Continental,4,463.36,Cash,23,2025-06-09,99,True,5.0,Delayed,1853.44,4,3,3,10
+C4575,Female,Senior,Karachi,2024-04-30,2024-08-27,Burger King,Fast Food,4,670.74,Card,6,2025-02-01,94,False,4.0,Delivered,2682.96,2,1,4,7
+C1657,Male,Adult,Karachi,2024-03-27,2024-08-27,Pizza Hut,Dessert,3,954.71,Card,8,2025-08-01,249,False,-1.0,Cancelled,2864.13,5,1,4,10
+C6499,Female,Teenager,Karachi,2024-08-04,2024-08-28,Burger King,Continental,3,815.41,Wallet,18,2025-03-09,355,False,4.0,Delayed,2446.23,2,2,4,8
+C4421,Other,Adult,Karachi,2023-12-07,2024-08-29,McDonald's,Chinese,1,734.61,Wallet,34,2025-02-13,70,True,-1.0,Cancelled,734.61,2,4,1,7
+C1794,Other,Senior,Karachi,2024-08-30,2024-12-30,KFC,Fast Food,3,445.62,Cash,28,2025-06-20,38,True,4.0,Delayed,1336.8600000000001,4,3,2,9
+C4121,Male,Teenager,Karachi,2024-08-30,2024-08-31,Subway,Italian,3,894.05,Cash,37,2025-05-09,272,True,-1.0,Cancelled,2682.1499999999996,3,4,4,11
+C1059,Male,Teenager,Karachi,2024-08-30,2025-02-04,Burger King,Dessert,2,408.57,Card,29,2025-08-02,226,True,-1.0,Cancelled,817.14,5,3,1,9
+C6384,Male,Adult,Karachi,2024-01-06,2024-08-30,Pizza Hut,Dessert,5,824.82,Cash,22,2025-07-31,114,False,5.0,Delivered,4124.1,5,3,5,13
+C5757,Other,Teenager,Karachi,2024-07-30,2024-08-31,McDonald's,Continental,2,489.05,Card,6,2025-04-05,357,False,5.0,Delayed,978.1,3,1,2,6
+C5955,Male,Adult,Karachi,2024-06-26,2024-09-01,Pizza Hut,Fast Food,2,849.17,Card,15,2025-04-20,67,False,-1.0,Cancelled,1698.34,3,2,3,8
+C3253,Male,Adult,Karachi,2024-09-01,2025-01-18,Pizza Hut,Italian,5,914.54,Cash,33,2025-07-09,181,False,-1.0,Cancelled,4572.7,4,4,5,13
+C4893,Female,Adult,Karachi,2023-10-08,2024-09-04,Pizza Hut,Dessert,2,1184.16,Wallet,10,2024-09-04,453,True,1.0,Delivered,2368.32,1,1,3,5
+C1830,Other,Senior,Karachi,2024-07-27,2024-09-04,Pizza Hut,Fast Food,5,422.59,Card,11,2025-04-14,390,True,4.0,Delivered,2112.95,3,1,3,7
+C5851,Male,Senior,Karachi,2024-09-04,2025-03-01,Pizza Hut,Italian,5,1006.63,Wallet,36,2025-06-07,154,True,3.0,Delivered,5033.15,4,4,5,13
+C3317,Other,Teenager,Karachi,2024-09-05,2025-04-09,Subway,Fast Food,5,1410.26,Card,28,2025-04-29,477,True,2.0,Delayed,7051.3,3,3,5,11
+C4014,Male,Teenager,Karachi,2024-09-07,2025-04-25,McDonald's,Continental,1,512.22,Cash,49,2025-04-29,20,True,1.0,Delivered,512.22,3,5,1,9
+C5307,Female,Senior,Karachi,2024-02-28,2024-09-08,Burger King,Italian,2,1337.62,Card,13,2025-05-04,141,True,5.0,Delayed,2675.24,3,2,4,9
+C5300,Other,Senior,Karachi,2024-09-09,2025-05-20,Subway,Continental,2,964.04,Wallet,2,2025-07-30,47,True,1.0,Delayed,1928.08,5,1,3,9
+C5815,Female,Teenager,Karachi,2024-09-10,2024-12-01,Subway,Continental,5,996.23,Cash,22,2025-04-17,148,True,1.0,Delayed,4981.15,3,3,5,11
+C2243,Other,Adult,Karachi,2024-01-27,2024-09-11,Pizza Hut,Continental,3,384.51,Cash,49,2024-12-09,328,False,-1.0,Cancelled,1153.53,1,5,2,8
+C3377,Male,Senior,Karachi,2024-06-15,2024-09-11,Burger King,Dessert,4,127.46,Cash,20,2025-03-03,334,False,-1.0,Cancelled,509.84,2,2,1,5
+C6580,Female,Senior,Karachi,2024-09-12,2025-03-21,McDonald's,Dessert,5,957.61,Wallet,35,2025-05-24,14,True,4.0,Delivered,4788.05,3,4,5,12
+C3397,Other,Adult,Karachi,2024-09-12,2024-10-09,KFC,Fast Food,5,168.98,Cash,21,2025-07-24,443,False,5.0,Delivered,844.9,5,3,2,10
+C1177,Other,Adult,Karachi,2024-06-03,2024-09-12,Burger King,Fast Food,2,1204.02,Cash,25,2025-02-03,481,True,1.0,Delayed,2408.04,2,3,3,8
+C6536,Other,Senior,Karachi,2024-04-12,2024-09-12,McDonald's,Continental,3,774.13,Card,39,2025-02-14,93,False,2.0,Delivered,2322.39,2,4,3,9
+C2569,Male,Adult,Karachi,2024-05-02,2024-09-13,McDonald's,Fast Food,4,495.56,Cash,17,2024-09-29,205,False,-1.0,Cancelled,1982.24,1,2,3,6
+C6331,Male,Adult,Karachi,2024-06-01,2024-09-13,Burger King,Chinese,2,498.36,Cash,31,2024-10-19,219,False,5.0,Delivered,996.72,1,4,2,7
+C3137,Male,Senior,Karachi,2024-08-06,2024-09-13,Subway,Continental,4,1263.6,Card,38,2024-12-24,299,False,2.0,Delivered,5054.4,1,4,5,10
+C2318,Female,Teenager,Karachi,2024-09-13,2024-10-15,KFC,Fast Food,4,1183.63,Cash,20,2025-03-31,236,False,5.0,Delayed,4734.52,2,2,5,9
+C6420,Male,Adult,Karachi,2023-09-19,2024-08-22,Pizza Hut,Dessert,4,312.95,Wallet,9,2024-09-13,66,False,5.0,Delayed,1251.8,1,1,2,4
+C4310,Other,Senior,Karachi,2023-12-25,2024-09-14,McDonald's,Dessert,1,960.92,Card,26,2025-01-12,237,False,-1.0,Cancelled,960.92,1,3,2,6
+C2656,Male,Teenager,Karachi,2024-09-14,2024-09-17,KFC,Italian,3,1456.7,Card,46,2024-11-12,462,False,3.0,Delivered,4370.1,1,5,5,11
+C2950,Other,Adult,Karachi,2024-09-15,2024-12-05,KFC,Italian,1,1003.7,Wallet,48,2025-01-01,436,True,3.0,Delayed,1003.7,1,5,2,8
+C2373,Male,Adult,Karachi,2023-09-08,2024-09-15,McDonald's,Dessert,2,143.74,Card,17,2025-06-02,231,False,1.0,Delayed,287.48,4,2,1,7
+C4674,Other,Senior,Karachi,2024-04-14,2024-09-16,Subway,Continental,2,251.4,Card,47,2025-02-03,349,False,5.0,Delayed,502.8,2,5,1,8
+C2844,Female,Teenager,Karachi,2024-09-16,2025-01-20,McDonald's,Italian,1,304.61,Wallet,43,2025-03-28,374,True,5.0,Delivered,304.61,2,5,1,8
+C5451,Other,Teenager,Karachi,2024-09-04,2024-09-17,Pizza Hut,Continental,3,1437.31,Card,31,2024-12-01,325,True,2.0,Delayed,4311.93,1,4,5,10
+C5878,Other,Adult,Karachi,2024-06-15,2024-09-17,Pizza Hut,Dessert,2,554.35,Card,31,2024-12-06,377,True,-1.0,Cancelled,1108.7,1,4,2,7
+C1737,Other,Senior,Karachi,2024-08-11,2024-09-18,Subway,Fast Food,2,1140.03,Cash,31,2025-04-05,336,False,-1.0,Cancelled,2280.06,3,4,3,10
+C4130,Female,Adult,Karachi,2024-09-19,2024-09-21,McDonald's,Italian,4,328.31,Wallet,1,2025-05-19,179,False,5.0,Delayed,1313.24,3,1,2,6
+C2267,Male,Adult,Karachi,2024-09-19,2024-11-13,McDonald's,Fast Food,5,1267.05,Wallet,35,2024-11-13,97,False,4.0,Delayed,6335.25,1,4,5,10
+C5224,Female,Teenager,Karachi,2024-09-19,2025-02-05,Pizza Hut,Chinese,2,802.62,Wallet,10,2025-06-02,369,False,-1.0,Cancelled,1605.24,4,1,3,8
+C3140,Male,Senior,Karachi,2024-03-12,2024-09-20,Burger King,Italian,5,486.71,Wallet,15,2025-01-26,204,False,-1.0,Cancelled,2433.5499999999997,2,2,3,7
+C2706,Female,Teenager,Karachi,2023-09-29,2024-09-23,Pizza Hut,Fast Food,2,699.57,Wallet,18,2025-04-28,380,True,3.0,Delayed,1399.14,3,2,2,7
+C1232,Male,Senior,Karachi,2024-09-23,2025-06-29,Pizza Hut,Continental,1,142.22,Wallet,6,2025-07-26,294,False,-1.0,Cancelled,142.22,5,1,1,7
+C1489,Female,Senior,Karachi,2024-09-23,2025-02-01,KFC,Fast Food,2,135.57,Wallet,17,2025-02-14,298,False,-1.0,Cancelled,271.14,2,2,1,5
+C2646,Male,Adult,Karachi,2024-09-23,2025-01-16,Pizza Hut,Chinese,1,364.45,Wallet,4,2025-04-09,43,True,2.0,Delayed,364.45,3,1,1,5
+C3875,Male,Teenager,Karachi,2024-09-24,2024-09-25,McDonald's,Fast Food,2,1395.38,Wallet,47,2025-06-10,250,False,2.0,Delayed,2790.76,4,5,4,13
+C1712,Other,Adult,Karachi,2024-09-25,2025-01-04,Subway,Italian,5,928.65,Cash,39,2025-08-10,243,False,1.0,Delayed,4643.25,5,4,5,14
+C2228,Female,Teenager,Karachi,2024-08-25,2024-09-25,Burger King,Dessert,1,307.68,Cash,34,2025-08-02,162,False,4.0,Delayed,307.68,5,4,1,10
+C5700,Female,Teenager,Karachi,2024-09-25,2025-03-20,KFC,Continental,1,1215.41,Wallet,50,2025-07-22,498,False,-1.0,Cancelled,1215.41,5,5,2,12
+C2020,Female,Teenager,Karachi,2024-09-26,2024-10-29,McDonald's,Continental,4,807.78,Wallet,9,2025-03-10,196,True,3.0,Delayed,3231.12,2,1,4,7
+C6628,Male,Teenager,Karachi,2024-09-26,2024-10-31,Burger King,Dessert,2,416.68,Wallet,12,2025-04-07,128,True,4.0,Delivered,833.36,3,2,1,6
+C6874,Female,Teenager,Karachi,2024-09-14,2024-09-28,Subway,Fast Food,5,393.64,Card,11,2024-10-25,177,True,-1.0,Cancelled,1968.1999999999998,1,1,3,5
+C3165,Female,Senior,Karachi,2024-01-21,2024-09-28,Pizza Hut,Continental,4,532.67,Wallet,3,2025-07-11,190,True,1.0,Delivered,2130.68,4,1,3,8
+C2804,Male,Teenager,Karachi,2024-09-29,2024-10-01,Pizza Hut,Dessert,4,163.88,Cash,48,2025-02-25,49,True,4.0,Delayed,655.52,2,5,1,8
+C2785,Male,Senior,Karachi,2024-08-25,2024-09-30,Pizza Hut,Dessert,3,186.46,Card,42,2025-01-25,298,False,5.0,Delayed,559.38,2,5,1,8
+C4352,Other,Adult,Karachi,2024-10-01,2025-05-07,KFC,Chinese,2,627.38,Wallet,37,2025-07-09,183,False,2.0,Delivered,1254.76,4,4,2,10
+C6233,Male,Teenager,Karachi,2024-08-17,2024-10-04,McDonald's,Fast Food,1,751.8,Card,4,2025-01-09,119,False,2.0,Delayed,751.8,1,1,1,3
+C1839,Female,Adult,Karachi,2024-10-05,2024-12-30,Pizza Hut,Fast Food,2,289.23,Wallet,15,2025-04-05,167,False,-1.0,Cancelled,578.46,3,2,1,6
+C1311,Male,Senior,Karachi,2024-06-14,2024-10-05,Subway,Dessert,5,250.75,Wallet,42,2025-03-28,114,False,-1.0,Cancelled,1253.75,2,5,2,9
+C2414,Other,Adult,Karachi,2024-10-05,2024-10-27,Burger King,Fast Food,3,885.22,Wallet,38,2025-06-10,383,True,-1.0,Cancelled,2655.66,4,4,4,12
+C6326,Female,Adult,Karachi,2024-10-05,2025-02-05,Pizza Hut,Dessert,3,1454.84,Wallet,13,2025-08-12,468,False,1.0,Delayed,4364.5199999999995,5,2,5,12
+C3633,Male,Senior,Karachi,2024-10-05,2024-11-22,Subway,Fast Food,2,756.12,Wallet,31,2025-01-22,139,False,3.0,Delivered,1512.24,2,4,3,9
+C2936,Other,Adult,Karachi,2024-10-05,2024-11-25,McDonald's,Italian,1,984.33,Wallet,44,2025-04-15,153,True,-1.0,Cancelled,984.33,3,5,2,10
+C4897,Male,Senior,Karachi,2024-10-06,2024-11-08,KFC,Continental,5,385.19,Card,40,2025-04-15,286,False,5.0,Delivered,1925.95,3,4,3,10
+C3057,Male,Adult,Karachi,2024-05-03,2024-10-06,Pizza Hut,Chinese,1,655.92,Cash,3,2025-04-04,93,True,-1.0,Cancelled,655.92,3,1,1,5
+C6986,Female,Senior,Karachi,2024-10-07,2024-10-13,Pizza Hut,Italian,2,747.04,Cash,40,2025-03-19,484,True,4.0,Delivered,1494.08,2,4,3,9
+C1266,Male,Adult,Karachi,2024-10-08,2025-05-01,Subway,Fast Food,1,756.35,Wallet,33,2025-05-23,210,False,-1.0,Cancelled,756.35,3,4,1,8
+C3679,Male,Teenager,Karachi,2024-10-08,2024-11-19,Pizza Hut,Continental,2,858.62,Card,49,2025-01-06,36,False,-1.0,Cancelled,1717.24,1,5,3,9
+C2620,Female,Senior,Karachi,2024-07-20,2024-10-08,Pizza Hut,Chinese,5,920.24,Cash,14,2025-07-09,62,True,1.0,Delayed,4601.2,4,2,5,11
+C2985,Other,Adult,Karachi,2024-10-09,2024-10-30,McDonald's,Italian,4,691.21,Wallet,26,2025-04-16,54,False,3.0,Delivered,2764.84,3,3,4,10
+C2641,Male,Senior,Karachi,2024-04-29,2024-10-10,KFC,Fast Food,5,466.24,Cash,40,2025-06-18,14,True,2.0,Delivered,2331.2,4,4,3,11
+C6854,Male,Senior,Karachi,2024-10-10,2024-11-16,Subway,Fast Food,4,266.46,Wallet,26,2025-01-24,408,True,1.0,Delivered,1065.84,2,3,2,7
+C6590,Other,Adult,Karachi,2023-11-04,2024-10-11,Pizza Hut,Continental,2,336.89,Card,6,2024-10-30,408,False,5.0,Delayed,673.78,1,1,1,3
+C5081,Other,Teenager,Karachi,2024-10-12,2024-10-13,Pizza Hut,Fast Food,2,628.27,Cash,32,2025-06-10,43,False,-1.0,Cancelled,1256.54,4,4,2,10
+C3313,Male,Adult,Karachi,2024-08-30,2024-10-13,Subway,Chinese,5,162.74,Card,32,2025-06-19,155,True,5.0,Delivered,813.7,4,4,1,9
+C1728,Female,Senior,Karachi,2024-03-16,2024-10-13,McDonald's,Continental,4,426.12,Cash,33,2025-01-03,71,True,1.0,Delivered,1704.48,1,4,3,8
+C1145,Other,Teenager,Karachi,2024-09-29,2024-10-14,Subway,Dessert,1,1223.69,Wallet,4,2025-06-28,414,False,4.0,Delayed,1223.69,4,1,2,7
+C3316,Other,Senior,Karachi,2024-10-15,2024-11-28,Subway,Dessert,2,1451.73,Cash,37,2025-04-01,238,False,5.0,Delivered,2903.46,2,4,4,10
+C5215,Female,Teenager,Karachi,2024-10-16,2025-01-30,Burger King,Fast Food,1,1490.03,Card,15,2025-05-10,202,True,-1.0,Cancelled,1490.03,3,2,3,8
+C2088,Other,Teenager,Karachi,2024-10-16,2025-01-11,McDonald's,Dessert,4,1427.78,Wallet,16,2025-06-28,115,False,1.0,Delivered,5711.12,4,2,5,11
+C3839,Female,Senior,Karachi,2024-08-21,2024-09-10,KFC,Dessert,1,1340.7,Card,15,2024-10-16,203,True,5.0,Delivered,1340.7,1,2,2,5
+C2588,Male,Teenager,Karachi,2024-02-26,2024-10-19,Pizza Hut,Chinese,1,952.34,Wallet,17,2025-03-13,8,False,-1.0,Cancelled,952.34,2,2,2,6
+C4478,Male,Adult,Karachi,2024-10-19,2024-12-11,McDonald's,Chinese,3,863.99,Card,14,2025-02-04,221,False,1.0,Delayed,2591.9700000000003,2,2,4,8
+C2653,Female,Adult,Karachi,2024-10-19,2025-06-27,Burger King,Fast Food,4,648.76,Card,6,2025-07-06,189,False,4.0,Delayed,2595.04,4,1,4,9
+C4197,Other,Teenager,Karachi,2024-10-09,2024-10-20,KFC,Fast Food,2,497.76,Wallet,17,2024-12-04,339,True,5.0,Delivered,995.52,1,2,2,5
+C3319,Female,Teenager,Karachi,2024-09-03,2024-10-22,Subway,Italian,5,1467.7,Card,17,2024-12-04,466,True,-1.0,Cancelled,7338.5,1,2,5,8
+C2805,Male,Senior,Karachi,2024-10-23,2025-01-16,McDonald's,Italian,5,688.89,Card,13,2025-03-28,207,False,2.0,Delivered,3444.45,2,2,4,8
+C2347,Other,Senior,Karachi,2024-07-15,2024-10-24,McDonald's,Italian,3,1380.3,Card,17,2024-12-22,383,False,-1.0,Cancelled,4140.9,1,2,5,8
+C6521,Male,Teenager,Karachi,2024-09-18,2024-10-24,KFC,Chinese,2,393.19,Cash,30,2025-02-18,16,True,1.0,Delivered,786.38,2,3,1,6
+C4156,Other,Adult,Karachi,2024-10-01,2024-10-25,Burger King,Continental,1,698.92,Card,2,2025-04-28,465,False,-1.0,Cancelled,698.92,3,1,1,5
+C4089,Other,Adult,Karachi,2023-09-11,2024-10-26,Subway,Italian,4,993.03,Cash,23,2025-07-27,419,False,1.0,Delivered,3972.12,5,3,5,13
+C5686,Other,Teenager,Karachi,2024-09-19,2024-10-27,Burger King,Dessert,1,1108.41,Card,27,2024-11-29,128,False,3.0,Delivered,1108.41,1,3,2,6
+C2124,Male,Teenager,Karachi,2024-10-28,2025-03-20,McDonald's,Continental,4,415.19,Wallet,16,2025-04-04,201,False,3.0,Delivered,1660.76,3,2,3,8
+C2444,Male,Teenager,Karachi,2024-10-28,2025-04-17,KFC,Chinese,1,1206.5,Cash,37,2025-07-04,264,True,3.0,Delivered,1206.5,4,4,2,10
+C2810,Male,Adult,Karachi,2024-09-05,2024-10-29,McDonald's,Chinese,2,614.13,Card,37,2024-11-03,357,True,2.0,Delivered,1228.26,1,4,2,7
+C6915,Other,Senior,Karachi,2024-10-31,2025-02-22,McDonald's,Italian,3,666.84,Card,12,2025-05-23,437,True,-1.0,Cancelled,2000.52,3,2,3,8
+C4116,Female,Teenager,Karachi,2024-10-31,2024-11-20,Subway,Continental,1,445.88,Wallet,48,2025-06-19,496,True,-1.0,Cancelled,445.88,4,5,1,10
+C5588,Male,Senior,Karachi,2024-05-08,2024-10-31,Burger King,Fast Food,3,1015.69,Card,37,2025-03-22,401,False,3.0,Delivered,3047.07,2,4,4,10
+C3171,Other,Adult,Karachi,2024-11-01,2024-12-01,Subway,Continental,1,1245.61,Cash,41,2025-04-22,275,True,-1.0,Cancelled,1245.61,3,5,2,10
+C5981,Male,Adult,Karachi,2023-11-21,2024-09-03,McDonald's,Chinese,4,336.69,Cash,14,2024-11-01,13,False,-1.0,Cancelled,1346.76,1,2,2,5
+C2468,Female,Teenager,Karachi,2024-10-19,2024-11-01,McDonald's,Dessert,1,522.19,Wallet,23,2025-01-02,396,True,2.0,Delivered,522.19,1,3,1,5
+C5315,Other,Teenager,Karachi,2023-12-17,2024-11-02,Burger King,Dessert,1,640.23,Card,37,2025-08-06,386,True,1.0,Delivered,640.23,5,4,1,10
+C1679,Other,Senior,Karachi,2024-10-08,2024-11-02,Subway,Fast Food,4,524.45,Wallet,32,2025-07-05,105,True,-1.0,Cancelled,2097.8,4,4,3,11
+C2963,Other,Teenager,Karachi,2024-11-02,2024-11-19,Subway,Italian,3,1400.99,Card,12,2025-06-21,485,False,4.0,Delivered,4202.97,4,2,5,11
+C4439,Female,Senior,Karachi,2024-11-04,2025-02-21,KFC,Chinese,4,1071.31,Card,19,2025-05-01,129,True,4.0,Delivered,4285.24,3,2,5,10
+C4389,Other,Senior,Karachi,2024-09-30,2024-11-04,McDonald's,Dessert,4,174.11,Card,31,2025-03-11,343,True,5.0,Delivered,696.44,2,4,1,7
+C3380,Other,Teenager,Karachi,2024-11-05,2024-12-14,Subway,Chinese,5,591.48,Cash,18,2025-05-06,218,False,5.0,Delivered,2957.4,3,2,4,9
+C1522,Female,Senior,Karachi,2024-11-07,2025-06-28,KFC,Italian,1,352.75,Wallet,44,2025-08-14,487,True,2.0,Delivered,352.75,5,5,1,11
+C2205,Other,Senior,Karachi,2024-11-07,2024-11-23,Pizza Hut,Chinese,3,1409.97,Card,42,2025-06-11,315,False,-1.0,Cancelled,4229.91,4,5,5,14
+C2173,Other,Teenager,Karachi,2024-09-13,2024-11-07,KFC,Italian,2,1005.3,Wallet,45,2025-02-20,291,False,5.0,Delivered,2010.6,2,5,3,10
+C4079,Female,Teenager,Karachi,2023-09-10,2024-11-07,Pizza Hut,Fast Food,4,1164.42,Wallet,3,2025-01-09,236,True,5.0,Delivered,4657.68,1,1,5,7
+C2666,Female,Teenager,Karachi,2024-08-22,2024-11-08,Subway,Dessert,5,383.11,Card,39,2025-08-02,369,False,3.0,Delivered,1915.5500000000002,5,4,3,12
+C5738,Other,Senior,Karachi,2024-11-11,2025-05-14,Subway,Continental,3,1204.37,Cash,3,2025-07-08,214,True,3.0,Delayed,3613.1099999999997,4,1,4,9
+C3809,Male,Adult,Karachi,2024-01-02,2024-11-11,Pizza Hut,Chinese,3,600.5,Wallet,42,2025-04-03,187,False,-1.0,Cancelled,1801.5,3,5,3,11
+C2335,Other,Adult,Karachi,2024-02-10,2024-11-12,Pizza Hut,Chinese,4,1074.15,Card,16,2025-07-25,411,True,-1.0,Cancelled,4296.6,5,2,5,12
+C4652,Female,Teenager,Karachi,2024-11-13,2024-12-13,KFC,Continental,1,783.85,Wallet,11,2025-08-07,333,True,5.0,Delivered,783.85,5,1,1,7
+C1132,Male,Senior,Karachi,2024-02-03,2024-11-14,Burger King,Italian,4,1350.06,Cash,5,2025-01-01,350,False,3.0,Delayed,5400.24,1,1,5,7
+C1788,Male,Adult,Karachi,2024-11-14,2025-01-06,Subway,Fast Food,3,718.93,Cash,9,2025-08-08,465,True,2.0,Delayed,2156.79,5,1,3,9
+C1139,Other,Senior,Karachi,2024-11-15,2025-02-05,KFC,Dessert,4,1473.63,Cash,13,2025-06-25,391,False,-1.0,Cancelled,5894.52,4,2,5,11
+C5533,Male,Senior,Karachi,2023-10-02,2024-11-16,Pizza Hut,Dessert,3,1038.27,Card,20,2024-12-09,435,True,2.0,Delivered,3114.81,1,2,4,7
+C5791,Male,Senior,Karachi,2024-03-05,2024-11-16,Burger King,Dessert,5,348.1,Cash,4,2025-01-08,233,True,-1.0,Cancelled,1740.5,1,1,3,5
+C5864,Other,Senior,Karachi,2024-11-16,2025-06-14,McDonald's,Fast Food,4,1366.26,Cash,15,2025-07-13,426,False,1.0,Delayed,5465.04,4,2,5,11
+C5258,Male,Senior,Karachi,2024-01-08,2024-11-17,Burger King,Italian,5,1001.84,Card,8,2025-06-29,450,False,1.0,Delivered,5009.2,4,1,5,10
+C4990,Male,Adult,Karachi,2024-11-17,2025-06-29,KFC,Italian,1,814.93,Card,45,2025-07-18,73,False,4.0,Delayed,814.93,5,5,1,11
+C6243,Female,Adult,Karachi,2024-09-16,2024-11-12,Pizza Hut,Fast Food,1,512.75,Card,50,2024-11-18,443,True,4.0,Delayed,512.75,1,5,1,7
+C2073,Male,Adult,Karachi,2024-06-19,2024-11-19,Subway,Dessert,5,735.35,Wallet,49,2025-01-18,103,True,-1.0,Cancelled,3676.75,2,5,4,11
+C5631,Other,Senior,Karachi,2024-11-20,2024-11-30,Burger King,Dessert,2,982.19,Cash,23,2025-03-01,400,True,-1.0,Cancelled,1964.38,2,3,3,8
+C1662,Male,Senior,Karachi,2024-11-09,2024-11-22,Burger King,Chinese,1,1282.69,Card,32,2025-06-25,98,True,3.0,Delayed,1282.69,4,4,2,10
+C5469,Other,Adult,Karachi,2024-09-11,2024-11-23,McDonald's,Fast Food,2,951.13,Card,2,2025-05-31,372,False,3.0,Delivered,1902.26,4,1,3,8
+C4110,Male,Senior,Karachi,2024-11-23,2025-04-20,KFC,Continental,1,973.73,Card,25,2025-05-13,147,False,1.0,Delayed,973.73,3,3,2,8
+C5619,Other,Teenager,Karachi,2024-11-08,2024-11-24,Subway,Fast Food,1,525.89,Cash,35,2025-05-14,224,True,4.0,Delayed,525.89,3,4,1,8
+C5885,Male,Adult,Karachi,2024-02-07,2024-11-24,Burger King,Chinese,5,522.31,Card,17,2025-08-11,188,True,5.0,Delivered,2611.5499999999997,5,2,4,11
+C3534,Female,Adult,Karachi,2023-08-27,2024-11-24,Subway,Continental,2,726.74,Wallet,3,2025-04-04,385,True,4.0,Delayed,1453.48,3,1,3,7
+C5308,Other,Teenager,Karachi,2024-08-12,2024-09-06,KFC,Dessert,2,179.09,Cash,16,2024-11-24,291,False,2.0,Delivered,358.18,1,2,1,4
+C5075,Male,Teenager,Karachi,2023-08-25,2024-11-24,Subway,Chinese,2,838.32,Cash,44,2024-11-25,170,True,2.0,Delayed,1676.64,1,5,3,9
+C2567,Other,Teenager,Karachi,2024-10-14,2024-11-25,McDonald's,Dessert,2,220.91,Cash,10,2025-06-25,5,True,-1.0,Cancelled,441.82,4,1,1,6
+C6788,Female,Senior,Karachi,2024-08-25,2024-11-25,Burger King,Dessert,4,968.41,Wallet,18,2025-06-27,263,True,-1.0,Cancelled,3873.64,4,2,4,10
+C1384,Female,Teenager,Karachi,2024-11-25,2025-08-14,KFC,Italian,5,777.72,Card,38,2025-08-18,150,False,2.0,Delayed,3888.6000000000004,5,4,4,13
+C2800,Female,Teenager,Karachi,2023-10-13,2024-11-26,KFC,Chinese,4,1078.46,Card,6,2025-05-06,475,True,-1.0,Cancelled,4313.84,3,1,5,9
+C5772,Male,Teenager,Karachi,2023-09-11,2024-09-20,Subway,Chinese,1,406.4,Card,36,2024-11-26,202,True,3.0,Delayed,406.4,1,4,1,6
+C1038,Other,Adult,Karachi,2024-06-13,2024-11-26,Burger King,Continental,1,415.59,Card,35,2025-03-11,363,True,-1.0,Cancelled,415.59,2,4,1,7
+C6067,Female,Teenager,Karachi,2024-01-25,2024-11-05,Subway,Continental,2,802.35,Card,50,2024-11-27,430,True,5.0,Delivered,1604.7,1,5,3,9
+C1927,Female,Adult,Karachi,2024-03-12,2024-09-27,Pizza Hut,Dessert,5,1080.45,Wallet,47,2024-11-27,132,False,-1.0,Cancelled,5402.25,1,5,5,11
+C6769,Other,Teenager,Karachi,2024-02-04,2024-11-28,KFC,Chinese,2,730.95,Wallet,39,2025-02-19,180,False,1.0,Delayed,1461.9,2,4,3,9
+C6187,Other,Adult,Karachi,2024-11-28,2025-01-04,McDonald's,Fast Food,1,1179.22,Cash,38,2025-06-29,116,False,4.0,Delivered,1179.22,4,4,2,10
+C4568,Male,Teenager,Karachi,2024-11-28,2024-11-28,Pizza Hut,Continental,3,555.44,Cash,29,2025-05-20,13,True,-1.0,Cancelled,1666.3200000000002,3,3,3,9
+C6985,Male,Adult,Karachi,2023-09-10,2024-09-30,Pizza Hut,Italian,5,967.5,Card,1,2024-11-28,469,False,1.0,Delayed,4837.5,1,1,5,7
+C3190,Other,Adult,Karachi,2023-09-30,2024-11-29,KFC,Dessert,4,110.77,Card,18,2025-08-11,370,False,1.0,Delayed,443.08,5,2,1,8
+C1461,Other,Teenager,Karachi,2024-11-29,2025-01-01,McDonald's,Chinese,3,330.17,Cash,37,2025-03-14,121,False,2.0,Delivered,990.51,2,4,2,8
+C6284,Female,Teenager,Karachi,2024-09-18,2024-11-30,KFC,Dessert,5,1231.59,Cash,27,2025-04-21,130,True,5.0,Delivered,6157.95,3,3,5,11
+C3931,Male,Senior,Karachi,2024-09-02,2024-11-01,KFC,Chinese,5,241.62,Card,35,2024-11-30,111,True,2.0,Delivered,1208.1,1,4,2,7
+C6516,Male,Teenager,Karachi,2024-01-31,2024-12-01,Burger King,Continental,1,1355.24,Card,39,2025-06-19,377,False,5.0,Delivered,1355.24,4,4,2,10
+C2839,Male,Teenager,Karachi,2023-09-14,2024-12-03,KFC,Continental,5,1463.8,Card,35,2025-05-12,290,True,3.0,Delayed,7319.0,3,4,5,12
+C4855,Female,Senior,Karachi,2024-03-02,2024-12-03,KFC,Continental,4,410.46,Wallet,10,2025-04-24,131,True,-1.0,Cancelled,1641.84,3,1,3,7
+C6959,Female,Teenager,Karachi,2024-05-13,2024-12-03,Subway,Italian,3,1213.06,Card,25,2025-08-20,140,True,3.0,Delayed,3639.18,5,3,4,12
+C6415,Male,Senior,Karachi,2024-02-28,2024-12-04,KFC,Dessert,1,496.14,Card,8,2025-04-14,59,False,1.0,Delayed,496.14,3,1,1,5
+C3124,Male,Adult,Karachi,2024-12-04,2024-12-14,Subway,Italian,4,532.24,Card,32,2025-03-04,264,False,3.0,Delivered,2128.96,2,4,3,9
+C1835,Other,Adult,Karachi,2024-10-24,2024-12-05,KFC,Italian,1,1156.35,Wallet,8,2025-03-05,380,True,5.0,Delayed,1156.35,2,1,2,5
+C6693,Female,Adult,Karachi,2024-12-05,2025-03-22,KFC,Continental,1,1305.69,Wallet,46,2025-04-28,389,True,1.0,Delivered,1305.69,3,5,2,10
+C6812,Male,Senior,Karachi,2024-11-12,2024-12-05,Subway,Dessert,4,776.97,Wallet,50,2025-02-26,498,False,4.0,Delivered,3107.88,2,5,4,11
+C5992,Female,Teenager,Karachi,2024-08-21,2024-12-06,Burger King,Dessert,4,1394.75,Card,45,2025-04-29,444,False,3.0,Delayed,5579.0,3,5,5,13
+C1400,Male,Senior,Karachi,2024-05-25,2024-12-08,Pizza Hut,Fast Food,3,1309.52,Card,40,2025-02-08,61,False,-1.0,Cancelled,3928.56,2,4,4,10
+C1729,Male,Adult,Karachi,2024-10-18,2024-12-09,Subway,Chinese,2,340.71,Card,32,2025-01-09,203,False,-1.0,Cancelled,681.42,1,4,1,6
+C6211,Female,Teenager,Karachi,2024-09-12,2024-10-18,McDonald's,Chinese,3,1164.62,Wallet,2,2024-12-10,425,True,-1.0,Cancelled,3493.8599999999997,1,1,4,6
+C2149,Male,Adult,Karachi,2024-08-10,2024-09-21,McDonald's,Italian,5,117.4,Card,32,2024-12-11,278,False,5.0,Delivered,587.0,1,4,1,6
+C4829,Male,Senior,Karachi,2023-10-18,2024-12-13,Burger King,Fast Food,3,831.01,Card,5,2025-03-14,204,True,-1.0,Cancelled,2493.0299999999997,2,1,4,7
+C2637,Other,Teenager,Karachi,2024-10-07,2024-12-14,KFC,Fast Food,2,1393.42,Cash,33,2025-06-17,311,True,1.0,Delayed,2786.84,4,4,4,12
+C6142,Female,Adult,Karachi,2023-10-21,2024-12-14,Burger King,Continental,2,544.11,Cash,24,2024-12-14,353,True,4.0,Delayed,1088.22,1,3,2,6
+C2019,Female,Senior,Karachi,2023-10-22,2024-10-30,KFC,Italian,5,221.48,Card,18,2024-12-15,354,False,4.0,Delivered,1107.3999999999999,1,2,2,5
+C1693,Male,Teenager,Karachi,2023-12-17,2024-12-15,KFC,Chinese,4,946.6,Cash,28,2025-03-16,301,True,4.0,Delivered,3786.4,2,3,4,9
+C1572,Female,Teenager,Karachi,2023-09-16,2024-11-24,Pizza Hut,Dessert,2,1011.91,Wallet,40,2024-12-19,45,False,-1.0,Cancelled,2023.82,1,4,3,8
+C1049,Female,Senior,Karachi,2023-11-20,2024-12-20,KFC,Italian,5,1153.27,Cash,39,2025-05-14,346,True,3.0,Delivered,5766.35,3,4,5,12
+C4341,Male,Adult,Karachi,2024-11-18,2024-12-21,Subway,Dessert,1,1187.27,Card,46,2025-05-01,453,False,-1.0,Cancelled,1187.27,3,5,2,10
+C1445,Female,Adult,Karachi,2023-12-27,2024-12-21,McDonald's,Italian,2,1289.39,Wallet,31,2025-08-21,236,True,2.0,Delivered,2578.78,5,4,4,13
+C1630,Female,Adult,Karachi,2024-12-22,2025-05-17,McDonald's,Fast Food,3,1203.69,Wallet,24,2025-07-01,430,False,5.0,Delayed,3611.07,4,3,4,11
+C5018,Female,Teenager,Karachi,2024-12-23,2025-01-27,Pizza Hut,Italian,5,1462.54,Cash,40,2025-04-03,273,True,4.0,Delayed,7312.7,3,4,5,12
+C2115,Male,Teenager,Karachi,2024-10-16,2024-12-23,Pizza Hut,Continental,5,321.76,Card,22,2025-03-22,105,False,1.0,Delivered,1608.8,2,3,3,8
+C5357,Other,Teenager,Karachi,2024-01-06,2024-12-24,Subway,Italian,4,257.61,Wallet,43,2025-02-07,432,False,-1.0,Cancelled,1030.44,2,5,2,9
+C5891,Male,Teenager,Karachi,2024-06-07,2024-12-24,Pizza Hut,Chinese,5,757.75,Wallet,32,2025-04-21,90,True,4.0,Delivered,3788.75,3,4,4,11
+C6343,Female,Adult,Karachi,2024-09-14,2024-12-24,KFC,Italian,2,267.38,Card,22,2025-02-11,248,True,3.0,Delayed,534.76,2,3,1,6
+C4591,Other,Teenager,Karachi,2024-12-06,2024-12-25,Pizza Hut,Dessert,4,706.89,Wallet,21,2024-12-30,263,True,-1.0,Cancelled,2827.56,1,3,4,8
+C3433,Male,Adult,Karachi,2024-01-22,2024-12-26,Burger King,Chinese,3,954.87,Wallet,2,2025-06-25,495,False,1.0,Delayed,2864.61,4,1,4,9
+C3684,Male,Teenager,Karachi,2024-12-27,2025-03-17,McDonald's,Fast Food,5,1045.73,Wallet,1,2025-07-16,430,True,2.0,Delayed,5228.65,5,1,5,11
+C1230,Female,Senior,Karachi,2024-07-20,2024-12-28,McDonald's,Fast Food,3,1039.66,Wallet,19,2025-08-15,56,True,-1.0,Cancelled,3118.9800000000005,5,2,4,11
+C6762,Other,Adult,Karachi,2024-12-18,2024-12-29,McDonald's,Chinese,1,699.04,Wallet,34,2025-02-12,497,True,-1.0,Cancelled,699.04,2,4,1,7
+C3695,Male,Teenager,Karachi,2024-06-07,2024-12-29,Subway,Chinese,5,785.38,Card,38,2025-07-09,124,True,2.0,Delayed,3926.9,4,4,4,12
+C3383,Male,Senior,Karachi,2024-08-10,2024-12-30,KFC,Fast Food,4,1393.04,Wallet,36,2025-03-02,6,False,3.0,Delayed,5572.16,2,4,5,11
+C5183,Female,Adult,Karachi,2024-05-01,2024-12-30,KFC,Continental,2,195.73,Card,30,2025-07-30,465,True,2.0,Delivered,391.46,5,3,1,9
+C4585,Other,Adult,Karachi,2023-12-27,2024-12-31,Subway,Italian,4,970.04,Wallet,19,2025-01-23,404,False,-1.0,Cancelled,3880.16,2,2,4,8
+C1463,Female,Senior,Karachi,2024-05-11,2024-10-29,McDonald's,Italian,1,1238.3,Wallet,22,2024-12-31,97,False,3.0,Delivered,1238.3,1,3,2,6
+C5078,Female,Teenager,Karachi,2024-04-21,2025-01-01,Burger King,Fast Food,2,197.86,Wallet,25,2025-08-09,443,False,-1.0,Cancelled,395.72,5,3,1,9
+C2983,Other,Senior,Karachi,2024-08-05,2025-01-01,Burger King,Continental,2,492.36,Wallet,48,2025-04-18,225,True,-1.0,Cancelled,984.72,3,5,2,10
+C3168,Other,Senior,Karachi,2023-11-19,2024-11-15,Burger King,Fast Food,1,523.02,Wallet,50,2025-01-03,279,True,-1.0,Cancelled,523.02,1,5,1,7
+C3915,Other,Teenager,Karachi,2024-06-10,2025-01-03,KFC,Chinese,2,980.87,Card,25,2025-02-26,357,True,4.0,Delivered,1961.74,2,3,3,8
+C6185,Other,Teenager,Karachi,2024-09-13,2025-01-03,Burger King,Fast Food,3,461.2,Card,27,2025-02-22,488,False,3.0,Delivered,1383.6,2,3,2,7
+C6649,Other,Senior,Karachi,2023-12-22,2025-01-04,McDonald's,Dessert,4,926.25,Cash,25,2025-01-28,168,True,-1.0,Cancelled,3705.0,2,3,4,9
+C2158,Female,Adult,Karachi,2024-09-07,2025-01-06,KFC,Continental,4,534.9,Card,28,2025-02-10,175,False,3.0,Delivered,2139.6,2,3,3,8
+C3521,Female,Senior,Karachi,2024-10-03,2025-01-06,Pizza Hut,Chinese,4,284.99,Wallet,50,2025-04-25,128,True,4.0,Delivered,1139.96,3,5,2,10
+C6525,Male,Senior,Karachi,2025-01-07,2025-05-04,Subway,Continental,1,1241.65,Card,37,2025-06-25,147,True,3.0,Delayed,1241.65,4,4,2,10
+C6274,Female,Teenager,Karachi,2025-01-07,2025-02-10,McDonald's,Chinese,2,407.63,Wallet,24,2025-02-16,319,True,1.0,Delivered,815.26,2,3,1,6
+C6931,Male,Senior,Karachi,2024-09-24,2025-01-08,Pizza Hut,Continental,2,684.13,Card,6,2025-08-17,364,True,4.0,Delayed,1368.26,5,1,2,8
+C2420,Male,Teenager,Karachi,2024-10-23,2025-01-10,KFC,Chinese,3,1000.96,Wallet,27,2025-04-10,308,True,4.0,Delivered,3002.88,3,3,4,10
+C6079,Female,Teenager,Karachi,2024-11-07,2025-01-10,Pizza Hut,Dessert,3,1127.38,Cash,9,2025-05-06,457,True,5.0,Delayed,3382.1400000000003,3,1,4,8
+C2196,Male,Teenager,Karachi,2024-09-17,2025-01-11,Pizza Hut,Chinese,5,1151.34,Card,22,2025-07-15,353,True,3.0,Delivered,5756.7,5,3,5,13
+C6834,Male,Teenager,Karachi,2024-09-30,2025-01-11,Pizza Hut,Continental,5,1292.75,Wallet,39,2025-03-13,148,False,2.0,Delayed,6463.75,2,4,5,11
+C5508,Other,Teenager,Karachi,2024-12-26,2025-01-12,McDonald's,Chinese,3,428.37,Cash,3,2025-07-18,169,True,4.0,Delayed,1285.1100000000001,5,1,2,8
+C3981,Male,Adult,Karachi,2023-09-18,2025-01-12,Pizza Hut,Fast Food,3,1060.86,Cash,11,2025-04-29,498,False,-1.0,Cancelled,3182.58,3,1,4,8
+C6314,Female,Teenager,Karachi,2024-11-18,2024-12-29,Pizza Hut,Continental,1,438.59,Cash,25,2025-01-12,124,False,-1.0,Cancelled,438.59,1,3,1,5
+C4970,Other,Senior,Karachi,2024-03-30,2025-01-12,Subway,Dessert,4,892.46,Card,41,2025-03-20,453,False,-1.0,Cancelled,3569.84,2,5,4,11
+C2109,Female,Adult,Karachi,2024-04-18,2024-10-26,Subway,Chinese,4,687.16,Wallet,13,2025-01-13,61,False,5.0,Delayed,2748.64,1,2,4,7
+C1781,Male,Adult,Karachi,2024-12-13,2025-01-15,Burger King,Italian,4,1046.16,Cash,16,2025-07-31,208,False,-1.0,Cancelled,4184.64,5,2,5,12
+C2948,Male,Adult,Karachi,2024-07-03,2025-01-17,Pizza Hut,Continental,1,488.52,Card,18,2025-05-21,61,True,2.0,Delivered,488.52,3,2,1,6
+C5412,Female,Senior,Karachi,2024-09-17,2025-01-17,Pizza Hut,Fast Food,5,237.58,Wallet,20,2025-06-21,118,True,-1.0,Cancelled,1187.9,4,2,2,8
+C3693,Female,Adult,Karachi,2023-09-09,2025-01-18,Subway,Italian,5,110.81,Wallet,15,2025-06-02,101,True,1.0,Delayed,554.05,4,2,1,7
+C2990,Female,Teenager,Karachi,2024-04-13,2025-01-18,Subway,Chinese,4,491.18,Wallet,2,2025-05-22,115,True,3.0,Delivered,1964.72,3,1,3,7
+C2959,Other,Senior,Karachi,2025-01-18,2025-02-16,KFC,Fast Food,4,1321.17,Wallet,32,2025-06-06,171,False,1.0,Delayed,5284.68,4,4,5,13
+C5509,Female,Teenager,Karachi,2024-07-11,2025-01-18,KFC,Continental,1,969.93,Wallet,47,2025-07-09,218,True,-1.0,Cancelled,969.93,4,5,2,11
+C5766,Other,Senior,Karachi,2024-09-29,2025-01-20,KFC,Italian,3,1498.79,Wallet,43,2025-04-02,132,True,-1.0,Cancelled,4496.37,3,5,5,13
+C6554,Other,Adult,Karachi,2024-10-08,2025-01-21,KFC,Dessert,1,156.47,Wallet,42,2025-05-01,18,False,-1.0,Cancelled,156.47,3,5,1,9
+C3897,Female,Senior,Karachi,2023-12-03,2025-01-21,Subway,Chinese,4,922.91,Wallet,14,2025-04-27,496,True,3.0,Delayed,3691.64,3,2,4,9
+C1724,Other,Senior,Karachi,2023-10-08,2024-11-11,Burger King,Continental,2,829.76,Wallet,30,2025-01-22,26,False,-1.0,Cancelled,1659.52,2,3,3,8
+C1998,Other,Senior,Karachi,2024-03-30,2024-09-03,McDonald's,Dessert,5,331.84,Card,43,2025-01-23,489,False,1.0,Delivered,1659.1999999999998,2,5,3,10
+C4749,Other,Teenager,Karachi,2024-03-28,2025-01-24,Subway,Dessert,5,163.05,Cash,32,2025-06-01,33,False,4.0,Delayed,815.25,4,4,1,9
+C3020,Other,Teenager,Karachi,2025-01-26,2025-02-16,McDonald's,Dessert,2,438.63,Card,48,2025-06-02,66,False,2.0,Delayed,877.26,4,5,2,11
+C4611,Other,Teenager,Karachi,2024-01-31,2025-01-26,KFC,Continental,5,1386.97,Cash,10,2025-05-13,214,False,-1.0,Cancelled,6934.85,3,1,5,9
+C1493,Female,Senior,Karachi,2024-06-30,2024-12-16,Subway,Fast Food,5,1303.82,Cash,10,2025-01-28,50,False,-1.0,Cancelled,6519.099999999999,2,1,5,8
+C1529,Other,Senior,Karachi,2024-08-31,2025-01-28,Burger King,Dessert,4,211.17,Card,34,2025-06-10,168,True,1.0,Delivered,844.68,4,4,2,10
+C5454,Other,Teenager,Karachi,2024-02-14,2025-01-28,Subway,Fast Food,3,1189.34,Cash,6,2025-01-30,86,True,5.0,Delayed,3568.0199999999995,2,1,4,7
+C4598,Female,Teenager,Karachi,2023-11-12,2024-09-08,Burger King,Fast Food,3,213.62,Wallet,5,2025-01-29,48,False,3.0,Delayed,640.86,2,1,1,4
+C4358,Other,Adult,Karachi,2025-01-18,2025-01-29,Subway,Dessert,5,1243.71,Cash,49,2025-04-25,119,False,-1.0,Cancelled,6218.55,3,5,5,13
+C5208,Other,Adult,Karachi,2025-01-29,2025-08-01,KFC,Fast Food,3,294.95,Card,27,2025-08-10,429,False,-1.0,Cancelled,884.8499999999999,5,3,2,10
+C2130,Male,Teenager,Karachi,2024-06-04,2025-02-01,KFC,Continental,2,1004.4,Cash,42,2025-06-21,367,False,-1.0,Cancelled,2008.8,4,5,3,12
+C3722,Male,Adult,Karachi,2024-12-14,2025-02-01,Burger King,Fast Food,4,777.07,Cash,40,2025-07-27,105,True,1.0,Delivered,3108.28,5,4,4,13
+C2165,Other,Adult,Karachi,2023-10-16,2025-02-01,McDonald's,Fast Food,1,1295.66,Wallet,22,2025-03-08,268,False,-1.0,Cancelled,1295.66,2,3,2,7
+C4093,Other,Senior,Karachi,2024-07-07,2025-02-02,Pizza Hut,Italian,5,1259.42,Card,41,2025-06-19,129,True,4.0,Delayed,6297.1,4,5,5,14
+C5378,Other,Adult,Karachi,2024-06-06,2024-11-28,Burger King,Continental,1,242.77,Cash,41,2025-02-03,265,True,-1.0,Cancelled,242.77,2,5,1,8
+C6527,Female,Adult,Karachi,2025-02-03,2025-03-10,McDonald's,Fast Food,2,1097.4,Card,37,2025-07-06,406,True,-1.0,Cancelled,2194.8,4,4,3,11
+C3088,Male,Senior,Karachi,2024-11-05,2025-02-04,Burger King,Fast Food,5,262.87,Wallet,24,2025-08-08,109,False,1.0,Delivered,1314.35,5,3,2,10
+C5324,Female,Teenager,Karachi,2024-09-23,2025-01-12,Pizza Hut,Continental,1,1241.06,Cash,31,2025-02-05,316,False,3.0,Delivered,1241.06,2,4,2,8
+C3100,Other,Senior,Karachi,2024-04-16,2025-02-05,Pizza Hut,Italian,3,490.31,Card,22,2025-03-21,465,False,1.0,Delivered,1470.93,2,3,3,8
+C1422,Female,Senior,Karachi,2024-05-02,2025-02-06,Pizza Hut,Chinese,1,106.31,Wallet,45,2025-05-08,260,False,3.0,Delivered,106.31,3,5,1,9
+C1391,Female,Senior,Karachi,2024-11-06,2025-02-07,Subway,Fast Food,2,595.08,Card,1,2025-02-24,213,False,1.0,Delayed,1190.16,2,1,2,5
+C6820,Female,Adult,Karachi,2023-11-11,2024-10-08,Subway,Italian,4,1491.06,Wallet,49,2025-02-07,171,True,3.0,Delayed,5964.24,2,5,5,12
+C4063,Male,Teenager,Karachi,2024-10-07,2025-02-08,McDonald's,Dessert,3,365.26,Cash,28,2025-04-18,314,False,-1.0,Cancelled,1095.78,3,3,2,8
+C1025,Other,Adult,Karachi,2024-08-23,2025-02-08,Burger King,Chinese,3,545.13,Wallet,13,2025-05-12,200,False,3.0,Delayed,1635.3899999999999,3,2,3,8
+C2272,Male,Adult,Karachi,2024-05-16,2025-02-10,KFC,Italian,4,117.39,Wallet,18,2025-07-11,32,False,3.0,Delivered,469.56,4,2,1,7
+C6635,Other,Senior,Karachi,2023-12-26,2024-12-20,Subway,Italian,4,392.08,Wallet,2,2025-02-10,4,True,-1.0,Cancelled,1568.32,2,1,3,6
+C6912,Male,Senior,Karachi,2024-08-16,2025-02-10,Subway,Italian,3,528.32,Cash,46,2025-02-22,248,False,2.0,Delayed,1584.96,2,5,3,10
+C3539,Male,Senior,Karachi,2024-09-13,2024-11-21,Subway,Fast Food,3,725.42,Cash,7,2025-02-11,326,True,1.0,Delivered,2176.2599999999998,2,1,3,6
+C6904,Female,Senior,Karachi,2023-10-20,2025-02-13,KFC,Italian,4,330.26,Cash,12,2025-08-12,365,True,2.0,Delayed,1321.04,5,2,2,9
+C1512,Female,Teenager,Karachi,2024-01-15,2025-02-14,Burger King,Dessert,5,633.77,Cash,47,2025-06-15,11,False,3.0,Delayed,3168.85,4,5,4,13
+C4485,Male,Teenager,Karachi,2024-04-06,2025-02-14,Pizza Hut,Continental,3,615.22,Card,17,2025-03-21,314,True,5.0,Delayed,1845.66,2,2,3,7
+C3214,Male,Teenager,Karachi,2023-11-19,2025-01-29,McDonald's,Fast Food,1,591.27,Cash,2,2025-02-14,119,False,1.0,Delayed,591.27,2,1,1,4
+C1513,Other,Adult,Karachi,2025-01-14,2025-02-14,McDonald's,Chinese,2,1464.7,Wallet,44,2025-07-12,242,False,-1.0,Cancelled,2929.4,4,5,4,13
+C3144,Other,Senior,Karachi,2024-06-22,2024-12-30,Burger King,Italian,5,1048.51,Wallet,48,2025-02-15,358,True,-1.0,Cancelled,5242.55,2,5,5,12
+C4551,Other,Adult,Karachi,2024-09-12,2025-01-04,Burger King,Fast Food,3,1083.48,Card,46,2025-02-15,73,True,5.0,Delayed,3250.44,2,5,4,11
+C6174,Female,Senior,Karachi,2023-12-06,2025-02-16,Burger King,Continental,5,1272.61,Wallet,15,2025-02-28,379,False,3.0,Delivered,6363.049999999999,2,2,5,9
+C3687,Male,Adult,Karachi,2024-01-14,2024-12-07,McDonald's,Chinese,3,261.82,Wallet,9,2025-02-16,59,False,-1.0,Cancelled,785.46,2,1,1,4
+C6042,Female,Senior,Karachi,2024-01-05,2024-09-03,Burger King,Italian,3,525.28,Wallet,26,2025-02-16,88,True,3.0,Delivered,1575.84,2,3,3,8
+C2071,Female,Senior,Karachi,2023-12-13,2025-02-18,Pizza Hut,Continental,3,785.18,Card,21,2025-04-19,276,False,-1.0,Cancelled,2355.54,3,3,3,9
+C1502,Female,Adult,Karachi,2024-07-02,2024-10-17,Subway,Continental,2,1413.35,Cash,44,2025-02-18,419,False,4.0,Delayed,2826.7,2,5,4,11
+C3970,Female,Teenager,Karachi,2025-02-20,2025-04-19,Subway,Italian,4,895.8,Wallet,31,2025-07-14,58,True,2.0,Delayed,3583.2,5,4,4,13
+C1189,Female,Teenager,Karachi,2024-04-05,2024-11-17,McDonald's,Continental,5,374.31,Wallet,41,2025-02-22,68,False,-1.0,Cancelled,1871.55,2,5,3,10
+C2551,Other,Teenager,Karachi,2023-11-22,2025-02-22,Subway,Fast Food,4,1402.11,Cash,37,2025-03-12,87,True,3.0,Delayed,5608.44,2,4,5,11
+C2193,Other,Senior,Karachi,2023-09-26,2025-02-22,Pizza Hut,Italian,4,419.43,Card,48,2025-03-18,142,True,-1.0,Cancelled,1677.72,2,5,3,10
+C4909,Male,Senior,Karachi,2023-09-14,2025-02-23,Burger King,Fast Food,5,617.25,Card,22,2025-06-26,70,True,4.0,Delayed,3086.25,4,3,4,11
+C4962,Male,Teenager,Karachi,2023-09-01,2025-02-23,McDonald's,Continental,5,915.38,Card,49,2025-08-13,408,False,3.0,Delivered,4576.9,5,5,5,15
+C6706,Other,Adult,Karachi,2024-04-24,2024-11-06,Burger King,Continental,5,479.54,Wallet,8,2025-02-23,252,True,-1.0,Cancelled,2397.7000000000003,2,1,3,6
+C5724,Male,Teenager,Karachi,2024-10-31,2025-02-24,Pizza Hut,Fast Food,5,721.57,Wallet,50,2025-05-02,329,True,-1.0,Cancelled,3607.8500000000004,3,5,4,12
+C5579,Other,Senior,Karachi,2023-10-28,2025-02-05,Subway,Dessert,3,322.56,Cash,2,2025-02-24,227,False,-1.0,Cancelled,967.6800000000001,2,1,2,5
+C1917,Female,Teenager,Karachi,2023-09-18,2024-09-19,KFC,Fast Food,5,1067.61,Wallet,34,2025-02-25,388,False,3.0,Delivered,5338.049999999999,2,4,5,11
+C3483,Female,Senior,Karachi,2024-07-06,2025-02-26,Subway,Italian,5,1488.26,Cash,31,2025-04-05,280,True,2.0,Delayed,7441.3,3,4,5,12
+C3845,Male,Adult,Karachi,2024-05-23,2024-12-03,Subway,Chinese,1,1238.6,Wallet,16,2025-02-26,112,False,2.0,Delivered,1238.6,2,2,2,6
+C5607,Male,Adult,Karachi,2025-02-28,2025-06-07,Pizza Hut,Dessert,1,580.67,Card,11,2025-08-15,295,False,3.0,Delivered,580.67,5,1,1,7
+C6025,Female,Adult,Karachi,2025-01-25,2025-02-28,KFC,Chinese,2,476.95,Cash,5,2025-06-05,263,False,-1.0,Cancelled,953.9,4,1,2,7
+C1935,Male,Adult,Karachi,2024-02-17,2024-12-03,Burger King,Dessert,2,674.05,Wallet,6,2025-02-28,500,False,4.0,Delayed,1348.1,2,1,2,5
+C1316,Other,Adult,Karachi,2025-02-26,2025-02-27,McDonald's,Dessert,1,589.22,Cash,29,2025-03-01,299,True,3.0,Delayed,589.22,2,3,1,6
+C1688,Other,Adult,Karachi,2024-12-25,2025-03-02,Subway,Continental,1,1471.17,Cash,28,2025-05-25,142,True,-1.0,Cancelled,1471.17,3,3,3,9
+C3865,Female,Teenager,Karachi,2023-10-10,2025-03-02,Subway,Continental,3,1358.49,Wallet,18,2025-06-11,94,False,4.0,Delivered,4075.4700000000003,4,2,5,11
+C2136,Other,Senior,Karachi,2024-09-03,2025-01-05,Burger King,Fast Food,2,602.53,Card,50,2025-03-03,323,False,3.0,Delivered,1205.06,2,5,2,9
+C2469,Male,Teenager,Karachi,2024-09-28,2024-10-31,McDonald's,Fast Food,1,1202.49,Wallet,38,2025-03-04,213,False,-1.0,Cancelled,1202.49,2,4,2,8
+C6265,Male,Teenager,Karachi,2024-11-06,2025-03-04,Burger King,Italian,4,135.94,Wallet,38,2025-04-14,311,False,3.0,Delivered,543.76,3,4,1,8
+C6657,Female,Senior,Karachi,2024-01-05,2025-03-05,KFC,Chinese,5,983.12,Wallet,22,2025-06-04,472,False,3.0,Delivered,4915.6,4,3,5,12
+C5610,Male,Teenager,Karachi,2024-11-02,2025-03-06,Burger King,Italian,1,1398.51,Card,6,2025-05-09,252,False,-1.0,Cancelled,1398.51,3,1,2,6
+C5476,Male,Teenager,Karachi,2024-09-26,2025-01-22,Pizza Hut,Chinese,4,1410.3,Wallet,16,2025-03-09,359,False,2.0,Delayed,5641.2,2,2,5,9
+C5167,Male,Adult,Karachi,2025-03-11,2025-05-28,Pizza Hut,Dessert,3,151.56,Cash,21,2025-07-22,22,True,4.0,Delivered,454.68,5,3,1,9
+C1547,Other,Adult,Karachi,2025-03-12,2025-06-03,KFC,Chinese,5,816.52,Card,27,2025-08-15,232,True,3.0,Delivered,4082.6,5,3,5,13
+C3437,Male,Senior,Karachi,2025-03-12,2025-05-31,Pizza Hut,Dessert,3,429.05,Wallet,35,2025-08-05,363,True,-1.0,Cancelled,1287.15,5,4,2,11
+C4164,Male,Senior,Karachi,2025-03-13,2025-03-27,Pizza Hut,Italian,1,235.19,Cash,25,2025-07-26,435,False,2.0,Delivered,235.19,5,3,1,9
+C1077,Other,Adult,Karachi,2024-07-29,2025-03-16,Pizza Hut,Chinese,2,968.58,Card,25,2025-05-16,62,True,-1.0,Cancelled,1937.16,3,3,3,9
+C3465,Female,Teenager,Karachi,2024-09-28,2025-03-16,KFC,Fast Food,4,755.58,Wallet,32,2025-08-01,83,True,1.0,Delivered,3022.32,5,4,4,13
+C4019,Male,Senior,Karachi,2024-06-17,2025-03-15,Subway,Fast Food,4,452.06,Cash,33,2025-03-17,382,False,1.0,Delayed,1808.24,2,4,3,9
+C1510,Female,Teenager,Karachi,2024-09-09,2025-03-17,McDonald's,Dessert,5,664.38,Cash,35,2025-03-18,296,True,5.0,Delivered,3321.9,2,4,4,10
+C1544,Other,Adult,Karachi,2024-08-06,2025-03-16,McDonald's,Dessert,3,430.92,Card,16,2025-03-18,8,False,4.0,Delivered,1292.76,2,2,2,6
+C6728,Other,Adult,Karachi,2024-09-19,2024-09-23,Burger King,Continental,1,1008.83,Card,12,2025-03-18,395,True,1.0,Delayed,1008.83,2,2,2,6
+C3724,Male,Adult,Karachi,2025-03-11,2025-03-19,Burger King,Fast Food,3,839.98,Cash,37,2025-05-31,176,True,4.0,Delivered,2519.94,4,4,4,12
+C1553,Female,Teenager,Karachi,2023-10-11,2025-01-18,McDonald's,Fast Food,1,456.61,Wallet,29,2025-03-19,1,False,3.0,Delivered,456.61,2,3,1,6
+C6346,Female,Teenager,Karachi,2023-11-14,2025-03-19,Subway,Continental,3,183.07,Card,43,2025-07-04,456,True,3.0,Delivered,549.21,4,5,1,10
+C3594,Female,Teenager,Karachi,2024-12-31,2025-03-19,Burger King,Dessert,4,1045.95,Wallet,14,2025-06-30,303,False,1.0,Delivered,4183.8,4,2,5,11
+C3603,Male,Adult,Karachi,2024-09-10,2025-03-18,Pizza Hut,Chinese,3,742.94,Wallet,49,2025-03-20,465,False,2.0,Delayed,2228.82,2,5,3,10
+C4348,Other,Senior,Karachi,2024-05-28,2024-10-30,KFC,Dessert,3,1412.16,Cash,37,2025-03-20,230,False,3.0,Delayed,4236.4800000000005,2,4,5,11
+C2224,Male,Adult,Karachi,2024-12-30,2025-01-02,McDonald's,Italian,1,1433.54,Wallet,2,2025-03-21,481,False,5.0,Delayed,1433.54,2,1,2,5
+C1989,Female,Senior,Karachi,2024-09-03,2025-03-14,Pizza Hut,Fast Food,4,1162.43,Card,44,2025-03-21,250,False,2.0,Delayed,4649.72,2,5,5,12
+C5069,Other,Adult,Karachi,2025-03-22,2025-04-15,Pizza Hut,Dessert,5,887.69,Cash,2,2025-08-18,83,True,5.0,Delayed,4438.450000000001,5,1,5,11
+C1564,Male,Senior,Karachi,2025-03-11,2025-03-24,Subway,Italian,3,1008.51,Cash,15,2025-07-18,434,True,-1.0,Cancelled,3025.5299999999997,5,2,4,11
+C2894,Male,Adult,Karachi,2025-02-04,2025-03-25,Burger King,Italian,2,140.19,Cash,45,2025-08-20,444,True,-1.0,Cancelled,280.38,5,5,1,11
+C4519,Other,Senior,Karachi,2024-10-27,2025-03-27,KFC,Continental,5,1371.56,Wallet,45,2025-04-16,343,False,-1.0,Cancelled,6857.799999999999,3,5,5,13
+C5940,Male,Adult,Karachi,2024-09-20,2024-10-18,KFC,Fast Food,5,847.95,Card,26,2025-03-28,363,False,1.0,Delivered,4239.75,2,3,5,10
+C1383,Female,Senior,Karachi,2023-12-04,2025-03-28,McDonald's,Chinese,1,456.24,Wallet,44,2025-08-12,78,False,2.0,Delayed,456.24,5,5,1,11
+C1026,Male,Senior,Karachi,2024-12-17,2025-03-18,KFC,Chinese,2,345.08,Card,3,2025-03-29,288,False,4.0,Delayed,690.16,2,1,1,4
+C3160,Other,Teenager,Karachi,2024-12-29,2025-01-10,McDonald's,Dessert,1,738.08,Cash,25,2025-03-29,39,True,5.0,Delivered,738.08,2,3,1,6
+C6908,Female,Senior,Karachi,2023-12-14,2025-03-30,KFC,Italian,3,971.11,Card,29,2025-08-02,84,False,-1.0,Cancelled,2913.33,5,3,4,12
+C2986,Female,Adult,Karachi,2024-11-22,2025-03-30,Burger King,Fast Food,3,695.74,Cash,9,2025-08-07,83,False,1.0,Delivered,2087.2200000000003,5,1,3,9
+C1284,Female,Adult,Karachi,2025-02-20,2025-03-31,KFC,Chinese,5,466.48,Wallet,43,2025-05-27,90,False,2.0,Delayed,2332.4,3,5,3,11
+C1471,Female,Teenager,Karachi,2024-11-17,2025-03-31,Burger King,Dessert,3,176.88,Card,40,2025-06-10,490,False,5.0,Delayed,530.64,4,4,1,9
+C6246,Male,Senior,Karachi,2024-12-02,2025-02-16,Burger King,Dessert,3,141.79,Cash,34,2025-03-31,181,True,-1.0,Cancelled,425.37,2,4,1,7
+C5712,Female,Adult,Karachi,2025-01-17,2025-03-31,McDonald's,Dessert,5,438.08,Cash,34,2025-08-12,353,False,4.0,Delayed,2190.4,5,4,3,12
+C2062,Female,Teenager,Karachi,2025-04-01,2025-04-08,Burger King,Continental,4,342.37,Wallet,11,2025-05-03,180,True,5.0,Delivered,1369.48,3,1,2,6
+C6195,Male,Adult,Karachi,2024-11-28,2025-04-01,Burger King,Fast Food,4,166.06,Cash,4,2025-08-20,417,True,3.0,Delivered,664.24,5,1,1,7
+C3201,Other,Teenager,Karachi,2023-12-30,2025-04-02,McDonald's,Continental,5,421.94,Wallet,2,2025-06-13,214,True,3.0,Delayed,2109.7,4,1,3,8
+C5306,Male,Senior,Karachi,2024-04-15,2024-10-03,McDonald's,Dessert,4,122.54,Card,4,2025-04-03,45,True,-1.0,Cancelled,490.16,3,1,1,5
+C2858,Other,Teenager,Karachi,2023-09-30,2025-02-20,Subway,Fast Food,4,207.0,Wallet,30,2025-04-05,125,False,3.0,Delayed,828.0,3,3,1,7
+C5260,Other,Senior,Karachi,2025-04-06,2025-06-14,Subway,Continental,4,850.88,Card,48,2025-07-04,12,True,1.0,Delivered,3403.52,4,5,4,13
+C1554,Other,Adult,Karachi,2025-01-07,2025-02-28,Subway,Italian,2,1429.43,Wallet,43,2025-04-06,168,True,4.0,Delivered,2858.86,3,5,4,12
+C4728,Other,Senior,Karachi,2024-09-18,2025-04-06,Burger King,Continental,2,1243.94,Card,6,2025-05-29,480,True,1.0,Delivered,2487.88,4,1,4,9
+C2041,Female,Adult,Karachi,2023-12-17,2025-04-07,Subway,Fast Food,4,1464.88,Card,1,2025-07-22,282,False,3.0,Delayed,5859.52,5,1,5,11
+C4366,Other,Teenager,Karachi,2025-04-07,2025-05-03,KFC,Fast Food,1,409.67,Cash,45,2025-08-02,420,False,5.0,Delayed,409.67,5,5,1,11
+C5808,Male,Senior,Karachi,2025-01-02,2025-01-12,McDonald's,Dessert,1,161.93,Card,10,2025-04-09,108,False,-1.0,Cancelled,161.93,3,1,1,5
+C3332,Female,Teenager,Karachi,2023-11-18,2024-11-05,Pizza Hut,Italian,1,590.91,Wallet,27,2025-04-10,54,True,-1.0,Cancelled,590.91,3,3,1,7
+C1045,Female,Teenager,Karachi,2024-02-15,2025-01-28,Pizza Hut,Continental,4,238.43,Cash,24,2025-04-10,353,True,-1.0,Cancelled,953.72,3,3,2,8
+C1112,Other,Senior,Karachi,2024-03-30,2025-04-10,McDonald's,Dessert,4,834.64,Wallet,2,2025-04-11,172,False,5.0,Delayed,3338.56,3,1,4,8
+C1992,Male,Senior,Karachi,2023-10-26,2025-04-12,Pizza Hut,Continental,1,243.18,Wallet,24,2025-05-28,260,False,-1.0,Cancelled,243.18,3,3,1,7
+C6680,Female,Senior,Karachi,2024-11-21,2025-02-02,McDonald's,Dessert,1,1453.16,Wallet,21,2025-04-12,20,True,-1.0,Cancelled,1453.16,3,3,3,9
+C6608,Other,Senior,Karachi,2024-06-07,2025-04-12,McDonald's,Dessert,1,478.06,Wallet,37,2025-04-21,350,True,2.0,Delayed,478.06,3,4,1,8
+C3225,Other,Senior,Karachi,2025-04-12,2025-05-17,Subway,Dessert,5,1150.43,Wallet,24,2025-05-18,328,False,-1.0,Cancelled,5752.150000000001,3,3,5,11
+C6824,Female,Senior,Karachi,2025-04-13,2025-05-12,Pizza Hut,Italian,3,542.18,Card,18,2025-08-19,137,True,3.0,Delayed,1626.54,5,2,3,10
+C1458,Other,Adult,Karachi,2024-05-16,2025-04-13,KFC,Continental,1,1487.78,Card,46,2025-04-16,254,True,4.0,Delayed,1487.78,3,5,3,11
+C1414,Male,Senior,Karachi,2024-08-03,2025-04-13,Burger King,Continental,5,280.16,Card,5,2025-05-26,30,False,3.0,Delivered,1400.8000000000002,3,1,2,6
+C3270,Male,Teenager,Karachi,2025-03-15,2025-04-14,Pizza Hut,Continental,2,480.48,Card,20,2025-08-10,387,True,-1.0,Cancelled,960.96,5,2,2,9
+C4780,Female,Teenager,Karachi,2023-09-30,2024-10-16,Subway,Dessert,5,390.28,Cash,13,2025-04-15,455,False,3.0,Delayed,1951.3999999999999,3,2,3,8
+C5561,Male,Senior,Karachi,2024-08-28,2024-10-13,Burger King,Italian,2,312.38,Card,46,2025-04-15,269,True,-1.0,Cancelled,624.76,3,5,1,9
+C5522,Female,Senior,Karachi,2023-10-29,2024-09-05,KFC,Continental,5,416.99,Card,38,2025-04-15,252,True,5.0,Delivered,2084.95,3,4,3,10
+C3393,Male,Adult,Karachi,2023-12-28,2025-03-06,McDonald's,Italian,1,327.98,Cash,34,2025-04-16,156,True,3.0,Delayed,327.98,3,4,1,8
+C1109,Other,Senior,Karachi,2025-04-18,2025-06-12,Subway,Continental,5,1025.0,Cash,37,2025-06-18,432,False,4.0,Delivered,5125.0,4,4,5,13
+C5689,Female,Adult,Karachi,2024-08-22,2025-04-18,McDonald's,Dessert,1,876.76,Card,34,2025-06-06,491,True,-1.0,Cancelled,876.76,4,4,2,10
+C2920,Male,Teenager,Karachi,2024-04-30,2024-10-27,Subway,Italian,5,207.5,Card,48,2025-04-19,241,True,1.0,Delayed,1037.5,3,5,2,10
+C5802,Female,Teenager,Karachi,2023-10-22,2025-04-19,McDonald's,Continental,4,1351.55,Wallet,12,2025-06-24,25,True,2.0,Delivered,5406.2,4,2,5,11
+C5870,Other,Senior,Karachi,2024-08-05,2025-04-09,Pizza Hut,Italian,1,225.99,Cash,23,2025-04-20,76,True,5.0,Delivered,225.99,3,3,1,7
+C1044,Female,Senior,Karachi,2023-09-28,2025-02-19,Pizza Hut,Continental,2,1332.19,Wallet,22,2025-04-21,298,True,1.0,Delayed,2664.38,3,3,4,10
+C5089,Other,Senior,Karachi,2024-09-10,2025-04-21,KFC,Fast Food,1,187.78,Cash,14,2025-04-21,219,False,5.0,Delayed,187.78,3,2,1,6
+C4066,Other,Senior,Karachi,2024-10-21,2025-03-24,Subway,Dessert,3,587.41,Wallet,17,2025-04-22,4,True,5.0,Delayed,1762.23,3,2,3,8
+C3754,Other,Adult,Karachi,2024-07-23,2024-11-27,KFC,Fast Food,1,1290.08,Cash,17,2025-04-23,39,False,-1.0,Cancelled,1290.08,3,2,2,7
+C2592,Male,Adult,Karachi,2024-04-16,2024-12-27,Burger King,Continental,2,1298.33,Card,39,2025-04-24,55,True,4.0,Delayed,2596.66,3,4,4,11
+C3529,Female,Teenager,Karachi,2024-12-08,2025-04-24,KFC,Fast Food,3,658.63,Cash,47,2025-06-20,84,False,-1.0,Cancelled,1975.8899999999999,4,5,3,12
+C3688,Male,Teenager,Karachi,2024-09-14,2025-04-25,KFC,Dessert,4,566.39,Cash,42,2025-07-16,419,True,4.0,Delivered,2265.56,5,5,3,13
+C4482,Other,Senior,Karachi,2023-10-20,2024-12-27,KFC,Italian,1,412.44,Cash,19,2025-04-27,480,True,5.0,Delayed,412.44,3,2,1,6
+C4081,Male,Adult,Karachi,2024-09-28,2025-02-13,KFC,Continental,3,1399.58,Card,11,2025-04-27,313,False,-1.0,Cancelled,4198.74,3,1,5,9
+C1154,Male,Adult,Karachi,2024-09-18,2025-04-27,Subway,Chinese,2,308.72,Wallet,24,2025-05-19,118,False,5.0,Delivered,617.44,3,3,1,7
+C5645,Other,Adult,Karachi,2024-08-05,2025-02-23,Burger King,Dessert,3,1064.24,Card,44,2025-04-28,284,False,5.0,Delayed,3192.7200000000003,3,5,4,12
+C6727,Female,Teenager,Karachi,2024-12-16,2025-02-07,KFC,Fast Food,3,420.17,Cash,46,2025-04-29,322,True,-1.0,Cancelled,1260.51,3,5,2,10
+C5889,Female,Senior,Karachi,2024-09-27,2025-04-29,McDonald's,Italian,3,1073.83,Wallet,45,2025-08-03,485,True,1.0,Delayed,3221.49,5,5,4,14
+C2225,Male,Teenager,Karachi,2025-04-06,2025-04-29,Pizza Hut,Chinese,5,1269.72,Cash,39,2025-05-16,157,True,3.0,Delivered,6348.6,3,4,5,12
+C3362,Male,Senior,Karachi,2024-04-24,2025-04-29,McDonald's,Chinese,4,1280.62,Wallet,29,2025-06-26,312,False,-1.0,Cancelled,5122.48,4,3,5,12
+C1963,Female,Senior,Karachi,2024-08-31,2024-11-01,Burger King,Dessert,1,976.63,Cash,3,2025-04-29,181,False,5.0,Delayed,976.63,3,1,2,6
+C3744,Male,Adult,Karachi,2024-01-01,2025-03-28,KFC,Chinese,3,678.43,Card,15,2025-05-02,406,False,-1.0,Cancelled,2035.29,3,2,3,8
+C6180,Male,Senior,Karachi,2025-02-19,2025-03-22,Subway,Fast Food,3,977.17,Cash,11,2025-05-02,309,True,-1.0,Cancelled,2931.5099999999998,3,1,4,8
+C1392,Male,Senior,Karachi,2024-09-09,2024-09-24,Subway,Italian,2,732.99,Cash,41,2025-05-02,210,True,-1.0,Cancelled,1465.98,3,5,3,11
+C5713,Female,Teenager,Karachi,2024-01-14,2024-11-29,Subway,Italian,2,1039.7,Wallet,35,2025-05-04,262,True,-1.0,Cancelled,2079.4,3,4,3,10
+C5991,Other,Senior,Karachi,2024-12-08,2025-02-14,Burger King,Continental,5,353.94,Cash,42,2025-05-05,112,True,1.0,Delayed,1769.7,3,5,3,11
+C2515,Female,Adult,Karachi,2024-08-24,2024-08-30,Burger King,Fast Food,5,1499.01,Wallet,18,2025-05-05,352,False,5.0,Delayed,7495.05,3,2,5,10
+C4796,Other,Adult,Karachi,2024-10-28,2024-11-25,Pizza Hut,Continental,2,332.1,Cash,26,2025-05-06,89,True,4.0,Delivered,664.2,3,3,1,7
+C2101,Other,Teenager,Karachi,2024-08-31,2025-05-06,McDonald's,Italian,3,682.28,Cash,47,2025-07-09,221,True,4.0,Delivered,2046.84,4,5,3,12
+C1659,Other,Senior,Karachi,2023-10-20,2025-04-05,Subway,Dessert,1,1163.6,Wallet,15,2025-05-06,195,False,-1.0,Cancelled,1163.6,3,2,2,7
+C1144,Other,Adult,Karachi,2024-01-13,2025-05-07,McDonald's,Fast Food,2,964.25,Card,35,2025-07-11,412,False,-1.0,Cancelled,1928.5,4,4,3,11
+C4960,Male,Senior,Karachi,2024-08-31,2025-05-08,Subway,Dessert,1,906.73,Card,38,2025-08-11,406,True,2.0,Delivered,906.73,5,4,2,11
+C1934,Male,Senior,Karachi,2025-02-08,2025-05-02,Pizza Hut,Fast Food,3,310.16,Wallet,29,2025-05-09,237,False,-1.0,Cancelled,930.48,3,3,2,8
+C3005,Female,Senior,Karachi,2024-02-19,2025-05-09,Pizza Hut,Italian,5,967.2,Card,37,2025-05-25,164,False,1.0,Delivered,4836.0,3,4,5,12
+C5466,Other,Adult,Karachi,2024-01-13,2024-10-16,Subway,Italian,3,474.38,Card,10,2025-05-09,109,True,-1.0,Cancelled,1423.1399999999999,3,1,2,6
+C4464,Female,Teenager,Karachi,2024-09-12,2024-09-24,Subway,Fast Food,3,619.67,Cash,35,2025-05-09,437,False,4.0,Delayed,1859.0099999999998,3,4,3,10
+C4049,Other,Teenager,Karachi,2024-03-31,2025-01-15,Subway,Italian,3,999.26,Card,20,2025-05-10,210,True,-1.0,Cancelled,2997.7799999999997,3,2,4,9
+C1258,Female,Adult,Karachi,2023-09-08,2025-05-10,Subway,Italian,1,1224.69,Card,30,2025-08-07,476,False,1.0,Delayed,1224.69,5,3,2,10
+C5473,Female,Senior,Karachi,2024-04-03,2025-05-13,Pizza Hut,Chinese,2,211.07,Cash,24,2025-06-26,56,False,-1.0,Cancelled,422.14,4,3,1,8
+C3819,Male,Adult,Karachi,2023-09-22,2025-05-11,KFC,Fast Food,1,1240.51,Wallet,17,2025-05-14,1,True,4.0,Delivered,1240.51,3,2,2,7
+C1216,Male,Senior,Karachi,2023-11-18,2025-05-14,Subway,Chinese,4,414.19,Cash,31,2025-06-28,278,False,-1.0,Cancelled,1656.76,4,4,3,11
+C1738,Female,Teenager,Karachi,2024-10-08,2025-05-14,Subway,Italian,5,877.27,Wallet,4,2025-06-09,286,True,4.0,Delayed,4386.35,4,1,5,10
+C5059,Female,Senior,Karachi,2024-09-05,2025-05-16,KFC,Italian,1,512.26,Wallet,20,2025-05-16,300,False,1.0,Delayed,512.26,3,2,1,6
+C4224,Male,Teenager,Karachi,2024-11-30,2025-04-03,KFC,Continental,4,278.06,Cash,21,2025-05-17,370,False,3.0,Delayed,1112.24,3,3,2,8
+C2419,Other,Adult,Karachi,2025-03-13,2025-05-17,Burger King,Dessert,3,619.63,Cash,32,2025-06-27,334,True,1.0,Delayed,1858.8899999999999,4,4,3,11
+C1323,Other,Adult,Karachi,2023-12-28,2024-12-08,McDonald's,Chinese,4,1361.56,Cash,18,2025-05-18,41,True,-1.0,Cancelled,5446.24,3,2,5,10
+C5362,Male,Teenager,Karachi,2025-03-03,2025-04-07,Subway,Fast Food,3,230.18,Wallet,11,2025-05-18,341,False,-1.0,Cancelled,690.54,3,1,1,5
+C4135,Male,Teenager,Karachi,2024-10-07,2024-12-27,Burger King,Fast Food,5,295.69,Cash,39,2025-05-19,383,True,4.0,Delivered,1478.45,3,4,3,10
+C5098,Other,Senior,Karachi,2024-07-26,2025-02-15,Burger King,Continental,2,568.4,Card,21,2025-05-19,162,False,1.0,Delayed,1136.8,3,3,2,8
+C3157,Female,Senior,Karachi,2024-11-15,2025-05-20,Subway,Fast Food,4,1213.04,Cash,23,2025-05-20,64,True,2.0,Delayed,4852.16,3,3,5,11
+C3382,Other,Teenager,Karachi,2024-02-19,2025-05-20,Burger King,Fast Food,4,327.87,Card,38,2025-06-24,300,False,2.0,Delivered,1311.48,4,4,2,10
+C1635,Female,Adult,Karachi,2024-03-09,2025-05-20,Burger King,Continental,3,416.49,Cash,32,2025-07-25,165,True,2.0,Delayed,1249.47,5,4,2,11
+C5998,Female,Adult,Karachi,2024-10-18,2025-02-23,Burger King,Dessert,1,1496.02,Card,18,2025-05-21,211,True,-1.0,Cancelled,1496.02,3,2,3,8
+C2066,Other,Adult,Karachi,2023-11-13,2024-09-05,Pizza Hut,Fast Food,3,901.81,Card,25,2025-05-22,252,False,-1.0,Cancelled,2705.43,3,3,4,10
+C5072,Male,Senior,Karachi,2024-02-29,2025-01-25,Pizza Hut,Continental,2,931.35,Wallet,23,2025-05-23,208,False,2.0,Delivered,1862.7,3,3,3,9
+C1745,Female,Senior,Karachi,2024-12-22,2025-02-04,Burger King,Fast Food,3,327.59,Wallet,50,2025-05-25,309,False,-1.0,Cancelled,982.77,3,5,2,10
+C3480,Other,Teenager,Karachi,2024-02-20,2025-03-13,Burger King,Italian,5,1141.03,Wallet,49,2025-05-25,115,True,5.0,Delivered,5705.15,3,5,5,13
+C3520,Female,Adult,Karachi,2024-04-02,2024-10-10,Burger King,Dessert,5,479.24,Cash,1,2025-05-26,251,True,5.0,Delayed,2396.2,3,1,3,7
+C2780,Male,Teenager,Karachi,2024-06-15,2025-03-06,KFC,Chinese,2,146.06,Wallet,6,2025-05-28,166,False,-1.0,Cancelled,292.12,3,1,1,5
+C5966,Female,Teenager,Karachi,2024-09-02,2025-02-23,Burger King,Fast Food,3,324.74,Cash,40,2025-05-28,376,False,2.0,Delayed,974.22,3,4,2,9
+C4702,Male,Teenager,Karachi,2024-12-03,2025-05-10,Burger King,Dessert,4,127.31,Wallet,47,2025-05-29,420,False,2.0,Delivered,509.24,4,5,1,10
+C3706,Other,Teenager,Karachi,2024-11-09,2024-12-04,KFC,Continental,5,1179.7,Wallet,27,2025-05-29,437,True,5.0,Delayed,5898.5,4,3,5,12
+C3044,Male,Teenager,Karachi,2024-01-01,2024-11-07,Pizza Hut,Fast Food,2,412.08,Card,48,2025-05-30,466,True,-1.0,Cancelled,824.16,4,5,1,10
+C5739,Female,Senior,Karachi,2024-09-26,2025-03-05,KFC,Fast Food,4,294.67,Wallet,25,2025-05-30,31,False,-1.0,Cancelled,1178.68,4,3,2,9
+C4903,Male,Teenager,Karachi,2024-09-13,2025-02-27,Subway,Continental,3,1476.49,Wallet,29,2025-05-31,446,False,4.0,Delivered,4429.47,4,3,5,12
+C2595,Female,Adult,Karachi,2024-11-28,2025-06-02,McDonald's,Continental,2,490.94,Card,49,2025-07-27,345,False,3.0,Delayed,981.88,5,5,2,12
+C3734,Other,Teenager,Karachi,2024-06-04,2024-10-01,Pizza Hut,Continental,2,110.81,Cash,37,2025-06-04,490,True,-1.0,Cancelled,221.62,4,4,1,9
+C6218,Other,Adult,Karachi,2024-02-20,2025-02-26,Subway,Dessert,4,308.24,Card,42,2025-06-04,276,False,3.0,Delayed,1232.96,4,5,2,11
+C3513,Male,Senior,Karachi,2024-07-20,2024-11-08,Burger King,Italian,2,380.28,Card,30,2025-06-05,50,True,1.0,Delivered,760.56,4,3,1,8
+C1470,Male,Teenager,Karachi,2025-01-05,2025-01-25,KFC,Italian,4,388.34,Cash,14,2025-06-06,235,False,5.0,Delivered,1553.36,4,2,3,9
+C6468,Female,Teenager,Karachi,2024-11-09,2025-01-16,Subway,Italian,4,574.97,Cash,18,2025-06-06,217,False,1.0,Delivered,2299.88,4,2,3,9
+C4000,Male,Adult,Karachi,2024-10-16,2025-03-13,Pizza Hut,Chinese,3,399.7,Wallet,40,2025-06-08,380,False,3.0,Delivered,1199.1,4,4,2,10
+C3207,Other,Senior,Karachi,2024-03-06,2025-03-24,Burger King,Continental,2,120.09,Cash,29,2025-06-08,424,False,4.0,Delayed,240.18,4,3,1,8
+C2806,Female,Senior,Karachi,2024-05-29,2024-11-23,Subway,Italian,1,225.61,Card,14,2025-06-09,412,False,5.0,Delayed,225.61,4,2,1,7
+C4080,Male,Senior,Karachi,2024-10-22,2025-06-09,Pizza Hut,Fast Food,2,1176.27,Wallet,17,2025-07-30,423,True,4.0,Delivered,2352.54,5,2,3,10
+C6550,Female,Teenager,Karachi,2024-01-04,2024-10-13,Pizza Hut,Chinese,3,1284.76,Cash,21,2025-06-10,203,False,4.0,Delivered,3854.2799999999997,4,3,4,11
+C6691,Female,Senior,Karachi,2024-11-16,2025-04-01,McDonald's,Dessert,1,1379.75,Card,22,2025-06-10,398,False,-1.0,Cancelled,1379.75,4,3,2,9
+C5819,Male,Adult,Karachi,2023-12-27,2025-02-17,Subway,Fast Food,4,577.46,Card,26,2025-06-10,477,True,3.0,Delivered,2309.84,4,3,3,10
+C2566,Other,Adult,Karachi,2023-10-01,2024-08-21,McDonald's,Continental,3,407.11,Cash,26,2025-06-10,448,True,-1.0,Cancelled,1221.33,4,3,2,9
+C6803,Female,Teenager,Karachi,2023-09-15,2024-12-11,Burger King,Italian,1,285.99,Cash,16,2025-06-11,345,False,2.0,Delivered,285.99,4,2,1,7
+C3301,Other,Teenager,Karachi,2024-04-02,2024-09-10,Burger King,Chinese,2,835.84,Wallet,25,2025-06-11,421,False,-1.0,Cancelled,1671.68,4,3,3,10
+C2077,Other,Teenager,Karachi,2024-08-16,2025-02-23,KFC,Italian,4,633.75,Cash,11,2025-06-12,56,True,3.0,Delivered,2535.0,4,1,4,9
+C3523,Female,Adult,Karachi,2023-12-08,2024-08-28,McDonald's,Chinese,2,493.92,Card,46,2025-06-12,374,False,-1.0,Cancelled,987.84,4,5,2,11
+C3745,Female,Teenager,Karachi,2024-11-07,2025-06-13,Pizza Hut,Dessert,5,314.16,Cash,5,2025-06-27,29,False,5.0,Delivered,1570.8000000000002,4,1,3,8
+C5642,Other,Senior,Karachi,2024-01-12,2025-03-12,KFC,Italian,3,1027.67,Card,13,2025-06-14,245,True,5.0,Delivered,3083.01,4,2,4,10
+C4029,Other,Senior,Karachi,2024-09-03,2024-09-06,Pizza Hut,Chinese,3,1345.11,Card,18,2025-06-14,357,False,1.0,Delayed,4035.33,4,2,5,11
+C5614,Male,Teenager,Karachi,2024-01-25,2025-06-15,Burger King,Dessert,2,446.11,Cash,26,2025-07-24,500,True,3.0,Delayed,892.22,5,3,2,10
+C3396,Female,Teenager,Karachi,2023-10-17,2025-01-15,McDonald's,Chinese,3,1062.79,Card,14,2025-06-15,44,True,2.0,Delayed,3188.37,4,2,4,10
+C2305,Female,Adult,Karachi,2024-06-24,2025-06-15,McDonald's,Continental,1,1009.06,Cash,6,2025-06-30,475,False,2.0,Delayed,1009.06,4,1,2,7
+C2452,Female,Teenager,Karachi,2024-05-31,2024-11-05,Burger King,Dessert,4,1407.37,Card,24,2025-06-18,446,False,4.0,Delayed,5629.48,4,3,5,12
+C2069,Other,Senior,Karachi,2024-12-21,2025-04-13,Subway,Dessert,3,148.78,Cash,20,2025-06-19,311,True,3.0,Delayed,446.34000000000003,4,2,1,7
+C3767,Female,Adult,Karachi,2024-10-19,2025-06-20,Subway,Chinese,1,1163.48,Card,27,2025-07-06,468,False,5.0,Delivered,1163.48,4,3,2,9
+C4488,Other,Teenager,Karachi,2024-12-09,2025-02-08,KFC,Fast Food,1,889.57,Card,25,2025-06-21,169,False,-1.0,Cancelled,889.57,4,3,2,9
+C5282,Female,Senior,Karachi,2025-01-24,2025-02-12,Pizza Hut,Dessert,1,393.43,Wallet,11,2025-06-22,158,True,-1.0,Cancelled,393.43,4,1,1,6
+C2303,Male,Senior,Karachi,2025-01-20,2025-06-15,Pizza Hut,Italian,4,436.18,Card,33,2025-06-22,446,False,3.0,Delivered,1744.72,4,4,3,11
+C2367,Female,Teenager,Karachi,2023-11-26,2024-11-09,Subway,Continental,3,433.3,Wallet,22,2025-06-22,455,False,2.0,Delayed,1299.9,4,3,2,9
+C6087,Female,Senior,Karachi,2024-05-04,2025-06-23,Subway,Continental,1,1282.23,Wallet,5,2025-08-16,443,True,3.0,Delivered,1282.23,5,1,2,8
+C6725,Male,Adult,Karachi,2024-02-27,2025-05-31,KFC,Fast Food,4,672.24,Card,44,2025-06-24,62,True,-1.0,Cancelled,2688.96,4,5,4,13
+C5431,Female,Adult,Karachi,2024-10-04,2025-04-17,KFC,Fast Food,2,855.88,Card,20,2025-06-25,132,True,1.0,Delayed,1711.76,4,2,3,9
+C3837,Other,Teenager,Karachi,2023-11-02,2024-12-15,Subway,Continental,1,826.87,Wallet,45,2025-06-25,249,True,2.0,Delayed,826.87,4,5,1,10
+C5972,Other,Adult,Karachi,2024-10-06,2024-11-25,KFC,Dessert,4,1134.57,Card,10,2025-06-26,339,False,5.0,Delayed,4538.28,4,1,5,10
+C5861,Other,Adult,Karachi,2024-06-14,2025-06-27,Subway,Italian,2,1094.45,Card,18,2025-07-05,329,False,-1.0,Cancelled,2188.9,4,2,3,9
+C5958,Other,Adult,Karachi,2023-11-18,2024-12-12,Pizza Hut,Dessert,4,580.47,Card,13,2025-06-28,453,False,3.0,Delayed,2321.88,4,2,3,9
+C3522,Male,Senior,Karachi,2024-11-16,2025-06-21,McDonald's,Dessert,4,836.21,Card,18,2025-06-29,482,True,2.0,Delivered,3344.84,4,2,4,10
+C5487,Male,Teenager,Karachi,2024-02-25,2025-01-30,KFC,Chinese,3,880.72,Card,11,2025-06-29,318,False,5.0,Delayed,2642.16,4,1,4,9
+C3493,Other,Adult,Karachi,2024-07-07,2024-12-20,McDonald's,Continental,2,221.64,Cash,20,2025-06-29,125,False,3.0,Delayed,443.28,4,2,1,7
+C4222,Other,Adult,Karachi,2025-04-28,2025-06-13,McDonald's,Chinese,4,751.87,Cash,37,2025-06-30,418,True,2.0,Delayed,3007.48,4,4,4,12
+C6862,Other,Teenager,Karachi,2025-01-09,2025-07-02,McDonald's,Dessert,4,699.35,Card,37,2025-07-02,190,False,-1.0,Cancelled,2797.4,4,4,4,12
+C1419,Other,Adult,Karachi,2024-10-28,2025-07-03,Burger King,Italian,4,119.07,Card,6,2025-08-21,470,True,5.0,Delayed,476.28,5,1,1,7
+C6637,Male,Adult,Karachi,2024-02-25,2025-07-03,KFC,Fast Food,1,826.17,Card,28,2025-08-09,136,False,2.0,Delayed,826.17,5,3,1,9
+C2255,Male,Adult,Karachi,2024-05-09,2024-12-03,Pizza Hut,Italian,4,150.03,Cash,22,2025-07-04,34,False,-1.0,Cancelled,600.12,4,3,1,8
+C4622,Female,Teenager,Karachi,2024-12-09,2024-12-26,Subway,Italian,4,346.78,Wallet,13,2025-07-04,131,True,4.0,Delivered,1387.12,4,2,2,8
+C4565,Other,Teenager,Karachi,2024-02-16,2025-07-02,Subway,Dessert,4,1159.45,Cash,16,2025-07-05,340,False,-1.0,Cancelled,4637.8,4,2,5,11
+C2085,Male,Adult,Karachi,2025-06-02,2025-06-16,Subway,Continental,1,1296.09,Cash,49,2025-07-05,106,False,3.0,Delayed,1296.09,4,5,2,11
+C4289,Other,Teenager,Karachi,2024-11-18,2025-06-12,Pizza Hut,Italian,2,944.17,Card,23,2025-07-06,267,True,-1.0,Cancelled,1888.34,4,3,3,10
+C2942,Female,Teenager,Karachi,2023-09-11,2024-10-10,Pizza Hut,Fast Food,5,1464.32,Card,49,2025-07-06,184,True,4.0,Delayed,7321.599999999999,4,5,5,14
+C2320,Male,Teenager,Karachi,2024-08-25,2024-12-01,Burger King,Continental,4,1256.21,Cash,4,2025-07-07,34,False,2.0,Delayed,5024.84,4,1,5,10
+C6666,Female,Adult,Karachi,2025-01-05,2025-03-20,Subway,Italian,4,715.23,Cash,24,2025-07-08,105,True,-1.0,Cancelled,2860.92,4,3,4,11
+C2718,Other,Adult,Karachi,2024-12-25,2025-06-13,KFC,Continental,5,383.28,Wallet,38,2025-07-08,136,False,-1.0,Cancelled,1916.3999999999999,4,4,3,11
+C5200,Female,Senior,Karachi,2025-01-10,2025-07-10,KFC,Fast Food,4,489.75,Card,48,2025-07-17,307,False,4.0,Delivered,1959.0,5,5,3,13
+C5396,Female,Adult,Karachi,2024-08-29,2025-07-06,Burger King,Continental,1,728.79,Card,34,2025-07-10,172,False,2.0,Delayed,728.79,4,4,1,9
+C6237,Other,Senior,Karachi,2023-10-03,2024-09-26,McDonald's,Continental,5,852.44,Card,31,2025-07-10,325,False,4.0,Delayed,4262.200000000001,4,4,5,13
+C6448,Other,Senior,Karachi,2023-09-01,2024-12-24,KFC,Fast Food,3,262.76,Card,24,2025-07-10,64,False,-1.0,Cancelled,788.28,4,3,1,8
+C2547,Other,Adult,Karachi,2024-09-15,2025-03-06,Burger King,Chinese,4,813.3,Cash,25,2025-07-11,308,False,3.0,Delayed,3253.2,4,3,4,11
+C2039,Other,Adult,Karachi,2024-06-11,2025-01-01,McDonald's,Chinese,1,1136.94,Wallet,30,2025-07-11,183,False,5.0,Delayed,1136.94,4,3,2,9
+C3620,Other,Teenager,Karachi,2023-10-20,2024-11-20,McDonald's,Italian,5,136.09,Cash,11,2025-07-12,249,True,5.0,Delivered,680.45,4,1,1,6
+C5623,Male,Adult,Karachi,2025-01-06,2025-05-30,Subway,Fast Food,5,877.43,Wallet,25,2025-07-12,479,False,4.0,Delivered,4387.15,4,3,5,12
+C4848,Male,Adult,Karachi,2025-03-22,2025-07-12,Pizza Hut,Chinese,1,1467.6,Cash,3,2025-08-05,171,False,2.0,Delayed,1467.6,5,1,3,9
+C1536,Female,Adult,Karachi,2024-02-26,2024-10-12,McDonald's,Italian,4,259.47,Card,50,2025-07-12,104,False,4.0,Delivered,1037.88,4,5,2,11
+C2268,Other,Adult,Karachi,2025-02-06,2025-04-04,Pizza Hut,Dessert,1,577.03,Card,25,2025-07-13,468,False,-1.0,Cancelled,577.03,4,3,1,8
+C1804,Other,Adult,Karachi,2025-06-10,2025-07-13,Pizza Hut,Italian,3,401.4,Card,3,2025-08-11,195,False,2.0,Delivered,1204.1999999999998,5,1,2,8
+C1866,Female,Adult,Karachi,2025-02-06,2025-02-28,Subway,Dessert,1,689.93,Wallet,4,2025-07-14,286,False,4.0,Delayed,689.93,5,1,1,7
+C6885,Male,Senior,Karachi,2023-12-10,2025-06-02,McDonald's,Dessert,4,1432.84,Cash,45,2025-07-14,12,True,4.0,Delivered,5731.36,5,5,5,15
+C4220,Female,Senior,Karachi,2024-04-21,2025-04-07,KFC,Italian,5,595.56,Wallet,7,2025-07-15,272,False,2.0,Delivered,2977.7999999999997,5,1,4,10
+C3036,Male,Adult,Karachi,2023-09-23,2025-04-29,Burger King,Continental,2,1258.93,Wallet,14,2025-07-17,15,True,2.0,Delivered,2517.86,5,2,4,11
+C2289,Female,Adult,Karachi,2025-01-03,2025-07-17,Subway,Fast Food,5,1414.93,Card,1,2025-07-23,496,True,5.0,Delivered,7074.650000000001,5,1,5,11
+C3395,Male,Teenager,Karachi,2023-10-01,2025-07-02,Pizza Hut,Dessert,3,650.94,Wallet,5,2025-07-17,472,True,4.0,Delivered,1952.8200000000002,5,1,3,9
+C1208,Male,Adult,Karachi,2024-04-27,2024-12-29,Burger King,Dessert,2,1382.25,Cash,20,2025-07-18,423,False,1.0,Delayed,2764.5,5,2,4,11
+C2150,Male,Teenager,Karachi,2024-12-23,2025-06-15,KFC,Dessert,1,162.88,Card,5,2025-07-19,412,False,3.0,Delayed,162.88,5,1,1,7
+C5716,Other,Teenager,Karachi,2023-10-11,2024-09-19,Pizza Hut,Fast Food,3,782.02,Card,17,2025-07-21,397,False,4.0,Delivered,2346.06,5,2,3,10
+C1179,Female,Senior,Karachi,2025-05-16,2025-07-11,KFC,Chinese,5,784.12,Cash,8,2025-07-21,383,True,5.0,Delayed,3920.6,5,1,4,10
+C5313,Male,Teenager,Karachi,2024-08-22,2025-02-12,McDonald's,Chinese,4,375.66,Wallet,40,2025-07-21,400,False,-1.0,Cancelled,1502.64,5,4,3,12
+C1042,Female,Senior,Karachi,2024-08-16,2024-09-13,Burger King,Chinese,3,186.03,Card,8,2025-07-21,13,False,-1.0,Cancelled,558.09,5,1,1,7
+C2466,Female,Adult,Karachi,2025-03-17,2025-06-01,Pizza Hut,Continental,5,364.18,Wallet,49,2025-07-21,111,True,3.0,Delayed,1820.9,5,5,3,13
+C2850,Other,Teenager,Karachi,2024-04-29,2025-07-22,KFC,Fast Food,2,233.23,Cash,23,2025-08-11,471,False,3.0,Delayed,466.46,5,3,1,9
+C6349,Other,Teenager,Karachi,2024-12-02,2024-12-23,Burger King,Italian,4,1031.56,Card,33,2025-07-24,435,True,2.0,Delivered,4126.24,5,4,5,14
+C2275,Female,Teenager,Karachi,2023-10-21,2025-07-25,McDonald's,Chinese,3,392.35,Cash,33,2025-08-15,431,False,-1.0,Cancelled,1177.0500000000002,5,4,2,11
+C2650,Male,Senior,Karachi,2025-01-29,2025-03-28,KFC,Chinese,5,1421.81,Card,5,2025-07-25,351,True,-1.0,Cancelled,7109.049999999999,5,1,5,11
+C3452,Male,Adult,Karachi,2023-11-22,2024-09-15,Pizza Hut,Fast Food,5,363.04,Wallet,12,2025-07-26,258,False,3.0,Delayed,1815.2,5,2,3,10
+C4709,Male,Adult,Karachi,2023-11-12,2024-10-16,KFC,Chinese,3,240.04,Card,27,2025-07-26,4,True,4.0,Delivered,720.12,5,3,1,9
+C6663,Female,Senior,Karachi,2024-02-10,2025-04-04,Pizza Hut,Dessert,1,277.44,Wallet,17,2025-07-26,381,False,4.0,Delivered,277.44,5,2,1,8
+C3771,Male,Teenager,Karachi,2024-05-14,2024-10-14,KFC,Continental,5,599.16,Card,16,2025-07-28,314,True,2.0,Delayed,2995.7999999999997,5,2,4,11
+C6729,Female,Adult,Karachi,2023-11-13,2024-11-19,Burger King,Chinese,3,673.37,Cash,16,2025-07-28,161,True,5.0,Delivered,2020.1100000000001,5,2,3,10
+C2083,Other,Teenager,Karachi,2024-08-11,2024-10-09,Pizza Hut,Italian,4,1375.05,Card,48,2025-07-28,310,True,3.0,Delivered,5500.2,5,5,5,15
+C3611,Other,Senior,Karachi,2024-05-02,2025-05-20,Pizza Hut,Italian,1,748.07,Cash,40,2025-07-28,31,False,-1.0,Cancelled,748.07,5,4,1,10
+C4302,Other,Adult,Karachi,2024-08-23,2025-07-28,Pizza Hut,Italian,5,1156.25,Cash,15,2025-08-08,359,True,-1.0,Cancelled,5781.25,5,2,5,12
+C1237,Male,Senior,Karachi,2025-04-23,2025-05-17,Pizza Hut,Dessert,4,1015.84,Cash,32,2025-07-30,460,True,-1.0,Cancelled,4063.36,5,4,5,14
+C2116,Female,Adult,Karachi,2025-03-17,2025-06-28,Burger King,Chinese,4,1441.52,Wallet,19,2025-07-31,81,True,-1.0,Cancelled,5766.08,5,2,5,12
+C1776,Male,Adult,Karachi,2023-10-28,2024-08-29,KFC,Italian,1,862.8,Card,30,2025-08-01,17,False,2.0,Delayed,862.8,5,3,2,10
+C3766,Male,Teenager,Karachi,2025-05-14,2025-08-02,Burger King,Continental,5,341.92,Wallet,24,2025-08-05,284,True,-1.0,Cancelled,1709.6000000000001,5,3,3,11
+C4527,Other,Senior,Karachi,2025-06-14,2025-08-02,KFC,Chinese,5,1309.79,Cash,24,2025-08-18,207,True,3.0,Delayed,6548.95,5,3,5,13
+C5191,Other,Teenager,Karachi,2024-09-14,2025-01-20,Subway,Dessert,4,328.06,Card,45,2025-08-02,267,False,2.0,Delivered,1312.24,5,5,2,12
+C6630,Other,Teenager,Karachi,2023-12-06,2024-12-11,Subway,Italian,2,582.2,Card,4,2025-08-03,409,False,3.0,Delivered,1164.4,5,1,2,8
+C6147,Male,Senior,Karachi,2024-06-11,2025-02-23,Subway,Fast Food,4,520.78,Card,35,2025-08-04,278,False,-1.0,Cancelled,2083.12,5,4,3,12
+C3756,Male,Adult,Karachi,2025-02-22,2025-07-13,Subway,Continental,1,655.24,Cash,50,2025-08-04,151,False,5.0,Delivered,655.24,5,5,1,11
+C3964,Other,Teenager,Karachi,2023-09-21,2025-06-17,Pizza Hut,Continental,5,1222.24,Cash,22,2025-08-05,146,True,-1.0,Cancelled,6111.2,5,3,5,13
+C5676,Other,Teenager,Karachi,2024-12-02,2025-07-13,Pizza Hut,Chinese,4,314.88,Wallet,13,2025-08-06,54,True,2.0,Delivered,1259.52,5,2,2,9
+C2107,Female,Teenager,Karachi,2024-05-03,2024-08-26,McDonald's,Continental,2,1436.08,Card,23,2025-08-06,13,False,1.0,Delivered,2872.16,5,3,4,12
+C1213,Female,Teenager,Karachi,2023-09-28,2024-08-23,KFC,Chinese,5,910.38,Card,23,2025-08-06,394,False,3.0,Delayed,4551.9,5,3,5,13
+C1039,Female,Senior,Karachi,2023-10-14,2024-09-30,KFC,Italian,5,330.63,Card,25,2025-08-07,475,False,2.0,Delayed,1653.15,5,3,3,11
+C5884,Other,Adult,Karachi,2023-08-31,2025-03-01,Subway,Chinese,3,624.11,Card,44,2025-08-07,277,True,5.0,Delayed,1872.33,5,5,3,13
+C4858,Female,Senior,Karachi,2025-03-17,2025-05-18,Pizza Hut,Continental,3,1308.54,Cash,16,2025-08-07,361,True,-1.0,Cancelled,3925.62,5,2,4,11
+C2431,Female,Teenager,Karachi,2025-02-20,2025-05-25,Subway,Continental,2,447.47,Card,22,2025-08-08,196,True,1.0,Delayed,894.94,5,3,2,10
+C2878,Other,Adult,Karachi,2024-03-21,2025-08-09,Burger King,Continental,2,238.46,Wallet,41,2025-08-17,373,False,3.0,Delayed,476.92,5,5,1,11
+C4015,Male,Teenager,Karachi,2025-02-07,2025-07-21,McDonald's,Dessert,4,134.37,Card,11,2025-08-09,489,True,-1.0,Cancelled,537.48,5,1,1,7
+C6388,Other,Senior,Karachi,2025-07-15,2025-08-03,Burger King,Chinese,4,680.93,Card,1,2025-08-09,395,False,2.0,Delivered,2723.72,5,1,4,10
+C3755,Male,Senior,Karachi,2024-02-08,2025-07-16,Subway,Dessert,4,100.59,Card,23,2025-08-09,260,False,5.0,Delayed,402.36,5,3,1,9
+C4785,Female,Teenager,Karachi,2024-03-03,2025-06-29,Burger King,Italian,1,1126.5,Wallet,34,2025-08-10,363,True,2.0,Delivered,1126.5,5,4,2,11
+C3798,Male,Senior,Karachi,2025-05-02,2025-05-08,Subway,Continental,1,1320.43,Card,5,2025-08-10,410,True,1.0,Delayed,1320.43,5,1,2,8
+C3921,Other,Teenager,Karachi,2025-03-31,2025-07-24,Burger King,Italian,5,1388.28,Wallet,34,2025-08-11,434,True,1.0,Delivered,6941.4,5,4,5,14
+C5593,Male,Adult,Karachi,2023-10-10,2024-11-02,KFC,Fast Food,1,1423.68,Wallet,26,2025-08-12,485,False,3.0,Delayed,1423.68,5,3,2,10
+C1281,Male,Teenager,Karachi,2025-05-29,2025-07-10,Burger King,Fast Food,3,1337.25,Card,40,2025-08-12,303,False,4.0,Delayed,4011.75,5,4,5,14
+C3583,Male,Adult,Karachi,2024-03-27,2025-05-31,Subway,Italian,2,989.1,Card,27,2025-08-12,407,True,-1.0,Cancelled,1978.2,5,3,3,11
+C5667,Other,Teenager,Karachi,2024-12-31,2025-07-22,Burger King,Dessert,4,782.04,Cash,9,2025-08-13,136,True,-1.0,Cancelled,3128.16,5,1,4,10
+C1841,Female,Adult,Karachi,2024-03-31,2025-04-16,Subway,Dessert,4,767.68,Cash,14,2025-08-14,379,False,5.0,Delayed,3070.72,5,2,4,11
+C3177,Male,Senior,Karachi,2023-10-06,2025-01-13,McDonald's,Continental,4,1466.24,Card,24,2025-08-14,107,True,-1.0,Cancelled,5864.96,5,3,5,13
+C4992,Male,Teenager,Karachi,2025-05-30,2025-07-22,Pizza Hut,Dessert,1,188.55,Card,23,2025-08-14,247,True,4.0,Delayed,188.55,5,3,1,9
+C2440,Male,Teenager,Karachi,2025-04-19,2025-07-06,McDonald's,Chinese,3,131.12,Wallet,20,2025-08-14,135,True,2.0,Delivered,393.36,5,2,1,8
+C4614,Female,Teenager,Karachi,2024-09-19,2024-12-27,Subway,Italian,2,421.96,Cash,40,2025-08-15,319,True,3.0,Delivered,843.92,5,4,2,11
+C3589,Male,Teenager,Karachi,2024-10-13,2025-06-10,Pizza Hut,Fast Food,4,1011.2,Cash,30,2025-08-15,115,False,5.0,Delayed,4044.8,5,3,5,13
+C6513,Male,Teenager,Karachi,2024-06-23,2024-12-27,KFC,Dessert,1,1311.72,Wallet,40,2025-08-16,153,False,3.0,Delivered,1311.72,5,4,2,11
+C6057,Male,Senior,Karachi,2024-12-24,2025-03-15,McDonald's,Continental,2,688.47,Wallet,34,2025-08-16,20,True,2.0,Delivered,1376.94,5,4,2,11
+C5195,Male,Adult,Karachi,2024-09-15,2024-10-04,Pizza Hut,Fast Food,1,1312.96,Card,32,2025-08-17,225,False,3.0,Delivered,1312.96,5,4,2,11
+C5217,Female,Teenager,Karachi,2025-03-14,2025-08-04,Subway,Fast Food,5,979.67,Card,17,2025-08-17,224,False,3.0,Delivered,4898.349999999999,5,2,5,12
+C1124,Female,Teenager,Karachi,2023-12-06,2025-07-05,Pizza Hut,Continental,4,211.41,Card,1,2025-08-17,118,True,5.0,Delayed,845.64,5,1,2,8
+C4254,Other,Adult,Karachi,2024-12-12,2025-05-31,Burger King,Fast Food,1,507.73,Wallet,26,2025-08-20,406,False,1.0,Delayed,507.73,5,3,1,9
+C4936,Female,Senior,Karachi,2023-10-11,2024-12-11,Pizza Hut,Continental,2,1137.66,Cash,19,2025-08-20,494,False,5.0,Delivered,2275.32,5,2,3,10
+C1450,Female,Adult,Karachi,2024-09-22,2025-01-15,Pizza Hut,Chinese,4,404.82,Wallet,10,2025-08-21,148,False,5.0,Delayed,1619.28,5,1,3,9

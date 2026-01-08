@@ -1,0 +1,1196 @@
+customer_id,gender,age,city,signup_date,order_date,restaurant_name,category,quantity,price,payment_method,order_frequency,last_order_date,loyalty_points,churned,rating,delivery_status,order_value,r_score,f_score,m_score,rfm_score
+C5663,Male,Adult,Peshawar,2023-08-23,2024-01-14,McDonald's,Italian,5,1478.27,Cash,38,2025-07-19,238,False,-1.0,Cancelled,7391.35,5,4,5,14
+C1694,Female,Senior,Peshawar,2023-08-23,2023-09-05,Subway,Dessert,4,231.3,Card,27,2025-07-24,45,True,2.0,Delayed,925.2,5,3,2,10
+C4621,Male,Adult,Peshawar,2023-08-24,2024-02-05,Pizza Hut,Chinese,2,271.74,Cash,14,2025-05-01,429,False,2.0,Delivered,543.48,3,2,1,6
+C6144,Other,Teenager,Peshawar,2023-08-25,2024-08-05,Subway,Fast Food,2,991.17,Wallet,6,2025-04-22,101,False,-1.0,Cancelled,1982.34,3,1,3,7
+C1929,Female,Teenager,Peshawar,2023-08-26,2023-11-27,KFC,Continental,1,599.7,Wallet,35,2025-06-26,172,False,4.0,Delayed,599.7,4,4,1,9
+C5444,Other,Teenager,Peshawar,2023-08-26,2025-04-21,Subway,Chinese,3,1052.17,Cash,12,2025-07-02,14,True,3.0,Delayed,3156.51,4,2,4,10
+C4748,Other,Adult,Peshawar,2023-08-26,2024-03-10,Subway,Italian,5,909.48,Wallet,3,2025-07-28,224,True,-1.0,Cancelled,4547.4,5,1,5,11
+C6804,Female,Adult,Peshawar,2023-08-28,2025-01-16,Burger King,Continental,3,931.02,Wallet,30,2025-07-10,211,True,3.0,Delayed,2793.06,4,3,4,11
+C5286,Other,Adult,Peshawar,2023-08-30,2025-03-09,KFC,Continental,4,1052.03,Cash,44,2025-04-16,107,True,4.0,Delivered,4208.12,3,5,5,13
+C3379,Other,Adult,Peshawar,2023-08-30,2023-12-19,McDonald's,Italian,3,519.94,Card,30,2024-10-08,195,False,1.0,Delivered,1559.8200000000002,1,3,3,7
+C1557,Female,Teenager,Peshawar,2023-08-31,2024-01-11,Burger King,Chinese,1,1071.22,Cash,5,2025-06-15,56,True,5.0,Delivered,1071.22,4,1,2,7
+C6686,Female,Senior,Peshawar,2023-08-31,2024-08-11,KFC,Fast Food,1,397.47,Wallet,5,2025-04-12,180,False,-1.0,Cancelled,397.47,3,1,1,5
+C1207,Other,Teenager,Peshawar,2023-08-31,2023-09-23,McDonald's,Italian,4,1143.99,Wallet,26,2024-09-26,323,True,4.0,Delivered,4575.96,1,3,5,9
+C2375,Female,Teenager,Peshawar,2023-09-01,2023-11-17,McDonald's,Continental,3,716.53,Card,3,2025-02-20,432,True,-1.0,Cancelled,2149.59,2,1,3,6
+C3484,Male,Senior,Peshawar,2023-09-01,2024-10-01,Subway,Fast Food,3,1135.18,Cash,2,2025-08-02,113,False,-1.0,Cancelled,3405.54,5,1,4,10
+C4670,Other,Adult,Peshawar,2023-09-02,2024-08-23,Pizza Hut,Italian,3,124.6,Card,26,2025-05-06,297,True,-1.0,Cancelled,373.79999999999995,3,3,1,7
+C6071,Female,Senior,Peshawar,2023-09-02,2024-01-23,Pizza Hut,Continental,1,1465.02,Card,45,2025-07-04,420,False,1.0,Delivered,1465.02,4,5,3,12
+C5186,Female,Adult,Peshawar,2023-09-02,2023-10-27,Subway,Continental,2,158.21,Cash,8,2024-12-27,321,False,3.0,Delayed,316.42,1,1,1,3
+C3464,Other,Adult,Peshawar,2023-09-02,2024-06-11,Pizza Hut,Continental,2,949.78,Card,46,2025-04-14,435,False,-1.0,Cancelled,1899.56,3,5,3,11
+C5340,Male,Teenager,Peshawar,2023-09-02,2024-05-09,McDonald's,Continental,1,1047.07,Wallet,50,2025-01-29,328,True,2.0,Delayed,1047.07,2,5,2,9
+C1833,Other,Adult,Peshawar,2023-09-03,2025-04-08,KFC,Chinese,4,599.35,Cash,3,2025-06-06,322,True,-1.0,Cancelled,2397.4,4,1,3,8
+C2040,Male,Senior,Peshawar,2023-09-03,2024-02-07,Burger King,Fast Food,4,1418.27,Wallet,14,2025-05-18,291,True,-1.0,Cancelled,5673.08,3,2,5,10
+C3087,Female,Adult,Peshawar,2023-09-04,2025-05-05,Subway,Italian,2,526.39,Wallet,7,2025-06-22,83,True,1.0,Delayed,1052.78,4,1,2,7
+C2154,Male,Teenager,Peshawar,2023-09-05,2024-09-05,Pizza Hut,Continental,3,141.58,Wallet,30,2024-11-13,363,False,2.0,Delivered,424.74,1,3,1,5
+C6419,Female,Senior,Peshawar,2023-09-05,2024-09-16,Pizza Hut,Continental,5,699.7,Cash,20,2025-04-12,183,False,3.0,Delivered,3498.5,3,2,4,9
+C3241,Other,Adult,Peshawar,2023-09-06,2024-12-29,McDonald's,Dessert,3,667.31,Cash,22,2025-08-10,375,False,3.0,Delivered,2001.9299999999998,5,3,3,11
+C2832,Other,Teenager,Peshawar,2023-09-07,2024-07-03,McDonald's,Italian,4,792.08,Card,19,2024-09-21,296,True,4.0,Delivered,3168.32,1,2,4,7
+C6273,Male,Teenager,Peshawar,2023-09-07,2025-03-05,Burger King,Chinese,2,614.0,Card,21,2025-05-17,52,False,-1.0,Cancelled,1228.0,3,3,2,8
+C3949,Male,Adult,Peshawar,2023-09-08,2024-10-18,Burger King,Chinese,2,212.59,Cash,26,2025-06-26,302,False,1.0,Delivered,425.18,4,3,1,8
+C4628,Female,Adult,Peshawar,2023-09-09,2025-03-20,McDonald's,Continental,3,1147.65,Wallet,45,2025-04-15,353,False,4.0,Delivered,3442.9500000000003,3,5,4,12
+C4407,Other,Adult,Peshawar,2023-08-31,2023-09-09,Pizza Hut,Continental,5,1203.99,Wallet,1,2025-04-17,106,True,4.0,Delayed,6019.95,3,1,5,9
+C2522,Other,Teenager,Peshawar,2023-09-10,2024-12-11,KFC,Italian,4,589.82,Cash,28,2025-03-25,162,True,2.0,Delivered,2359.28,2,3,3,8
+C5113,Female,Adult,Peshawar,2023-09-11,2025-02-21,Burger King,Fast Food,5,1381.09,Wallet,23,2025-04-14,193,True,1.0,Delivered,6905.45,3,3,5,11
+C4592,Other,Senior,Peshawar,2023-08-24,2023-09-12,KFC,Italian,1,1064.71,Card,12,2025-08-13,41,False,4.0,Delivered,1064.71,5,2,2,9
+C2453,Other,Senior,Peshawar,2023-09-12,2024-11-20,Burger King,Continental,3,889.41,Cash,24,2025-07-24,101,False,-1.0,Cancelled,2668.23,5,3,4,12
+C6883,Other,Senior,Peshawar,2023-09-14,2025-07-19,Burger King,Chinese,1,1116.09,Card,14,2025-08-19,83,False,-1.0,Cancelled,1116.09,5,2,2,9
+C6797,Other,Senior,Peshawar,2023-09-14,2023-09-21,Subway,Italian,3,1262.54,Card,39,2024-10-24,114,False,-1.0,Cancelled,3787.62,1,4,4,9
+C3821,Other,Senior,Peshawar,2023-09-15,2025-05-12,Burger King,Continental,4,1219.14,Wallet,48,2025-06-29,167,True,2.0,Delivered,4876.56,4,5,5,14
+C2277,Male,Senior,Peshawar,2023-09-16,2023-10-04,KFC,Chinese,1,184.89,Wallet,9,2024-09-15,231,False,2.0,Delivered,184.89,1,1,1,3
+C1993,Other,Senior,Peshawar,2023-09-17,2024-01-13,Burger King,Fast Food,1,219.65,Wallet,14,2025-07-09,394,False,3.0,Delayed,219.65,4,2,1,7
+C1612,Other,Senior,Peshawar,2023-09-18,2024-09-05,KFC,Continental,4,1073.05,Cash,23,2025-04-07,109,False,-1.0,Cancelled,4292.2,3,3,5,11
+C1243,Other,Adult,Peshawar,2023-09-19,2024-12-12,Pizza Hut,Fast Food,5,1487.56,Wallet,38,2025-01-08,356,True,-1.0,Cancelled,7437.799999999999,1,4,5,10
+C6702,Female,Senior,Peshawar,2023-09-19,2024-05-31,Subway,Dessert,1,839.84,Card,46,2025-05-24,426,False,3.0,Delivered,839.84,3,5,1,9
+C1628,Other,Adult,Peshawar,2023-09-20,2024-08-22,KFC,Dessert,1,1132.4,Cash,46,2025-08-19,426,True,-1.0,Cancelled,1132.4,5,5,2,12
+C6104,Other,Senior,Peshawar,2023-09-20,2024-02-01,Burger King,Chinese,1,1336.88,Wallet,9,2025-08-14,175,False,3.0,Delayed,1336.88,5,1,2,8
+C5363,Female,Teenager,Peshawar,2023-09-21,2024-10-25,Burger King,Fast Food,4,548.53,Card,21,2025-08-05,468,False,4.0,Delivered,2194.12,5,3,3,11
+C4911,Female,Adult,Peshawar,2023-09-22,2024-03-17,KFC,Dessert,1,333.7,Cash,44,2025-08-18,361,False,-1.0,Cancelled,333.7,5,5,1,11
+C3267,Male,Teenager,Peshawar,2023-09-22,2024-01-15,Pizza Hut,Dessert,5,1076.91,Card,14,2024-11-27,416,False,4.0,Delayed,5384.55,1,2,5,8
+C4356,Male,Adult,Peshawar,2023-09-23,2024-05-12,Burger King,Continental,3,494.59,Card,6,2025-08-19,20,True,3.0,Delivered,1483.77,5,1,3,9
+C2248,Male,Adult,Peshawar,2023-09-24,2023-12-30,Burger King,Continental,2,760.42,Cash,10,2025-05-12,135,False,3.0,Delayed,1520.84,3,1,3,7
+C3431,Other,Senior,Peshawar,2023-09-24,2025-02-11,Subway,Chinese,5,570.24,Cash,16,2025-07-07,21,True,-1.0,Cancelled,2851.2,4,2,4,10
+C5866,Other,Adult,Peshawar,2023-09-25,2025-01-22,Burger King,Fast Food,2,1435.8,Card,42,2025-02-06,451,False,3.0,Delivered,2871.6,2,5,4,11
+C4155,Other,Senior,Peshawar,2023-09-25,2024-11-27,McDonald's,Dessert,4,1243.61,Cash,45,2025-01-28,274,True,2.0,Delayed,4974.44,2,5,5,12
+C5798,Other,Senior,Peshawar,2023-09-26,2024-08-22,Subway,Italian,5,1173.77,Card,19,2025-03-07,174,True,-1.0,Cancelled,5868.85,2,2,5,9
+C1005,Female,Senior,Peshawar,2023-09-26,2024-11-16,KFC,Dessert,4,1316.87,Card,37,2025-06-09,129,False,3.0,Delivered,5267.48,4,4,5,13
+C5904,Female,Teenager,Peshawar,2023-09-27,2023-11-15,KFC,Italian,3,994.25,Wallet,45,2025-01-14,118,True,4.0,Delayed,2982.75,1,5,4,10
+C6605,Male,Teenager,Peshawar,2023-09-27,2024-09-19,KFC,Chinese,4,1155.39,Wallet,34,2025-04-04,263,True,-1.0,Cancelled,4621.56,3,4,5,12
+C6176,Other,Teenager,Peshawar,2023-09-29,2024-01-28,KFC,Chinese,1,1234.59,Wallet,47,2025-05-24,294,True,-1.0,Cancelled,1234.59,3,5,2,10
+C4681,Other,Senior,Peshawar,2023-09-29,2025-01-03,Burger King,Fast Food,4,1266.35,Wallet,2,2025-01-21,181,False,4.0,Delayed,5065.4,2,1,5,8
+C6558,Other,Senior,Peshawar,2023-09-29,2025-05-30,Burger King,Continental,4,1035.72,Cash,42,2025-08-02,95,True,-1.0,Cancelled,4142.88,5,5,5,15
+C5325,Female,Teenager,Peshawar,2023-09-30,2024-12-20,Subway,Dessert,4,777.89,Cash,14,2025-05-11,333,True,2.0,Delivered,3111.56,3,2,4,9
+C4441,Male,Teenager,Peshawar,2023-09-30,2025-02-14,Pizza Hut,Chinese,2,328.22,Wallet,15,2025-08-09,447,False,1.0,Delayed,656.44,5,2,1,8
+C3779,Male,Senior,Peshawar,2023-10-01,2023-10-24,Pizza Hut,Fast Food,4,274.84,Wallet,22,2025-02-16,186,True,3.0,Delivered,1099.36,2,3,2,7
+C3908,Male,Teenager,Peshawar,2023-09-27,2023-10-02,McDonald's,Chinese,5,1420.1,Card,15,2025-05-06,217,False,1.0,Delivered,7100.5,3,2,5,10
+C2178,Other,Adult,Peshawar,2023-10-04,2023-10-22,McDonald's,Chinese,5,457.3,Card,5,2025-06-06,458,False,-1.0,Cancelled,2286.5,4,1,3,8
+C3250,Female,Teenager,Peshawar,2023-10-06,2024-11-22,Burger King,Dessert,2,1480.26,Card,37,2024-12-11,332,True,4.0,Delayed,2960.52,1,4,4,9
+C2082,Male,Senior,Peshawar,2023-10-06,2025-02-09,Burger King,Continental,5,1351.93,Wallet,34,2025-07-09,90,False,3.0,Delivered,6759.650000000001,4,4,5,13
+C5683,Female,Teenager,Peshawar,2023-10-07,2024-09-21,KFC,Continental,4,1182.82,Cash,12,2025-08-02,252,False,3.0,Delivered,4731.28,5,2,5,12
+C1347,Female,Adult,Peshawar,2023-10-09,2024-10-27,Burger King,Fast Food,1,1165.15,Wallet,45,2025-03-18,90,False,5.0,Delayed,1165.15,2,5,2,9
+C3878,Female,Senior,Peshawar,2023-10-09,2024-12-02,Pizza Hut,Italian,4,722.13,Wallet,18,2025-03-24,390,False,2.0,Delivered,2888.52,2,2,4,8
+C6520,Other,Adult,Peshawar,2023-10-10,2024-08-25,McDonald's,Continental,4,408.34,Card,37,2025-06-11,182,False,-1.0,Cancelled,1633.36,4,4,3,11
+C5612,Other,Teenager,Peshawar,2023-10-13,2023-12-24,Burger King,Fast Food,3,708.99,Wallet,50,2024-10-26,212,True,5.0,Delivered,2126.9700000000003,1,5,3,9
+C5600,Female,Teenager,Peshawar,2023-08-29,2023-10-13,Pizza Hut,Chinese,2,1104.81,Cash,49,2025-02-18,343,True,-1.0,Cancelled,2209.62,2,5,3,10
+C3394,Male,Senior,Peshawar,2023-10-14,2024-08-25,Subway,Italian,3,1295.91,Wallet,50,2025-08-03,424,False,-1.0,Cancelled,3887.7300000000005,5,5,4,14
+C2134,Other,Teenager,Peshawar,2023-10-14,2025-02-16,KFC,Italian,4,617.77,Card,12,2025-05-07,284,True,1.0,Delivered,2471.08,3,2,4,9
+C6140,Male,Adult,Peshawar,2023-10-15,2024-03-07,Pizza Hut,Chinese,3,1060.39,Cash,48,2025-02-13,381,False,3.0,Delivered,3181.17,2,5,4,11
+C6394,Other,Senior,Peshawar,2023-10-16,2024-10-20,Pizza Hut,Fast Food,1,433.41,Card,21,2025-05-31,230,True,5.0,Delayed,433.41,4,3,1,8
+C1912,Female,Senior,Peshawar,2023-10-16,2024-10-28,Subway,Continental,4,1153.33,Card,35,2025-01-26,423,True,-1.0,Cancelled,4613.32,2,4,5,11
+C1865,Other,Senior,Peshawar,2023-10-16,2024-09-27,Burger King,Continental,3,189.51,Cash,3,2024-11-22,173,True,1.0,Delivered,568.53,1,1,1,3
+C2446,Male,Adult,Peshawar,2023-10-16,2024-03-25,Pizza Hut,Chinese,2,1297.06,Card,24,2025-08-16,116,False,1.0,Delivered,2594.12,5,3,4,12
+C1054,Male,Senior,Peshawar,2023-10-17,2024-05-28,McDonald's,Chinese,2,1456.87,Wallet,8,2025-07-08,264,False,-1.0,Cancelled,2913.74,4,1,4,9
+C1826,Other,Senior,Peshawar,2023-10-19,2025-01-11,KFC,Dessert,5,709.05,Cash,50,2025-05-15,330,True,5.0,Delivered,3545.25,3,5,4,12
+C1664,Male,Teenager,Peshawar,2023-10-19,2025-03-03,McDonald's,Dessert,5,166.46,Card,36,2025-03-28,274,False,-1.0,Cancelled,832.3000000000001,2,4,1,7
+C1017,Female,Senior,Peshawar,2023-10-19,2025-02-03,McDonald's,Dessert,3,707.54,Card,22,2025-07-26,127,False,-1.0,Cancelled,2122.62,5,3,3,11
+C5975,Male,Senior,Peshawar,2023-09-29,2023-10-19,McDonald's,Dessert,1,288.03,Wallet,15,2025-02-23,369,True,4.0,Delayed,288.03,2,2,1,5
+C3231,Other,Adult,Peshawar,2023-10-20,2024-01-26,Burger King,Italian,4,137.6,Cash,6,2025-02-20,140,False,1.0,Delayed,550.4,2,1,1,4
+C4539,Other,Adult,Peshawar,2023-10-21,2024-05-21,Subway,Chinese,1,1425.71,Card,18,2025-02-23,26,False,4.0,Delayed,1425.71,2,2,2,6
+C1048,Female,Senior,Peshawar,2023-10-22,2025-01-30,KFC,Fast Food,4,1006.92,Card,45,2025-05-31,41,False,3.0,Delayed,4027.68,4,5,5,14
+C2450,Male,Senior,Peshawar,2023-10-22,2024-05-30,KFC,Fast Food,2,384.71,Cash,24,2025-02-01,420,False,3.0,Delayed,769.42,2,3,1,6
+C4009,Female,Teenager,Peshawar,2023-10-23,2023-12-31,Subway,Dessert,4,990.4,Cash,30,2024-09-25,88,True,-1.0,Cancelled,3961.6,1,3,5,9
+C5726,Male,Teenager,Peshawar,2023-10-23,2024-10-14,KFC,Italian,2,881.98,Card,11,2025-08-07,471,False,4.0,Delayed,1763.96,5,1,3,9
+C3973,Female,Teenager,Peshawar,2023-10-24,2023-12-20,McDonald's,Italian,5,857.77,Cash,11,2024-11-17,263,True,3.0,Delivered,4288.85,1,1,5,7
+C6937,Male,Senior,Peshawar,2023-10-25,2023-11-18,KFC,Fast Food,2,1288.98,Card,10,2025-07-05,8,True,1.0,Delivered,2577.96,4,1,4,9
+C5390,Female,Senior,Peshawar,2023-10-25,2024-07-20,Pizza Hut,Chinese,1,1277.21,Cash,48,2025-07-13,251,True,-1.0,Cancelled,1277.21,4,5,2,11
+C4233,Female,Teenager,Peshawar,2023-10-26,2024-11-21,KFC,Dessert,4,455.11,Card,25,2025-05-18,173,False,3.0,Delivered,1820.44,3,3,3,9
+C1329,Female,Senior,Peshawar,2023-10-27,2023-11-22,McDonald's,Dessert,3,1466.41,Card,26,2025-08-19,72,False,3.0,Delivered,4399.2300000000005,5,3,5,13
+C4403,Male,Senior,Peshawar,2023-10-27,2024-11-29,Pizza Hut,Dessert,4,1313.69,Cash,15,2025-05-07,487,True,-1.0,Cancelled,5254.76,3,2,5,10
+C4178,Female,Adult,Peshawar,2023-10-27,2025-03-28,Burger King,Chinese,5,1174.49,Wallet,13,2025-07-14,118,True,-1.0,Cancelled,5872.45,5,2,5,12
+C6422,Other,Teenager,Peshawar,2023-10-28,2024-12-29,McDonald's,Chinese,1,1016.6,Wallet,30,2025-04-12,108,True,2.0,Delayed,1016.6,3,3,2,8
+C2044,Male,Senior,Peshawar,2023-10-28,2025-03-04,Subway,Dessert,3,361.99,Wallet,15,2025-07-26,146,True,4.0,Delivered,1085.97,5,2,2,9
+C6848,Other,Senior,Peshawar,2023-10-28,2024-06-27,Subway,Fast Food,4,963.48,Cash,25,2025-06-22,274,True,3.0,Delivered,3853.92,4,3,4,11
+C5347,Male,Teenager,Peshawar,2023-10-28,2024-02-14,Pizza Hut,Italian,5,267.94,Wallet,16,2024-09-11,425,False,4.0,Delivered,1339.7,1,2,2,5
+C2603,Male,Adult,Peshawar,2023-10-29,2024-05-29,KFC,Continental,2,936.85,Cash,16,2025-07-27,493,True,4.0,Delayed,1873.7,5,2,3,10
+C5673,Female,Adult,Peshawar,2023-10-29,2024-06-22,McDonald's,Italian,2,933.33,Cash,30,2024-12-31,480,False,-1.0,Cancelled,1866.66,1,3,3,7
+C1697,Male,Adult,Peshawar,2023-10-29,2025-06-07,KFC,Italian,3,359.65,Wallet,24,2025-07-27,421,True,3.0,Delivered,1078.9499999999998,5,3,2,10
+C5580,Male,Adult,Peshawar,2023-10-29,2024-06-02,Subway,Continental,5,544.34,Wallet,40,2024-09-20,74,True,3.0,Delayed,2721.7000000000003,1,4,4,9
+C4746,Female,Senior,Peshawar,2023-10-31,2024-05-02,Subway,Dessert,1,1362.27,Wallet,13,2025-05-27,71,True,-1.0,Cancelled,1362.27,3,2,2,7
+C6791,Male,Senior,Peshawar,2023-10-31,2025-01-07,Burger King,Fast Food,2,603.36,Card,13,2025-08-06,418,True,3.0,Delayed,1206.72,5,2,2,9
+C2822,Male,Adult,Peshawar,2023-11-01,2025-02-18,Burger King,Italian,2,211.0,Wallet,10,2025-05-29,452,False,4.0,Delivered,422.0,4,1,1,6
+C6734,Other,Teenager,Peshawar,2023-11-01,2025-03-05,Pizza Hut,Dessert,4,1001.16,Card,37,2025-08-02,267,True,1.0,Delivered,4004.64,5,4,5,14
+C1851,Female,Adult,Peshawar,2023-11-01,2024-03-18,Burger King,Chinese,1,805.06,Card,23,2025-01-13,361,True,-1.0,Cancelled,805.06,1,3,1,5
+C2999,Other,Teenager,Peshawar,2023-11-02,2024-11-16,Pizza Hut,Italian,2,1095.03,Wallet,49,2025-07-01,454,True,4.0,Delayed,2190.06,4,5,3,12
+C4456,Female,Adult,Peshawar,2023-11-02,2024-06-26,Pizza Hut,Continental,3,873.53,Cash,15,2024-11-05,40,True,2.0,Delivered,2620.59,1,2,4,7
+C2113,Other,Teenager,Peshawar,2023-11-03,2025-01-10,McDonald's,Dessert,4,1099.24,Cash,4,2025-02-01,194,False,-1.0,Cancelled,4396.96,2,1,5,8
+C2561,Female,Adult,Peshawar,2023-11-03,2025-06-02,McDonald's,Italian,4,1266.3,Wallet,3,2025-07-11,458,True,5.0,Delayed,5065.2,4,1,5,10
+C5043,Female,Teenager,Peshawar,2023-11-04,2024-03-21,McDonald's,Chinese,1,202.27,Cash,7,2024-12-20,491,True,2.0,Delivered,202.27,1,1,1,3
+C3676,Other,Senior,Peshawar,2023-11-04,2024-04-14,Pizza Hut,Dessert,2,1053.22,Card,7,2024-10-15,357,True,-1.0,Cancelled,2106.44,1,1,3,5
+C4400,Other,Adult,Peshawar,2023-09-03,2023-11-06,McDonald's,Fast Food,4,816.51,Wallet,26,2024-12-04,346,True,2.0,Delivered,3266.04,1,3,4,8
+C4781,Other,Senior,Peshawar,2023-11-06,2025-01-19,Pizza Hut,Italian,5,1317.34,Wallet,36,2025-05-04,166,True,-1.0,Cancelled,6586.7,3,4,5,12
+C3553,Male,Senior,Peshawar,2023-11-07,2024-02-11,Pizza Hut,Continental,4,772.32,Card,1,2025-01-02,266,True,-1.0,Cancelled,3089.28,1,1,4,6
+C3902,Male,Teenager,Peshawar,2023-11-07,2024-11-12,Pizza Hut,Italian,2,301.62,Cash,38,2025-02-12,388,False,-1.0,Cancelled,603.24,2,4,1,7
+C5003,Other,Teenager,Peshawar,2023-11-07,2024-11-18,Burger King,Chinese,1,1254.7,Card,32,2025-01-03,145,False,2.0,Delayed,1254.7,1,4,2,7
+C3811,Female,Teenager,Peshawar,2023-11-08,2024-09-20,Burger King,Dessert,1,1104.67,Card,19,2025-07-20,451,True,3.0,Delayed,1104.67,5,2,2,9
+C2521,Female,Adult,Peshawar,2023-11-08,2024-06-20,Burger King,Italian,5,573.4,Card,49,2025-02-14,416,False,1.0,Delayed,2867.0,2,5,4,11
+C5004,Female,Senior,Peshawar,2023-11-08,2024-06-10,Burger King,Chinese,5,327.79,Cash,17,2024-08-26,80,True,1.0,Delivered,1638.95,1,2,3,6
+C4426,Other,Adult,Peshawar,2023-11-08,2025-05-01,Subway,Chinese,5,678.51,Wallet,24,2025-07-15,254,False,-1.0,Cancelled,3392.55,5,3,4,12
+C3940,Other,Teenager,Peshawar,2023-08-28,2023-11-08,Subway,Chinese,2,350.02,Card,19,2025-07-16,372,True,1.0,Delayed,700.04,5,2,1,8
+C4001,Male,Teenager,Peshawar,2023-11-08,2023-11-09,McDonald's,Continental,2,825.05,Cash,49,2025-08-01,302,True,5.0,Delivered,1650.1,5,5,3,13
+C1195,Male,Senior,Peshawar,2023-11-10,2025-05-24,Pizza Hut,Chinese,2,480.79,Card,30,2025-05-26,82,False,-1.0,Cancelled,961.58,3,3,2,8
+C2034,Female,Teenager,Peshawar,2023-11-11,2024-12-26,Subway,Continental,5,379.03,Card,34,2025-07-03,56,True,3.0,Delivered,1895.1499999999999,4,4,3,11
+C3738,Male,Adult,Peshawar,2023-11-11,2024-02-25,Burger King,Dessert,4,1297.29,Cash,23,2025-05-08,125,False,-1.0,Cancelled,5189.16,3,3,5,11
+C2570,Male,Teenager,Peshawar,2023-11-12,2024-02-12,McDonald's,Italian,5,957.16,Cash,25,2025-06-27,371,False,3.0,Delayed,4785.8,4,3,5,12
+C1423,Other,Teenager,Peshawar,2023-11-13,2024-01-11,KFC,Dessert,3,1285.35,Wallet,41,2025-05-02,372,False,4.0,Delayed,3856.0499999999997,3,5,4,12
+C2456,Female,Senior,Peshawar,2023-11-14,2025-01-01,Burger King,Italian,1,318.1,Cash,23,2025-07-13,44,True,4.0,Delivered,318.1,4,3,1,8
+C4044,Male,Teenager,Peshawar,2023-11-15,2024-07-12,Subway,Fast Food,2,391.52,Card,6,2024-08-25,239,False,4.0,Delivered,783.04,1,1,1,3
+C1883,Female,Adult,Peshawar,2023-11-15,2024-09-02,KFC,Dessert,2,262.42,Card,45,2024-11-30,425,True,-1.0,Cancelled,524.84,1,5,1,7
+C5781,Male,Adult,Peshawar,2023-11-15,2024-05-28,Pizza Hut,Continental,3,1499.73,Wallet,2,2025-07-15,107,True,-1.0,Cancelled,4499.1900000000005,5,1,5,11
+C3642,Male,Senior,Peshawar,2023-11-16,2024-02-21,McDonald's,Continental,1,365.37,Cash,16,2025-05-04,7,True,5.0,Delivered,365.37,3,2,1,6
+C6350,Female,Teenager,Peshawar,2023-11-17,2024-04-01,KFC,Fast Food,5,543.62,Card,37,2025-05-10,435,True,4.0,Delivered,2718.1,3,4,4,11
+C3994,Female,Senior,Peshawar,2023-11-17,2024-01-29,Pizza Hut,Chinese,2,490.94,Card,41,2025-02-10,18,True,1.0,Delivered,981.88,2,5,2,9
+C6983,Female,Senior,Peshawar,2023-11-18,2024-11-15,Subway,Chinese,5,725.16,Wallet,39,2025-05-30,344,False,4.0,Delayed,3625.7999999999997,4,4,4,12
+C1184,Male,Adult,Peshawar,2023-11-18,2024-01-25,McDonald's,Chinese,3,917.94,Cash,34,2025-03-01,174,True,5.0,Delivered,2753.82,2,4,4,10
+C2897,Other,Senior,Peshawar,2023-11-19,2025-05-02,KFC,Dessert,4,1190.07,Card,10,2025-05-15,126,True,1.0,Delivered,4760.28,3,1,5,9
+C5165,Other,Teenager,Peshawar,2023-11-19,2024-08-24,Pizza Hut,Fast Food,5,1134.87,Card,9,2024-09-22,87,False,5.0,Delayed,5674.349999999999,1,1,5,7
+C3569,Other,Teenager,Peshawar,2023-11-19,2024-01-30,McDonald's,Italian,5,535.66,Card,28,2025-07-01,434,False,5.0,Delivered,2678.2999999999997,4,3,4,11
+C2372,Female,Adult,Peshawar,2023-11-19,2025-03-31,Pizza Hut,Italian,3,1265.36,Cash,21,2025-06-22,386,False,3.0,Delivered,3796.08,4,3,4,11
+C1016,Female,Adult,Peshawar,2023-11-20,2023-11-27,Subway,Fast Food,5,562.53,Cash,4,2025-03-11,203,False,3.0,Delayed,2812.6499999999996,2,1,4,7
+C6410,Female,Adult,Peshawar,2023-11-23,2023-12-06,Burger King,Italian,4,1299.99,Cash,25,2025-06-29,453,False,1.0,Delayed,5199.96,4,3,5,12
+C1994,Male,Senior,Peshawar,2023-11-24,2024-03-31,McDonald's,Fast Food,4,903.38,Wallet,22,2025-04-22,277,True,4.0,Delivered,3613.52,3,3,4,10
+C2717,Other,Teenager,Peshawar,2023-11-24,2025-06-22,KFC,Fast Food,5,1230.61,Wallet,45,2025-08-07,286,False,-1.0,Cancelled,6153.049999999999,5,5,5,15
+C4865,Female,Senior,Peshawar,2023-11-25,2024-12-21,Burger King,Chinese,5,1283.93,Cash,37,2025-02-21,401,True,-1.0,Cancelled,6419.650000000001,2,4,5,11
+C4246,Male,Teenager,Peshawar,2023-11-26,2024-05-08,Burger King,Fast Food,3,212.72,Cash,23,2024-10-12,364,True,5.0,Delayed,638.16,1,3,1,5
+C5524,Female,Teenager,Peshawar,2023-11-26,2024-08-21,Pizza Hut,Chinese,1,986.61,Card,50,2025-04-20,17,False,5.0,Delayed,986.61,3,5,2,10
+C6842,Male,Senior,Peshawar,2023-11-27,2024-06-15,Subway,Dessert,2,915.56,Wallet,46,2025-02-27,37,True,4.0,Delivered,1831.12,2,5,3,10
+C1293,Other,Senior,Peshawar,2023-11-27,2024-11-22,Pizza Hut,Chinese,1,741.51,Wallet,44,2025-08-10,400,True,5.0,Delivered,741.51,5,5,1,11
+C1343,Male,Senior,Peshawar,2023-11-27,2024-01-10,Subway,Fast Food,3,934.81,Card,20,2025-05-06,296,False,4.0,Delivered,2804.43,3,2,4,9
+C4579,Female,Senior,Peshawar,2023-11-28,2024-04-11,Pizza Hut,Continental,2,138.18,Wallet,24,2025-04-18,124,False,2.0,Delayed,276.36,3,3,1,7
+C6949,Male,Adult,Peshawar,2023-11-29,2024-10-09,McDonald's,Fast Food,2,1253.99,Wallet,47,2024-10-27,307,True,-1.0,Cancelled,2507.98,1,5,4,10
+C4248,Male,Teenager,Peshawar,2023-12-02,2024-11-13,McDonald's,Dessert,1,690.62,Wallet,36,2025-04-21,352,True,5.0,Delayed,690.62,3,4,1,8
+C1376,Female,Senior,Peshawar,2023-12-02,2025-02-07,KFC,Dessert,1,1286.78,Card,14,2025-08-03,382,True,3.0,Delayed,1286.78,5,2,2,9
+C2177,Male,Teenager,Peshawar,2023-09-23,2023-12-02,Pizza Hut,Chinese,2,1356.06,Wallet,14,2025-06-14,436,False,-1.0,Cancelled,2712.12,4,2,4,10
+C4679,Male,Senior,Peshawar,2023-12-03,2025-03-23,Pizza Hut,Chinese,4,1397.34,Cash,10,2025-04-16,208,True,3.0,Delayed,5589.36,3,1,5,9
+C4625,Female,Adult,Peshawar,2023-12-03,2025-04-29,Pizza Hut,Chinese,1,531.32,Card,38,2025-05-15,17,False,4.0,Delayed,531.32,3,4,1,8
+C6747,Other,Adult,Peshawar,2023-11-16,2023-12-03,KFC,Continental,4,1221.1,Wallet,48,2025-01-31,289,False,-1.0,Cancelled,4884.4,2,5,5,12
+C4583,Other,Senior,Peshawar,2023-12-04,2024-09-04,KFC,Chinese,2,1207.81,Card,20,2025-02-28,217,True,4.0,Delayed,2415.62,2,2,3,7
+C4190,Male,Adult,Peshawar,2023-12-04,2025-01-28,Pizza Hut,Continental,5,1028.29,Cash,31,2025-07-08,52,False,-1.0,Cancelled,5141.45,4,4,5,13
+C4931,Male,Senior,Peshawar,2023-12-04,2024-10-24,Pizza Hut,Chinese,2,693.55,Card,50,2025-07-19,356,True,2.0,Delivered,1387.1,5,5,2,12
+C4945,Male,Teenager,Peshawar,2023-12-06,2024-09-26,Pizza Hut,Dessert,4,710.18,Wallet,10,2025-07-03,332,False,3.0,Delayed,2840.72,4,1,4,9
+C2696,Other,Teenager,Peshawar,2023-12-06,2025-04-26,Subway,Italian,3,1483.1,Card,47,2025-07-08,255,False,1.0,Delivered,4449.299999999999,4,5,5,14
+C1482,Male,Teenager,Peshawar,2023-09-26,2023-12-07,McDonald's,Continental,3,1191.54,Wallet,11,2024-12-21,71,False,3.0,Delayed,3574.62,1,1,4,6
+C1567,Other,Senior,Peshawar,2023-12-07,2025-01-30,Subway,Italian,1,1238.38,Cash,6,2025-08-11,302,True,3.0,Delivered,1238.38,5,1,2,8
+C5655,Other,Senior,Peshawar,2023-12-07,2025-03-13,McDonald's,Fast Food,5,1318.63,Cash,48,2025-03-26,1,False,-1.0,Cancelled,6593.150000000001,2,5,5,12
+C6672,Female,Teenager,Peshawar,2023-12-08,2024-03-14,Pizza Hut,Italian,5,887.7,Cash,2,2024-12-17,438,True,1.0,Delivered,4438.5,1,1,5,7
+C3597,Other,Adult,Peshawar,2023-11-19,2023-12-08,Burger King,Dessert,3,101.75,Cash,43,2025-01-29,140,False,-1.0,Cancelled,305.25,2,5,1,8
+C1746,Female,Senior,Peshawar,2023-12-09,2024-12-30,McDonald's,Continental,1,437.22,Wallet,48,2025-06-04,88,False,-1.0,Cancelled,437.22,4,5,1,10
+C2811,Female,Senior,Peshawar,2023-12-11,2024-06-20,Subway,Dessert,5,903.75,Wallet,26,2024-12-23,270,False,-1.0,Cancelled,4518.75,1,3,5,9
+C4653,Male,Senior,Peshawar,2023-11-02,2023-12-11,McDonald's,Chinese,2,738.11,Cash,18,2025-05-04,52,False,4.0,Delayed,1476.22,3,2,3,8
+C6082,Female,Senior,Peshawar,2023-12-11,2024-08-09,Subway,Chinese,5,706.37,Wallet,39,2025-01-16,431,True,2.0,Delivered,3531.85,2,4,4,10
+C4921,Other,Teenager,Peshawar,2023-12-12,2025-02-08,Pizza Hut,Dessert,1,536.5,Card,24,2025-06-06,494,False,-1.0,Cancelled,536.5,4,3,1,8
+C2172,Male,Teenager,Peshawar,2023-12-12,2023-12-25,Pizza Hut,Italian,2,221.28,Cash,19,2024-11-10,13,True,4.0,Delivered,442.56,1,2,1,4
+C5198,Male,Senior,Peshawar,2023-12-12,2025-01-21,Pizza Hut,Dessert,5,914.7,Wallet,47,2025-02-05,378,False,-1.0,Cancelled,4573.5,2,5,5,12
+C3890,Female,Teenager,Peshawar,2023-09-25,2023-12-12,Subway,Italian,3,1302.78,Cash,21,2025-06-27,238,False,1.0,Delayed,3908.34,4,3,4,11
+C1029,Male,Senior,Peshawar,2023-12-12,2024-05-08,KFC,Chinese,4,676.24,Card,42,2025-04-25,109,True,-1.0,Cancelled,2704.96,3,5,4,12
+C6459,Female,Senior,Peshawar,2023-12-12,2024-01-02,Burger King,Chinese,4,960.55,Cash,19,2025-06-20,67,True,5.0,Delayed,3842.2,4,2,4,10
+C2883,Other,Adult,Peshawar,2023-12-13,2024-10-26,McDonald's,Chinese,3,263.85,Card,31,2025-04-16,491,True,-1.0,Cancelled,791.5500000000001,3,4,1,8
+C3857,Male,Senior,Peshawar,2023-12-14,2024-12-03,McDonald's,Italian,3,1011.6,Wallet,24,2025-04-09,423,False,3.0,Delivered,3034.8,3,3,4,10
+C5915,Male,Adult,Peshawar,2023-12-17,2024-12-28,KFC,Dessert,4,1189.61,Cash,33,2025-02-11,461,False,4.0,Delayed,4758.44,2,4,5,11
+C6374,Male,Senior,Peshawar,2023-12-18,2024-10-09,KFC,Italian,4,394.67,Card,11,2025-06-12,253,False,-1.0,Cancelled,1578.68,4,1,3,8
+C6868,Female,Teenager,Peshawar,2023-12-18,2024-11-04,Pizza Hut,Continental,5,140.43,Card,8,2024-12-10,8,False,2.0,Delivered,702.1500000000001,1,1,1,3
+C3436,Other,Senior,Peshawar,2023-12-19,2024-06-28,KFC,Continental,4,999.02,Wallet,13,2024-09-15,58,False,2.0,Delivered,3996.08,1,2,5,8
+C1341,Other,Teenager,Peshawar,2023-09-12,2023-12-20,Burger King,Continental,3,909.53,Wallet,29,2024-11-27,337,False,-1.0,Cancelled,2728.59,1,3,4,8
+C2153,Female,Teenager,Peshawar,2023-12-20,2024-04-26,Burger King,Chinese,1,1163.85,Card,4,2024-09-16,77,True,3.0,Delayed,1163.85,1,1,2,4
+C2517,Male,Adult,Peshawar,2023-12-20,2025-01-16,Burger King,Chinese,4,1245.88,Card,12,2025-08-16,123,True,1.0,Delivered,4983.52,5,2,5,12
+C3898,Female,Teenager,Peshawar,2023-12-22,2024-05-17,Pizza Hut,Dessert,3,271.58,Wallet,24,2025-05-02,263,True,3.0,Delayed,814.74,3,3,1,7
+C2976,Female,Teenager,Peshawar,2023-12-22,2025-06-29,McDonald's,Italian,3,1078.17,Cash,37,2025-08-08,178,True,3.0,Delivered,3234.51,5,4,4,13
+C3411,Male,Adult,Peshawar,2023-12-23,2024-02-04,Subway,Continental,4,705.64,Cash,35,2025-06-22,161,True,4.0,Delayed,2822.56,4,4,4,12
+C6053,Other,Adult,Peshawar,2023-12-23,2025-05-22,Burger King,Dessert,5,899.38,Card,21,2025-06-02,301,False,2.0,Delivered,4496.9,4,3,5,12
+C6576,Female,Teenager,Peshawar,2023-09-28,2023-12-24,Subway,Fast Food,5,923.56,Cash,30,2025-04-17,473,False,4.0,Delayed,4617.799999999999,3,3,5,11
+C4737,Male,Senior,Peshawar,2023-12-24,2024-12-01,Pizza Hut,Fast Food,3,1036.99,Wallet,42,2025-05-06,87,False,-1.0,Cancelled,3110.9700000000003,3,5,4,12
+C4143,Other,Adult,Peshawar,2023-12-25,2024-09-06,Subway,Dessert,5,748.46,Cash,37,2025-06-20,373,False,2.0,Delivered,3742.3,4,4,4,12
+C3711,Other,Adult,Peshawar,2023-12-25,2024-10-13,KFC,Dessert,4,477.1,Cash,13,2025-08-05,453,True,5.0,Delivered,1908.4,5,2,3,10
+C3205,Other,Senior,Peshawar,2023-12-25,2024-03-24,Burger King,Chinese,2,563.71,Wallet,33,2025-02-27,222,False,2.0,Delayed,1127.42,2,4,2,8
+C6750,Female,Adult,Peshawar,2023-12-25,2024-01-28,KFC,Chinese,5,1337.62,Cash,43,2025-04-07,55,True,-1.0,Cancelled,6688.099999999999,3,5,5,13
+C1610,Other,Adult,Peshawar,2023-12-25,2024-07-24,Burger King,Dessert,1,655.19,Card,12,2024-10-30,159,False,5.0,Delivered,655.19,1,2,1,4
+C6571,Male,Senior,Peshawar,2023-12-26,2024-11-26,KFC,Chinese,5,1112.56,Card,4,2025-04-25,364,True,-1.0,Cancelled,5562.799999999999,3,1,5,9
+C3700,Other,Teenager,Peshawar,2023-12-27,2025-05-26,Burger King,Chinese,3,816.56,Card,15,2025-06-06,93,False,2.0,Delivered,2449.68,4,2,4,10
+C6396,Female,Senior,Peshawar,2023-12-27,2024-08-29,Subway,Dessert,5,732.9,Cash,8,2024-11-05,410,False,5.0,Delivered,3664.5,1,1,4,6
+C5038,Female,Teenager,Peshawar,2023-12-27,2025-01-05,Burger King,Chinese,5,1051.9,Cash,15,2025-03-19,237,False,4.0,Delayed,5259.5,2,2,5,9
+C6207,Female,Senior,Peshawar,2023-12-28,2024-04-11,Burger King,Italian,2,548.12,Cash,41,2025-03-26,60,False,3.0,Delivered,1096.24,2,5,2,9
+C6551,Female,Senior,Peshawar,2023-12-28,2024-10-08,Pizza Hut,Fast Food,4,528.08,Wallet,11,2025-08-13,484,False,5.0,Delivered,2112.32,5,1,3,9
+C1620,Female,Teenager,Peshawar,2023-12-28,2024-10-27,Burger King,Dessert,3,1015.17,Cash,16,2025-03-07,288,True,3.0,Delivered,3045.5099999999998,2,2,4,8
+C1073,Female,Teenager,Peshawar,2023-11-19,2023-12-29,Pizza Hut,Fast Food,3,795.32,Cash,16,2025-03-20,443,True,2.0,Delivered,2385.96,2,2,3,7
+C4360,Male,Adult,Peshawar,2023-12-31,2024-03-13,Subway,Chinese,4,1000.84,Card,7,2025-01-25,76,True,1.0,Delivered,4003.36,2,1,5,8
+C3472,Other,Senior,Peshawar,2024-01-01,2024-01-01,Burger King,Fast Food,2,1054.88,Card,24,2025-08-11,404,False,4.0,Delivered,2109.76,5,3,3,11
+C3740,Male,Adult,Peshawar,2023-12-26,2024-01-01,KFC,Fast Food,2,917.11,Cash,12,2024-10-06,331,False,1.0,Delayed,1834.22,1,2,3,6
+C2988,Other,Adult,Peshawar,2024-01-01,2024-11-11,Subway,Chinese,5,387.58,Card,17,2025-04-15,65,False,3.0,Delayed,1937.8999999999999,3,2,3,8
+C2428,Female,Adult,Peshawar,2023-10-16,2024-01-02,Pizza Hut,Fast Food,2,1018.97,Card,25,2024-09-05,37,False,5.0,Delayed,2037.94,1,3,3,7
+C2885,Other,Senior,Peshawar,2023-11-30,2024-01-02,Pizza Hut,Fast Food,4,443.55,Cash,23,2025-02-25,176,True,4.0,Delivered,1774.2,2,3,3,8
+C6971,Male,Senior,Peshawar,2024-01-02,2024-02-21,Burger King,Italian,5,1021.33,Wallet,45,2025-06-23,271,False,-1.0,Cancelled,5106.650000000001,4,5,5,14
+C3552,Female,Adult,Peshawar,2024-01-03,2024-01-15,McDonald's,Dessert,1,428.86,Wallet,31,2024-10-21,246,False,2.0,Delivered,428.86,1,4,1,6
+C6124,Male,Adult,Peshawar,2024-01-04,2024-04-30,Burger King,Continental,5,939.58,Card,33,2025-02-10,129,True,-1.0,Cancelled,4697.900000000001,2,4,5,11
+C3478,Male,Teenager,Peshawar,2024-01-05,2024-05-08,Burger King,Italian,3,747.58,Wallet,16,2024-10-09,290,False,3.0,Delivered,2242.7400000000002,1,2,3,6
+C4108,Female,Teenager,Peshawar,2024-01-05,2025-02-23,Pizza Hut,Continental,1,350.81,Wallet,19,2025-08-18,4,False,-1.0,Cancelled,350.81,5,2,1,8
+C3774,Other,Adult,Peshawar,2024-01-05,2024-02-27,Subway,Italian,1,404.66,Cash,19,2025-08-11,348,True,1.0,Delayed,404.66,5,2,1,8
+C3233,Other,Teenager,Peshawar,2024-01-05,2024-05-16,KFC,Dessert,2,195.78,Card,15,2024-10-24,235,True,-1.0,Cancelled,391.56,1,2,1,4
+C2649,Other,Adult,Peshawar,2023-11-30,2024-01-06,Subway,Italian,5,1061.38,Card,25,2025-02-01,15,False,5.0,Delivered,5306.900000000001,2,3,5,10
+C4122,Male,Adult,Peshawar,2024-01-07,2024-10-09,KFC,Continental,3,726.33,Card,35,2025-08-02,174,True,1.0,Delivered,2178.9900000000002,5,4,3,12
+C6752,Other,Senior,Peshawar,2024-01-07,2024-09-30,Pizza Hut,Dessert,5,644.06,Cash,2,2025-02-03,221,False,-1.0,Cancelled,3220.2999999999997,2,1,4,7
+C3801,Female,Teenager,Peshawar,2024-01-09,2024-09-05,Burger King,Dessert,2,351.29,Cash,31,2025-04-12,167,True,2.0,Delivered,702.58,3,4,1,8
+C6953,Male,Teenager,Peshawar,2024-01-10,2025-04-22,McDonald's,Italian,3,633.07,Card,29,2025-04-29,171,False,3.0,Delivered,1899.21,3,3,3,9
+C5271,Other,Senior,Peshawar,2024-01-10,2025-05-07,KFC,Italian,3,856.63,Card,21,2025-06-20,294,True,2.0,Delivered,2569.89,4,3,4,11
+C2974,Male,Teenager,Peshawar,2024-01-11,2025-01-01,Pizza Hut,Chinese,5,1381.47,Wallet,10,2025-03-22,157,False,1.0,Delayed,6907.35,2,1,5,8
+C2714,Other,Teenager,Peshawar,2024-01-13,2024-05-17,McDonald's,Fast Food,4,1101.54,Wallet,19,2025-03-03,381,False,3.0,Delayed,4406.16,2,2,5,9
+C6859,Other,Senior,Peshawar,2023-10-23,2024-01-13,KFC,Continental,3,278.25,Wallet,44,2025-02-08,315,True,-1.0,Cancelled,834.75,2,5,1,8
+C3820,Other,Senior,Peshawar,2024-01-13,2024-05-22,Pizza Hut,Dessert,4,1433.82,Wallet,7,2024-10-10,36,True,5.0,Delivered,5735.28,1,1,5,7
+C2291,Other,Senior,Peshawar,2023-12-16,2024-01-14,Subway,Continental,2,161.41,Wallet,20,2025-01-28,471,True,-1.0,Cancelled,322.82,2,2,1,5
+C1409,Other,Senior,Peshawar,2023-10-03,2024-01-14,KFC,Fast Food,2,386.68,Cash,32,2024-12-25,95,True,-1.0,Cancelled,773.36,1,4,1,6
+C4279,Male,Adult,Peshawar,2024-01-15,2024-08-19,KFC,Fast Food,4,1395.31,Wallet,35,2025-03-14,332,False,-1.0,Cancelled,5581.24,2,4,5,11
+C2924,Other,Teenager,Peshawar,2024-01-10,2024-01-15,McDonald's,Continental,4,624.52,Cash,50,2024-10-12,343,True,-1.0,Cancelled,2498.08,1,5,4,10
+C2049,Male,Adult,Peshawar,2024-01-15,2025-04-17,KFC,Dessert,2,1392.86,Card,29,2025-07-13,403,False,-1.0,Cancelled,2785.72,4,3,4,11
+C5994,Male,Teenager,Peshawar,2024-01-15,2024-08-20,Pizza Hut,Chinese,5,617.21,Card,10,2024-12-16,324,True,-1.0,Cancelled,3086.05,1,1,4,6
+C5510,Female,Senior,Peshawar,2024-01-16,2024-08-27,McDonald's,Dessert,3,796.75,Wallet,3,2025-04-20,19,False,1.0,Delivered,2390.25,3,1,3,7
+C1862,Male,Senior,Peshawar,2024-01-16,2024-07-28,Subway,Italian,3,145.8,Cash,30,2024-11-13,395,True,3.0,Delayed,437.40000000000003,1,3,1,5
+C5499,Female,Adult,Peshawar,2024-01-16,2025-02-05,McDonald's,Continental,3,317.93,Wallet,44,2025-07-26,476,False,1.0,Delivered,953.79,5,5,2,12
+C6219,Male,Senior,Peshawar,2024-01-17,2024-06-14,McDonald's,Italian,5,356.17,Card,2,2024-12-20,8,True,-1.0,Cancelled,1780.8500000000001,1,1,3,5
+C4257,Female,Senior,Peshawar,2024-01-17,2024-05-03,McDonald's,Continental,1,1183.92,Cash,44,2025-03-19,174,True,4.0,Delayed,1183.92,2,5,2,9
+C5044,Male,Teenager,Peshawar,2024-01-18,2024-07-18,Burger King,Italian,2,1487.37,Cash,50,2024-09-19,227,False,3.0,Delivered,2974.74,1,5,4,10
+C2392,Male,Adult,Peshawar,2024-01-18,2024-08-15,Burger King,Italian,2,292.54,Card,14,2024-12-17,299,True,-1.0,Cancelled,585.08,1,2,1,4
+C2437,Other,Senior,Peshawar,2024-01-19,2025-04-09,Pizza Hut,Chinese,2,798.09,Wallet,40,2025-05-25,406,False,5.0,Delayed,1596.18,3,4,3,10
+C6855,Female,Adult,Peshawar,2024-01-20,2024-03-23,Subway,Italian,4,694.79,Card,48,2024-10-02,50,False,4.0,Delivered,2779.16,1,5,4,10
+C5961,Other,Teenager,Peshawar,2023-10-19,2024-01-20,Subway,Chinese,3,160.49,Cash,28,2024-12-15,109,True,5.0,Delayed,481.47,1,3,1,5
+C4742,Other,Teenager,Peshawar,2024-01-20,2024-09-08,Subway,Italian,3,952.05,Card,36,2025-06-19,382,False,5.0,Delayed,2856.1499999999996,4,4,4,12
+C2479,Other,Teenager,Peshawar,2024-01-22,2025-02-18,KFC,Fast Food,1,1261.54,Wallet,27,2025-03-22,296,False,4.0,Delivered,1261.54,2,3,2,7
+C2390,Male,Adult,Peshawar,2023-09-06,2024-01-22,Pizza Hut,Fast Food,4,1013.39,Card,28,2024-11-06,457,False,-1.0,Cancelled,4053.56,1,3,5,9
+C3932,Other,Teenager,Peshawar,2023-10-31,2024-01-23,Subway,Fast Food,3,776.94,Cash,29,2024-10-10,443,True,5.0,Delivered,2330.82,1,3,3,7
+C2933,Other,Teenager,Peshawar,2024-01-23,2025-04-11,Burger King,Chinese,5,1466.08,Wallet,45,2025-05-18,336,True,5.0,Delivered,7330.4,3,5,5,13
+C3623,Female,Adult,Peshawar,2023-09-13,2024-01-24,KFC,Continental,5,364.45,Wallet,10,2025-02-05,339,True,1.0,Delivered,1822.25,2,1,3,6
+C4857,Female,Senior,Peshawar,2024-01-25,2024-11-30,Burger King,Italian,3,1195.09,Wallet,49,2025-06-09,82,True,-1.0,Cancelled,3585.2699999999995,4,5,4,13
+C3417,Male,Senior,Peshawar,2024-01-25,2024-09-19,Burger King,Dessert,1,378.48,Cash,21,2024-10-17,80,False,3.0,Delayed,378.48,1,3,1,5
+C4017,Male,Senior,Peshawar,2024-01-26,2024-07-24,Pizza Hut,Chinese,1,1075.73,Wallet,33,2025-01-24,155,True,1.0,Delivered,1075.73,2,4,2,8
+C1979,Other,Teenager,Peshawar,2023-11-15,2024-01-26,McDonald's,Continental,4,793.48,Cash,8,2024-11-26,58,False,4.0,Delayed,3173.92,1,1,4,6
+C6054,Other,Teenager,Peshawar,2023-11-15,2024-01-26,KFC,Fast Food,2,840.56,Wallet,33,2025-06-19,274,True,1.0,Delayed,1681.12,4,4,3,11
+C2599,Female,Senior,Peshawar,2024-01-30,2024-08-22,Subway,Fast Food,3,907.98,Card,23,2025-05-13,302,False,-1.0,Cancelled,2723.94,3,3,4,10
+C6160,Female,Adult,Peshawar,2024-01-31,2024-06-22,McDonald's,Fast Food,4,1427.37,Card,47,2025-05-26,384,False,-1.0,Cancelled,5709.48,3,5,5,13
+C3401,Other,Senior,Peshawar,2024-01-31,2025-04-07,McDonald's,Fast Food,5,1482.22,Card,28,2025-05-16,238,False,1.0,Delayed,7411.1,3,3,5,11
+C1766,Male,Teenager,Peshawar,2024-02-01,2024-08-15,KFC,Chinese,3,870.23,Cash,40,2024-09-25,305,False,2.0,Delivered,2610.69,1,4,4,9
+C2007,Other,Adult,Peshawar,2024-02-01,2024-10-09,Subway,Italian,5,1478.69,Cash,21,2025-07-21,391,False,1.0,Delivered,7393.450000000001,5,3,5,13
+C1136,Other,Senior,Peshawar,2024-02-02,2024-03-18,KFC,Chinese,5,1149.89,Wallet,19,2024-09-03,351,False,-1.0,Cancelled,5749.450000000001,1,2,5,8
+C4912,Other,Teenager,Peshawar,2024-02-02,2024-04-06,Burger King,Italian,3,487.56,Wallet,7,2025-03-18,396,True,3.0,Delayed,1462.68,2,1,3,6
+C1671,Male,Teenager,Peshawar,2024-02-03,2025-02-08,Subway,Dessert,2,1046.99,Cash,41,2025-04-05,467,False,1.0,Delayed,2093.98,3,5,3,11
+C1761,Male,Adult,Peshawar,2024-02-05,2024-11-01,Subway,Dessert,1,961.38,Card,1,2025-06-15,146,True,-1.0,Cancelled,961.38,4,1,2,7
+C3327,Other,Teenager,Peshawar,2024-02-05,2024-12-12,Burger King,Dessert,1,1480.59,Card,40,2025-03-26,250,False,5.0,Delayed,1480.59,2,4,3,9
+C1640,Other,Senior,Peshawar,2024-02-06,2024-12-20,Pizza Hut,Italian,1,1121.14,Card,39,2025-02-16,31,False,4.0,Delivered,1121.14,2,4,2,8
+C5718,Female,Teenager,Peshawar,2024-02-06,2024-04-19,KFC,Dessert,4,1020.4,Cash,5,2025-01-27,73,True,-1.0,Cancelled,4081.6,2,1,5,8
+C4845,Male,Adult,Peshawar,2024-02-06,2024-07-09,Subway,Italian,3,527.78,Card,6,2025-03-27,133,True,5.0,Delayed,1583.34,2,1,3,6
+C3689,Other,Teenager,Peshawar,2024-02-07,2024-04-22,KFC,Dessert,3,1229.53,Cash,6,2024-10-21,11,False,-1.0,Cancelled,3688.59,1,1,4,6
+C3501,Other,Teenager,Peshawar,2023-11-03,2024-02-07,McDonald's,Chinese,1,776.39,Wallet,11,2025-06-17,112,True,-1.0,Cancelled,776.39,4,1,1,6
+C2852,Female,Adult,Peshawar,2024-02-07,2024-02-13,Subway,Continental,3,474.62,Cash,26,2024-08-29,358,False,3.0,Delayed,1423.8600000000001,1,3,2,6
+C4032,Male,Teenager,Peshawar,2024-02-07,2025-03-15,McDonald's,Continental,5,408.29,Wallet,47,2025-05-23,20,False,2.0,Delivered,2041.45,3,5,3,11
+C3342,Female,Adult,Peshawar,2024-02-07,2025-02-01,Pizza Hut,Fast Food,3,914.81,Wallet,19,2025-05-05,67,False,1.0,Delayed,2744.43,3,2,4,9
+C3363,Female,Teenager,Peshawar,2024-02-09,2024-03-10,McDonald's,Dessert,3,171.95,Cash,25,2025-06-14,215,False,4.0,Delayed,515.8499999999999,4,3,1,8
+C5193,Female,Senior,Peshawar,2024-02-09,2024-06-19,KFC,Dessert,3,646.37,Card,7,2025-05-18,138,False,1.0,Delivered,1939.1100000000001,3,1,3,7
+C5311,Female,Senior,Peshawar,2024-02-10,2025-04-09,McDonald's,Italian,4,1111.65,Card,42,2025-07-15,130,True,-1.0,Cancelled,4446.6,5,5,5,15
+C4499,Other,Teenager,Peshawar,2024-02-10,2024-04-09,McDonald's,Chinese,2,318.0,Card,48,2025-06-18,241,False,5.0,Delayed,636.0,4,5,1,10
+C5084,Other,Adult,Peshawar,2024-02-10,2024-09-07,KFC,Italian,1,1258.9,Card,44,2024-10-05,225,True,-1.0,Cancelled,1258.9,1,5,2,8
+C1623,Female,Senior,Peshawar,2024-02-10,2024-12-25,Pizza Hut,Fast Food,4,1370.81,Wallet,36,2025-03-06,95,True,1.0,Delivered,5483.24,2,4,5,11
+C2638,Other,Senior,Peshawar,2024-02-11,2024-04-29,KFC,Continental,2,716.66,Wallet,12,2025-01-08,187,True,-1.0,Cancelled,1433.32,1,2,2,5
+C3602,Female,Adult,Peshawar,2023-10-12,2024-02-11,McDonald's,Chinese,5,1247.58,Wallet,16,2024-08-25,442,True,3.0,Delivered,6237.9,1,2,5,8
+C3368,Female,Teenager,Peshawar,2024-02-11,2024-06-19,Burger King,Continental,3,386.59,Card,24,2024-11-13,468,False,2.0,Delivered,1159.77,1,3,2,6
+C4775,Female,Teenager,Peshawar,2024-02-11,2024-02-16,Subway,Continental,4,412.31,Card,14,2025-07-01,18,False,2.0,Delayed,1649.24,4,2,3,9
+C2745,Male,Teenager,Peshawar,2023-08-27,2024-02-11,Burger King,Dessert,3,1283.92,Cash,13,2024-09-08,244,True,2.0,Delayed,3851.76,1,2,4,7
+C6445,Female,Senior,Peshawar,2024-02-12,2025-04-05,KFC,Italian,1,659.93,Wallet,16,2025-04-27,113,False,4.0,Delivered,659.93,3,2,1,6
+C1952,Other,Senior,Peshawar,2024-02-13,2024-05-17,KFC,Fast Food,5,631.61,Card,25,2025-02-25,34,False,5.0,Delivered,3158.05,2,3,4,9
+C4750,Male,Adult,Peshawar,2024-02-14,2024-02-20,Subway,Fast Food,1,1370.46,Wallet,15,2025-05-25,59,True,-1.0,Cancelled,1370.46,3,2,2,7
+C4211,Other,Senior,Peshawar,2024-02-15,2024-10-31,KFC,Fast Food,5,527.23,Cash,16,2025-03-10,256,True,4.0,Delayed,2636.15,2,2,4,8
+C3936,Other,Adult,Peshawar,2024-02-16,2025-01-26,Burger King,Italian,3,807.34,Card,11,2025-07-22,44,True,1.0,Delivered,2422.02,5,1,3,9
+C6969,Other,Adult,Peshawar,2024-02-17,2024-03-25,Pizza Hut,Continental,5,1213.36,Cash,43,2025-05-28,439,True,-1.0,Cancelled,6066.799999999999,3,5,5,13
+C2701,Other,Senior,Peshawar,2024-02-18,2024-10-05,Subway,Dessert,5,684.65,Cash,23,2025-04-08,487,False,-1.0,Cancelled,3423.25,3,3,4,10
+C5748,Other,Adult,Peshawar,2024-02-18,2024-09-01,McDonald's,Chinese,4,181.27,Cash,47,2025-05-03,230,False,-1.0,Cancelled,725.08,3,5,1,9
+C5492,Male,Senior,Peshawar,2024-02-19,2024-04-30,Burger King,Continental,3,1276.38,Cash,34,2024-09-01,286,False,1.0,Delayed,3829.1400000000003,1,4,4,9
+C4601,Other,Adult,Peshawar,2024-02-19,2024-07-21,Pizza Hut,Chinese,4,469.71,Card,1,2024-10-24,156,False,-1.0,Cancelled,1878.84,1,1,3,5
+C2882,Male,Adult,Peshawar,2024-02-20,2024-08-21,Subway,Continental,3,1046.16,Wallet,2,2025-03-16,435,False,5.0,Delayed,3138.4800000000005,2,1,4,7
+C6589,Male,Adult,Peshawar,2024-02-16,2024-02-20,Subway,Continental,2,235.82,Card,11,2024-12-20,40,True,-1.0,Cancelled,471.64,1,1,1,3
+C6151,Female,Teenager,Peshawar,2024-01-19,2024-02-20,McDonald's,Chinese,5,498.84,Cash,24,2024-11-19,111,True,2.0,Delivered,2494.2,1,3,4,8
+C6103,Other,Adult,Peshawar,2024-02-20,2024-03-30,Pizza Hut,Fast Food,3,998.71,Card,16,2025-02-06,317,True,5.0,Delayed,2996.13,2,2,4,8
+C2413,Male,Senior,Peshawar,2024-01-05,2024-02-21,Pizza Hut,Continental,5,1363.97,Cash,30,2024-12-28,71,True,-1.0,Cancelled,6819.85,1,3,5,9
+C2032,Male,Adult,Peshawar,2024-01-09,2024-02-21,McDonald's,Fast Food,3,1378.28,Cash,50,2025-06-20,107,True,-1.0,Cancelled,4134.84,4,5,5,14
+C3691,Other,Senior,Peshawar,2024-02-22,2024-03-07,Burger King,Continental,4,813.63,Cash,36,2025-03-04,51,True,4.0,Delivered,3254.52,2,4,4,10
+C3156,Female,Senior,Peshawar,2024-01-24,2024-02-22,KFC,Fast Food,1,420.14,Card,14,2024-12-06,265,True,2.0,Delayed,420.14,1,2,1,4
+C5678,Other,Teenager,Peshawar,2024-02-22,2024-12-31,McDonald's,Chinese,3,1026.94,Card,1,2025-02-09,419,True,-1.0,Cancelled,3080.82,2,1,4,7
+C6713,Female,Senior,Peshawar,2024-02-23,2024-05-11,KFC,Italian,2,663.82,Wallet,11,2025-08-11,283,False,3.0,Delivered,1327.64,5,1,2,8
+C2829,Other,Teenager,Peshawar,2024-02-24,2024-07-29,Burger King,Dessert,3,1190.25,Wallet,14,2025-03-04,63,False,-1.0,Cancelled,3570.75,2,2,4,8
+C1359,Male,Teenager,Peshawar,2023-10-18,2024-02-24,Pizza Hut,Chinese,3,834.92,Cash,12,2025-07-06,115,True,-1.0,Cancelled,2504.7599999999998,4,2,4,10
+C2093,Other,Adult,Peshawar,2024-02-24,2024-03-20,Subway,Dessert,5,256.63,Wallet,30,2025-03-02,236,True,3.0,Delayed,1283.15,2,3,2,7
+C6213,Other,Senior,Peshawar,2024-02-02,2024-02-24,Pizza Hut,Italian,3,209.21,Cash,26,2025-06-13,203,False,5.0,Delivered,627.63,4,3,1,8
+C6721,Male,Teenager,Peshawar,2024-02-24,2025-03-01,McDonald's,Fast Food,3,292.57,Wallet,36,2025-05-21,167,True,4.0,Delivered,877.71,3,4,2,9
+C2464,Female,Teenager,Peshawar,2024-02-25,2024-05-08,McDonald's,Continental,3,1174.4,Wallet,41,2024-12-01,82,False,3.0,Delayed,3523.2000000000003,1,5,4,10
+C6166,Male,Senior,Peshawar,2024-02-25,2024-06-21,Pizza Hut,Italian,1,1444.27,Cash,12,2025-01-26,144,True,5.0,Delivered,1444.27,2,2,3,7
+C2773,Male,Adult,Peshawar,2023-12-01,2024-02-26,McDonald's,Continental,5,992.08,Wallet,12,2025-06-21,302,False,2.0,Delayed,4960.400000000001,4,2,5,11
+C4543,Female,Teenager,Peshawar,2024-02-27,2024-03-08,Pizza Hut,Fast Food,2,886.92,Cash,40,2025-05-29,137,False,4.0,Delayed,1773.84,4,4,3,11
+C1519,Other,Adult,Peshawar,2024-02-27,2025-02-04,Pizza Hut,Continental,5,467.4,Wallet,4,2025-07-28,343,False,2.0,Delayed,2337.0,5,1,3,9
+C6279,Other,Adult,Peshawar,2023-09-24,2024-02-28,Burger King,Chinese,3,565.17,Card,23,2024-12-31,181,True,3.0,Delayed,1695.5099999999998,1,3,3,7
+C5475,Other,Teenager,Peshawar,2024-02-29,2024-04-22,KFC,Chinese,5,231.2,Wallet,43,2025-05-24,125,True,3.0,Delivered,1156.0,3,5,2,10
+C1285,Other,Teenager,Peshawar,2024-02-29,2025-06-04,Pizza Hut,Italian,2,381.5,Cash,39,2025-06-06,114,False,4.0,Delayed,763.0,4,4,1,9
+C5656,Female,Adult,Peshawar,2024-02-29,2024-11-21,McDonald's,Italian,3,769.88,Card,22,2025-07-21,433,True,2.0,Delayed,2309.64,5,3,3,11
+C4223,Male,Senior,Peshawar,2024-03-01,2025-01-11,Pizza Hut,Italian,5,909.62,Cash,6,2025-04-28,385,False,-1.0,Cancelled,4548.1,3,1,5,9
+C1432,Male,Adult,Peshawar,2024-03-03,2025-01-26,Subway,Continental,1,1440.89,Cash,12,2025-07-18,277,False,-1.0,Cancelled,1440.89,5,2,2,9
+C5123,Other,Adult,Peshawar,2024-03-03,2024-12-21,Pizza Hut,Continental,5,1002.84,Cash,40,2025-01-22,70,True,4.0,Delayed,5014.2,2,4,5,11
+C3446,Male,Adult,Peshawar,2024-03-03,2024-12-17,Pizza Hut,Chinese,1,629.77,Card,19,2025-02-14,239,True,4.0,Delayed,629.77,2,2,1,5
+C4722,Female,Teenager,Peshawar,2023-09-29,2024-03-03,Subway,Dessert,1,778.17,Wallet,3,2025-05-19,285,True,2.0,Delayed,778.17,3,1,1,5
+C3306,Male,Senior,Peshawar,2024-03-04,2024-06-22,Pizza Hut,Italian,4,604.4,Wallet,40,2025-04-24,484,True,2.0,Delivered,2417.6,3,4,3,10
+C6655,Other,Senior,Peshawar,2024-03-04,2024-05-17,Burger King,Fast Food,1,1050.6,Wallet,15,2024-08-31,299,False,-1.0,Cancelled,1050.6,1,2,2,5
+C1632,Male,Adult,Peshawar,2024-03-05,2024-05-04,Pizza Hut,Italian,3,1101.16,Wallet,19,2025-01-23,52,True,-1.0,Cancelled,3303.4800000000005,2,2,4,8
+C5616,Male,Senior,Peshawar,2023-10-07,2024-03-07,Pizza Hut,Dessert,5,250.31,Cash,30,2025-03-11,457,True,1.0,Delivered,1251.55,2,3,2,7
+C5773,Other,Teenager,Peshawar,2024-03-08,2024-05-19,McDonald's,Chinese,4,1090.41,Card,32,2024-11-07,5,False,2.0,Delayed,4361.64,1,4,5,10
+C1301,Male,Senior,Peshawar,2024-03-09,2025-02-24,McDonald's,Italian,1,1208.35,Cash,22,2025-04-04,315,True,-1.0,Cancelled,1208.35,3,3,2,8
+C3644,Other,Teenager,Peshawar,2024-03-09,2024-10-02,McDonald's,Chinese,4,1437.92,Cash,42,2025-02-27,217,False,-1.0,Cancelled,5751.68,2,5,5,12
+C4587,Other,Adult,Peshawar,2024-03-09,2025-03-10,Burger King,Fast Food,1,424.96,Card,17,2025-06-13,376,False,2.0,Delayed,424.96,4,2,1,7
+C5604,Other,Adult,Peshawar,2024-03-09,2024-10-08,Subway,Fast Food,1,951.59,Wallet,29,2025-06-17,277,True,5.0,Delivered,951.59,4,3,2,9
+C5301,Other,Teenager,Peshawar,2024-03-09,2025-05-25,Pizza Hut,Chinese,3,735.16,Cash,1,2025-07-18,413,False,5.0,Delivered,2205.48,5,1,3,9
+C6968,Female,Teenager,Peshawar,2024-03-11,2024-06-06,Pizza Hut,Italian,5,370.2,Card,24,2024-12-10,379,False,-1.0,Cancelled,1851.0,1,3,3,7
+C1580,Other,Adult,Peshawar,2024-01-18,2024-03-12,KFC,Fast Food,3,387.37,Card,29,2024-11-22,437,True,-1.0,Cancelled,1162.1100000000001,1,3,2,6
+C4354,Male,Teenager,Peshawar,2024-03-12,2024-05-05,Subway,Italian,2,1420.8,Wallet,12,2024-10-31,93,True,5.0,Delayed,2841.6,1,2,4,7
+C6890,Other,Senior,Peshawar,2024-03-13,2024-05-24,Subway,Italian,1,609.51,Cash,47,2025-03-18,159,False,4.0,Delayed,609.51,2,5,1,8
+C2884,Male,Teenager,Peshawar,2024-03-14,2024-11-27,Pizza Hut,Italian,4,754.14,Cash,49,2025-04-03,89,True,4.0,Delayed,3016.56,3,5,4,12
+C2886,Male,Teenager,Peshawar,2024-03-15,2024-06-26,Subway,Chinese,3,1320.57,Wallet,46,2025-04-27,273,False,-1.0,Cancelled,3961.71,3,5,5,13
+C4778,Other,Teenager,Peshawar,2024-03-16,2024-10-04,KFC,Chinese,1,135.21,Cash,21,2025-01-27,279,False,5.0,Delivered,135.21,2,3,1,6
+C4459,Other,Teenager,Peshawar,2024-03-18,2024-09-23,KFC,Italian,1,609.81,Wallet,12,2025-08-21,80,False,3.0,Delivered,609.81,5,2,1,8
+C1504,Female,Adult,Peshawar,2024-02-05,2024-03-18,Subway,Chinese,3,1037.31,Cash,42,2024-09-05,88,True,2.0,Delivered,3111.93,1,5,4,10
+C5985,Female,Teenager,Peshawar,2024-03-19,2024-09-08,McDonald's,Continental,5,696.94,Wallet,7,2024-12-16,12,False,1.0,Delivered,3484.7000000000003,1,1,4,6
+C3471,Male,Adult,Peshawar,2023-09-16,2024-03-20,Burger King,Chinese,5,1292.82,Card,19,2024-11-19,64,True,1.0,Delayed,6464.099999999999,1,2,5,8
+C1627,Male,Adult,Peshawar,2023-12-07,2024-03-20,Pizza Hut,Dessert,4,343.08,Cash,6,2024-09-09,109,False,1.0,Delivered,1372.32,1,1,2,4
+C3726,Other,Adult,Peshawar,2024-03-20,2024-09-26,McDonald's,Dessert,4,514.51,Card,5,2025-03-23,77,True,-1.0,Cancelled,2058.04,2,1,3,6
+C3419,Other,Adult,Peshawar,2024-03-20,2024-05-01,Subway,Chinese,3,1404.24,Wallet,23,2025-05-25,350,True,-1.0,Cancelled,4212.72,3,3,5,11
+C2995,Other,Adult,Peshawar,2023-11-25,2024-03-21,Pizza Hut,Fast Food,2,1350.08,Cash,8,2024-10-25,28,True,3.0,Delivered,2700.16,1,1,4,6
+C1187,Female,Teenager,Peshawar,2024-03-22,2024-08-16,KFC,Continental,1,540.87,Cash,33,2024-11-14,438,True,-1.0,Cancelled,540.87,1,4,1,6
+C5916,Male,Adult,Peshawar,2024-03-22,2025-02-18,Burger King,Chinese,3,1147.9,Wallet,50,2025-07-30,257,False,4.0,Delayed,3443.7000000000003,5,5,4,14
+C4105,Other,Senior,Peshawar,2024-03-23,2024-08-01,Burger King,Dessert,2,1469.53,Wallet,20,2025-04-01,76,True,2.0,Delayed,2939.06,2,2,4,8
+C4361,Other,Senior,Peshawar,2024-03-23,2024-09-20,Subway,Continental,4,347.58,Card,21,2025-08-14,101,False,4.0,Delivered,1390.32,5,3,2,10
+C2361,Male,Adult,Peshawar,2024-03-23,2025-03-15,Subway,Italian,5,1038.7,Wallet,38,2025-07-09,431,True,4.0,Delivered,5193.5,4,4,5,13
+C4170,Female,Adult,Peshawar,2024-03-23,2024-08-26,Pizza Hut,Dessert,4,648.86,Card,24,2025-06-16,289,False,4.0,Delivered,2595.44,4,3,4,11
+C3445,Male,Senior,Peshawar,2024-03-23,2024-08-20,McDonald's,Chinese,1,1013.21,Cash,4,2025-03-30,45,False,4.0,Delayed,1013.21,2,1,2,5
+C1477,Male,Adult,Peshawar,2024-02-26,2024-03-24,Subway,Italian,1,478.89,Cash,1,2025-03-05,211,False,-1.0,Cancelled,478.89,2,1,1,4
+C6216,Other,Senior,Peshawar,2024-03-26,2024-09-28,Subway,Italian,2,602.47,Cash,25,2025-07-05,320,True,-1.0,Cancelled,1204.94,4,3,2,9
+C1760,Male,Adult,Peshawar,2024-03-27,2025-02-28,Burger King,Continental,3,481.97,Card,49,2025-07-14,314,False,1.0,Delivered,1445.91,5,5,3,13
+C3449,Female,Senior,Peshawar,2024-03-28,2025-03-07,KFC,Fast Food,3,956.19,Card,17,2025-05-24,229,False,-1.0,Cancelled,2868.57,3,2,4,9
+C5643,Female,Adult,Peshawar,2024-03-12,2024-03-29,KFC,Continental,2,141.51,Cash,4,2025-05-07,72,True,5.0,Delivered,283.02,3,1,1,5
+C3979,Male,Senior,Peshawar,2024-03-30,2024-12-13,Subway,Fast Food,4,865.03,Card,4,2025-07-10,95,False,1.0,Delayed,3460.12,4,1,4,9
+C2923,Female,Adult,Peshawar,2023-09-15,2024-04-01,Burger King,Italian,3,747.98,Wallet,36,2025-08-02,408,False,1.0,Delayed,2243.94,5,4,3,12
+C3499,Other,Adult,Peshawar,2024-04-01,2024-05-01,KFC,Dessert,3,1107.28,Cash,28,2025-07-18,185,False,-1.0,Cancelled,3321.84,5,3,4,12
+C5784,Female,Teenager,Peshawar,2024-01-04,2024-04-01,KFC,Italian,3,164.1,Card,5,2025-08-10,126,False,5.0,Delivered,492.29999999999995,5,1,1,7
+C3961,Female,Adult,Peshawar,2024-04-02,2024-06-06,Pizza Hut,Continental,4,987.34,Wallet,14,2025-02-18,310,False,4.0,Delayed,3949.36,2,2,4,8
+C3784,Other,Teenager,Peshawar,2024-04-02,2025-05-23,Subway,Continental,2,1470.43,Card,13,2025-08-12,188,True,4.0,Delayed,2940.86,5,2,4,11
+C6778,Female,Senior,Peshawar,2024-04-03,2025-02-08,Burger King,Fast Food,1,443.64,Card,49,2025-06-05,387,True,2.0,Delayed,443.64,4,5,1,10
+C6421,Female,Senior,Peshawar,2023-10-21,2024-04-03,Subway,Dessert,2,1016.61,Card,34,2025-06-22,367,False,-1.0,Cancelled,2033.22,4,4,3,11
+C5411,Female,Senior,Peshawar,2024-04-03,2025-06-04,Burger King,Fast Food,1,1295.96,Cash,29,2025-06-27,161,True,-1.0,Cancelled,1295.96,4,3,2,9
+C2488,Male,Adult,Peshawar,2023-12-30,2024-04-03,McDonald's,Fast Food,4,1114.24,Cash,42,2025-05-12,97,True,3.0,Delivered,4456.96,3,5,5,13
+C5064,Female,Adult,Peshawar,2024-04-05,2024-05-12,Burger King,Dessert,5,1204.31,Card,4,2024-11-28,232,False,1.0,Delayed,6021.549999999999,1,1,5,7
+C1911,Other,Teenager,Peshawar,2024-04-05,2025-04-13,KFC,Dessert,3,1271.26,Wallet,18,2025-04-24,471,True,5.0,Delivered,3813.7799999999997,3,2,4,9
+C6008,Other,Teenager,Peshawar,2024-04-05,2025-05-11,KFC,Fast Food,3,808.19,Wallet,32,2025-06-10,407,True,-1.0,Cancelled,2424.57,4,4,3,11
+C2465,Male,Adult,Peshawar,2024-02-26,2024-04-06,Subway,Fast Food,2,598.36,Cash,47,2025-08-08,51,False,1.0,Delayed,1196.72,5,5,2,12
+C4505,Male,Adult,Peshawar,2024-04-07,2024-08-22,Subway,Italian,5,328.79,Wallet,30,2025-05-07,329,True,-1.0,Cancelled,1643.95,3,3,3,9
+C4311,Other,Teenager,Peshawar,2024-04-08,2025-02-16,Subway,Dessert,5,856.2,Cash,30,2025-06-26,259,False,-1.0,Cancelled,4281.0,4,3,5,12
+C1711,Other,Senior,Peshawar,2024-04-09,2024-08-09,McDonald's,Continental,4,537.04,Wallet,2,2025-01-26,357,True,4.0,Delivered,2148.16,2,1,3,6
+C5023,Male,Senior,Peshawar,2024-04-09,2025-04-05,Pizza Hut,Continental,5,393.5,Wallet,27,2025-08-13,110,False,3.0,Delayed,1967.5,5,3,3,11
+C2382,Other,Adult,Peshawar,2024-04-09,2024-11-12,KFC,Continental,3,1218.52,Wallet,22,2024-12-15,252,False,1.0,Delayed,3655.56,1,3,4,8
+C1070,Female,Teenager,Peshawar,2024-04-09,2024-08-10,Subway,Italian,1,1420.93,Cash,8,2025-05-26,486,False,3.0,Delivered,1420.93,3,1,2,6
+C5265,Female,Senior,Peshawar,2023-10-18,2024-04-09,Subway,Dessert,2,828.91,Card,47,2024-10-23,436,False,5.0,Delayed,1657.82,1,5,3,9
+C5539,Male,Senior,Peshawar,2024-04-11,2024-05-17,Burger King,Chinese,3,345.18,Wallet,38,2025-01-23,447,False,2.0,Delivered,1035.54,2,4,2,8
+C5437,Other,Senior,Peshawar,2024-04-11,2024-07-19,McDonald's,Continental,5,1439.98,Card,45,2025-01-11,385,True,3.0,Delayed,7199.9,1,5,5,11
+C6833,Other,Adult,Peshawar,2024-04-12,2025-01-09,Burger King,Fast Food,2,996.97,Cash,18,2025-03-28,93,True,1.0,Delivered,1993.94,2,2,3,7
+C3794,Other,Senior,Peshawar,2024-04-12,2024-12-01,Burger King,Dessert,5,733.3,Card,48,2025-06-25,447,True,3.0,Delivered,3666.5,4,5,4,13
+C1734,Male,Teenager,Peshawar,2024-04-13,2024-10-05,McDonald's,Chinese,5,790.07,Wallet,8,2025-07-18,361,False,2.0,Delayed,3950.3500000000004,5,1,4,10
+C3660,Other,Senior,Peshawar,2024-04-13,2024-10-30,McDonald's,Dessert,5,1103.32,Cash,40,2024-12-13,86,False,1.0,Delivered,5516.599999999999,1,4,5,10
+C1576,Other,Teenager,Peshawar,2024-04-14,2024-06-27,KFC,Dessert,3,628.87,Card,23,2025-02-22,188,False,5.0,Delivered,1886.6100000000001,2,3,3,8
+C2552,Female,Adult,Peshawar,2024-04-15,2024-11-23,Burger King,Continental,5,1441.98,Card,13,2025-06-28,174,True,-1.0,Cancelled,7209.9,4,2,5,11
+C1262,Other,Adult,Peshawar,2024-04-17,2024-05-15,Subway,Fast Food,4,342.4,Wallet,36,2024-09-14,6,True,1.0,Delayed,1369.6,1,4,2,7
+C2489,Other,Adult,Peshawar,2024-04-18,2024-05-25,McDonald's,Italian,5,383.33,Cash,19,2025-01-18,301,False,-1.0,Cancelled,1916.6499999999999,2,2,3,7
+C6121,Male,Adult,Peshawar,2024-04-19,2025-01-01,KFC,Dessert,1,1170.11,Card,44,2025-03-01,408,False,-1.0,Cancelled,1170.11,2,5,2,9
+C2211,Male,Adult,Peshawar,2024-04-19,2024-05-24,KFC,Dessert,3,1357.31,Cash,8,2025-07-27,108,False,3.0,Delayed,4071.93,5,1,5,11
+C5279,Male,Adult,Peshawar,2023-11-18,2024-04-19,KFC,Continental,4,1089.32,Wallet,8,2025-03-18,28,False,5.0,Delivered,4357.28,2,1,5,8
+C6723,Female,Senior,Peshawar,2024-04-19,2024-04-20,Burger King,Italian,1,613.36,Card,16,2024-12-26,105,False,-1.0,Cancelled,613.36,1,2,1,4
+C1455,Female,Teenager,Peshawar,2023-11-02,2024-04-20,Subway,Dessert,5,100.49,Card,30,2025-03-23,87,False,4.0,Delayed,502.45,2,3,1,6
+C5908,Other,Senior,Peshawar,2023-12-08,2024-04-20,KFC,Continental,2,288.23,Card,6,2025-02-18,98,False,3.0,Delayed,576.46,2,1,1,4
+C6942,Other,Teenager,Peshawar,2023-11-12,2024-04-21,KFC,Continental,2,966.75,Cash,43,2024-08-28,66,True,2.0,Delayed,1933.5,1,5,3,9
+C4487,Male,Adult,Peshawar,2024-04-22,2024-05-09,Pizza Hut,Continental,3,1425.04,Wallet,34,2025-06-15,364,False,1.0,Delayed,4275.12,4,4,5,13
+C1460,Female,Teenager,Peshawar,2024-04-22,2024-08-25,Subway,Continental,1,1015.44,Card,33,2024-09-22,424,False,5.0,Delayed,1015.44,1,4,2,7
+C2206,Other,Senior,Peshawar,2024-03-21,2024-04-23,Burger King,Continental,5,783.53,Card,11,2025-03-02,276,False,2.0,Delivered,3917.6499999999996,2,1,4,7
+C4712,Male,Adult,Peshawar,2023-11-06,2024-04-23,Burger King,Chinese,4,1251.7,Card,22,2025-07-19,218,True,2.0,Delayed,5006.8,5,3,5,13
+C1071,Male,Senior,Peshawar,2024-04-02,2024-04-24,Pizza Hut,Italian,4,793.19,Wallet,32,2025-02-05,133,False,1.0,Delivered,3172.76,2,4,4,10
+C6458,Male,Adult,Peshawar,2024-04-25,2024-07-14,Pizza Hut,Dessert,3,341.78,Cash,19,2024-11-09,3,True,2.0,Delayed,1025.34,1,2,2,5
+C2096,Female,Teenager,Peshawar,2024-04-25,2024-10-08,Pizza Hut,Italian,2,1226.31,Card,13,2024-11-09,272,True,4.0,Delayed,2452.62,1,2,4,7
+C3169,Female,Adult,Peshawar,2024-03-16,2024-04-25,Pizza Hut,Chinese,5,466.95,Card,15,2025-06-10,436,True,3.0,Delayed,2334.75,4,2,3,9
+C4885,Other,Senior,Peshawar,2024-04-07,2024-04-27,Pizza Hut,Italian,2,1333.77,Cash,26,2025-03-15,272,False,-1.0,Cancelled,2667.54,2,3,4,9
+C1904,Other,Teenager,Peshawar,2023-10-07,2024-04-27,McDonald's,Fast Food,3,623.06,Cash,26,2025-04-17,440,True,4.0,Delivered,1869.1799999999998,3,3,3,9
+C2438,Female,Teenager,Peshawar,2024-04-11,2024-04-27,Subway,Italian,1,1154.18,Cash,23,2024-10-15,448,True,2.0,Delivered,1154.18,1,3,2,6
+C5394,Other,Senior,Peshawar,2023-11-04,2024-04-28,KFC,Chinese,4,805.09,Cash,35,2024-11-25,195,True,-1.0,Cancelled,3220.36,1,4,4,9
+C2302,Other,Adult,Peshawar,2024-04-28,2024-11-29,KFC,Dessert,1,1145.82,Card,30,2025-03-17,122,False,-1.0,Cancelled,1145.82,2,3,2,7
+C3707,Male,Teenager,Peshawar,2023-10-16,2024-04-29,KFC,Italian,4,930.85,Wallet,4,2024-09-24,92,True,3.0,Delayed,3723.4,1,1,4,6
+C3142,Female,Adult,Peshawar,2024-04-29,2024-12-18,Pizza Hut,Dessert,3,300.18,Cash,3,2025-01-11,411,False,-1.0,Cancelled,900.54,1,1,2,4
+C4371,Other,Adult,Peshawar,2024-04-29,2024-10-26,Pizza Hut,Fast Food,1,494.13,Card,6,2025-04-28,262,False,4.0,Delivered,494.13,3,1,1,5
+C4818,Female,Adult,Peshawar,2024-04-30,2025-03-30,Burger King,Italian,4,683.88,Wallet,33,2025-08-05,475,False,-1.0,Cancelled,2735.52,5,4,4,13
+C1758,Male,Senior,Peshawar,2024-04-30,2025-01-22,McDonald's,Chinese,2,1012.18,Wallet,35,2025-05-01,141,False,2.0,Delivered,2024.36,3,4,3,10
+C2137,Female,Senior,Peshawar,2024-04-30,2024-08-29,McDonald's,Continental,3,276.4,Card,20,2025-07-14,216,True,-1.0,Cancelled,829.1999999999999,5,2,1,8
+C6492,Male,Senior,Peshawar,2024-05-01,2024-05-12,Burger King,Chinese,4,938.68,Cash,30,2024-09-15,367,True,2.0,Delayed,3754.72,1,3,4,8
+C5914,Female,Teenager,Peshawar,2024-05-01,2024-05-05,Subway,Dessert,4,1164.26,Cash,47,2025-05-08,149,True,4.0,Delivered,4657.04,3,5,5,13
+C1168,Male,Senior,Peshawar,2024-05-01,2025-04-30,Subway,Continental,1,592.84,Card,39,2025-05-27,290,False,1.0,Delivered,592.84,3,4,1,8
+C5274,Other,Teenager,Peshawar,2024-05-02,2024-06-02,Pizza Hut,Chinese,5,207.86,Cash,20,2025-04-14,251,False,4.0,Delivered,1039.3000000000002,3,2,2,7
+C2586,Other,Teenager,Peshawar,2024-05-02,2025-02-28,McDonald's,Continental,4,849.63,Wallet,1,2025-07-27,482,False,-1.0,Cancelled,3398.52,5,1,4,10
+C1869,Female,Senior,Peshawar,2024-05-03,2024-08-15,Burger King,Fast Food,2,1172.17,Cash,6,2025-07-19,315,False,-1.0,Cancelled,2344.34,5,1,3,9
+C3273,Other,Senior,Peshawar,2024-05-06,2024-11-09,Burger King,Dessert,3,1180.13,Card,15,2025-01-16,373,True,5.0,Delayed,3540.3900000000003,2,2,4,8
+C4205,Male,Senior,Peshawar,2024-05-06,2024-11-27,McDonald's,Continental,2,804.13,Card,26,2025-06-24,298,True,1.0,Delayed,1608.26,4,3,3,10
+C2174,Female,Teenager,Peshawar,2024-05-06,2024-05-21,McDonald's,Italian,5,333.34,Cash,18,2025-07-08,258,False,1.0,Delayed,1666.6999999999998,4,2,3,9
+C6154,Other,Teenager,Peshawar,2024-04-08,2024-05-07,Burger King,Italian,2,489.76,Card,45,2025-05-21,59,False,5.0,Delayed,979.52,3,5,2,10
+C3515,Female,Adult,Peshawar,2024-05-02,2024-05-09,Subway,Chinese,1,1485.85,Cash,47,2024-12-27,393,False,-1.0,Cancelled,1485.85,1,5,3,9
+C5820,Male,Teenager,Peshawar,2023-11-15,2024-05-10,McDonald's,Chinese,3,1294.71,Cash,50,2025-04-11,161,False,-1.0,Cancelled,3884.13,3,5,4,12
+C5644,Other,Adult,Peshawar,2024-05-11,2024-12-15,Burger King,Chinese,4,949.8,Cash,48,2025-04-16,481,False,-1.0,Cancelled,3799.2,3,5,4,12
+C4434,Male,Adult,Peshawar,2024-05-12,2025-07-20,KFC,Italian,4,436.53,Wallet,40,2025-07-22,135,True,5.0,Delivered,1746.12,5,4,3,12
+C5125,Other,Teenager,Peshawar,2024-05-12,2024-05-22,KFC,Fast Food,1,913.2,Cash,19,2025-04-20,161,False,3.0,Delayed,913.2,3,2,2,7
+C2168,Male,Teenager,Peshawar,2024-03-27,2024-05-12,Subway,Dessert,4,596.96,Cash,13,2025-01-08,235,False,-1.0,Cancelled,2387.84,1,2,3,6
+C5409,Male,Adult,Peshawar,2024-05-12,2024-08-28,Subway,Dessert,2,508.24,Wallet,10,2024-09-24,148,False,4.0,Delivered,1016.48,1,1,2,4
+C1831,Other,Senior,Peshawar,2023-08-28,2024-05-13,Subway,Dessert,1,872.74,Cash,15,2024-09-27,224,False,5.0,Delayed,872.74,1,2,2,5
+C3541,Male,Senior,Peshawar,2024-05-13,2025-07-26,Subway,Italian,1,248.51,Card,45,2025-08-01,259,False,-1.0,Cancelled,248.51,5,5,1,11
+C2777,Other,Senior,Peshawar,2024-05-14,2024-09-18,Pizza Hut,Fast Food,4,1229.62,Wallet,23,2024-12-26,495,False,4.0,Delivered,4918.48,1,3,5,9
+C4141,Male,Senior,Peshawar,2024-05-14,2024-07-23,Burger King,Chinese,1,156.71,Wallet,29,2025-07-20,486,False,3.0,Delivered,156.71,5,3,1,9
+C4492,Female,Teenager,Peshawar,2024-05-14,2024-09-08,Pizza Hut,Fast Food,1,852.45,Cash,17,2024-09-14,184,True,5.0,Delivered,852.45,1,2,2,5
+C4159,Male,Adult,Peshawar,2024-05-14,2024-06-11,KFC,Italian,5,1395.78,Card,23,2025-08-20,101,False,-1.0,Cancelled,6978.9,5,3,5,13
+C1443,Female,Senior,Peshawar,2023-11-03,2024-05-16,Pizza Hut,Dessert,4,206.27,Card,15,2025-07-15,454,False,3.0,Delayed,825.08,5,2,1,8
+C2404,Female,Senior,Peshawar,2024-05-17,2025-08-04,Subway,Continental,2,903.71,Cash,18,2025-08-20,143,True,1.0,Delivered,1807.42,5,2,3,10
+C6934,Male,Teenager,Peshawar,2024-05-18,2024-06-20,Subway,Continental,3,313.86,Wallet,21,2024-10-15,295,False,1.0,Delayed,941.58,1,3,2,6
+C5545,Female,Senior,Peshawar,2024-05-18,2024-08-19,Subway,Fast Food,1,841.93,Wallet,26,2025-04-11,449,True,5.0,Delayed,841.93,3,3,2,8
+C1118,Male,Senior,Peshawar,2024-05-19,2024-08-03,KFC,Chinese,2,1416.53,Wallet,20,2025-05-28,15,False,-1.0,Cancelled,2833.06,3,2,4,9
+C1475,Other,Teenager,Peshawar,2024-05-19,2024-12-11,Pizza Hut,Dessert,3,533.83,Card,29,2025-06-01,379,False,1.0,Delayed,1601.4900000000002,4,3,3,10
+C1447,Male,Teenager,Peshawar,2024-05-19,2025-06-09,Pizza Hut,Chinese,5,252.54,Wallet,44,2025-07-29,398,False,5.0,Delivered,1262.7,5,5,2,12
+C4250,Other,Senior,Peshawar,2024-05-19,2024-09-28,Burger King,Chinese,2,919.17,Wallet,50,2025-04-21,311,True,3.0,Delayed,1838.34,3,5,3,11
+C4041,Female,Senior,Peshawar,2024-05-20,2024-12-18,KFC,Dessert,1,900.71,Card,45,2025-05-14,486,True,-1.0,Cancelled,900.71,3,5,2,10
+C2339,Female,Teenager,Peshawar,2024-05-21,2025-03-31,McDonald's,Chinese,1,895.81,Wallet,45,2025-04-26,364,False,5.0,Delivered,895.81,3,5,2,10
+C5335,Female,Adult,Peshawar,2024-05-21,2024-10-10,Burger King,Dessert,5,1093.52,Cash,48,2025-02-07,353,True,-1.0,Cancelled,5467.6,2,5,5,12
+C3126,Male,Adult,Peshawar,2024-05-22,2024-06-05,Burger King,Dessert,4,1283.97,Card,16,2025-03-16,381,False,2.0,Delivered,5135.88,2,2,5,9
+C4678,Female,Teenager,Peshawar,2024-05-23,2024-10-18,Pizza Hut,Dessert,3,705.88,Card,30,2025-07-28,225,False,-1.0,Cancelled,2117.64,5,3,3,11
+C4215,Other,Teenager,Peshawar,2024-05-24,2024-10-13,Burger King,Italian,3,1487.08,Card,42,2025-03-05,389,False,3.0,Delayed,4461.24,2,5,5,12
+C3285,Other,Senior,Peshawar,2024-05-24,2024-09-04,McDonald's,Dessert,1,557.49,Wallet,26,2025-08-16,66,True,2.0,Delayed,557.49,5,3,1,9
+C5605,Male,Teenager,Peshawar,2024-05-25,2024-10-22,Subway,Italian,3,1411.37,Wallet,24,2025-02-02,285,False,-1.0,Cancelled,4234.11,2,3,5,10
+C1676,Female,Senior,Peshawar,2024-05-26,2025-03-03,Subway,Italian,4,417.96,Cash,30,2025-08-14,311,True,-1.0,Cancelled,1671.84,5,3,3,11
+C4642,Male,Adult,Peshawar,2024-05-27,2024-10-10,Pizza Hut,Chinese,2,787.5,Wallet,7,2025-05-24,36,True,2.0,Delayed,1575.0,3,1,3,7
+C4458,Female,Senior,Peshawar,2024-05-30,2025-01-11,McDonald's,Dessert,5,923.04,Wallet,21,2025-04-22,311,False,2.0,Delivered,4615.2,3,3,5,11
+C3111,Other,Teenager,Peshawar,2023-12-22,2024-05-30,Subway,Continental,1,825.55,Card,46,2025-01-01,451,False,4.0,Delayed,825.55,1,5,1,7
+C5126,Female,Adult,Peshawar,2024-05-30,2024-09-05,KFC,Chinese,1,1386.29,Card,34,2024-11-07,160,True,5.0,Delivered,1386.29,1,4,2,7
+C6081,Other,Teenager,Peshawar,2024-05-30,2025-04-26,KFC,Dessert,2,539.77,Card,45,2025-05-31,157,True,-1.0,Cancelled,1079.54,4,5,2,11
+C3050,Other,Adult,Peshawar,2024-05-30,2024-12-23,McDonald's,Continental,2,1359.67,Card,12,2025-01-24,153,False,2.0,Delivered,2719.34,2,2,4,8
+C2911,Female,Teenager,Peshawar,2024-05-31,2024-08-17,KFC,Fast Food,4,719.53,Card,10,2024-11-21,457,False,-1.0,Cancelled,2878.12,1,1,4,6
+C6324,Female,Adult,Peshawar,2023-08-30,2024-06-01,Pizza Hut,Fast Food,2,832.14,Cash,36,2025-08-19,425,False,1.0,Delayed,1664.28,5,4,3,12
+C6014,Male,Teenager,Peshawar,2024-06-01,2024-06-29,McDonald's,Chinese,5,1148.79,Wallet,50,2024-10-18,345,False,4.0,Delivered,5743.95,1,5,5,11
+C4479,Male,Teenager,Peshawar,2024-06-02,2024-09-03,McDonald's,Dessert,2,737.89,Cash,12,2024-11-07,107,True,2.0,Delayed,1475.78,1,2,3,6
+C1313,Other,Teenager,Peshawar,2024-01-17,2024-06-05,Pizza Hut,Continental,3,1267.47,Cash,5,2025-08-12,297,False,2.0,Delayed,3802.41,5,1,4,10
+C6202,Female,Teenager,Peshawar,2024-06-06,2024-10-22,KFC,Continental,4,1452.09,Card,36,2025-04-16,50,False,2.0,Delayed,5808.36,3,4,5,12
+C2821,Male,Senior,Peshawar,2024-06-06,2025-01-29,McDonald's,Chinese,1,186.75,Wallet,29,2025-02-03,88,True,3.0,Delivered,186.75,2,3,1,6
+C3028,Female,Teenager,Peshawar,2023-11-07,2024-06-07,Pizza Hut,Continental,1,288.39,Wallet,35,2025-02-17,405,False,2.0,Delivered,288.39,2,4,1,7
+C2273,Other,Senior,Peshawar,2024-06-07,2025-03-04,KFC,Continental,2,1478.57,Wallet,7,2025-07-31,154,True,5.0,Delayed,2957.14,5,1,4,10
+C1022,Other,Teenager,Peshawar,2023-11-08,2024-06-08,Burger King,Dessert,5,1012.9,Wallet,16,2025-05-03,394,False,4.0,Delivered,5064.5,3,2,5,10
+C5204,Female,Senior,Peshawar,2024-06-08,2025-05-16,KFC,Continental,5,729.72,Wallet,18,2025-07-26,381,False,5.0,Delayed,3648.6000000000004,5,2,4,11
+C5330,Female,Adult,Peshawar,2024-06-08,2024-12-26,Pizza Hut,Continental,4,1009.09,Card,7,2025-04-23,342,False,4.0,Delivered,4036.36,3,1,5,9
+C2604,Other,Teenager,Peshawar,2024-06-08,2024-12-27,Subway,Italian,3,938.59,Card,21,2025-03-19,220,True,-1.0,Cancelled,2815.77,2,3,4,9
+C6975,Male,Teenager,Peshawar,2024-06-09,2025-04-20,Burger King,Continental,2,1425.04,Wallet,31,2025-07-10,100,True,-1.0,Cancelled,2850.08,4,4,4,12
+C5727,Male,Senior,Peshawar,2024-06-09,2024-10-11,Subway,Chinese,1,1306.38,Card,25,2025-02-28,199,True,1.0,Delayed,1306.38,2,3,2,7
+C6395,Other,Adult,Peshawar,2024-02-24,2024-06-10,KFC,Chinese,5,573.13,Cash,14,2025-01-09,93,True,5.0,Delivered,2865.65,1,2,4,7
+C4717,Other,Teenager,Peshawar,2024-06-10,2025-02-06,KFC,Italian,2,1296.74,Wallet,50,2025-02-10,274,True,4.0,Delivered,2593.48,2,5,4,11
+C1715,Male,Teenager,Peshawar,2024-02-23,2024-06-10,Subway,Chinese,2,735.58,Card,42,2025-07-07,208,True,5.0,Delayed,1471.16,4,5,3,12
+C2417,Female,Adult,Peshawar,2024-06-10,2024-12-18,Subway,Chinese,1,655.45,Card,35,2025-04-24,336,True,1.0,Delivered,655.45,3,4,1,8
+C2024,Other,Teenager,Peshawar,2024-06-12,2024-07-19,KFC,Continental,5,927.2,Card,12,2025-08-20,346,True,2.0,Delayed,4636.0,5,2,5,12
+C6718,Other,Teenager,Peshawar,2024-06-12,2024-07-13,Pizza Hut,Chinese,1,1498.75,Card,42,2025-01-21,107,False,-1.0,Cancelled,1498.75,2,5,3,10
+C3462,Other,Teenager,Peshawar,2024-06-13,2024-06-29,Subway,Fast Food,3,1084.44,Card,43,2025-06-30,402,True,2.0,Delivered,3253.32,4,5,4,13
+C2725,Female,Adult,Peshawar,2024-06-13,2024-09-26,Subway,Chinese,1,1277.39,Wallet,31,2025-05-03,53,False,3.0,Delivered,1277.39,3,4,2,9
+C1669,Male,Teenager,Peshawar,2023-12-30,2024-06-13,McDonald's,Continental,4,983.07,Card,18,2024-11-09,89,True,2.0,Delayed,3932.28,1,2,4,7
+C1759,Female,Senior,Peshawar,2023-11-05,2024-06-14,Subway,Italian,4,535.79,Wallet,49,2025-01-26,169,True,4.0,Delivered,2143.16,2,5,3,10
+C5304,Female,Teenager,Peshawar,2024-06-15,2024-08-31,Subway,Italian,5,443.05,Card,22,2024-12-15,294,False,-1.0,Cancelled,2215.25,1,3,3,7
+C6182,Female,Adult,Peshawar,2024-06-15,2024-12-30,KFC,Italian,1,646.32,Cash,18,2025-04-17,322,False,2.0,Delivered,646.32,3,2,1,6
+C5387,Male,Senior,Peshawar,2024-06-15,2024-11-18,KFC,Italian,5,502.34,Cash,15,2025-03-08,269,True,-1.0,Cancelled,2511.7,2,2,4,8
+C2152,Female,Senior,Peshawar,2024-04-10,2024-06-16,KFC,Continental,4,463.13,Card,46,2025-05-12,55,True,1.0,Delayed,1852.52,3,5,3,11
+C2314,Other,Adult,Peshawar,2024-06-16,2025-01-12,KFC,Fast Food,3,836.58,Wallet,4,2025-07-17,270,True,-1.0,Cancelled,2509.7400000000002,5,1,4,10
+C4987,Male,Senior,Peshawar,2023-12-13,2024-06-17,McDonald's,Continental,5,1268.09,Card,29,2025-03-20,352,False,2.0,Delayed,6340.45,2,3,5,10
+C6644,Female,Senior,Peshawar,2023-09-18,2024-06-20,Burger King,Italian,1,1247.78,Cash,34,2025-04-07,392,True,-1.0,Cancelled,1247.78,3,4,2,9
+C3551,Male,Adult,Peshawar,2024-06-20,2024-10-27,Burger King,Fast Food,2,791.18,Cash,10,2025-01-10,229,True,5.0,Delivered,1582.36,1,1,3,5
+C4833,Male,Senior,Peshawar,2024-06-20,2024-12-30,Burger King,Chinese,5,1430.31,Card,37,2025-06-02,234,False,4.0,Delayed,7151.549999999999,4,4,5,13
+C1166,Other,Teenager,Peshawar,2024-06-20,2025-02-10,KFC,Fast Food,1,1058.61,Cash,11,2025-06-15,389,False,1.0,Delivered,1058.61,4,1,2,7
+C2591,Male,Senior,Peshawar,2024-06-17,2024-06-21,McDonald's,Italian,3,981.66,Card,46,2024-11-11,173,False,-1.0,Cancelled,2944.98,1,5,4,10
+C6260,Other,Senior,Peshawar,2024-06-21,2025-05-16,Pizza Hut,Chinese,4,1312.16,Cash,6,2025-05-29,361,False,-1.0,Cancelled,5248.64,4,1,5,10
+C2459,Female,Teenager,Peshawar,2024-06-21,2024-10-18,KFC,Continental,2,1116.62,Card,3,2024-11-19,82,False,-1.0,Cancelled,2233.24,1,1,3,5
+C5309,Male,Adult,Peshawar,2024-01-23,2024-06-21,Pizza Hut,Italian,3,359.45,Card,30,2025-04-25,155,True,2.0,Delayed,1078.35,3,3,2,8
+C6857,Other,Senior,Peshawar,2023-10-21,2024-06-23,Burger King,Italian,3,642.1,Wallet,27,2025-01-07,471,True,-1.0,Cancelled,1926.3000000000002,1,3,3,7
+C3525,Male,Teenager,Peshawar,2023-10-10,2024-06-24,Subway,Chinese,3,980.96,Wallet,41,2025-04-21,84,True,-1.0,Cancelled,2942.88,3,5,4,12
+C4523,Male,Senior,Peshawar,2023-11-22,2024-06-26,Burger King,Dessert,4,697.48,Card,20,2025-01-07,387,True,-1.0,Cancelled,2789.92,1,2,4,7
+C6815,Other,Teenager,Peshawar,2024-06-28,2025-02-02,Subway,Dessert,1,1251.8,Cash,39,2025-03-30,210,False,4.0,Delayed,1251.8,2,4,2,8
+C3585,Female,Senior,Peshawar,2024-06-28,2024-11-05,Pizza Hut,Dessert,1,228.7,Card,49,2025-04-24,103,True,-1.0,Cancelled,228.7,3,5,1,9
+C2687,Female,Teenager,Peshawar,2024-06-29,2025-02-14,Pizza Hut,Chinese,5,994.33,Cash,44,2025-03-10,44,False,4.0,Delivered,4971.650000000001,2,5,5,12
+C3713,Other,Senior,Peshawar,2024-02-24,2024-07-01,Subway,Continental,5,519.16,Wallet,11,2024-12-06,328,True,-1.0,Cancelled,2595.7999999999997,1,1,4,6
+C4477,Other,Teenager,Peshawar,2024-01-28,2024-07-02,McDonald's,Dessert,1,1105.59,Wallet,42,2025-06-29,365,False,3.0,Delayed,1105.59,4,5,2,11
+C6272,Other,Teenager,Peshawar,2024-07-03,2025-04-27,McDonald's,Dessert,5,1444.62,Wallet,13,2025-07-14,354,False,2.0,Delayed,7223.099999999999,5,2,5,12
+C2865,Other,Senior,Peshawar,2024-07-03,2024-08-14,KFC,Continental,3,180.93,Card,5,2025-05-24,393,True,5.0,Delivered,542.79,3,1,1,5
+C6456,Female,Teenager,Peshawar,2024-07-04,2024-09-05,KFC,Chinese,4,1075.81,Card,9,2025-02-27,332,True,5.0,Delivered,4303.24,2,1,5,8
+C6096,Male,Senior,Peshawar,2024-07-05,2025-03-22,McDonald's,Fast Food,5,1167.6,Wallet,42,2025-03-28,136,False,4.0,Delayed,5838.0,2,5,5,12
+C6947,Female,Adult,Peshawar,2024-03-07,2024-07-06,McDonald's,Chinese,4,749.9,Card,17,2025-03-09,189,True,3.0,Delayed,2999.6,2,2,4,8
+C6601,Other,Senior,Peshawar,2024-05-04,2024-07-09,KFC,Continental,5,185.2,Card,2,2025-03-15,95,True,1.0,Delivered,926.0,2,1,2,5
+C6909,Male,Adult,Peshawar,2024-06-25,2024-07-09,KFC,Dessert,5,993.87,Cash,31,2025-06-13,259,False,2.0,Delivered,4969.35,4,4,5,13
+C4060,Female,Teenager,Peshawar,2024-07-11,2025-04-11,Subway,Continental,1,1172.68,Cash,42,2025-08-03,123,False,2.0,Delayed,1172.68,5,5,2,12
+C2731,Male,Senior,Peshawar,2023-12-03,2024-07-13,Burger King,Fast Food,4,421.11,Wallet,32,2024-10-04,228,False,3.0,Delivered,1684.44,1,4,3,8
+C5489,Other,Teenager,Peshawar,2023-11-17,2024-07-13,Pizza Hut,Continental,3,1194.55,Cash,21,2024-11-28,121,False,1.0,Delivered,3583.6499999999996,1,3,4,8
+C3835,Male,Senior,Peshawar,2024-07-14,2024-08-27,Pizza Hut,Dessert,3,128.93,Cash,9,2025-02-21,242,True,1.0,Delayed,386.79,2,1,1,4
+C5565,Female,Senior,Peshawar,2024-01-24,2024-07-14,Subway,Italian,2,1042.76,Cash,13,2025-07-24,185,True,1.0,Delayed,2085.52,5,2,3,10
+C4732,Female,Senior,Peshawar,2023-12-13,2024-07-15,Pizza Hut,Fast Food,5,358.1,Wallet,43,2025-06-09,265,True,1.0,Delivered,1790.5,4,5,3,12
+C5760,Other,Teenager,Peshawar,2023-11-20,2024-07-15,Pizza Hut,Chinese,1,637.03,Wallet,13,2025-06-25,118,False,4.0,Delivered,637.03,4,2,1,7
+C4102,Male,Teenager,Peshawar,2024-07-15,2024-11-18,McDonald's,Continental,2,967.46,Card,32,2025-05-30,157,False,4.0,Delivered,1934.92,4,4,3,11
+C4033,Other,Teenager,Peshawar,2024-07-16,2025-06-25,Burger King,Chinese,2,620.63,Wallet,15,2025-08-19,399,True,-1.0,Cancelled,1241.26,5,2,2,9
+C4783,Female,Senior,Peshawar,2024-07-17,2024-12-03,Pizza Hut,Fast Food,3,799.96,Card,25,2025-06-14,204,False,3.0,Delivered,2399.88,4,3,3,10
+C1304,Other,Senior,Peshawar,2024-07-18,2025-04-19,KFC,Fast Food,2,281.85,Wallet,25,2025-06-17,431,True,1.0,Delayed,563.7,4,3,1,8
+C3040,Female,Adult,Peshawar,2024-07-19,2024-09-23,Burger King,Chinese,4,777.44,Wallet,25,2025-01-15,132,True,1.0,Delayed,3109.76,1,3,4,8
+C1523,Female,Teenager,Peshawar,2024-07-21,2024-10-12,KFC,Italian,5,966.98,Wallet,18,2024-10-13,209,True,3.0,Delivered,4834.9,1,2,5,8
+C2767,Other,Senior,Peshawar,2024-07-21,2024-10-29,Pizza Hut,Dessert,2,701.9,Cash,47,2024-11-23,316,False,-1.0,Cancelled,1403.8,1,5,2,8
+C5172,Female,Teenager,Peshawar,2023-10-16,2024-07-22,Pizza Hut,Italian,5,1233.78,Wallet,38,2025-02-12,300,True,-1.0,Cancelled,6168.9,2,4,5,11
+C4876,Other,Adult,Peshawar,2023-08-31,2024-07-22,Pizza Hut,Continental,1,1268.02,Cash,41,2025-07-18,108,True,-1.0,Cancelled,1268.02,5,5,2,12
+C4710,Other,Senior,Peshawar,2024-02-10,2024-07-22,Subway,Continental,4,237.1,Cash,15,2024-09-27,181,False,5.0,Delivered,948.4,1,2,2,5
+C5950,Female,Adult,Peshawar,2024-07-22,2025-04-15,Burger King,Fast Food,5,1020.26,Cash,43,2025-05-19,385,False,-1.0,Cancelled,5101.3,3,5,5,13
+C6320,Other,Senior,Peshawar,2023-08-27,2024-07-23,McDonald's,Fast Food,5,476.57,Wallet,15,2025-03-11,330,True,-1.0,Cancelled,2382.85,2,2,3,7
+C5632,Other,Adult,Peshawar,2024-07-24,2024-08-06,Burger King,Italian,3,608.51,Cash,42,2024-09-22,302,False,3.0,Delayed,1825.53,1,5,3,9
+C4306,Male,Senior,Peshawar,2024-06-10,2024-07-24,Subway,Fast Food,4,322.02,Wallet,38,2024-08-27,470,True,-1.0,Cancelled,1288.08,1,4,2,7
+C2545,Male,Adult,Peshawar,2024-07-24,2024-11-19,Pizza Hut,Chinese,5,1219.5,Cash,8,2025-07-28,199,False,3.0,Delayed,6097.5,5,1,5,11
+C4553,Female,Senior,Peshawar,2024-03-09,2024-07-25,McDonald's,Dessert,2,937.09,Wallet,31,2025-07-02,461,False,5.0,Delayed,1874.18,4,4,3,11
+C6611,Other,Senior,Peshawar,2024-03-16,2024-07-25,Subway,Fast Food,4,1115.28,Card,24,2025-02-01,431,True,-1.0,Cancelled,4461.12,2,3,5,10
+C5548,Other,Senior,Peshawar,2024-07-25,2025-01-10,Pizza Hut,Italian,4,489.29,Card,34,2025-04-02,155,True,-1.0,Cancelled,1957.16,3,4,3,10
+C5465,Female,Adult,Peshawar,2024-07-26,2024-11-28,McDonald's,Dessert,1,847.46,Wallet,7,2025-05-22,279,False,2.0,Delayed,847.46,3,1,2,6
+C6731,Male,Senior,Peshawar,2024-07-26,2025-02-14,Subway,Dessert,2,1035.76,Cash,35,2025-06-13,12,False,3.0,Delayed,2071.52,4,4,3,11
+C4916,Male,Teenager,Peshawar,2024-01-05,2024-07-27,Burger King,Chinese,4,943.27,Wallet,17,2025-04-04,348,True,2.0,Delayed,3773.08,3,2,4,9
+C5211,Other,Teenager,Peshawar,2024-07-27,2024-11-19,Burger King,Italian,1,1110.35,Wallet,6,2025-05-13,260,False,4.0,Delayed,1110.35,3,1,2,6
+C5030,Male,Adult,Peshawar,2024-07-28,2025-01-11,Pizza Hut,Fast Food,5,982.05,Cash,50,2025-06-21,110,False,1.0,Delivered,4910.25,4,5,5,14
+C1582,Female,Senior,Peshawar,2024-03-09,2024-07-28,Subway,Dessert,2,1098.29,Card,38,2024-11-14,221,False,4.0,Delayed,2196.58,1,4,3,8
+C5811,Male,Teenager,Peshawar,2023-12-04,2024-07-28,Subway,Dessert,3,260.89,Wallet,34,2024-12-25,208,False,3.0,Delivered,782.67,1,4,1,6
+C2665,Male,Senior,Peshawar,2024-07-28,2024-09-05,Burger King,Fast Food,4,656.09,Wallet,22,2025-02-02,335,False,-1.0,Cancelled,2624.36,2,3,4,9
+C1355,Female,Senior,Peshawar,2024-02-20,2024-07-29,KFC,Continental,1,268.82,Wallet,40,2025-07-03,436,True,1.0,Delivered,268.82,4,4,1,9
+C1102,Male,Adult,Peshawar,2024-07-29,2025-04-13,McDonald's,Fast Food,4,1330.47,Cash,30,2025-05-27,303,True,-1.0,Cancelled,5321.88,3,3,5,11
+C4949,Other,Senior,Peshawar,2023-10-11,2024-07-29,KFC,Dessert,5,736.37,Cash,41,2024-10-20,461,True,3.0,Delayed,3681.85,1,5,4,10
+C3498,Female,Senior,Peshawar,2024-03-20,2024-07-30,McDonald's,Fast Food,4,1158.94,Wallet,43,2025-03-08,84,False,5.0,Delivered,4635.76,2,5,5,12
+C4633,Other,Teenager,Peshawar,2023-10-06,2024-07-31,Burger King,Chinese,3,484.72,Cash,48,2025-06-28,416,False,5.0,Delivered,1454.16,4,5,3,12
+C2728,Male,Adult,Peshawar,2024-08-01,2024-09-15,Pizza Hut,Continental,1,1354.66,Cash,41,2024-11-11,257,False,1.0,Delivered,1354.66,1,5,2,8
+C5402,Female,Adult,Peshawar,2023-09-20,2024-08-02,Subway,Italian,1,744.56,Card,28,2024-11-27,186,True,2.0,Delivered,744.56,1,3,1,5
+C5022,Male,Senior,Peshawar,2023-09-17,2024-08-02,Pizza Hut,Continental,1,581.44,Wallet,18,2025-03-31,437,False,3.0,Delivered,581.44,2,2,1,5
+C4419,Male,Adult,Peshawar,2024-03-26,2024-08-03,Pizza Hut,Dessert,1,517.26,Cash,39,2025-06-16,177,True,5.0,Delivered,517.26,4,4,1,9
+C6389,Female,Teenager,Peshawar,2024-08-04,2025-03-12,Subway,Fast Food,1,359.43,Card,36,2025-05-27,317,False,-1.0,Cancelled,359.43,3,4,1,8
+C3622,Male,Senior,Peshawar,2023-12-04,2024-08-06,Pizza Hut,Fast Food,1,842.6,Wallet,9,2025-08-16,92,True,-1.0,Cancelled,842.6,5,1,2,8
+C6782,Other,Teenager,Peshawar,2024-08-06,2024-10-12,Subway,Continental,3,1411.57,Card,5,2024-11-28,281,False,3.0,Delivered,4234.71,1,1,5,7
+C3096,Other,Senior,Peshawar,2024-04-05,2024-08-07,Pizza Hut,Fast Food,1,627.33,Card,4,2024-10-07,268,True,3.0,Delivered,627.33,1,1,1,3
+C2290,Female,Teenager,Peshawar,2023-09-28,2024-08-07,Burger King,Dessert,4,358.94,Wallet,5,2024-12-09,374,False,3.0,Delivered,1435.76,1,1,2,4
+C6256,Male,Adult,Peshawar,2023-10-29,2024-08-08,KFC,Italian,4,1165.45,Cash,32,2025-08-09,444,False,2.0,Delayed,4661.8,5,4,5,14
+C1626,Other,Adult,Peshawar,2024-02-25,2024-08-09,Burger King,Chinese,4,779.88,Wallet,31,2025-01-29,175,True,2.0,Delayed,3119.52,2,4,4,10
+C6450,Female,Senior,Peshawar,2023-11-29,2024-08-10,McDonald's,Continental,2,1355.49,Card,37,2024-11-06,190,True,3.0,Delivered,2710.98,1,4,4,9
+C5158,Male,Adult,Peshawar,2023-09-26,2024-08-10,KFC,Continental,4,693.45,Wallet,34,2024-09-09,410,False,-1.0,Cancelled,2773.8,1,4,4,9
+C5949,Male,Senior,Peshawar,2023-08-31,2024-08-11,Subway,Italian,5,1317.81,Cash,42,2025-02-03,110,True,2.0,Delivered,6589.049999999999,2,5,5,12
+C5696,Other,Senior,Peshawar,2023-10-24,2024-08-12,KFC,Fast Food,3,1031.9,Card,40,2025-01-31,335,True,2.0,Delivered,3095.7000000000003,2,4,4,10
+C4147,Female,Senior,Peshawar,2023-12-07,2024-08-12,McDonald's,Fast Food,2,279.95,Wallet,50,2024-10-19,468,False,5.0,Delayed,559.9,1,5,1,7
+C3567,Male,Adult,Peshawar,2024-08-13,2024-09-07,Pizza Hut,Italian,3,788.9,Cash,36,2025-08-17,405,True,1.0,Delayed,2366.7,5,4,3,12
+C2217,Female,Adult,Peshawar,2024-02-21,2024-08-13,Burger King,Italian,1,913.4,Card,46,2025-03-12,125,False,4.0,Delivered,913.4,2,5,2,9
+C6000,Other,Senior,Peshawar,2023-11-14,2024-08-14,KFC,Dessert,4,760.35,Wallet,11,2025-01-16,2,True,5.0,Delivered,3041.4,2,1,4,7
+C2356,Female,Senior,Peshawar,2024-01-28,2024-08-15,Burger King,Italian,3,713.89,Cash,33,2024-10-07,315,True,5.0,Delayed,2141.67,1,4,3,8
+C4372,Female,Senior,Peshawar,2023-10-30,2024-08-16,KFC,Continental,5,1214.77,Cash,33,2024-11-02,63,False,4.0,Delivered,6073.85,1,4,5,10
+C3503,Male,Senior,Peshawar,2024-08-17,2024-10-13,Pizza Hut,Dessert,2,785.18,Card,15,2025-01-06,46,True,4.0,Delayed,1570.36,1,2,3,6
+C4396,Male,Senior,Peshawar,2024-05-26,2024-08-17,Pizza Hut,Fast Food,2,1213.92,Cash,3,2025-08-13,494,True,5.0,Delivered,2427.84,5,1,3,9
+C2259,Male,Adult,Peshawar,2023-10-22,2024-08-17,Subway,Chinese,3,683.61,Card,22,2025-02-18,497,True,3.0,Delivered,2050.83,2,3,3,8
+C1594,Male,Senior,Peshawar,2024-08-17,2025-04-03,McDonald's,Fast Food,4,920.78,Wallet,15,2025-07-13,399,True,-1.0,Cancelled,3683.12,4,2,4,10
+C1260,Other,Adult,Peshawar,2023-09-27,2024-08-18,Pizza Hut,Chinese,4,896.41,Card,14,2025-08-12,334,False,3.0,Delayed,3585.64,5,2,4,11
+C1668,Other,Senior,Peshawar,2024-08-18,2024-09-26,KFC,Continental,1,1203.67,Cash,20,2024-11-12,251,False,4.0,Delayed,1203.67,1,2,2,5
+C5238,Male,Adult,Peshawar,2024-08-18,2024-11-27,Pizza Hut,Fast Food,1,863.12,Cash,17,2025-06-04,206,False,2.0,Delivered,863.12,4,2,2,8
+C5131,Male,Adult,Peshawar,2024-08-19,2025-05-25,Burger King,Continental,3,305.94,Wallet,47,2025-07-11,353,True,5.0,Delayed,917.8199999999999,4,5,2,11
+C5196,Other,Teenager,Peshawar,2024-08-19,2024-09-07,McDonald's,Italian,2,764.49,Card,25,2024-10-29,158,True,-1.0,Cancelled,1528.98,1,3,3,7
+C4364,Male,Senior,Peshawar,2024-08-21,2025-06-19,Pizza Hut,Chinese,1,291.22,Wallet,40,2025-07-19,182,False,-1.0,Cancelled,291.22,5,4,1,10
+C1335,Male,Adult,Peshawar,2024-05-11,2024-08-21,Pizza Hut,Dessert,2,1363.64,Cash,2,2025-06-10,385,True,-1.0,Cancelled,2727.28,4,1,4,9
+C5626,Female,Teenager,Peshawar,2024-08-23,2024-09-17,Burger King,Continental,1,981.21,Wallet,8,2025-08-07,15,False,4.0,Delivered,981.21,5,1,2,8
+C3873,Male,Teenager,Peshawar,2023-12-21,2024-08-25,KFC,Dessert,5,862.35,Card,39,2025-03-22,131,False,3.0,Delayed,4311.75,2,4,5,11
+C2395,Male,Adult,Peshawar,2024-08-25,2025-05-05,Pizza Hut,Dessert,1,1289.8,Cash,28,2025-07-06,459,True,3.0,Delayed,1289.8,4,3,2,9
+C3659,Female,Senior,Peshawar,2024-03-19,2024-08-26,McDonald's,Dessert,2,482.49,Wallet,18,2024-12-06,323,True,3.0,Delayed,964.98,1,2,2,5
+C5880,Female,Senior,Peshawar,2023-10-12,2024-08-22,Subway,Continental,5,358.1,Wallet,22,2024-08-26,186,True,1.0,Delivered,1790.5,1,3,3,7
+C6011,Male,Teenager,Peshawar,2024-08-27,2024-09-28,Burger King,Continental,4,1418.31,Wallet,7,2024-11-16,441,True,5.0,Delayed,5673.24,1,1,5,7
+C5493,Male,Adult,Peshawar,2024-06-29,2024-08-27,KFC,Italian,4,1244.28,Card,25,2025-04-16,240,False,3.0,Delayed,4977.12,3,3,5,11
+C5682,Other,Teenager,Peshawar,2024-03-06,2024-08-28,KFC,Continental,1,1392.6,Card,6,2025-03-08,182,True,4.0,Delayed,1392.6,2,1,2,5
+C5754,Other,Senior,Peshawar,2024-03-31,2024-08-28,Subway,Continental,1,1229.1,Wallet,18,2025-04-17,100,True,-1.0,Cancelled,1229.1,3,2,2,7
+C4704,Male,Senior,Peshawar,2024-08-24,2024-08-28,McDonald's,Fast Food,1,1388.82,Card,4,2025-04-29,192,True,-1.0,Cancelled,1388.82,3,1,2,6
+C2528,Other,Senior,Peshawar,2024-08-30,2025-01-14,McDonald's,Fast Food,3,1140.72,Cash,32,2025-07-27,392,True,-1.0,Cancelled,3422.16,5,4,4,13
+C2752,Other,Teenager,Peshawar,2023-10-01,2024-08-30,KFC,Dessert,5,775.73,Card,14,2025-07-31,312,False,-1.0,Cancelled,3878.65,5,2,4,11
+C5759,Female,Teenager,Peshawar,2024-09-01,2024-11-16,KFC,Italian,3,1449.13,Wallet,44,2025-02-28,472,False,2.0,Delivered,4347.39,2,5,5,12
+C6891,Male,Senior,Peshawar,2024-04-23,2024-09-01,McDonald's,Dessert,4,831.01,Card,49,2024-11-09,112,False,-1.0,Cancelled,3324.04,1,5,4,10
+C2376,Female,Teenager,Peshawar,2023-08-26,2024-09-02,McDonald's,Dessert,3,983.95,Cash,45,2024-11-02,164,False,4.0,Delivered,2951.8500000000004,1,5,4,10
+C2550,Female,Teenager,Peshawar,2024-02-06,2024-09-02,Subway,Chinese,3,1490.53,Wallet,38,2024-10-03,455,True,4.0,Delayed,4471.59,1,4,5,10
+C1787,Female,Senior,Peshawar,2024-09-02,2024-11-05,McDonald's,Chinese,1,278.92,Wallet,31,2024-11-21,476,True,-1.0,Cancelled,278.92,1,4,1,6
+C6878,Other,Teenager,Peshawar,2024-09-03,2024-11-22,KFC,Dessert,1,1161.95,Card,41,2025-07-04,263,True,3.0,Delivered,1161.95,4,5,2,11
+C4406,Male,Teenager,Peshawar,2023-10-11,2024-09-04,Subway,Dessert,5,633.97,Wallet,8,2025-07-27,382,True,4.0,Delivered,3169.8500000000004,5,1,4,10
+C4322,Male,Teenager,Peshawar,2024-09-05,2024-10-02,Subway,Dessert,4,720.99,Card,41,2025-05-13,62,False,4.0,Delivered,2883.96,3,5,4,12
+C6739,Other,Adult,Peshawar,2024-01-12,2024-09-05,Subway,Continental,2,1127.22,Cash,8,2025-01-14,311,False,4.0,Delayed,2254.44,1,1,3,5
+C6993,Female,Adult,Peshawar,2024-02-11,2024-09-06,Burger King,Continental,5,697.34,Wallet,34,2025-02-11,394,True,1.0,Delivered,3486.7000000000003,2,4,4,10
+C6347,Male,Senior,Peshawar,2024-04-18,2024-09-07,KFC,Continental,2,1042.68,Card,24,2024-11-27,354,True,-1.0,Cancelled,2085.36,1,3,3,7
+C6715,Other,Adult,Peshawar,2024-08-16,2024-09-07,McDonald's,Fast Food,1,1336.21,Cash,49,2024-10-12,44,True,2.0,Delivered,1336.21,1,5,2,8
+C6447,Male,Senior,Peshawar,2023-10-05,2024-09-07,KFC,Fast Food,3,397.04,Wallet,24,2025-01-23,491,True,-1.0,Cancelled,1191.1200000000001,2,3,2,7
+C6785,Other,Teenager,Peshawar,2024-08-13,2024-09-08,Pizza Hut,Italian,1,1396.57,Cash,29,2024-12-10,236,False,-1.0,Cancelled,1396.57,1,3,2,6
+C1616,Male,Adult,Peshawar,2023-12-11,2024-09-08,KFC,Fast Food,1,769.19,Cash,31,2024-11-08,67,False,4.0,Delivered,769.19,1,4,1,6
+C5228,Male,Teenager,Peshawar,2024-09-08,2025-03-06,KFC,Fast Food,5,1068.79,Wallet,12,2025-04-22,324,True,-1.0,Cancelled,5343.95,3,2,5,10
+C4791,Female,Senior,Peshawar,2024-09-08,2025-04-22,KFC,Fast Food,3,726.01,Wallet,12,2025-07-22,459,False,-1.0,Cancelled,2178.0299999999997,5,2,3,10
+C4408,Male,Senior,Peshawar,2024-04-22,2024-09-08,McDonald's,Dessert,5,595.83,Cash,8,2025-06-11,216,True,2.0,Delivered,2979.15,4,1,4,9
+C4954,Female,Teenager,Peshawar,2024-09-08,2024-12-03,Burger King,Fast Food,1,397.66,Card,21,2025-08-07,445,False,5.0,Delivered,397.66,5,3,1,9
+C2198,Other,Adult,Peshawar,2024-09-08,2024-11-24,Pizza Hut,Continental,2,1288.07,Wallet,29,2025-04-12,479,True,5.0,Delayed,2576.14,3,3,4,10
+C2050,Female,Senior,Peshawar,2024-02-24,2024-09-09,Pizza Hut,Continental,2,670.42,Card,17,2025-04-15,466,True,3.0,Delivered,1340.84,3,2,2,7
+C5967,Male,Senior,Peshawar,2024-09-09,2024-12-20,KFC,Chinese,2,279.72,Cash,39,2025-06-30,336,False,-1.0,Cancelled,559.44,4,4,1,9
+C3441,Female,Senior,Peshawar,2024-09-10,2025-04-08,Subway,Chinese,1,1393.55,Cash,28,2025-06-15,370,False,5.0,Delayed,1393.55,4,3,2,9
+C6795,Male,Teenager,Peshawar,2024-09-10,2024-11-16,McDonald's,Chinese,4,1029.42,Wallet,14,2025-01-20,252,False,3.0,Delivered,4117.68,2,2,5,9
+C6039,Other,Adult,Peshawar,2024-09-10,2025-07-01,Pizza Hut,Continental,3,130.17,Card,5,2025-08-17,54,True,3.0,Delivered,390.51,5,1,1,7
+C6031,Male,Adult,Peshawar,2024-09-10,2025-05-19,KFC,Continental,1,929.01,Wallet,44,2025-07-28,206,False,1.0,Delivered,929.01,5,5,2,12
+C3079,Other,Teenager,Peshawar,2024-05-01,2024-09-11,Pizza Hut,Fast Food,4,433.82,Wallet,6,2024-11-22,161,False,-1.0,Cancelled,1735.28,1,1,3,5
+C5817,Other,Senior,Peshawar,2024-06-25,2024-08-26,Burger King,Fast Food,4,1164.25,Cash,12,2024-09-11,203,False,4.0,Delayed,4657.0,1,2,5,8
+C4424,Male,Teenager,Peshawar,2024-06-22,2024-09-11,McDonald's,Chinese,5,1135.94,Cash,7,2025-02-22,487,True,2.0,Delayed,5679.700000000001,2,1,5,8
+C5669,Other,Adult,Peshawar,2024-07-09,2024-09-11,Subway,Chinese,4,905.71,Wallet,29,2024-09-13,350,True,-1.0,Cancelled,3622.84,1,3,4,8
+C2720,Female,Senior,Peshawar,2023-12-16,2024-09-12,Burger King,Fast Food,3,1234.83,Cash,38,2025-03-24,293,False,2.0,Delayed,3704.49,2,4,4,10
+C2751,Female,Adult,Peshawar,2024-01-19,2024-09-12,Pizza Hut,Chinese,3,606.93,Wallet,13,2025-03-18,467,False,4.0,Delivered,1820.79,2,2,3,7
+C1931,Other,Adult,Peshawar,2024-09-12,2024-12-27,Pizza Hut,Italian,1,807.93,Cash,25,2025-02-15,78,True,-1.0,Cancelled,807.93,2,3,1,6
+C3386,Male,Adult,Peshawar,2023-12-11,2024-09-13,KFC,Italian,3,280.29,Wallet,28,2025-06-27,76,False,1.0,Delayed,840.8700000000001,4,3,2,9
+C5225,Female,Adult,Peshawar,2024-02-16,2024-09-13,Pizza Hut,Chinese,5,1246.37,Card,25,2025-01-04,265,False,3.0,Delivered,6231.849999999999,1,3,5,9
+C5844,Female,Senior,Peshawar,2024-09-13,2024-12-20,Burger King,Continental,2,1309.17,Cash,9,2025-02-01,214,False,5.0,Delivered,2618.34,2,1,4,7
+C6427,Female,Teenager,Peshawar,2024-09-14,2025-07-05,McDonald's,Fast Food,5,326.68,Card,3,2025-08-04,167,True,3.0,Delivered,1633.4,5,1,3,9
+C2117,Other,Adult,Peshawar,2024-03-30,2024-09-16,Burger King,Italian,3,580.71,Wallet,4,2024-10-27,41,True,4.0,Delivered,1742.13,1,1,3,5
+C4573,Other,Teenager,Peshawar,2024-02-06,2024-09-16,Subway,Continental,2,725.62,Cash,22,2024-12-21,385,False,5.0,Delivered,1451.24,1,3,3,7
+C6893,Female,Adult,Peshawar,2024-07-20,2024-09-16,Subway,Dessert,5,1129.1,Wallet,24,2025-06-02,38,True,3.0,Delivered,5645.5,4,3,5,12
+C3524,Other,Senior,Peshawar,2024-09-17,2025-02-26,McDonald's,Chinese,1,727.3,Wallet,15,2025-03-05,481,True,5.0,Delayed,727.3,2,2,1,5
+C6307,Female,Senior,Peshawar,2024-09-17,2025-01-13,Subway,Dessert,5,978.59,Cash,37,2025-02-13,26,False,-1.0,Cancelled,4892.95,2,4,5,11
+C2036,Male,Teenager,Peshawar,2024-01-22,2024-09-17,Subway,Continental,2,758.21,Card,45,2024-12-26,229,True,2.0,Delayed,1516.42,1,5,3,9
+C3266,Male,Teenager,Peshawar,2024-09-18,2025-03-05,Burger King,Continental,1,1366.76,Card,16,2025-06-05,500,True,-1.0,Cancelled,1366.76,4,2,2,8
+C1126,Male,Adult,Peshawar,2024-02-04,2024-09-19,Burger King,Dessert,2,596.63,Wallet,8,2024-09-30,11,True,2.0,Delayed,1193.26,1,1,2,4
+C6828,Female,Adult,Peshawar,2024-09-19,2024-10-17,KFC,Chinese,4,443.42,Card,38,2024-12-30,300,False,2.0,Delivered,1773.68,1,4,3,8
+C2981,Male,Teenager,Peshawar,2024-09-19,2024-10-19,McDonald's,Chinese,2,595.12,Cash,36,2025-08-08,454,True,4.0,Delayed,1190.24,5,4,2,11
+C2817,Other,Adult,Peshawar,2024-09-21,2024-09-23,Burger King,Dessert,3,388.7,Wallet,30,2024-11-18,33,False,5.0,Delivered,1166.1,1,3,2,6
+C4068,Female,Teenager,Peshawar,2024-09-22,2024-12-13,Burger King,Italian,3,554.73,Wallet,46,2025-02-18,262,False,-1.0,Cancelled,1664.19,2,5,3,10
+C6940,Female,Teenager,Peshawar,2024-08-03,2024-09-22,KFC,Fast Food,5,1037.93,Card,36,2025-02-17,249,True,2.0,Delivered,5189.650000000001,2,4,5,11
+C4067,Female,Teenager,Peshawar,2024-04-04,2024-09-02,Subway,Fast Food,5,215.22,Cash,14,2024-09-23,441,True,3.0,Delivered,1076.1,1,2,2,5
+C4275,Other,Senior,Peshawar,2024-01-30,2024-09-24,Pizza Hut,Italian,1,532.5,Cash,1,2025-03-14,461,True,4.0,Delayed,532.5,2,1,1,4
+C1960,Female,Senior,Peshawar,2024-06-18,2024-09-25,Burger King,Continental,3,273.15,Card,16,2025-05-25,195,True,5.0,Delivered,819.4499999999999,3,2,1,6
+C2334,Female,Teenager,Peshawar,2023-11-15,2024-09-25,McDonald's,Continental,2,1438.08,Wallet,13,2025-04-14,462,True,2.0,Delayed,2876.16,3,2,4,9
+C6161,Male,Adult,Peshawar,2024-01-27,2024-09-22,Burger King,Fast Food,5,995.33,Cash,46,2024-09-25,350,False,3.0,Delayed,4976.650000000001,1,5,5,11
+C3023,Other,Senior,Peshawar,2023-10-17,2024-09-25,Pizza Hut,Dessert,4,488.77,Card,7,2025-05-28,109,True,-1.0,Cancelled,1955.08,3,1,3,7
+C3194,Other,Adult,Peshawar,2024-09-26,2024-10-05,KFC,Continental,5,1330.22,Cash,37,2025-05-24,212,True,-1.0,Cancelled,6651.1,3,4,5,12
+C1263,Male,Teenager,Peshawar,2024-09-27,2025-01-25,KFC,Dessert,2,791.77,Card,34,2025-03-04,5,False,-1.0,Cancelled,1583.54,2,4,3,9
+C3568,Male,Teenager,Peshawar,2024-09-27,2025-02-19,Pizza Hut,Continental,2,829.9,Cash,33,2025-06-25,13,True,3.0,Delayed,1659.8,4,4,3,11
+C6871,Female,Adult,Peshawar,2024-09-27,2025-01-23,Subway,Italian,1,334.09,Card,22,2025-07-01,86,True,3.0,Delivered,334.09,4,3,1,8
+C1770,Female,Teenager,Peshawar,2023-12-06,2024-09-28,KFC,Chinese,2,455.43,Card,7,2025-05-03,423,False,2.0,Delivered,910.86,3,1,2,6
+C2010,Male,Teenager,Peshawar,2024-07-09,2024-09-29,McDonald's,Chinese,1,1358.11,Wallet,16,2025-03-19,175,True,-1.0,Cancelled,1358.11,2,2,2,6
+C5821,Other,Adult,Peshawar,2024-04-28,2024-09-30,Pizza Hut,Dessert,2,431.27,Wallet,11,2025-03-30,61,False,-1.0,Cancelled,862.54,2,1,2,5
+C6679,Male,Teenager,Peshawar,2024-04-29,2024-10-03,KFC,Fast Food,2,642.43,Wallet,33,2024-11-06,351,False,-1.0,Cancelled,1284.86,1,4,2,7
+C5825,Other,Adult,Peshawar,2023-12-31,2024-10-03,Burger King,Dessert,1,1499.68,Wallet,49,2024-12-25,460,True,3.0,Delivered,1499.68,1,5,3,9
+C2531,Male,Senior,Peshawar,2024-05-13,2024-10-03,KFC,Continental,4,812.89,Wallet,37,2025-02-12,175,False,4.0,Delivered,3251.56,2,4,4,10
+C5416,Female,Teenager,Peshawar,2024-10-03,2024-10-17,Burger King,Chinese,5,725.79,Cash,10,2025-08-17,19,True,3.0,Delayed,3628.95,5,1,4,10
+C5971,Female,Adult,Peshawar,2024-10-04,2025-01-19,Pizza Hut,Dessert,3,882.91,Cash,13,2025-02-28,323,True,5.0,Delayed,2648.73,2,2,4,8
+C1982,Female,Adult,Peshawar,2023-10-02,2024-10-03,Burger King,Fast Food,5,918.7,Cash,50,2024-10-05,205,False,-1.0,Cancelled,4593.5,1,5,5,11
+C4629,Other,Senior,Peshawar,2024-03-19,2024-10-05,McDonald's,Fast Food,5,312.56,Cash,4,2025-04-19,148,False,4.0,Delayed,1562.8,3,1,3,7
+C2512,Female,Teenager,Peshawar,2024-03-04,2024-10-06,Subway,Dessert,3,778.7,Card,43,2025-01-31,55,True,-1.0,Cancelled,2336.1000000000004,2,5,3,10
+C2605,Female,Teenager,Peshawar,2023-10-06,2024-09-15,Pizza Hut,Dessert,1,828.74,Card,30,2024-10-06,64,True,5.0,Delivered,828.74,1,3,1,5
+C5907,Female,Teenager,Peshawar,2024-10-06,2025-03-21,McDonald's,Italian,5,162.22,Wallet,46,2025-04-15,14,True,4.0,Delayed,811.1,3,5,1,9
+C3310,Male,Teenager,Peshawar,2024-08-21,2024-10-06,Pizza Hut,Chinese,3,726.34,Cash,9,2025-01-02,436,True,1.0,Delayed,2179.02,1,1,3,5
+C4285,Other,Adult,Peshawar,2024-07-29,2024-10-08,Subway,Italian,1,1373.26,Card,23,2025-02-01,86,False,-1.0,Cancelled,1373.26,2,3,2,7
+C4930,Male,Teenager,Peshawar,2024-10-05,2024-10-09,Pizza Hut,Italian,4,1201.56,Cash,4,2025-06-28,314,True,-1.0,Cancelled,4806.24,4,1,5,10
+C6184,Other,Senior,Peshawar,2024-10-07,2024-10-09,Pizza Hut,Continental,2,697.83,Cash,28,2025-06-23,235,True,4.0,Delayed,1395.66,4,3,2,9
+C1107,Male,Adult,Peshawar,2024-06-07,2024-10-10,Pizza Hut,Italian,4,840.59,Cash,32,2025-07-02,19,True,-1.0,Cancelled,3362.36,4,4,4,12
+C4984,Male,Teenager,Peshawar,2024-10-10,2025-01-01,KFC,Chinese,5,1160.56,Cash,41,2025-03-01,176,False,-1.0,Cancelled,5802.799999999999,2,5,5,12
+C3668,Other,Teenager,Peshawar,2023-10-29,2024-10-11,Burger King,Italian,1,879.14,Card,38,2024-11-03,330,False,4.0,Delivered,879.14,1,4,2,7
+C4391,Female,Teenager,Peshawar,2024-04-30,2024-10-12,KFC,Dessert,5,850.04,Card,34,2025-02-20,115,True,-1.0,Cancelled,4250.2,2,4,5,11
+C4685,Other,Teenager,Peshawar,2024-08-24,2024-10-12,Pizza Hut,Fast Food,2,280.34,Wallet,9,2024-11-25,231,False,4.0,Delayed,560.68,1,1,1,3
+C4329,Female,Teenager,Peshawar,2024-10-13,2025-04-26,Pizza Hut,Dessert,3,1052.23,Card,9,2025-06-23,293,False,-1.0,Cancelled,3156.69,4,1,4,9
+C4429,Female,Senior,Peshawar,2024-10-14,2025-04-20,Burger King,Fast Food,2,1135.92,Wallet,5,2025-08-14,442,True,-1.0,Cancelled,2271.84,5,1,3,9
+C3649,Female,Teenager,Peshawar,2023-12-13,2024-10-14,Burger King,Continental,4,515.59,Cash,25,2025-01-26,395,False,-1.0,Cancelled,2062.36,2,3,3,8
+C2331,Other,Teenager,Peshawar,2024-10-11,2024-10-18,McDonald's,Chinese,5,405.39,Card,46,2025-07-24,252,True,-1.0,Cancelled,2026.9499999999998,5,5,3,13
+C4937,Male,Senior,Peshawar,2024-01-10,2024-10-19,McDonald's,Chinese,5,980.75,Card,13,2025-06-19,292,False,5.0,Delayed,4903.75,4,2,5,11
+C4112,Male,Teenager,Peshawar,2024-05-11,2024-10-20,McDonald's,Fast Food,5,212.27,Cash,20,2025-02-15,246,True,4.0,Delayed,1061.3500000000001,2,2,2,6
+C3925,Male,Senior,Peshawar,2024-03-25,2024-10-20,Subway,Fast Food,3,1292.17,Card,19,2025-08-20,390,False,4.0,Delayed,3876.51,5,2,4,11
+C5161,Male,Senior,Peshawar,2023-09-30,2024-08-31,Burger King,Chinese,1,469.42,Wallet,34,2024-10-21,413,True,-1.0,Cancelled,469.42,1,4,1,6
+C2825,Other,Teenager,Peshawar,2023-10-18,2024-10-21,Subway,Fast Food,3,254.39,Cash,22,2025-03-26,246,True,4.0,Delivered,763.17,2,3,1,6
+C6951,Female,Teenager,Peshawar,2024-08-08,2024-10-08,Subway,Continental,1,381.25,Cash,2,2024-10-22,336,True,5.0,Delivered,381.25,1,1,1,3
+C5202,Male,Teenager,Peshawar,2023-12-22,2024-10-22,KFC,Italian,3,1274.31,Cash,29,2024-12-29,356,False,-1.0,Cancelled,3822.93,1,3,4,8
+C6742,Female,Adult,Peshawar,2024-09-04,2024-10-22,Pizza Hut,Dessert,3,290.74,Wallet,40,2024-10-28,268,True,1.0,Delayed,872.22,1,4,2,7
+C3685,Male,Teenager,Peshawar,2023-12-09,2024-10-23,McDonald's,Italian,5,1180.53,Card,10,2024-10-27,138,True,-1.0,Cancelled,5902.65,1,1,5,7
+C6441,Male,Senior,Peshawar,2024-07-27,2024-10-24,Subway,Chinese,4,1199.15,Cash,9,2025-08-06,305,True,2.0,Delayed,4796.6,5,1,5,11
+C6083,Female,Teenager,Peshawar,2024-10-24,2025-05-08,KFC,Italian,1,1252.53,Card,6,2025-05-12,268,False,-1.0,Cancelled,1252.53,3,1,2,6
+C3736,Other,Teenager,Peshawar,2023-09-24,2024-10-04,KFC,Dessert,4,157.06,Cash,8,2024-10-25,157,True,-1.0,Cancelled,628.24,1,1,1,3
+C1539,Male,Adult,Peshawar,2024-10-25,2025-06-10,KFC,Chinese,4,1206.95,Wallet,25,2025-07-19,166,False,-1.0,Cancelled,4827.8,5,3,5,13
+C5918,Female,Senior,Peshawar,2024-10-26,2024-12-23,McDonald's,Dessert,1,974.42,Card,40,2025-03-08,307,True,5.0,Delivered,974.42,2,4,2,8
+C5028,Female,Teenager,Peshawar,2023-09-28,2024-10-26,Pizza Hut,Italian,1,275.53,Cash,31,2025-05-26,220,False,4.0,Delivered,275.53,3,4,1,8
+C4034,Male,Teenager,Peshawar,2024-06-30,2024-10-27,Pizza Hut,Italian,2,998.72,Cash,13,2024-11-16,229,True,-1.0,Cancelled,1997.44,1,2,3,6
+C6561,Male,Teenager,Peshawar,2024-10-27,2024-11-07,McDonald's,Fast Food,3,192.44,Wallet,33,2025-06-23,494,True,5.0,Delayed,577.3199999999999,4,4,1,9
+C3938,Male,Teenager,Peshawar,2024-09-08,2024-10-27,Subway,Continental,1,1016.54,Cash,23,2025-01-18,379,True,2.0,Delivered,1016.54,2,3,2,7
+C5826,Male,Adult,Peshawar,2024-06-02,2024-10-27,Burger King,Fast Food,5,432.09,Card,7,2025-01-13,19,False,4.0,Delivered,2160.45,1,1,3,5
+C4433,Other,Senior,Peshawar,2024-07-15,2024-10-28,Pizza Hut,Chinese,1,588.08,Cash,16,2024-11-03,107,False,4.0,Delayed,588.08,1,2,1,4
+C6451,Other,Adult,Peshawar,2024-10-28,2025-01-04,McDonald's,Italian,5,182.57,Cash,50,2025-03-27,378,False,2.0,Delayed,912.8499999999999,2,5,2,9
+C1848,Other,Teenager,Peshawar,2024-10-28,2025-03-07,KFC,Dessert,3,988.33,Wallet,1,2025-05-04,4,False,2.0,Delivered,2964.9900000000002,3,1,4,8
+C2812,Other,Senior,Peshawar,2024-10-29,2025-01-24,Pizza Hut,Dessert,3,707.65,Cash,38,2025-04-05,253,False,3.0,Delayed,2122.95,3,4,3,10
+C1417,Female,Teenager,Peshawar,2023-11-02,2024-10-29,Pizza Hut,Continental,5,611.69,Card,29,2024-10-31,397,True,3.0,Delayed,3058.4500000000003,1,3,4,8
+C3953,Male,Teenager,Peshawar,2024-10-29,2025-05-29,Burger King,Fast Food,5,908.26,Card,24,2025-07-31,339,True,3.0,Delayed,4541.3,5,3,5,13
+C6669,Female,Senior,Peshawar,2024-02-22,2024-10-30,Burger King,Continental,3,920.65,Cash,44,2024-12-18,316,False,-1.0,Cancelled,2761.95,1,5,4,10
+C2612,Other,Adult,Peshawar,2024-01-24,2024-08-27,McDonald's,Dessert,3,951.67,Card,30,2024-10-30,63,False,-1.0,Cancelled,2855.0099999999998,1,3,4,8
+C2581,Female,Adult,Peshawar,2024-05-20,2024-08-29,KFC,Italian,1,1363.66,Card,38,2024-10-31,352,True,4.0,Delivered,1363.66,1,4,2,7
+C1532,Other,Teenager,Peshawar,2024-10-31,2024-12-17,KFC,Dessert,1,169.09,Cash,27,2025-04-15,23,True,-1.0,Cancelled,169.09,3,3,1,7
+C6484,Other,Teenager,Peshawar,2023-08-30,2024-11-01,Pizza Hut,Dessert,1,806.58,Wallet,3,2024-11-25,262,True,1.0,Delayed,806.58,1,1,1,3
+C6965,Other,Adult,Peshawar,2024-05-29,2024-11-01,Pizza Hut,Italian,2,1148.83,Wallet,16,2025-01-22,470,True,-1.0,Cancelled,2297.66,2,2,3,7
+C2709,Female,Senior,Peshawar,2024-10-27,2024-10-30,Pizza Hut,Fast Food,1,634.62,Card,37,2024-11-02,282,True,1.0,Delayed,634.62,1,4,1,6
+C1618,Male,Adult,Peshawar,2024-08-19,2024-11-03,McDonald's,Fast Food,5,811.35,Cash,20,2025-02-26,481,False,3.0,Delayed,4056.75,2,2,5,9
+C2680,Male,Senior,Peshawar,2024-04-25,2024-11-03,KFC,Continental,2,219.83,Card,20,2025-04-23,364,False,2.0,Delayed,439.66,3,2,1,6
+C2969,Other,Teenager,Peshawar,2023-10-27,2024-11-04,Pizza Hut,Fast Food,3,956.69,Wallet,10,2024-12-25,281,True,3.0,Delivered,2870.07,1,1,4,6
+C3003,Other,Teenager,Peshawar,2024-11-04,2025-04-11,Pizza Hut,Continental,5,421.87,Card,18,2025-04-23,496,True,-1.0,Cancelled,2109.35,3,2,3,8
+C1732,Other,Senior,Peshawar,2024-11-04,2024-11-24,Burger King,Dessert,3,672.88,Wallet,30,2024-12-19,199,True,2.0,Delivered,2018.6399999999999,1,3,3,7
+C5685,Male,Teenager,Peshawar,2024-08-15,2024-11-04,KFC,Chinese,1,869.0,Card,28,2025-02-06,37,False,-1.0,Cancelled,869.0,2,3,2,7
+C6673,Male,Teenager,Peshawar,2024-10-01,2024-11-05,McDonald's,Italian,1,887.34,Cash,1,2025-06-09,89,True,2.0,Delivered,887.34,4,1,2,7
+C2553,Other,Adult,Peshawar,2024-10-04,2024-11-05,Burger King,Dessert,3,1012.99,Wallet,1,2024-11-23,37,False,-1.0,Cancelled,3038.9700000000003,1,1,4,6
+C1593,Female,Senior,Peshawar,2024-11-05,2025-04-07,McDonald's,Chinese,5,349.86,Card,32,2025-05-01,153,True,1.0,Delayed,1749.3000000000002,3,4,3,10
+C1825,Other,Senior,Peshawar,2024-11-06,2025-04-11,Subway,Italian,3,1027.09,Cash,17,2025-06-07,135,True,4.0,Delivered,3081.2699999999995,4,2,4,10
+C4997,Other,Teenager,Peshawar,2024-11-06,2025-01-12,Burger King,Fast Food,5,995.43,Wallet,26,2025-04-23,490,False,-1.0,Cancelled,4977.15,3,3,5,11
+C2830,Female,Senior,Peshawar,2023-10-13,2024-11-06,KFC,Chinese,2,861.8,Cash,35,2025-06-20,197,True,-1.0,Cancelled,1723.6,4,4,3,11
+C6001,Other,Teenager,Peshawar,2024-07-31,2024-11-07,McDonald's,Chinese,3,847.29,Cash,31,2024-11-20,171,False,5.0,Delivered,2541.87,1,4,4,9
+C3019,Female,Senior,Peshawar,2024-11-08,2025-03-31,Pizza Hut,Continental,1,935.89,Wallet,18,2025-05-19,350,True,-1.0,Cancelled,935.89,3,2,2,7
+C1000,Female,Teenager,Peshawar,2024-06-14,2024-11-08,Pizza Hut,Italian,1,1210.1,Wallet,26,2025-04-17,89,True,-1.0,Cancelled,1210.1,3,3,2,8
+C3092,Male,Adult,Peshawar,2024-11-08,2024-12-25,Burger King,Dessert,5,915.2,Wallet,39,2025-06-16,217,False,2.0,Delivered,4576.0,4,4,5,13
+C3572,Male,Teenager,Peshawar,2024-10-16,2024-11-10,KFC,Continental,3,1109.72,Cash,50,2025-08-07,414,True,1.0,Delivered,3329.16,5,5,4,14
+C5129,Other,Teenager,Peshawar,2024-11-10,2025-03-05,Subway,Dessert,2,861.59,Cash,23,2025-08-13,440,True,1.0,Delayed,1723.18,5,3,3,11
+C6774,Male,Adult,Peshawar,2024-03-14,2024-11-11,Pizza Hut,Chinese,3,1048.82,Wallet,16,2025-03-11,118,False,-1.0,Cancelled,3146.46,2,2,4,8
+C2406,Female,Teenager,Peshawar,2023-08-29,2024-11-12,Burger King,Italian,3,1251.92,Card,36,2025-07-20,128,True,-1.0,Cancelled,3755.76,5,4,4,13
+C5968,Other,Teenager,Peshawar,2023-12-22,2024-11-12,McDonald's,Fast Food,1,268.12,Wallet,46,2025-05-22,58,False,-1.0,Cancelled,268.12,3,5,1,9
+C5794,Male,Teenager,Peshawar,2024-11-12,2025-08-02,KFC,Dessert,3,760.32,Wallet,18,2025-08-06,334,False,1.0,Delivered,2280.96,5,2,3,10
+C4111,Female,Teenager,Peshawar,2024-11-13,2025-01-03,Subway,Fast Food,3,724.69,Wallet,46,2025-03-31,112,True,-1.0,Cancelled,2174.07,2,5,3,10
+C4663,Male,Senior,Peshawar,2023-12-12,2024-11-14,Burger King,Fast Food,4,1492.65,Wallet,40,2025-01-05,421,False,4.0,Delivered,5970.6,1,4,5,10
+C1283,Other,Teenager,Peshawar,2024-05-24,2024-11-14,KFC,Fast Food,3,472.78,Wallet,31,2025-06-12,389,False,-1.0,Cancelled,1418.34,4,4,2,10
+C5017,Female,Adult,Peshawar,2024-05-27,2024-11-15,KFC,Fast Food,1,812.25,Wallet,3,2025-03-31,41,False,5.0,Delivered,812.25,2,1,1,4
+C6100,Male,Adult,Peshawar,2023-11-13,2024-08-21,Subway,Continental,3,1286.63,Cash,46,2024-11-16,413,True,1.0,Delivered,3859.8900000000003,1,5,4,10
+C5342,Other,Adult,Peshawar,2023-08-27,2024-11-16,Burger King,Chinese,4,291.85,Wallet,22,2025-06-08,167,False,1.0,Delivered,1167.4,4,3,2,9
+C6978,Female,Senior,Peshawar,2024-08-19,2024-11-17,Burger King,Italian,2,1040.99,Card,7,2025-07-13,266,False,-1.0,Cancelled,2081.98,4,1,3,8
+C4595,Male,Teenager,Peshawar,2024-04-14,2024-11-18,Burger King,Chinese,1,990.53,Cash,45,2025-05-11,215,True,-1.0,Cancelled,990.53,3,5,2,10
+C3945,Male,Adult,Peshawar,2023-11-12,2024-11-18,McDonald's,Fast Food,2,1117.63,Wallet,49,2025-02-24,13,True,-1.0,Cancelled,2235.26,2,5,3,10
+C3279,Female,Teenager,Peshawar,2024-10-13,2024-11-18,McDonald's,Chinese,1,1037.69,Card,11,2025-01-14,1,False,5.0,Delayed,1037.69,1,1,2,4
+C4154,Other,Senior,Peshawar,2024-10-29,2024-11-20,KFC,Fast Food,1,1445.68,Card,25,2024-11-22,260,True,1.0,Delivered,1445.68,1,3,3,7
+C3353,Male,Teenager,Peshawar,2024-11-20,2024-11-28,Burger King,Italian,3,957.18,Cash,17,2025-08-07,400,True,2.0,Delivered,2871.54,5,2,4,11
+C2022,Other,Adult,Peshawar,2024-09-12,2024-11-20,Subway,Dessert,1,958.15,Card,28,2025-02-03,195,False,-1.0,Cancelled,958.15,2,3,2,7
+C2250,Male,Adult,Peshawar,2024-06-04,2024-09-14,Pizza Hut,Continental,3,1243.86,Card,7,2024-11-22,42,True,-1.0,Cancelled,3731.58,1,1,4,6
+C1086,Female,Teenager,Peshawar,2024-08-28,2024-11-22,KFC,Chinese,2,1213.45,Card,42,2025-07-13,220,False,3.0,Delayed,2426.9,4,5,3,12
+C3789,Female,Adult,Peshawar,2024-10-01,2024-11-23,Burger King,Chinese,4,475.64,Card,40,2025-05-05,102,False,4.0,Delivered,1902.56,3,4,3,10
+C5272,Male,Teenager,Peshawar,2024-10-21,2024-11-23,KFC,Italian,3,848.61,Card,37,2025-03-18,169,True,2.0,Delivered,2545.83,2,4,4,10
+C6517,Male,Senior,Peshawar,2024-09-11,2024-11-24,Pizza Hut,Chinese,1,649.02,Card,37,2025-02-02,179,False,-1.0,Cancelled,649.02,2,4,1,7
+C2774,Male,Senior,Peshawar,2023-11-04,2024-11-24,KFC,Italian,3,579.57,Card,13,2024-12-30,451,True,3.0,Delayed,1738.71,1,2,3,6
+C1815,Other,Teenager,Peshawar,2024-11-20,2024-11-25,Pizza Hut,Dessert,5,889.38,Card,36,2025-01-11,85,True,-1.0,Cancelled,4446.9,1,4,5,10
+C5479,Male,Teenager,Peshawar,2024-06-25,2024-11-26,Subway,Italian,3,440.85,Wallet,28,2025-07-13,278,False,1.0,Delivered,1322.5500000000002,4,3,2,9
+C3829,Male,Adult,Peshawar,2024-11-26,2025-04-24,McDonald's,Chinese,4,530.11,Wallet,50,2025-05-25,220,False,-1.0,Cancelled,2120.44,3,5,3,11
+C5831,Male,Senior,Peshawar,2024-05-18,2024-09-20,Subway,Continental,1,179.6,Wallet,19,2024-11-27,416,False,-1.0,Cancelled,179.6,1,2,1,4
+C5001,Female,Adult,Peshawar,2023-11-24,2024-11-28,McDonald's,Chinese,4,1006.48,Wallet,9,2025-07-07,486,False,5.0,Delayed,4025.92,4,1,5,10
+C2163,Male,Adult,Peshawar,2023-09-15,2024-11-28,KFC,Dessert,1,1298.99,Cash,41,2025-01-01,121,True,-1.0,Cancelled,1298.99,1,5,2,8
+C1277,Male,Adult,Peshawar,2024-11-12,2024-11-28,McDonald's,Fast Food,2,1408.57,Wallet,11,2025-01-11,442,True,5.0,Delivered,2817.14,1,1,4,6
+C1565,Male,Adult,Peshawar,2024-04-01,2024-11-30,Pizza Hut,Dessert,4,1362.98,Cash,25,2025-08-13,65,False,3.0,Delayed,5451.92,5,3,5,13
+C1185,Other,Senior,Peshawar,2024-11-30,2025-02-03,Burger King,Fast Food,5,186.09,Wallet,15,2025-06-12,308,True,4.0,Delayed,930.45,4,2,2,8
+C3372,Female,Adult,Peshawar,2024-08-08,2024-11-30,Burger King,Continental,3,824.45,Wallet,1,2025-04-21,252,False,-1.0,Cancelled,2473.3500000000004,3,1,4,8
+C5247,Female,Senior,Peshawar,2024-03-16,2024-12-01,Subway,Continental,4,278.33,Wallet,34,2025-05-11,94,False,1.0,Delivered,1113.32,3,4,2,9
+C5974,Male,Teenager,Peshawar,2024-11-25,2024-12-02,Pizza Hut,Continental,1,303.5,Cash,17,2025-06-23,226,False,1.0,Delivered,303.5,4,2,1,7
+C4152,Other,Senior,Peshawar,2024-04-27,2024-12-02,McDonald's,Dessert,1,1160.73,Card,21,2025-08-18,494,True,4.0,Delayed,1160.73,5,3,2,10
+C3337,Other,Senior,Peshawar,2023-09-07,2024-12-03,Subway,Fast Food,4,1498.99,Card,17,2025-07-20,307,False,5.0,Delayed,5995.96,5,2,5,12
+C6413,Male,Adult,Peshawar,2024-12-04,2025-04-08,Subway,Chinese,5,1210.42,Card,30,2025-05-13,206,True,5.0,Delayed,6052.1,3,3,5,11
+C2308,Female,Senior,Peshawar,2024-08-24,2024-09-02,KFC,Dessert,3,897.8,Cash,46,2024-12-05,478,False,5.0,Delayed,2693.3999999999996,1,5,4,10
+C6199,Other,Adult,Peshawar,2024-02-24,2024-12-06,Pizza Hut,Continental,4,325.51,Card,32,2025-08-15,395,False,5.0,Delivered,1302.04,5,4,2,11
+C5471,Female,Adult,Peshawar,2024-03-16,2024-11-30,Burger King,Chinese,4,915.05,Cash,41,2024-12-09,43,True,-1.0,Cancelled,3660.2,1,5,4,10
+C1707,Male,Senior,Peshawar,2023-11-02,2024-12-05,McDonald's,Italian,5,368.79,Cash,48,2024-12-09,416,False,1.0,Delivered,1843.95,1,5,3,9
+C3410,Male,Senior,Peshawar,2024-12-10,2025-02-14,McDonald's,Continental,3,755.84,Card,48,2025-06-02,305,False,-1.0,Cancelled,2267.52,4,5,3,12
+C1867,Other,Senior,Peshawar,2024-08-29,2024-12-10,Burger King,Italian,1,350.03,Cash,13,2025-02-23,398,False,2.0,Delivered,350.03,2,2,1,5
+C4567,Female,Senior,Peshawar,2024-10-13,2024-12-10,McDonald's,Continental,4,1194.79,Card,21,2025-01-14,313,False,5.0,Delivered,4779.16,1,3,5,9
+C6203,Male,Teenager,Peshawar,2024-04-01,2024-12-12,McDonald's,Chinese,3,1110.2,Wallet,9,2025-01-27,165,False,1.0,Delayed,3330.6000000000004,2,1,4,7
+C1751,Female,Senior,Peshawar,2024-12-03,2024-12-13,KFC,Dessert,2,286.63,Cash,45,2025-05-01,239,True,4.0,Delayed,573.26,3,5,1,9
+C4345,Female,Adult,Peshawar,2024-12-13,2025-02-12,KFC,Fast Food,3,312.05,Cash,37,2025-08-15,99,True,4.0,Delivered,936.1500000000001,5,4,2,11
+C6773,Male,Teenager,Peshawar,2024-01-24,2024-12-13,Subway,Italian,4,1251.89,Wallet,34,2025-01-24,37,False,-1.0,Cancelled,5007.56,2,4,5,11
+C4173,Other,Senior,Peshawar,2024-12-13,2025-05-30,KFC,Continental,5,515.36,Wallet,7,2025-07-29,351,False,-1.0,Cancelled,2576.8,5,1,4,10
+C1568,Female,Teenager,Peshawar,2024-08-20,2024-09-15,McDonald's,Fast Food,4,773.36,Cash,4,2024-12-15,499,False,-1.0,Cancelled,3093.44,1,1,4,6
+C5181,Male,Adult,Peshawar,2024-12-15,2025-07-13,Subway,Italian,2,1326.49,Card,32,2025-08-09,476,True,-1.0,Cancelled,2652.98,5,4,4,13
+C5634,Other,Teenager,Peshawar,2023-10-18,2024-10-25,McDonald's,Fast Food,3,616.99,Card,13,2024-12-15,236,False,-1.0,Cancelled,1850.97,1,2,3,6
+C2703,Female,Senior,Peshawar,2024-12-17,2025-01-17,Subway,Continental,5,964.53,Card,38,2025-06-10,280,True,4.0,Delayed,4822.65,4,4,5,13
+C1534,Female,Adult,Peshawar,2024-12-17,2025-04-11,Pizza Hut,Continental,1,1310.78,Card,50,2025-07-10,148,True,-1.0,Cancelled,1310.78,4,5,2,11
+C5785,Male,Senior,Peshawar,2023-10-25,2024-12-17,Pizza Hut,Chinese,3,212.07,Cash,14,2025-08-13,237,True,2.0,Delayed,636.21,5,2,1,8
+C5997,Female,Teenager,Peshawar,2024-12-18,2025-01-30,Pizza Hut,Fast Food,3,923.52,Wallet,9,2025-05-22,95,False,2.0,Delivered,2770.56,3,1,4,8
+C6327,Female,Teenager,Peshawar,2024-12-19,2025-01-11,Burger King,Chinese,4,1060.01,Wallet,6,2025-03-12,73,False,-1.0,Cancelled,4240.04,2,1,5,8
+C2218,Female,Teenager,Peshawar,2024-12-19,2025-02-27,Subway,Italian,5,1209.66,Wallet,25,2025-03-24,445,False,5.0,Delayed,6048.3,2,3,5,10
+C1288,Other,Senior,Peshawar,2024-02-18,2024-09-15,KFC,Italian,4,541.53,Cash,9,2024-12-20,19,True,2.0,Delayed,2166.12,1,1,3,5
+C6463,Other,Teenager,Peshawar,2024-12-19,2024-12-20,Pizza Hut,Chinese,5,1435.95,Cash,8,2025-05-04,180,True,-1.0,Cancelled,7179.75,3,1,5,9
+C1448,Male,Teenager,Peshawar,2024-09-27,2024-12-21,Burger King,Italian,5,1381.65,Wallet,18,2025-01-23,63,True,5.0,Delivered,6908.25,2,2,5,9
+C6578,Other,Teenager,Peshawar,2024-04-12,2024-12-22,Subway,Italian,4,834.37,Cash,41,2025-08-16,291,True,-1.0,Cancelled,3337.48,5,5,4,14
+C6135,Male,Teenager,Peshawar,2024-10-14,2024-12-23,Burger King,Dessert,1,1062.27,Card,14,2025-04-12,54,True,4.0,Delivered,1062.27,3,2,2,7
+C2033,Male,Teenager,Peshawar,2024-08-19,2024-12-23,Burger King,Dessert,3,736.18,Wallet,25,2025-04-06,263,True,-1.0,Cancelled,2208.54,3,3,3,9
+C3487,Other,Senior,Peshawar,2024-12-12,2024-12-23,McDonald's,Fast Food,1,1188.32,Wallet,4,2025-01-26,390,False,2.0,Delayed,1188.32,2,1,2,5
+C6293,Male,Teenager,Peshawar,2023-12-21,2024-10-27,McDonald's,Fast Food,4,672.27,Wallet,8,2024-12-23,407,True,1.0,Delayed,2689.08,1,1,4,6
+C2842,Other,Adult,Peshawar,2024-03-17,2024-12-24,McDonald's,Continental,5,1084.68,Cash,20,2025-06-10,268,False,1.0,Delayed,5423.400000000001,4,2,5,11
+C3263,Female,Senior,Peshawar,2023-10-08,2024-12-24,McDonald's,Chinese,3,210.49,Wallet,33,2025-02-04,154,True,4.0,Delivered,631.47,2,4,1,7
+C4377,Other,Adult,Peshawar,2024-12-26,2025-02-18,Burger King,Fast Food,3,811.44,Cash,11,2025-07-23,47,True,1.0,Delivered,2434.32,5,1,4,10
+C4420,Male,Adult,Peshawar,2023-09-12,2024-12-26,Subway,Dessert,2,1344.36,Wallet,24,2025-07-15,27,False,1.0,Delivered,2688.72,5,3,4,12
+C3495,Male,Adult,Peshawar,2023-09-07,2024-12-27,Pizza Hut,Chinese,2,895.92,Cash,47,2025-01-18,454,False,4.0,Delayed,1791.84,2,5,3,10
+C5174,Female,Adult,Peshawar,2024-12-27,2025-03-03,Burger King,Chinese,4,772.47,Card,45,2025-07-18,15,True,2.0,Delayed,3089.88,5,5,4,14
+C2264,Female,Teenager,Peshawar,2024-12-24,2024-12-28,KFC,Italian,4,1227.77,Cash,35,2025-03-07,138,False,2.0,Delayed,4911.08,2,4,5,11
+C4808,Male,Adult,Peshawar,2023-12-23,2024-12-28,Subway,Continental,5,209.82,Card,19,2025-04-12,347,False,3.0,Delayed,1049.1,3,2,2,7
+C2133,Female,Adult,Peshawar,2024-03-11,2024-12-29,Subway,Dessert,1,252.51,Cash,15,2025-05-28,214,True,3.0,Delivered,252.51,3,2,1,6
+C5507,Female,Adult,Peshawar,2024-03-03,2024-12-29,McDonald's,Continental,1,1238.37,Wallet,6,2025-07-10,40,True,-1.0,Cancelled,1238.37,4,1,2,7
+C5358,Male,Teenager,Peshawar,2024-02-17,2024-10-10,Subway,Continental,4,1102.03,Wallet,10,2024-12-29,356,True,3.0,Delivered,4408.12,1,1,5,7
+C5464,Other,Adult,Peshawar,2024-05-26,2024-12-29,McDonald's,Continental,3,325.32,Cash,22,2025-07-02,23,False,2.0,Delivered,975.96,4,3,2,9
+C3871,Female,Adult,Peshawar,2024-11-17,2024-12-29,KFC,Dessert,5,273.41,Cash,21,2025-04-21,222,True,2.0,Delayed,1367.0500000000002,3,3,2,8
+C2497,Female,Senior,Peshawar,2023-10-05,2024-12-30,Pizza Hut,Fast Food,2,772.85,Wallet,28,2025-06-01,393,False,-1.0,Cancelled,1545.7,4,3,3,10
+C5752,Male,Senior,Peshawar,2024-06-25,2024-12-15,Pizza Hut,Chinese,4,884.34,Cash,48,2024-12-30,149,True,1.0,Delivered,3537.36,1,5,4,10
+C3414,Female,Teenager,Peshawar,2024-06-01,2024-12-31,McDonald's,Italian,4,347.34,Wallet,9,2025-03-28,52,False,5.0,Delayed,1389.36,2,1,2,5
+C5375,Other,Senior,Peshawar,2024-12-31,2025-05-01,KFC,Italian,1,1379.87,Card,29,2025-05-20,55,False,3.0,Delayed,1379.87,3,3,2,8
+C4602,Female,Senior,Peshawar,2025-01-01,2025-04-28,Burger King,Dessert,3,1354.17,Wallet,22,2025-05-13,196,False,-1.0,Cancelled,4062.51,3,3,5,11
+C2346,Female,Teenager,Peshawar,2024-10-18,2025-01-01,Subway,Fast Food,3,324.25,Card,43,2025-06-18,477,True,3.0,Delayed,972.75,4,5,2,11
+C4798,Other,Teenager,Peshawar,2025-01-02,2025-05-16,Burger King,Continental,4,318.87,Wallet,22,2025-06-23,48,True,5.0,Delayed,1275.48,4,3,2,9
+C6474,Male,Senior,Peshawar,2024-11-28,2025-01-02,Pizza Hut,Fast Food,2,996.49,Wallet,29,2025-08-05,75,False,3.0,Delivered,1992.98,5,3,3,11
+C1083,Female,Teenager,Peshawar,2024-11-05,2025-01-04,McDonald's,Dessert,3,1111.1,Cash,41,2025-02-26,309,True,-1.0,Cancelled,3333.2999999999997,2,5,4,11
+C2516,Other,Adult,Peshawar,2024-10-21,2025-01-04,McDonald's,Fast Food,1,167.31,Cash,19,2025-04-10,388,False,-1.0,Cancelled,167.31,3,2,1,6
+C5329,Female,Senior,Peshawar,2024-04-25,2024-09-11,McDonald's,Chinese,4,1402.81,Cash,3,2025-01-04,28,True,-1.0,Cancelled,5611.24,1,1,5,7
+C3887,Other,Senior,Peshawar,2024-10-29,2025-01-05,Pizza Hut,Continental,3,729.33,Wallet,38,2025-01-20,46,False,3.0,Delayed,2187.9900000000002,2,4,3,9
+C1942,Other,Teenager,Peshawar,2024-03-04,2025-01-05,Pizza Hut,Fast Food,3,1257.79,Card,21,2025-05-09,140,False,2.0,Delivered,3773.37,3,3,4,10
+C5589,Female,Senior,Peshawar,2024-10-23,2025-01-05,KFC,Fast Food,1,505.4,Card,40,2025-01-21,40,False,2.0,Delivered,505.4,2,4,1,7
+C5142,Other,Teenager,Peshawar,2024-09-15,2024-12-11,KFC,Italian,1,981.11,Wallet,14,2025-01-06,117,True,-1.0,Cancelled,981.11,1,2,2,5
+C3614,Female,Adult,Peshawar,2024-12-16,2025-01-07,McDonald's,Chinese,2,270.49,Wallet,43,2025-03-24,11,False,5.0,Delivered,540.98,2,5,1,8
+C1742,Male,Senior,Peshawar,2024-05-02,2025-01-09,Subway,Continental,4,1092.61,Cash,12,2025-02-22,367,False,-1.0,Cancelled,4370.44,2,2,5,9
+C4606,Other,Senior,Peshawar,2024-11-10,2024-11-19,Burger King,Dessert,3,346.3,Card,48,2025-01-09,410,False,-1.0,Cancelled,1038.9,1,5,2,8
+C6358,Other,Adult,Peshawar,2025-01-09,2025-05-21,McDonald's,Dessert,4,471.64,Wallet,14,2025-08-03,53,False,1.0,Delivered,1886.56,5,2,3,10
+C4008,Other,Senior,Peshawar,2024-02-08,2025-01-09,Burger King,Continental,4,315.35,Cash,49,2025-01-18,323,False,-1.0,Cancelled,1261.4,2,5,2,9
+C3899,Female,Teenager,Peshawar,2024-06-08,2024-12-01,Pizza Hut,Chinese,4,1469.39,Card,39,2025-01-09,297,False,5.0,Delayed,5877.56,1,4,5,10
+C5287,Other,Senior,Peshawar,2024-03-02,2024-09-20,McDonald's,Chinese,3,1104.73,Cash,43,2025-01-10,337,True,1.0,Delayed,3314.19,1,5,4,10
+C1415,Male,Senior,Peshawar,2024-12-19,2025-01-11,KFC,Italian,4,683.08,Cash,30,2025-04-06,371,True,-1.0,Cancelled,2732.32,3,3,4,10
+C4237,Male,Adult,Peshawar,2024-02-19,2025-01-12,McDonald's,Fast Food,4,465.91,Wallet,23,2025-01-16,355,True,5.0,Delayed,1863.64,2,3,3,8
+C6831,Female,Senior,Peshawar,2024-04-03,2025-01-13,Pizza Hut,Italian,2,378.77,Cash,45,2025-06-02,239,False,2.0,Delivered,757.54,4,5,1,10
+C5810,Other,Adult,Peshawar,2024-11-23,2025-01-14,KFC,Italian,2,630.8,Wallet,19,2025-01-30,464,True,3.0,Delayed,1261.6,2,2,2,6
+C4183,Other,Senior,Peshawar,2024-08-15,2025-01-14,Burger King,Dessert,3,314.0,Cash,24,2025-06-23,224,True,-1.0,Cancelled,942.0,4,3,2,9
+C3473,Female,Teenager,Peshawar,2024-03-03,2025-01-15,McDonald's,Fast Food,1,884.15,Card,24,2025-04-04,219,True,1.0,Delivered,884.15,3,3,2,8
+C3514,Female,Teenager,Peshawar,2024-08-09,2024-08-31,Subway,Fast Food,1,904.01,Wallet,8,2025-01-16,144,True,5.0,Delayed,904.01,2,1,2,5
+C3371,Female,Teenager,Peshawar,2023-10-20,2025-01-16,Subway,Fast Food,5,1234.0,Cash,50,2025-08-13,192,True,1.0,Delayed,6170.0,5,5,5,15
+C3189,Other,Senior,Peshawar,2025-01-17,2025-02-19,Pizza Hut,Italian,4,420.5,Wallet,30,2025-07-10,435,True,5.0,Delivered,1682.0,4,3,3,10
+C6313,Female,Teenager,Peshawar,2024-11-26,2024-12-27,Burger King,Dessert,3,1062.5,Wallet,10,2025-01-18,262,False,4.0,Delivered,3187.5,2,1,4,7
+C5406,Female,Teenager,Peshawar,2024-12-15,2025-01-18,Subway,Continental,5,579.56,Wallet,17,2025-05-14,63,False,4.0,Delayed,2897.7999999999997,3,2,4,9
+C1332,Female,Senior,Peshawar,2024-09-17,2024-11-29,Pizza Hut,Continental,4,1105.9,Wallet,19,2025-01-18,65,False,4.0,Delivered,4423.6,2,2,5,9
+C3248,Other,Teenager,Peshawar,2024-09-25,2024-11-10,KFC,Dessert,3,1179.21,Card,27,2025-01-18,246,False,2.0,Delivered,3537.63,2,3,4,9
+C1996,Male,Adult,Peshawar,2024-07-30,2025-01-19,Subway,Continental,4,216.81,Card,8,2025-07-07,390,True,-1.0,Cancelled,867.24,4,1,2,7
+C4677,Female,Teenager,Peshawar,2024-05-22,2025-01-19,Subway,Fast Food,3,727.21,Cash,33,2025-05-02,28,False,1.0,Delayed,2181.63,3,4,3,10
+C4772,Male,Senior,Peshawar,2024-10-12,2025-01-19,KFC,Fast Food,4,1096.59,Wallet,41,2025-06-11,160,False,-1.0,Cancelled,4386.36,4,5,5,14
+C2998,Male,Senior,Peshawar,2024-02-21,2025-01-19,Subway,Italian,3,489.55,Wallet,38,2025-08-06,389,False,-1.0,Cancelled,1468.65,5,4,3,12
+C5429,Other,Senior,Peshawar,2025-01-14,2025-01-21,Burger King,Dessert,5,302.1,Cash,20,2025-03-06,79,False,-1.0,Cancelled,1510.5,2,2,3,7
+C2594,Male,Adult,Peshawar,2024-09-10,2024-12-17,Burger King,Continental,4,257.7,Wallet,33,2025-01-22,11,False,-1.0,Cancelled,1030.8,2,4,2,8
+C1747,Other,Senior,Peshawar,2024-11-06,2024-12-22,Subway,Italian,1,1467.02,Wallet,25,2025-01-22,234,False,1.0,Delivered,1467.02,2,3,3,8
+C3059,Male,Teenager,Peshawar,2023-09-19,2025-01-13,McDonald's,Fast Food,4,685.88,Cash,25,2025-01-22,275,False,-1.0,Cancelled,2743.52,2,3,4,9
+C3625,Female,Teenager,Peshawar,2024-03-08,2024-10-22,Burger King,Dessert,2,374.1,Wallet,41,2025-01-22,112,True,3.0,Delivered,748.2,2,5,1,8
+C4951,Female,Senior,Peshawar,2024-12-10,2025-01-23,Burger King,Continental,3,600.06,Wallet,25,2025-08-20,287,False,5.0,Delayed,1800.1799999999998,5,3,3,11
+C5801,Female,Adult,Peshawar,2024-03-01,2025-01-24,KFC,Italian,2,923.16,Cash,35,2025-05-03,337,True,2.0,Delayed,1846.32,3,4,3,10
+C5486,Female,Senior,Peshawar,2023-12-04,2025-01-25,McDonald's,Fast Food,2,610.6,Cash,31,2025-06-09,182,True,5.0,Delayed,1221.2,4,4,2,10
+C4538,Female,Teenager,Peshawar,2025-01-25,2025-05-26,McDonald's,Dessert,1,396.23,Cash,4,2025-07-18,49,True,-1.0,Cancelled,396.23,5,1,1,7
+C1548,Female,Adult,Peshawar,2024-11-03,2025-01-26,Subway,Italian,2,1183.89,Wallet,2,2025-07-16,306,True,1.0,Delayed,2367.78,5,1,3,9
+C1834,Other,Senior,Peshawar,2025-01-27,2025-02-06,KFC,Italian,5,1101.92,Cash,5,2025-06-06,436,False,-1.0,Cancelled,5509.6,4,1,5,10
+C6041,Male,Adult,Peshawar,2024-12-29,2025-01-27,Pizza Hut,Fast Food,4,761.16,Card,30,2025-04-26,220,False,4.0,Delayed,3044.64,3,3,4,10
+C2122,Female,Senior,Peshawar,2025-01-27,2025-06-14,McDonald's,Italian,3,373.6,Wallet,6,2025-07-11,93,False,2.0,Delayed,1120.8000000000002,4,1,2,7
+C5423,Male,Adult,Peshawar,2024-10-21,2025-01-28,Pizza Hut,Continental,4,1097.68,Card,29,2025-02-27,303,True,2.0,Delivered,4390.72,2,3,5,10
+C4495,Other,Teenager,Peshawar,2024-09-16,2025-01-25,Pizza Hut,Chinese,2,844.9,Cash,18,2025-01-28,272,True,-1.0,Cancelled,1689.8,2,2,3,7
+C3258,Female,Teenager,Peshawar,2024-01-14,2024-11-04,KFC,Chinese,5,1048.69,Card,6,2025-01-28,500,False,-1.0,Cancelled,5243.450000000001,2,1,5,8
+C5400,Other,Senior,Peshawar,2023-11-22,2024-09-08,Burger King,Italian,1,1332.21,Wallet,34,2025-01-30,351,False,5.0,Delayed,1332.21,2,4,2,8
+C6365,Other,Adult,Peshawar,2025-01-30,2025-03-23,McDonald's,Dessert,5,1213.82,Wallet,30,2025-07-22,162,False,3.0,Delivered,6069.099999999999,5,3,5,13
+C5455,Male,Senior,Peshawar,2025-01-23,2025-02-01,Subway,Dessert,2,968.1,Cash,2,2025-06-19,75,True,-1.0,Cancelled,1936.2,4,1,3,8
+C2276,Male,Adult,Peshawar,2024-02-15,2025-02-01,McDonald's,Continental,5,524.05,Wallet,29,2025-07-29,55,False,2.0,Delivered,2620.25,5,3,4,12
+C4187,Male,Senior,Peshawar,2024-03-23,2024-12-02,KFC,Fast Food,5,1466.38,Card,49,2025-02-03,185,False,-1.0,Cancelled,7331.900000000001,2,5,5,12
+C3180,Other,Adult,Peshawar,2024-08-03,2025-02-05,KFC,Fast Food,2,1428.52,Cash,28,2025-07-16,394,True,-1.0,Cancelled,2857.04,5,3,4,12
+C2048,Female,Senior,Peshawar,2024-09-17,2025-02-05,Subway,Italian,5,470.59,Cash,40,2025-06-13,154,False,-1.0,Cancelled,2352.95,4,4,3,11
+C4483,Male,Senior,Peshawar,2024-06-29,2024-09-21,McDonald's,Continental,2,1128.98,Wallet,16,2025-02-05,297,True,-1.0,Cancelled,2257.96,2,2,3,7
+C6790,Female,Teenager,Peshawar,2025-02-06,2025-08-03,Pizza Hut,Dessert,1,117.91,Wallet,48,2025-08-17,140,False,2.0,Delivered,117.91,5,5,1,11
+C4119,Female,Teenager,Peshawar,2024-11-22,2025-02-06,KFC,Dessert,4,1470.78,Cash,12,2025-07-14,391,False,4.0,Delayed,5883.12,5,2,5,12
+C2678,Female,Adult,Peshawar,2023-09-18,2025-02-06,Pizza Hut,Fast Food,5,108.81,Cash,42,2025-06-06,450,True,2.0,Delayed,544.05,4,5,1,10
+C6123,Female,Adult,Peshawar,2024-01-27,2024-11-10,McDonald's,Fast Food,2,700.98,Card,26,2025-02-07,333,True,-1.0,Cancelled,1401.96,2,3,2,7
+C5710,Male,Adult,Peshawar,2023-11-27,2025-01-23,Burger King,Fast Food,4,200.63,Wallet,34,2025-02-08,24,True,-1.0,Cancelled,802.52,2,4,1,7
+C4381,Other,Adult,Peshawar,2024-05-05,2025-02-09,McDonald's,Continental,5,1315.38,Cash,6,2025-08-08,18,False,4.0,Delivered,6576.900000000001,5,1,5,11
+C6690,Other,Senior,Peshawar,2025-02-10,2025-04-05,KFC,Fast Food,2,782.74,Card,13,2025-06-13,0,True,5.0,Delivered,1565.48,4,2,3,9
+C1685,Female,Adult,Peshawar,2024-08-30,2025-02-10,Burger King,Chinese,4,1033.28,Cash,18,2025-06-21,137,True,5.0,Delivered,4133.12,4,2,5,11
+C3080,Male,Teenager,Peshawar,2024-10-30,2025-02-10,KFC,Italian,2,322.14,Cash,10,2025-06-06,41,True,2.0,Delivered,644.28,4,1,1,6
+C5995,Female,Senior,Peshawar,2024-11-19,2025-01-17,Subway,Fast Food,4,404.78,Cash,38,2025-02-11,30,False,-1.0,Cancelled,1619.12,2,4,3,9
+C5027,Other,Teenager,Peshawar,2024-01-21,2024-11-02,Pizza Hut,Chinese,2,1314.7,Wallet,11,2025-02-11,28,False,-1.0,Cancelled,2629.4,2,1,4,7
+C1280,Female,Teenager,Peshawar,2024-07-08,2025-01-05,Subway,Continental,3,1047.33,Cash,34,2025-02-12,295,False,2.0,Delayed,3141.99,2,4,4,10
+C4161,Male,Teenager,Peshawar,2024-11-02,2024-12-13,Subway,Fast Food,4,702.81,Wallet,39,2025-02-12,361,True,4.0,Delayed,2811.24,2,4,4,10
+C5849,Female,Teenager,Peshawar,2024-06-02,2024-09-22,Subway,Continental,5,106.74,Wallet,10,2025-02-14,135,False,-1.0,Cancelled,533.6999999999999,2,1,1,4
+C1151,Female,Teenager,Peshawar,2024-09-08,2025-01-05,McDonald's,Chinese,5,1248.22,Card,16,2025-02-14,384,False,2.0,Delayed,6241.1,2,2,5,9
+C6146,Male,Senior,Peshawar,2024-04-23,2024-12-05,KFC,Dessert,4,527.22,Wallet,45,2025-02-15,397,False,1.0,Delayed,2108.88,2,5,3,10
+C2791,Other,Teenager,Peshawar,2023-12-26,2025-02-16,Pizza Hut,Italian,4,1188.02,Cash,1,2025-04-28,266,False,-1.0,Cancelled,4752.08,3,1,5,9
+C6898,Female,Senior,Peshawar,2024-05-07,2025-02-16,Subway,Continental,5,842.5,Cash,17,2025-08-03,442,True,-1.0,Cancelled,4212.5,5,2,5,12
+C3828,Other,Senior,Peshawar,2024-06-18,2025-01-27,Pizza Hut,Fast Food,2,1353.36,Card,10,2025-02-17,12,True,-1.0,Cancelled,2706.72,2,1,4,7
+C5567,Female,Senior,Peshawar,2024-08-01,2024-12-24,KFC,Dessert,1,117.16,Wallet,23,2025-02-17,359,False,4.0,Delayed,117.16,2,3,1,6
+C3919,Male,Adult,Peshawar,2024-05-29,2024-11-07,Burger King,Italian,3,1139.16,Card,41,2025-02-18,361,False,-1.0,Cancelled,3417.4800000000005,2,5,4,11
+C4050,Female,Teenager,Peshawar,2024-04-25,2024-11-18,Burger King,Dessert,4,476.1,Wallet,27,2025-02-18,412,False,1.0,Delayed,1904.4,2,3,3,8
+C1046,Other,Adult,Peshawar,2025-02-19,2025-04-21,Pizza Hut,Continental,2,595.7,Card,8,2025-05-28,281,True,-1.0,Cancelled,1191.4,3,1,2,6
+C6163,Female,Senior,Peshawar,2024-05-02,2025-02-20,Pizza Hut,Fast Food,5,830.17,Wallet,33,2025-03-28,405,False,1.0,Delayed,4150.849999999999,2,4,5,11
+C5943,Female,Senior,Peshawar,2024-09-16,2025-02-21,Burger King,Fast Food,4,1445.88,Wallet,41,2025-04-03,355,False,3.0,Delivered,5783.52,3,5,5,13
+C4680,Male,Adult,Peshawar,2025-02-21,2025-07-07,Burger King,Chinese,4,841.59,Card,27,2025-07-09,142,True,1.0,Delivered,3366.36,4,3,4,11
+C3254,Other,Senior,Peshawar,2023-12-21,2025-02-14,McDonald's,Fast Food,1,1100.37,Wallet,17,2025-02-21,406,False,-1.0,Cancelled,1100.37,2,2,2,6
+C3782,Other,Adult,Peshawar,2024-12-11,2025-02-22,KFC,Dessert,3,753.05,Card,34,2025-05-30,416,True,5.0,Delivered,2259.1499999999996,4,4,3,11
+C6224,Other,Teenager,Peshawar,2024-09-02,2025-02-10,Burger King,Dessert,1,302.33,Cash,28,2025-02-22,412,True,5.0,Delayed,302.33,2,3,1,6
+C3009,Other,Teenager,Peshawar,2024-11-23,2025-02-22,Burger King,Italian,5,1374.97,Cash,30,2025-05-04,307,True,5.0,Delayed,6874.85,3,3,5,11
+C6167,Male,Teenager,Peshawar,2024-11-08,2024-11-14,McDonald's,Fast Food,5,550.53,Card,15,2025-02-23,297,False,-1.0,Cancelled,2752.6499999999996,2,2,4,8
+C1652,Female,Teenager,Peshawar,2024-06-30,2025-01-20,Subway,Continental,1,1455.49,Card,44,2025-02-23,193,False,5.0,Delayed,1455.49,2,5,3,10
+C1233,Male,Teenager,Peshawar,2023-09-29,2024-10-25,McDonald's,Chinese,2,1461.72,Wallet,29,2025-02-24,343,True,5.0,Delayed,2923.44,2,3,4,9
+C6196,Other,Teenager,Peshawar,2023-08-26,2025-01-24,McDonald's,Italian,4,137.28,Wallet,25,2025-02-25,28,False,1.0,Delivered,549.12,2,3,1,6
+C4751,Female,Teenager,Peshawar,2023-11-13,2025-02-25,KFC,Chinese,4,1379.78,Wallet,30,2025-03-04,354,True,1.0,Delayed,5519.12,2,3,5,10
+C6562,Other,Teenager,Peshawar,2024-01-10,2025-01-25,Pizza Hut,Dessert,5,548.55,Cash,40,2025-02-26,347,False,1.0,Delayed,2742.75,2,4,4,10
+C4616,Female,Teenager,Peshawar,2024-10-28,2025-02-26,Burger King,Fast Food,5,451.81,Cash,26,2025-05-25,107,True,4.0,Delayed,2259.05,3,3,3,9
+C4755,Male,Senior,Peshawar,2023-12-26,2025-02-27,Subway,Fast Food,1,1422.04,Cash,7,2025-06-22,457,False,-1.0,Cancelled,1422.04,4,1,2,7
+C1238,Male,Teenager,Peshawar,2025-02-02,2025-02-28,Pizza Hut,Dessert,2,730.21,Card,28,2025-06-26,230,False,-1.0,Cancelled,1460.42,4,3,3,10
+C1354,Male,Teenager,Peshawar,2023-12-09,2025-03-01,Subway,Dessert,5,394.08,Cash,16,2025-03-11,270,False,1.0,Delivered,1970.3999999999999,2,2,3,7
+C5435,Male,Senior,Peshawar,2024-05-25,2025-03-01,Burger King,Italian,4,192.03,Card,41,2025-08-18,267,False,2.0,Delivered,768.12,5,5,1,11
+C3407,Male,Adult,Peshawar,2025-01-02,2025-03-02,Pizza Hut,Dessert,1,479.38,Wallet,37,2025-06-20,56,False,2.0,Delivered,479.38,4,4,1,9
+C4892,Female,Teenager,Peshawar,2024-05-01,2025-03-02,KFC,Chinese,1,746.62,Card,24,2025-03-30,315,False,4.0,Delayed,746.62,2,3,1,6
+C3065,Male,Senior,Peshawar,2024-04-27,2025-01-29,KFC,Chinese,5,644.65,Card,49,2025-03-03,217,True,1.0,Delivered,3223.25,2,5,4,11
+C5842,Female,Adult,Peshawar,2024-12-04,2025-03-04,McDonald's,Dessert,1,1099.88,Wallet,8,2025-08-16,470,True,2.0,Delivered,1099.88,5,1,2,8
+C4462,Female,Teenager,Peshawar,2024-11-07,2025-03-05,Burger King,Chinese,3,672.58,Wallet,43,2025-03-26,366,False,4.0,Delivered,2017.7400000000002,2,5,3,10
+C1244,Male,Adult,Peshawar,2024-02-14,2025-03-05,Subway,Continental,3,504.05,Card,10,2025-08-03,140,True,-1.0,Cancelled,1512.15,5,1,3,9
+C2645,Female,Senior,Peshawar,2024-10-17,2025-01-08,KFC,Continental,2,1214.65,Wallet,6,2025-03-06,88,False,5.0,Delayed,2429.3,2,1,3,6
+C1104,Other,Teenager,Peshawar,2025-03-06,2025-03-07,Pizza Hut,Fast Food,5,1279.69,Cash,50,2025-08-15,274,False,1.0,Delayed,6398.450000000001,5,5,5,15
+C2327,Male,Adult,Peshawar,2023-08-28,2024-11-23,Subway,Continental,2,1451.1,Card,28,2025-03-07,98,True,3.0,Delayed,2902.2,2,3,4,9
+C5887,Female,Teenager,Peshawar,2023-10-15,2025-02-26,Pizza Hut,Fast Food,1,244.68,Wallet,15,2025-03-07,468,False,5.0,Delayed,244.68,2,2,1,5
+C4355,Male,Teenager,Peshawar,2023-09-30,2025-02-16,KFC,Fast Food,3,1480.61,Wallet,34,2025-03-07,107,False,-1.0,Cancelled,4441.83,2,4,5,11
+C5536,Female,Adult,Peshawar,2024-03-28,2025-03-08,McDonald's,Fast Food,1,588.3,Cash,6,2025-05-20,66,True,-1.0,Cancelled,588.3,3,1,1,5
+C2542,Female,Adult,Peshawar,2023-12-06,2025-01-23,Subway,Italian,3,276.1,Wallet,6,2025-03-10,213,True,1.0,Delivered,828.3000000000001,2,1,1,4
+C3630,Male,Teenager,Peshawar,2024-07-09,2024-12-12,Subway,Chinese,3,1197.8,Wallet,10,2025-03-11,393,False,3.0,Delivered,3593.3999999999996,2,1,4,7
+C1505,Female,Teenager,Peshawar,2023-11-05,2024-11-03,Pizza Hut,Italian,1,1404.81,Wallet,32,2025-03-11,129,True,5.0,Delivered,1404.81,2,4,2,8
+C3810,Other,Adult,Peshawar,2024-03-04,2024-09-08,KFC,Italian,4,971.76,Wallet,45,2025-03-12,415,True,5.0,Delayed,3887.04,2,5,4,11
+C5650,Female,Senior,Peshawar,2025-01-26,2025-03-12,McDonald's,Fast Food,1,1349.76,Wallet,46,2025-06-27,61,True,2.0,Delivered,1349.76,4,5,2,11
+C5525,Other,Senior,Peshawar,2024-11-01,2024-11-04,Subway,Dessert,2,398.42,Card,48,2025-03-13,93,True,-1.0,Cancelled,796.84,2,5,1,8
+C4532,Male,Adult,Peshawar,2025-03-13,2025-05-25,Subway,Dessert,5,302.97,Wallet,11,2025-06-22,365,True,5.0,Delayed,1514.8500000000001,4,1,3,8
+C1167,Male,Adult,Peshawar,2023-10-16,2025-03-14,KFC,Continental,4,1259.51,Card,17,2025-07-03,158,True,5.0,Delayed,5038.04,4,2,5,11
+C1757,Male,Adult,Peshawar,2025-03-14,2025-05-04,Subway,Fast Food,4,206.36,Wallet,22,2025-07-03,99,False,-1.0,Cancelled,825.44,4,3,1,8
+C1672,Other,Teenager,Peshawar,2025-03-15,2025-04-19,McDonald's,Dessert,3,214.37,Wallet,19,2025-06-16,196,False,2.0,Delayed,643.11,4,2,1,7
+C6846,Male,Adult,Peshawar,2024-11-10,2025-03-15,KFC,Chinese,1,1384.43,Cash,3,2025-05-16,494,False,1.0,Delayed,1384.43,3,1,2,6
+C5036,Other,Adult,Peshawar,2024-10-30,2025-01-19,Burger King,Chinese,2,1494.41,Wallet,16,2025-03-17,232,False,3.0,Delivered,2988.82,2,2,4,8
+C1592,Female,Senior,Peshawar,2024-03-08,2025-03-17,Burger King,Fast Food,5,1107.81,Cash,20,2025-08-13,383,True,-1.0,Cancelled,5539.049999999999,5,2,5,12
+C6186,Male,Adult,Peshawar,2024-05-04,2025-03-17,McDonald's,Fast Food,5,1312.36,Cash,5,2025-05-23,91,False,3.0,Delivered,6561.799999999999,3,1,5,9
+C2532,Other,Teenager,Peshawar,2024-06-01,2025-01-03,KFC,Chinese,3,484.18,Wallet,4,2025-03-17,67,True,-1.0,Cancelled,1452.54,2,1,3,6
+C1849,Female,Adult,Peshawar,2024-12-07,2025-03-18,KFC,Chinese,2,973.95,Card,13,2025-08-09,141,True,-1.0,Cancelled,1947.9,5,2,3,10
+C6636,Male,Adult,Peshawar,2025-03-19,2025-03-19,Pizza Hut,Dessert,2,114.58,Cash,27,2025-05-14,332,True,4.0,Delivered,229.16,3,3,1,7
+C6490,Female,Senior,Peshawar,2024-10-13,2024-11-13,Subway,Dessert,4,1001.61,Card,10,2025-03-19,469,True,-1.0,Cancelled,4006.44,2,1,5,8
+C5448,Male,Adult,Peshawar,2025-03-19,2025-05-16,Subway,Italian,4,600.11,Card,1,2025-07-27,73,True,3.0,Delayed,2400.44,5,1,3,9
+C3635,Male,Senior,Peshawar,2024-09-25,2025-03-19,Burger King,Continental,3,1277.07,Card,33,2025-04-15,372,True,5.0,Delayed,3831.21,3,4,4,11
+C2890,Other,Adult,Peshawar,2024-05-11,2024-12-03,Burger King,Continental,3,541.57,Cash,17,2025-03-20,411,True,-1.0,Cancelled,1624.71,2,2,3,7
+C6026,Female,Adult,Peshawar,2025-03-21,2025-04-21,Subway,Chinese,4,181.76,Cash,1,2025-07-31,431,True,-1.0,Cancelled,727.04,5,1,1,7
+C2813,Male,Senior,Peshawar,2025-03-21,2025-04-26,Pizza Hut,Fast Food,2,161.58,Card,10,2025-06-30,80,True,-1.0,Cancelled,323.16,4,1,1,6
+C4869,Female,Senior,Peshawar,2024-05-28,2025-01-17,McDonald's,Italian,2,358.88,Wallet,34,2025-03-21,334,True,-1.0,Cancelled,717.76,2,4,1,7
+C4444,Female,Teenager,Peshawar,2024-10-29,2025-03-22,Pizza Hut,Dessert,2,1460.07,Cash,23,2025-08-06,172,True,1.0,Delivered,2920.14,5,3,4,12
+C6292,Female,Teenager,Peshawar,2023-11-19,2024-12-30,Subway,Continental,5,1198.29,Cash,41,2025-03-22,431,False,1.0,Delivered,5991.45,2,5,5,12
+C2322,Male,Adult,Peshawar,2024-05-30,2024-12-30,Pizza Hut,Fast Food,2,1048.04,Card,45,2025-03-22,112,True,5.0,Delivered,2096.08,2,5,3,10
+C1951,Other,Senior,Peshawar,2024-09-28,2025-01-26,KFC,Fast Food,3,1199.91,Wallet,33,2025-03-23,241,False,3.0,Delayed,3599.7300000000005,2,4,4,10
+C3416,Male,Adult,Peshawar,2024-06-25,2025-02-18,Burger King,Chinese,4,499.29,Cash,40,2025-03-23,390,True,1.0,Delayed,1997.16,2,4,3,9
+C4578,Female,Teenager,Peshawar,2023-10-11,2025-03-23,McDonald's,Italian,3,276.24,Cash,8,2025-05-31,244,True,1.0,Delivered,828.72,4,1,1,6
+C6091,Male,Adult,Peshawar,2024-09-19,2024-10-03,Burger King,Continental,2,1001.56,Wallet,47,2025-03-23,114,False,2.0,Delayed,2003.12,2,5,3,10
+C5782,Female,Adult,Peshawar,2024-01-11,2025-03-23,Pizza Hut,Fast Food,1,1443.88,Card,34,2025-06-12,61,False,1.0,Delayed,1443.88,4,4,3,11
+C2888,Female,Teenager,Peshawar,2024-07-28,2024-09-14,Burger King,Fast Food,2,1297.89,Card,41,2025-03-24,344,False,4.0,Delivered,2595.78,2,5,4,11
+C1589,Male,Senior,Peshawar,2025-03-24,2025-08-11,Pizza Hut,Dessert,2,991.88,Cash,44,2025-08-21,39,False,-1.0,Cancelled,1983.76,5,5,3,13
+C6994,Male,Senior,Peshawar,2025-01-20,2025-03-25,Burger King,Italian,2,1365.26,Wallet,6,2025-06-30,22,True,5.0,Delivered,2730.52,4,1,4,9
+C3218,Other,Adult,Peshawar,2025-02-11,2025-03-25,Subway,Dessert,1,930.43,Wallet,18,2025-07-28,226,False,2.0,Delayed,930.43,5,2,2,9
+C3924,Female,Adult,Peshawar,2023-11-12,2025-03-26,McDonald's,Dessert,3,1455.41,Wallet,48,2025-06-21,445,False,2.0,Delivered,4366.2300000000005,4,5,5,14
+C2789,Female,Senior,Peshawar,2024-08-10,2024-10-09,Pizza Hut,Dessert,1,787.94,Wallet,8,2025-03-27,293,True,5.0,Delivered,787.94,2,1,1,4
+C5292,Female,Teenager,Peshawar,2023-11-08,2025-03-27,Burger King,Continental,1,1033.76,Card,15,2025-04-07,139,False,4.0,Delayed,1033.76,3,2,2,7
+C1261,Male,Senior,Peshawar,2024-04-12,2024-10-27,McDonald's,Chinese,5,978.21,Card,24,2025-03-29,147,False,5.0,Delivered,4891.05,2,3,5,10
+C6631,Male,Adult,Peshawar,2024-04-22,2025-02-23,Subway,Fast Food,3,1202.05,Wallet,14,2025-03-31,338,False,4.0,Delivered,3606.1499999999996,2,2,4,8
+C4555,Other,Adult,Peshawar,2024-08-17,2025-02-14,Burger King,Dessert,1,389.34,Cash,36,2025-03-31,82,False,-1.0,Cancelled,389.34,2,4,1,7
+C3512,Female,Teenager,Peshawar,2025-03-12,2025-03-31,McDonald's,Fast Food,2,1180.03,Card,9,2025-06-12,209,False,-1.0,Cancelled,2360.06,4,1,3,8
+C6768,Male,Senior,Peshawar,2024-03-13,2025-03-31,Burger King,Fast Food,1,1068.6,Wallet,25,2025-06-25,35,True,-1.0,Cancelled,1068.6,4,3,2,9
+C5970,Female,Teenager,Peshawar,2024-10-22,2025-01-20,McDonald's,Italian,5,337.81,Card,19,2025-03-31,424,False,3.0,Delivered,1689.05,2,2,3,7
+C4277,Male,Adult,Peshawar,2024-07-29,2025-04-01,Subway,Dessert,2,1324.05,Card,34,2025-07-25,24,False,4.0,Delivered,2648.1,5,4,4,13
+C5620,Female,Adult,Peshawar,2024-05-09,2024-10-19,McDonald's,Dessert,1,249.35,Card,12,2025-04-01,495,True,4.0,Delayed,249.35,2,2,1,5
+C5989,Other,Adult,Peshawar,2024-09-08,2025-04-02,Pizza Hut,Continental,5,498.44,Cash,31,2025-07-31,480,True,-1.0,Cancelled,2492.2,5,4,4,13
+C1034,Male,Senior,Peshawar,2024-12-15,2025-04-04,McDonald's,Italian,5,403.82,Cash,8,2025-06-30,203,False,3.0,Delivered,2019.1,4,1,3,8
+C1944,Other,Adult,Peshawar,2024-01-07,2025-02-11,KFC,Chinese,5,311.82,Card,44,2025-04-04,144,False,5.0,Delivered,1559.1,3,5,3,11
+C1961,Female,Senior,Peshawar,2024-09-07,2024-11-04,McDonald's,Fast Food,4,1168.34,Card,16,2025-04-04,364,True,-1.0,Cancelled,4673.36,3,2,5,10
+C2242,Male,Adult,Peshawar,2024-05-05,2024-12-11,KFC,Chinese,2,319.82,Cash,16,2025-04-06,24,False,2.0,Delayed,639.64,3,2,1,6
+C4209,Other,Senior,Peshawar,2023-11-22,2024-09-27,KFC,Fast Food,3,1156.25,Card,13,2025-04-06,195,False,4.0,Delivered,3468.75,3,2,4,9
+C4604,Other,Senior,Peshawar,2024-09-06,2025-03-28,McDonald's,Continental,4,293.06,Cash,23,2025-04-06,107,False,3.0,Delayed,1172.24,3,3,2,8
+C2729,Female,Teenager,Peshawar,2024-09-07,2025-04-07,Burger King,Fast Food,2,1425.17,Card,4,2025-08-16,165,True,-1.0,Cancelled,2850.34,5,1,4,10
+C4270,Other,Teenager,Peshawar,2024-10-21,2024-11-20,Burger King,Italian,1,139.92,Wallet,20,2025-04-08,115,False,-1.0,Cancelled,139.92,3,2,1,6
+C1058,Other,Teenager,Peshawar,2025-01-23,2025-03-13,Subway,Dessert,2,1492.4,Cash,23,2025-04-09,87,False,-1.0,Cancelled,2984.8,3,3,4,10
+C5898,Male,Adult,Peshawar,2024-04-08,2025-03-30,Pizza Hut,Continental,5,810.66,Card,2,2025-04-09,163,False,2.0,Delivered,4053.2999999999997,3,1,5,9
+C5926,Other,Teenager,Peshawar,2025-01-27,2025-03-20,McDonald's,Italian,3,245.89,Card,33,2025-04-10,144,False,3.0,Delayed,737.67,3,4,1,8
+C2621,Other,Senior,Peshawar,2023-11-03,2025-04-10,McDonald's,Italian,2,705.85,Card,34,2025-05-22,70,False,1.0,Delayed,1411.7,3,4,2,9
+C3199,Other,Senior,Peshawar,2025-04-05,2025-04-11,McDonald's,Dessert,2,973.89,Wallet,8,2025-08-13,483,False,-1.0,Cancelled,1947.78,5,1,3,9
+C5432,Female,Senior,Peshawar,2023-11-22,2025-04-11,Subway,Italian,5,963.85,Wallet,42,2025-07-15,124,True,-1.0,Cancelled,4819.25,5,5,5,15
+C3550,Female,Senior,Peshawar,2025-03-22,2025-04-11,Burger King,Italian,3,779.8,Cash,7,2025-07-24,254,True,1.0,Delayed,2339.3999999999996,5,1,3,9
+C4132,Female,Teenager,Peshawar,2024-12-31,2025-03-09,KFC,Fast Food,4,1040.77,Card,20,2025-04-12,383,False,-1.0,Cancelled,4163.08,3,2,5,10
+C6303,Other,Adult,Peshawar,2024-06-25,2025-04-12,KFC,Chinese,1,211.51,Cash,30,2025-05-31,147,False,5.0,Delayed,211.51,4,3,1,8
+C6647,Other,Teenager,Peshawar,2024-03-23,2024-11-18,McDonald's,Fast Food,1,900.17,Cash,45,2025-04-14,170,True,5.0,Delivered,900.17,3,5,2,10
+C5512,Male,Senior,Peshawar,2024-11-24,2025-04-15,Pizza Hut,Chinese,1,594.87,Card,35,2025-05-08,12,True,-1.0,Cancelled,594.87,3,4,1,8
+C5006,Male,Senior,Peshawar,2025-01-14,2025-04-16,KFC,Fast Food,4,367.43,Cash,49,2025-05-07,487,True,5.0,Delayed,1469.72,3,5,3,11
+C6793,Female,Senior,Peshawar,2023-12-05,2025-01-05,McDonald's,Dessert,4,125.81,Wallet,33,2025-04-16,486,True,5.0,Delayed,503.24,3,4,1,8
+C1637,Female,Adult,Peshawar,2025-04-17,2025-05-09,Pizza Hut,Chinese,4,1227.12,Cash,20,2025-07-30,229,True,3.0,Delayed,4908.48,5,2,5,12
+C1948,Male,Teenager,Peshawar,2025-04-17,2025-04-24,Subway,Dessert,4,817.25,Cash,36,2025-05-12,68,False,-1.0,Cancelled,3269.0,3,4,4,11
+C3010,Female,Senior,Peshawar,2025-04-17,2025-05-09,McDonald's,Continental,2,1479.74,Wallet,14,2025-08-03,158,False,2.0,Delivered,2959.48,5,2,4,11
+C3813,Male,Adult,Peshawar,2025-03-31,2025-04-18,KFC,Dessert,2,467.96,Cash,9,2025-07-18,51,False,1.0,Delayed,935.92,5,1,2,8
+C4299,Male,Teenager,Peshawar,2024-12-15,2025-04-19,Pizza Hut,Dessert,2,1179.61,Card,16,2025-06-11,307,False,3.0,Delayed,2359.22,4,2,3,9
+C6141,Male,Adult,Peshawar,2025-01-06,2025-02-04,Pizza Hut,Dessert,5,1324.83,Cash,46,2025-04-20,329,True,2.0,Delivered,6624.15,3,5,5,13
+C6382,Male,Adult,Peshawar,2024-03-12,2024-11-30,KFC,Fast Food,1,1083.65,Wallet,48,2025-04-20,131,False,-1.0,Cancelled,1083.65,3,5,2,10
+C2797,Male,Senior,Peshawar,2025-02-06,2025-04-20,KFC,Fast Food,1,1323.72,Card,29,2025-06-21,111,True,-1.0,Cancelled,1323.72,4,3,2,9
+C1412,Female,Teenager,Peshawar,2025-01-19,2025-02-24,Subway,Fast Food,4,203.11,Wallet,22,2025-04-21,86,False,3.0,Delayed,812.44,3,3,1,7
+C5598,Male,Adult,Peshawar,2023-11-06,2024-11-14,Pizza Hut,Dessert,5,172.96,Card,28,2025-04-22,162,True,3.0,Delivered,864.8000000000001,3,3,2,8
+C3831,Female,Senior,Peshawar,2025-04-22,2025-06-22,Subway,Chinese,3,1228.43,Cash,24,2025-06-23,299,False,5.0,Delayed,3685.29,4,3,4,11
+C5214,Female,Senior,Peshawar,2024-03-03,2025-04-23,KFC,Chinese,4,289.68,Wallet,38,2025-08-08,450,True,1.0,Delivered,1158.72,5,4,2,11
+C3646,Male,Teenager,Peshawar,2025-04-12,2025-04-23,Subway,Dessert,1,1403.6,Card,37,2025-07-16,31,True,-1.0,Cancelled,1403.6,5,4,2,11
+C5298,Male,Teenager,Peshawar,2025-04-05,2025-04-23,Pizza Hut,Fast Food,3,106.7,Wallet,10,2025-05-05,198,False,3.0,Delivered,320.1,3,1,1,5
+C5942,Female,Adult,Peshawar,2024-12-07,2025-04-12,Pizza Hut,Continental,2,1247.54,Cash,48,2025-04-24,54,True,-1.0,Cancelled,2495.08,3,5,4,12
+C5080,Female,Teenager,Peshawar,2023-09-13,2025-04-25,Pizza Hut,Dessert,5,356.91,Card,47,2025-08-04,262,False,2.0,Delivered,1784.5500000000002,5,5,3,13
+C2108,Female,Senior,Peshawar,2024-11-02,2025-04-25,Burger King,Italian,4,1362.25,Card,8,2025-06-19,354,False,4.0,Delivered,5449.0,4,1,5,10
+C6906,Female,Senior,Peshawar,2023-09-09,2025-01-21,Subway,Chinese,5,1373.1,Wallet,34,2025-04-25,332,True,-1.0,Cancelled,6865.5,3,4,5,12
+C1858,Female,Teenager,Peshawar,2024-12-22,2025-02-28,Burger King,Chinese,1,429.47,Card,46,2025-04-27,461,True,3.0,Delivered,429.47,3,5,1,9
+C5640,Male,Teenager,Peshawar,2024-08-26,2025-04-27,Subway,Chinese,1,844.38,Card,2,2025-07-12,324,True,1.0,Delivered,844.38,4,1,2,7
+C5427,Female,Adult,Peshawar,2025-03-27,2025-04-30,McDonald's,Continental,2,850.43,Card,18,2025-05-13,230,False,-1.0,Cancelled,1700.86,3,2,3,8
+C1816,Other,Adult,Peshawar,2023-12-24,2024-11-18,McDonald's,Chinese,1,125.73,Card,32,2025-05-01,251,False,5.0,Delayed,125.73,3,4,1,8
+C1516,Other,Senior,Peshawar,2025-04-19,2025-05-01,KFC,Dessert,1,669.37,Cash,34,2025-07-31,359,True,1.0,Delivered,669.37,5,4,1,10
+C1813,Male,Senior,Peshawar,2023-10-17,2024-08-27,McDonald's,Continental,1,755.72,Cash,5,2025-05-01,182,False,2.0,Delayed,755.72,3,1,1,5
+C1276,Male,Teenager,Peshawar,2024-05-16,2025-02-11,Burger King,Continental,1,1375.87,Cash,40,2025-05-02,125,False,-1.0,Cancelled,1375.87,3,4,2,9
+C1337,Female,Senior,Peshawar,2023-09-13,2024-10-12,Burger King,Chinese,1,549.47,Wallet,42,2025-05-02,345,False,3.0,Delayed,549.47,3,5,1,9
+C4946,Female,Adult,Peshawar,2024-10-08,2024-12-29,McDonald's,Fast Food,4,436.08,Card,14,2025-05-03,453,True,-1.0,Cancelled,1744.32,3,2,3,8
+C4052,Female,Adult,Peshawar,2024-04-25,2025-05-04,Pizza Hut,Italian,1,758.75,Cash,25,2025-07-21,67,False,1.0,Delivered,758.75,5,3,1,9
+C3434,Female,Senior,Peshawar,2025-05-04,2025-05-13,Burger King,Dessert,1,1168.05,Cash,48,2025-06-15,153,True,3.0,Delayed,1168.05,4,5,2,11
+C2337,Female,Adult,Peshawar,2024-01-26,2025-05-05,Subway,Fast Food,5,1127.94,Card,28,2025-07-24,462,False,1.0,Delayed,5639.700000000001,5,3,5,13
+C5192,Male,Teenager,Peshawar,2024-01-13,2025-01-05,Burger King,Italian,3,1004.25,Card,2,2025-05-06,45,False,-1.0,Cancelled,3012.75,3,1,4,8
+C5490,Male,Senior,Peshawar,2025-04-29,2025-05-06,McDonald's,Chinese,1,1071.75,Cash,21,2025-08-11,321,True,-1.0,Cancelled,1071.75,5,3,2,10
+C5139,Other,Senior,Peshawar,2024-04-06,2025-05-08,McDonald's,Fast Food,3,1152.12,Cash,9,2025-08-11,55,True,5.0,Delayed,3456.3599999999997,5,1,4,10
+C4706,Male,Senior,Peshawar,2023-10-10,2025-05-09,Burger King,Continental,1,165.82,Card,13,2025-06-08,436,True,5.0,Delivered,165.82,4,2,1,7
+C3469,Female,Adult,Peshawar,2025-03-17,2025-05-09,Subway,Dessert,1,486.94,Wallet,21,2025-08-15,127,False,5.0,Delivered,486.94,5,3,1,9
+C3351,Female,Adult,Peshawar,2024-10-13,2025-05-11,Pizza Hut,Dessert,5,888.4,Card,11,2025-08-17,305,False,-1.0,Cancelled,4442.0,5,1,5,11
+C3937,Other,Teenager,Peshawar,2024-04-12,2025-05-11,Burger King,Dessert,5,717.42,Cash,10,2025-06-03,139,False,4.0,Delayed,3587.1,4,1,4,9
+C5336,Male,Adult,Peshawar,2024-11-02,2025-05-11,KFC,Chinese,1,764.52,Wallet,27,2025-05-16,157,True,2.0,Delayed,764.52,3,3,1,7
+C6454,Other,Teenager,Peshawar,2025-02-11,2025-05-11,Subway,Italian,2,1160.2,Wallet,21,2025-08-15,181,False,4.0,Delivered,2320.4,5,3,3,11
+C6761,Other,Senior,Peshawar,2024-06-27,2024-09-23,Pizza Hut,Fast Food,2,836.41,Card,44,2025-05-12,267,False,-1.0,Cancelled,1672.82,3,5,3,11
+C6867,Male,Senior,Peshawar,2024-06-26,2025-03-05,KFC,Chinese,3,980.75,Card,31,2025-05-13,186,False,4.0,Delayed,2942.25,3,4,4,11
+C4196,Female,Adult,Peshawar,2024-08-31,2025-05-14,Pizza Hut,Chinese,2,1321.46,Card,33,2025-07-31,94,False,4.0,Delivered,2642.92,5,4,4,13
+C6677,Female,Senior,Peshawar,2024-06-11,2025-04-29,McDonald's,Dessert,2,289.17,Cash,11,2025-05-14,18,False,-1.0,Cancelled,578.34,3,1,1,5
+C4273,Male,Teenager,Peshawar,2023-11-11,2025-02-20,Subway,Dessert,2,1024.98,Cash,40,2025-05-18,183,False,1.0,Delayed,2049.96,3,4,3,10
+C6658,Other,Senior,Peshawar,2024-07-04,2025-02-03,Pizza Hut,Continental,4,639.15,Cash,47,2025-05-18,61,False,2.0,Delayed,2556.6,3,5,4,12
+C5148,Female,Adult,Peshawar,2024-02-24,2024-12-12,McDonald's,Fast Food,2,1257.05,Card,34,2025-05-18,158,True,3.0,Delayed,2514.1,3,4,4,11
+C5609,Other,Adult,Peshawar,2025-02-19,2025-05-19,Burger King,Fast Food,3,691.15,Wallet,13,2025-07-08,437,False,-1.0,Cancelled,2073.45,4,2,3,9
+C1838,Male,Teenager,Peshawar,2023-12-16,2025-05-19,Subway,Italian,4,598.81,Card,32,2025-07-28,246,False,1.0,Delayed,2395.24,5,4,3,12
+C2860,Other,Adult,Peshawar,2025-04-21,2025-05-20,McDonald's,Continental,1,308.67,Wallet,47,2025-07-13,87,False,3.0,Delivered,308.67,4,5,1,10
+C4560,Other,Senior,Peshawar,2024-08-03,2024-12-13,KFC,Dessert,5,1421.5,Card,47,2025-05-20,402,True,4.0,Delivered,7107.5,3,5,5,13
+C2121,Male,Senior,Peshawar,2023-09-06,2025-02-02,Burger King,Continental,4,583.54,Wallet,13,2025-05-20,490,False,2.0,Delayed,2334.16,3,2,3,8
+C2755,Other,Senior,Peshawar,2023-11-02,2025-05-21,McDonald's,Chinese,4,502.84,Card,47,2025-08-15,211,False,5.0,Delayed,2011.36,5,5,3,13
+C5190,Other,Senior,Peshawar,2025-04-30,2025-05-21,Burger King,Chinese,4,624.79,Card,43,2025-06-11,441,True,5.0,Delivered,2499.16,4,5,4,13
+C5544,Other,Senior,Peshawar,2024-04-09,2025-05-22,KFC,Fast Food,2,1373.27,Card,4,2025-08-01,189,False,1.0,Delayed,2746.54,5,1,4,10
+C4991,Other,Senior,Peshawar,2024-09-15,2025-02-28,Pizza Hut,Fast Food,1,1117.64,Cash,31,2025-05-22,369,True,1.0,Delayed,1117.64,3,4,2,9
+C4336,Female,Adult,Peshawar,2024-10-31,2025-05-18,Subway,Italian,2,919.58,Cash,11,2025-05-24,129,True,-1.0,Cancelled,1839.16,3,1,3,7
+C2244,Female,Teenager,Peshawar,2024-08-25,2025-05-24,KFC,Continental,2,720.93,Cash,44,2025-07-30,404,False,5.0,Delivered,1441.86,5,5,2,12
+C4240,Male,Adult,Peshawar,2024-09-27,2024-12-18,McDonald's,Chinese,1,219.93,Wallet,22,2025-05-24,382,True,2.0,Delivered,219.93,3,3,1,7
+C5452,Male,Adult,Peshawar,2025-04-04,2025-05-24,McDonald's,Italian,5,930.26,Cash,21,2025-06-29,178,True,5.0,Delayed,4651.3,4,3,5,12
+C5792,Female,Teenager,Peshawar,2024-11-26,2025-05-25,McDonald's,Dessert,5,725.18,Wallet,6,2025-07-23,339,False,1.0,Delivered,3625.8999999999996,5,1,4,10
+C5944,Male,Adult,Peshawar,2024-09-26,2025-05-26,Pizza Hut,Fast Food,1,846.49,Cash,15,2025-06-29,387,False,2.0,Delayed,846.49,4,2,2,8
+C2186,Other,Teenager,Peshawar,2024-01-21,2024-10-01,Burger King,Continental,5,720.3,Wallet,13,2025-05-26,271,False,-1.0,Cancelled,3601.5,3,2,4,9
+C2047,Female,Adult,Peshawar,2024-02-05,2025-05-26,McDonald's,Chinese,2,145.95,Cash,12,2025-06-15,486,False,2.0,Delayed,291.9,4,2,1,7
+C1863,Female,Adult,Peshawar,2023-10-03,2024-10-22,Subway,Fast Food,4,127.56,Card,32,2025-05-26,130,True,1.0,Delayed,510.24,3,4,1,8
+C1333,Female,Senior,Peshawar,2023-10-10,2025-02-21,Burger King,Italian,4,1197.23,Cash,50,2025-05-27,406,True,-1.0,Cancelled,4788.92,3,5,5,13
+C6918,Female,Adult,Peshawar,2024-04-01,2025-04-21,Subway,Chinese,5,1298.67,Cash,30,2025-05-27,251,False,-1.0,Cancelled,6493.35,3,3,5,11
+C5453,Other,Adult,Peshawar,2024-11-02,2025-04-15,Subway,Continental,5,1461.92,Card,23,2025-05-30,29,False,5.0,Delayed,7309.6,4,3,5,12
+C6236,Male,Teenager,Peshawar,2024-05-04,2024-09-01,Subway,Italian,2,858.97,Cash,12,2025-05-31,38,True,3.0,Delayed,1717.94,4,2,3,9
+C3474,Male,Adult,Peshawar,2024-06-06,2024-08-24,Pizza Hut,Chinese,3,142.86,Card,28,2025-05-31,470,False,3.0,Delayed,428.58000000000004,4,3,1,8
+C6261,Male,Teenager,Peshawar,2024-09-06,2024-10-26,Pizza Hut,Dessert,1,1401.43,Cash,45,2025-06-01,480,False,-1.0,Cancelled,1401.43,4,5,2,11
+C4207,Other,Senior,Peshawar,2024-12-04,2025-04-20,Subway,Fast Food,5,354.88,Card,20,2025-06-01,96,True,3.0,Delivered,1774.4,4,2,3,9
+C4174,Other,Senior,Peshawar,2023-11-24,2025-06-04,Pizza Hut,Continental,4,388.4,Card,42,2025-06-16,228,False,-1.0,Cancelled,1553.6,4,5,3,12
+C3196,Male,Teenager,Peshawar,2024-12-03,2025-01-25,KFC,Fast Food,4,304.01,Wallet,29,2025-06-04,410,False,-1.0,Cancelled,1216.04,4,3,2,9
+C6716,Other,Teenager,Peshawar,2025-01-20,2025-03-28,Burger King,Italian,2,678.2,Card,4,2025-06-05,458,False,3.0,Delivered,1356.4,4,1,2,7
+C1765,Other,Senior,Peshawar,2024-01-04,2025-06-05,Subway,Italian,4,1060.12,Wallet,34,2025-07-01,40,False,4.0,Delivered,4240.48,4,4,5,13
+C6198,Other,Senior,Peshawar,2024-08-28,2025-05-03,McDonald's,Continental,1,428.69,Cash,17,2025-06-05,374,True,-1.0,Cancelled,428.69,4,2,1,7
+C5119,Male,Teenager,Peshawar,2024-03-25,2024-12-14,Subway,Italian,3,653.81,Wallet,31,2025-06-07,3,True,2.0,Delivered,1961.4299999999998,4,4,3,11
+C5628,Male,Teenager,Peshawar,2024-03-26,2024-10-28,Pizza Hut,Dessert,5,716.92,Wallet,8,2025-06-08,292,False,3.0,Delayed,3584.6,4,1,4,9
+C3008,Female,Senior,Peshawar,2024-06-03,2024-10-27,KFC,Dessert,5,717.92,Cash,19,2025-06-08,71,False,3.0,Delivered,3589.6,4,2,4,10
+C2099,Male,Senior,Peshawar,2023-08-31,2024-10-18,Pizza Hut,Italian,5,738.43,Wallet,28,2025-06-09,296,True,4.0,Delayed,3692.1499999999996,4,3,4,11
+C6022,Female,Senior,Peshawar,2024-08-29,2025-01-24,Pizza Hut,Dessert,3,398.54,Card,37,2025-06-09,425,True,2.0,Delayed,1195.6200000000001,4,4,2,10
+C3109,Female,Adult,Peshawar,2024-03-05,2024-12-26,Pizza Hut,Fast Food,1,1444.55,Card,36,2025-06-09,281,True,5.0,Delivered,1444.55,4,4,3,11
+C1221,Female,Adult,Peshawar,2024-12-23,2025-05-23,Pizza Hut,Italian,5,515.19,Card,38,2025-06-09,275,True,1.0,Delivered,2575.9500000000003,4,4,4,12
+C1491,Other,Teenager,Peshawar,2023-12-20,2025-04-06,Burger King,Continental,4,528.92,Card,10,2025-06-10,105,True,-1.0,Cancelled,2115.68,4,1,3,8
+C3032,Other,Senior,Peshawar,2024-01-18,2025-04-28,KFC,Continental,1,1035.15,Card,50,2025-06-10,488,False,-1.0,Cancelled,1035.15,4,5,2,11
+C1641,Male,Senior,Peshawar,2024-10-28,2025-06-10,KFC,Dessert,2,897.72,Card,11,2025-08-09,296,False,-1.0,Cancelled,1795.44,5,1,3,9
+C6827,Female,Adult,Peshawar,2023-11-14,2024-08-22,McDonald's,Italian,1,453.01,Wallet,21,2025-06-11,120,False,5.0,Delivered,453.01,4,3,1,8
+C3595,Male,Senior,Peshawar,2024-12-27,2025-06-11,Burger King,Italian,3,121.69,Card,44,2025-07-16,207,True,-1.0,Cancelled,365.07,5,5,1,11
+C2750,Other,Teenager,Peshawar,2025-06-12,2025-06-18,Burger King,Dessert,1,231.36,Wallet,33,2025-07-28,284,False,-1.0,Cancelled,231.36,5,4,1,10
+C6925,Male,Senior,Peshawar,2024-09-13,2025-06-13,Subway,Fast Food,2,834.42,Wallet,33,2025-07-20,371,True,3.0,Delayed,1668.84,5,4,3,12
+C6625,Other,Adult,Peshawar,2024-09-30,2025-05-12,McDonald's,Continental,1,664.78,Card,6,2025-06-14,479,False,3.0,Delivered,664.78,4,1,1,6
+C2368,Male,Adult,Peshawar,2024-05-30,2025-01-03,KFC,Chinese,1,1054.07,Wallet,33,2025-06-15,444,True,-1.0,Cancelled,1054.07,4,4,2,10
+C3268,Other,Teenager,Peshawar,2025-04-06,2025-06-06,Subway,Fast Food,2,611.24,Wallet,36,2025-06-17,420,True,-1.0,Cancelled,1222.48,4,4,2,10
+C2057,Other,Senior,Peshawar,2024-04-14,2025-05-28,Subway,Continental,4,426.49,Card,48,2025-06-19,220,True,-1.0,Cancelled,1705.96,4,5,3,12
+C6879,Other,Senior,Peshawar,2024-07-10,2024-09-24,Burger King,Italian,1,810.1,Cash,23,2025-06-19,338,True,-1.0,Cancelled,810.1,4,3,1,8
+C4776,Female,Teenager,Peshawar,2025-01-11,2025-01-22,Pizza Hut,Chinese,5,912.72,Wallet,16,2025-06-20,292,False,-1.0,Cancelled,4563.6,4,2,5,11
+C4957,Female,Adult,Peshawar,2025-02-09,2025-06-21,Subway,Continental,3,1094.56,Cash,19,2025-07-28,403,False,4.0,Delivered,3283.68,5,2,4,11
+C3468,Female,Adult,Peshawar,2024-04-29,2025-06-21,KFC,Dessert,1,945.37,Wallet,1,2025-08-18,310,False,-1.0,Cancelled,945.37,5,1,2,8
+C5013,Female,Senior,Peshawar,2024-01-29,2025-06-21,Subway,Italian,5,210.27,Card,47,2025-06-29,62,False,-1.0,Cancelled,1051.3500000000001,4,5,2,11
+C4467,Female,Teenager,Peshawar,2024-12-03,2025-06-22,Burger King,Chinese,1,420.03,Cash,30,2025-07-03,471,False,1.0,Delayed,420.03,4,3,1,8
+C4153,Other,Senior,Peshawar,2023-10-24,2025-06-23,KFC,Dessert,2,1497.66,Card,39,2025-07-12,496,False,-1.0,Cancelled,2995.32,4,4,4,12
+C1393,Male,Senior,Peshawar,2023-10-17,2024-12-13,McDonald's,Dessert,4,630.44,Cash,49,2025-06-23,4,False,5.0,Delivered,2521.76,4,5,4,13
+C5629,Other,Teenager,Peshawar,2025-01-04,2025-06-24,Burger King,Italian,5,1228.51,Wallet,44,2025-07-31,406,False,2.0,Delayed,6142.55,5,5,5,15
+C2029,Other,Adult,Peshawar,2024-09-09,2025-01-17,Burger King,Fast Food,1,1372.83,Cash,4,2025-06-25,400,True,1.0,Delivered,1372.83,4,1,2,7
+C6798,Male,Senior,Peshawar,2024-10-11,2025-06-26,KFC,Fast Food,4,619.21,Cash,40,2025-07-18,86,True,2.0,Delayed,2476.84,5,4,4,13
+C6009,Male,Adult,Peshawar,2024-09-25,2024-12-27,Subway,Chinese,5,1494.68,Cash,40,2025-06-28,407,False,-1.0,Cancelled,7473.400000000001,4,4,5,13
+C2849,Male,Adult,Peshawar,2023-12-21,2025-06-28,Burger King,Dessert,3,862.1,Wallet,8,2025-08-13,123,False,-1.0,Cancelled,2586.3,5,1,4,10
+C1528,Female,Adult,Peshawar,2025-03-21,2025-05-11,KFC,Continental,4,1263.08,Cash,18,2025-06-28,323,False,-1.0,Cancelled,5052.32,4,2,5,11
+C6839,Other,Senior,Peshawar,2024-05-14,2025-01-08,McDonald's,Chinese,2,400.74,Cash,30,2025-06-30,259,True,1.0,Delivered,801.48,4,3,1,8
+C2103,Female,Senior,Peshawar,2024-09-10,2024-11-23,McDonald's,Chinese,2,381.23,Card,11,2025-06-30,213,False,-1.0,Cancelled,762.46,4,1,1,6
+C4475,Female,Adult,Peshawar,2023-08-31,2025-02-25,Pizza Hut,Chinese,1,707.94,Wallet,4,2025-06-30,497,False,1.0,Delayed,707.94,4,1,1,6
+C3959,Female,Senior,Peshawar,2024-04-14,2024-10-07,KFC,Italian,3,679.72,Cash,24,2025-07-01,162,True,3.0,Delayed,2039.16,4,3,3,10
+C1065,Female,Senior,Peshawar,2024-11-10,2025-06-15,Subway,Chinese,3,474.8,Card,5,2025-07-01,247,False,-1.0,Cancelled,1424.4,4,1,2,7
+C2907,Female,Senior,Peshawar,2024-05-06,2024-11-06,Subway,Chinese,2,1360.98,Cash,23,2025-07-02,431,True,3.0,Delayed,2721.96,4,3,4,11
+C5421,Male,Teenager,Peshawar,2023-09-03,2025-03-11,Pizza Hut,Continental,3,1079.09,Card,7,2025-07-03,349,True,5.0,Delayed,3237.2699999999995,4,1,4,9
+C1999,Female,Senior,Peshawar,2024-03-30,2025-07-03,Pizza Hut,Continental,5,282.61,Card,9,2025-08-13,443,False,1.0,Delivered,1413.0500000000002,5,1,2,8
+C2600,Other,Adult,Peshawar,2024-09-02,2025-04-15,Burger King,Dessert,5,1179.15,Wallet,6,2025-07-05,378,True,4.0,Delayed,5895.75,4,1,5,10
+C4515,Male,Adult,Peshawar,2025-01-11,2025-07-05,Burger King,Fast Food,3,650.4,Wallet,29,2025-07-23,84,False,3.0,Delivered,1951.1999999999998,5,3,3,11
+C1966,Female,Adult,Peshawar,2024-12-12,2025-03-09,Subway,Continental,5,541.4,Wallet,13,2025-07-05,17,True,4.0,Delayed,2707.0,4,2,4,10
+C2659,Female,Adult,Peshawar,2025-07-04,2025-07-06,McDonald's,Italian,1,721.41,Wallet,32,2025-08-07,153,True,5.0,Delivered,721.41,5,4,1,10
+C4922,Female,Adult,Peshawar,2024-07-24,2025-07-08,KFC,Fast Food,1,636.71,Cash,8,2025-07-17,182,True,5.0,Delayed,636.71,5,1,1,7
+C6880,Male,Teenager,Peshawar,2024-08-24,2025-02-26,Pizza Hut,Fast Food,3,594.07,Card,1,2025-07-08,452,True,2.0,Delayed,1782.21,4,1,3,8
+C4590,Male,Teenager,Peshawar,2024-01-24,2024-09-17,Pizza Hut,Chinese,1,1103.42,Cash,38,2025-07-08,298,True,1.0,Delayed,1103.42,4,4,2,10
+C2415,Other,Teenager,Peshawar,2024-05-05,2025-06-23,McDonald's,Italian,4,125.36,Wallet,30,2025-07-09,301,False,2.0,Delivered,501.44,4,3,1,8
+C6487,Other,Adult,Peshawar,2025-06-09,2025-06-17,KFC,Fast Food,2,240.56,Card,37,2025-07-09,117,False,3.0,Delayed,481.12,4,4,1,9
+C5648,Male,Teenager,Peshawar,2025-04-10,2025-04-16,Pizza Hut,Chinese,1,1232.57,Cash,39,2025-07-09,158,True,3.0,Delayed,1232.57,4,4,2,10
+C6772,Male,Senior,Peshawar,2024-02-14,2025-05-04,Subway,Dessert,5,209.02,Wallet,36,2025-07-11,103,False,4.0,Delivered,1045.1000000000001,4,4,2,10
+C1525,Other,Teenager,Peshawar,2024-09-08,2025-07-12,McDonald's,Chinese,5,357.07,Card,43,2025-08-21,344,False,-1.0,Cancelled,1785.35,5,5,3,13
+C3859,Female,Senior,Peshawar,2024-10-11,2025-06-03,Subway,Chinese,1,599.54,Cash,12,2025-07-14,352,True,3.0,Delayed,599.54,5,2,1,8
+C2051,Male,Senior,Peshawar,2025-06-26,2025-07-14,Subway,Chinese,5,207.6,Cash,16,2025-08-15,289,False,-1.0,Cancelled,1038.0,5,2,2,9
+C4378,Male,Adult,Peshawar,2024-07-07,2025-01-10,Pizza Hut,Continental,1,1427.96,Card,48,2025-07-14,42,True,5.0,Delivered,1427.96,5,5,2,12
+C3072,Male,Senior,Peshawar,2024-12-25,2025-06-17,Burger King,Dessert,2,855.91,Cash,39,2025-07-15,169,True,-1.0,Cancelled,1711.82,5,4,3,12
+C6927,Other,Teenager,Peshawar,2024-12-31,2025-03-05,KFC,Chinese,1,833.47,Cash,38,2025-07-16,133,True,-1.0,Cancelled,833.47,5,4,1,10
+C5461,Other,Senior,Peshawar,2025-03-22,2025-07-16,Subway,Continental,5,646.61,Cash,24,2025-08-14,119,False,2.0,Delayed,3233.05,5,3,4,12
+C2354,Other,Senior,Peshawar,2023-08-30,2024-09-25,KFC,Fast Food,3,688.65,Wallet,40,2025-07-17,274,False,-1.0,Cancelled,2065.95,5,4,3,12
+C4219,Female,Adult,Peshawar,2024-07-07,2025-04-08,McDonald's,Italian,1,1434.07,Cash,32,2025-07-18,160,True,3.0,Delivered,1434.07,5,4,2,11
+C3776,Other,Adult,Peshawar,2023-10-02,2024-10-22,Burger King,Continental,4,875.57,Card,24,2025-07-19,62,True,5.0,Delayed,3502.28,5,3,4,12
+C6929,Male,Senior,Peshawar,2025-01-27,2025-07-19,Pizza Hut,Continental,4,1443.76,Card,25,2025-07-24,62,False,2.0,Delayed,5775.04,5,3,5,13
+C2399,Other,Senior,Peshawar,2024-12-30,2025-04-02,KFC,Chinese,5,470.74,Cash,37,2025-07-19,268,False,4.0,Delivered,2353.7,5,4,3,12
+C4201,Other,Senior,Peshawar,2024-09-17,2025-06-13,Burger King,Italian,3,1072.21,Cash,8,2025-07-21,206,False,-1.0,Cancelled,3216.63,5,1,4,10
+C4167,Female,Teenager,Peshawar,2024-03-12,2025-05-21,Pizza Hut,Continental,4,742.88,Cash,22,2025-07-22,208,False,4.0,Delayed,2971.52,5,3,4,12
+C3077,Female,Senior,Peshawar,2024-07-13,2025-03-17,Burger King,Continental,3,718.02,Cash,40,2025-07-22,432,False,-1.0,Cancelled,2154.06,5,4,3,12
+C4023,Female,Teenager,Peshawar,2025-01-30,2025-03-28,Pizza Hut,Continental,2,1490.84,Wallet,16,2025-07-23,143,True,3.0,Delayed,2981.68,5,2,4,11
+C6225,Female,Teenager,Peshawar,2024-10-06,2024-12-28,Burger King,Italian,2,1228.67,Cash,39,2025-07-23,183,False,-1.0,Cancelled,2457.34,5,4,4,13
+C1777,Other,Adult,Peshawar,2023-10-27,2025-01-12,KFC,Italian,1,408.98,Wallet,12,2025-07-23,414,True,3.0,Delivered,408.98,5,2,1,8
+C4442,Female,Senior,Peshawar,2024-03-09,2025-04-23,McDonald's,Dessert,3,1469.28,Cash,41,2025-07-24,446,True,1.0,Delayed,4407.84,5,5,5,15
+C3863,Male,Senior,Peshawar,2024-01-29,2024-10-05,Burger King,Fast Food,4,630.11,Wallet,41,2025-07-24,108,False,4.0,Delayed,2520.44,5,5,4,14
+C3723,Female,Senior,Peshawar,2024-06-06,2025-05-07,KFC,Continental,5,197.12,Wallet,36,2025-07-25,203,False,1.0,Delivered,985.6,5,4,2,11
+C3275,Male,Senior,Peshawar,2024-04-17,2024-09-24,Burger King,Chinese,3,106.66,Card,16,2025-07-27,76,False,1.0,Delayed,319.98,5,2,1,8
+C4851,Female,Adult,Peshawar,2024-08-21,2025-07-28,Burger King,Italian,3,301.33,Wallet,26,2025-08-03,346,True,2.0,Delayed,903.99,5,3,2,10
+C5189,Other,Teenager,Peshawar,2025-01-15,2025-01-18,Pizza Hut,Chinese,5,568.85,Card,25,2025-07-30,104,False,4.0,Delayed,2844.25,5,3,4,12
+C3153,Other,Teenager,Peshawar,2025-06-04,2025-06-30,Burger King,Continental,3,1433.25,Cash,19,2025-07-31,120,True,2.0,Delivered,4299.75,5,2,5,12
+C4221,Male,Adult,Peshawar,2025-01-04,2025-06-05,KFC,Chinese,3,534.43,Card,23,2025-08-01,483,True,-1.0,Cancelled,1603.29,5,3,3,11
+C2861,Female,Teenager,Peshawar,2024-02-25,2025-06-04,Subway,Chinese,1,776.93,Card,49,2025-08-01,431,False,1.0,Delivered,776.93,5,5,1,11
+C5050,Other,Adult,Peshawar,2024-10-06,2025-04-09,KFC,Chinese,3,169.53,Card,31,2025-08-02,484,False,4.0,Delayed,508.59000000000003,5,4,1,10
+C3477,Male,Teenager,Peshawar,2024-07-24,2025-05-03,Subway,Dessert,4,522.3,Cash,4,2025-08-04,257,True,2.0,Delayed,2089.2,5,1,3,9
+C3666,Male,Adult,Peshawar,2025-01-24,2025-05-30,Subway,Chinese,1,172.53,Card,3,2025-08-04,72,False,-1.0,Cancelled,172.53,5,1,1,7
+C4782,Female,Senior,Peshawar,2024-05-21,2024-09-18,Burger King,Dessert,3,955.21,Wallet,40,2025-08-05,300,True,-1.0,Cancelled,2865.63,5,4,4,13
+C5135,Other,Teenager,Peshawar,2024-11-04,2025-02-21,Subway,Fast Food,2,917.14,Cash,44,2025-08-05,100,False,-1.0,Cancelled,1834.28,5,5,3,13
+C3164,Other,Adult,Peshawar,2025-01-29,2025-04-30,Burger King,Dessert,5,181.01,Card,31,2025-08-05,399,True,4.0,Delivered,905.05,5,4,2,11
+C3122,Female,Adult,Peshawar,2024-06-22,2024-09-10,KFC,Dessert,4,280.37,Card,3,2025-08-05,431,True,2.0,Delivered,1121.48,5,1,2,8
+C2847,Other,Senior,Peshawar,2024-06-17,2025-01-25,Subway,Continental,3,1448.07,Card,7,2025-08-05,143,True,1.0,Delayed,4344.21,5,1,5,11
+C6190,Male,Adult,Peshawar,2024-12-02,2025-07-17,Burger King,Italian,3,1476.75,Cash,42,2025-08-05,267,False,-1.0,Cancelled,4430.25,5,5,5,15
+C1520,Other,Senior,Peshawar,2025-03-21,2025-05-19,Subway,Italian,2,132.86,Wallet,30,2025-08-06,244,False,4.0,Delivered,265.72,5,3,1,9
+C3145,Male,Senior,Peshawar,2024-12-09,2025-07-08,McDonald's,Chinese,2,1155.12,Card,17,2025-08-06,317,False,3.0,Delivered,2310.24,5,2,3,10
+C5230,Female,Senior,Peshawar,2023-11-28,2025-03-29,McDonald's,Italian,5,177.24,Cash,12,2025-08-07,434,True,-1.0,Cancelled,886.2,5,2,2,9
+C6473,Other,Teenager,Peshawar,2024-02-04,2025-04-16,Pizza Hut,Dessert,4,1099.84,Wallet,47,2025-08-08,383,True,2.0,Delayed,4399.36,5,5,5,15
+C5980,Other,Teenager,Peshawar,2025-01-04,2025-03-07,KFC,Chinese,4,206.91,Card,49,2025-08-09,43,False,-1.0,Cancelled,827.64,5,5,1,11
+C1549,Male,Adult,Peshawar,2024-07-24,2025-07-12,Subway,Chinese,2,340.37,Wallet,9,2025-08-10,308,True,-1.0,Cancelled,680.74,5,1,1,7
+C5947,Other,Senior,Peshawar,2023-10-12,2025-01-09,McDonald's,Dessert,1,1491.19,Cash,33,2025-08-11,1,True,4.0,Delayed,1491.19,5,4,3,12
+C3533,Other,Teenager,Peshawar,2025-02-20,2025-03-16,Subway,Dessert,1,1019.73,Wallet,36,2025-08-11,215,False,-1.0,Cancelled,1019.73,5,4,2,11
+C4525,Male,Teenager,Peshawar,2024-12-22,2025-01-01,Burger King,Dessert,3,406.37,Cash,47,2025-08-12,491,False,3.0,Delayed,1219.1100000000001,5,5,2,12
+C6495,Other,Teenager,Peshawar,2023-12-21,2025-04-14,McDonald's,Fast Food,5,131.24,Cash,3,2025-08-12,109,False,-1.0,Cancelled,656.2,5,1,1,7
+C2151,Other,Adult,Peshawar,2024-04-16,2025-01-29,Pizza Hut,Italian,3,769.9,Wallet,5,2025-08-13,309,True,4.0,Delayed,2309.7,5,1,3,9
+C1449,Other,Adult,Peshawar,2024-05-05,2025-07-03,KFC,Italian,3,637.63,Card,3,2025-08-14,50,True,3.0,Delayed,1912.8899999999999,5,1,3,9
+C4766,Male,Senior,Peshawar,2023-10-07,2025-08-09,Subway,Italian,3,355.98,Cash,41,2025-08-14,498,False,4.0,Delayed,1067.94,5,5,2,12
+C3074,Other,Senior,Peshawar,2024-09-01,2024-09-19,Burger King,Fast Food,2,961.78,Cash,9,2025-08-15,237,False,2.0,Delayed,1923.56,5,1,3,9
+C4369,Male,Teenager,Peshawar,2023-09-26,2025-07-25,McDonald's,Continental,4,742.51,Wallet,26,2025-08-16,212,False,1.0,Delayed,2970.04,5,3,4,12
+C6477,Male,Adult,Peshawar,2023-10-18,2024-10-30,Burger King,Italian,2,185.72,Wallet,50,2025-08-18,440,False,-1.0,Cancelled,371.44,5,5,1,11
+C6560,Male,Senior,Peshawar,2024-07-12,2024-11-18,Pizza Hut,Chinese,3,683.25,Wallet,24,2025-08-18,306,True,2.0,Delivered,2049.75,5,3,3,11
+C2655,Other,Senior,Peshawar,2025-01-15,2025-06-07,Subway,Dessert,3,1042.43,Wallet,9,2025-08-18,463,False,-1.0,Cancelled,3127.29,5,1,4,10
+C3043,Female,Adult,Peshawar,2024-03-03,2025-01-29,Pizza Hut,Chinese,3,1402.34,Wallet,8,2025-08-19,355,True,1.0,Delayed,4207.0199999999995,5,1,5,11
+C1955,Female,Senior,Peshawar,2024-09-07,2025-01-29,Pizza Hut,Fast Food,1,1318.02,Card,39,2025-08-21,106,True,2.0,Delayed,1318.02,5,4,2,11
+C2877,Other,Adult,Peshawar,2025-03-28,2025-06-03,Subway,Fast Food,4,1078.12,Card,43,2025-08-21,290,False,-1.0,Cancelled,4312.48,5,5,5,15
+C1430,Other,Senior,Peshawar,2024-12-13,2025-05-13,KFC,Chinese,1,536.61,Cash,9,2025-08-21,113,True,1.0,Delivered,536.61,5,1,1,7
+C3236,Female,Senior,Peshawar,2024-11-12,2025-07-18,Pizza Hut,Continental,5,1168.73,Card,49,2025-08-21,141,True,1.0,Delayed,5843.65,5,5,5,15
+C2476,Male,Teenager,Peshawar,2024-09-10,2025-02-23,Pizza Hut,Fast Food,3,1378.12,Card,15,2025-08-22,273,True,1.0,Delayed,4134.36,5,2,5,12
+C5777,Female,Senior,Peshawar,2024-02-11,2025-08-21,Pizza Hut,Fast Food,1,1103.73,Wallet,43,2025-08-22,211,True,1.0,Delivered,1103.73,5,5,2,12

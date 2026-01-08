@@ -1,0 +1,1218 @@
+customer_id,gender,age,city,signup_date,order_date,restaurant_name,category,quantity,price,payment_method,order_frequency,last_order_date,loyalty_points,churned,rating,delivery_status,order_value,r_score,f_score,m_score,rfm_score
+C4339,Other,Senior,Lahore,2023-08-24,2023-12-29,KFC,Dessert,1,1156.69,Cash,35,2024-12-21,418,True,-1.0,Cancelled,1156.69,1,4,2,7
+C6423,Male,Adult,Lahore,2023-08-24,2025-04-08,McDonald's,Continental,5,672.91,Wallet,31,2025-05-25,347,False,-1.0,Cancelled,3364.5499999999997,3,4,4,11
+C5535,Male,Adult,Lahore,2023-08-24,2025-04-08,Subway,Continental,2,645.52,Cash,32,2025-07-30,133,False,4.0,Delayed,1291.04,5,4,2,11
+C5092,Female,Adult,Lahore,2023-08-25,2023-10-05,Subway,Chinese,1,1485.16,Card,46,2025-04-24,171,True,3.0,Delayed,1485.16,3,5,3,11
+C2747,Female,Adult,Lahore,2023-08-25,2024-08-30,Subway,Italian,2,802.12,Wallet,22,2024-09-15,32,True,-1.0,Cancelled,1604.24,1,3,3,7
+C3406,Female,Teenager,Lahore,2023-08-25,2024-02-25,Pizza Hut,Italian,1,1394.47,Cash,13,2025-06-16,273,True,2.0,Delayed,1394.47,4,2,2,8
+C5497,Other,Adult,Lahore,2023-08-25,2024-10-21,Burger King,Continental,5,785.37,Card,49,2025-01-26,463,False,2.0,Delivered,3926.85,2,5,4,11
+C5124,Male,Adult,Lahore,2023-08-26,2024-12-13,McDonald's,Continental,3,1065.15,Cash,38,2025-05-25,250,True,-1.0,Cancelled,3195.4500000000003,3,4,4,11
+C6250,Male,Teenager,Lahore,2023-08-26,2024-06-29,McDonald's,Chinese,5,576.33,Card,7,2025-05-03,60,False,-1.0,Cancelled,2881.65,3,1,4,8
+C3338,Female,Senior,Lahore,2023-08-26,2023-12-04,McDonald's,Chinese,2,1471.81,Wallet,25,2024-12-27,444,False,3.0,Delivered,2943.62,1,3,4,8
+C1614,Other,Adult,Lahore,2023-08-26,2023-12-31,Subway,Italian,1,956.03,Card,39,2025-04-19,167,True,5.0,Delivered,956.03,3,4,2,9
+C1827,Other,Adult,Lahore,2023-08-27,2024-05-24,Burger King,Italian,2,522.0,Cash,12,2025-03-30,246,True,3.0,Delayed,1044.0,2,2,2,6
+C3588,Other,Teenager,Lahore,2023-08-27,2024-01-07,Subway,Continental,1,364.91,Card,1,2025-05-06,98,False,5.0,Delayed,364.91,3,1,1,5
+C6194,Female,Adult,Lahore,2023-08-28,2023-10-09,Subway,Continental,3,1120.65,Card,46,2024-12-02,453,False,-1.0,Cancelled,3361.9500000000003,1,5,4,10
+C1490,Other,Senior,Lahore,2023-08-28,2024-12-02,Pizza Hut,Fast Food,2,1431.45,Wallet,15,2025-05-04,190,True,-1.0,Cancelled,2862.9,3,2,4,9
+C4554,Other,Teenager,Lahore,2023-08-31,2024-06-20,Subway,Continental,5,575.25,Card,8,2025-04-15,168,False,-1.0,Cancelled,2876.25,3,1,4,8
+C1842,Female,Teenager,Lahore,2023-08-31,2024-09-17,Pizza Hut,Dessert,3,1487.08,Cash,2,2025-04-27,205,False,5.0,Delivered,4461.24,3,1,5,9
+C6668,Other,Senior,Lahore,2023-08-31,2024-08-28,Pizza Hut,Fast Food,2,181.27,Cash,12,2024-10-14,364,True,-1.0,Cancelled,362.54,1,2,1,4
+C3239,Female,Senior,Lahore,2023-08-31,2023-09-13,Pizza Hut,Chinese,5,1475.86,Card,13,2025-07-13,59,False,-1.0,Cancelled,7379.299999999999,4,2,5,11
+C5134,Male,Senior,Lahore,2023-09-02,2025-02-23,Burger King,Chinese,3,184.12,Card,41,2025-05-02,491,True,-1.0,Cancelled,552.36,3,5,1,9
+C2760,Other,Teenager,Lahore,2023-09-02,2025-04-10,McDonald's,Dessert,4,664.08,Cash,20,2025-07-26,354,True,-1.0,Cancelled,2656.32,5,2,4,11
+C5132,Male,Teenager,Lahore,2023-09-02,2024-09-13,Subway,Fast Food,2,941.02,Wallet,5,2025-07-18,468,False,1.0,Delivered,1882.04,5,1,3,9
+C2631,Female,Adult,Lahore,2023-09-03,2024-11-08,Subway,Continental,2,1174.62,Card,50,2025-02-11,64,False,-1.0,Cancelled,2349.24,2,5,3,10
+C3705,Other,Teenager,Lahore,2023-09-04,2024-05-15,Burger King,Italian,3,881.71,Wallet,16,2025-06-25,26,False,-1.0,Cancelled,2645.13,4,2,4,10
+C4636,Female,Teenager,Lahore,2023-09-04,2024-01-27,Subway,Fast Food,4,1303.08,Wallet,19,2025-07-09,62,False,1.0,Delayed,5212.32,4,2,5,11
+C3992,Male,Teenager,Lahore,2023-09-05,2024-07-21,Subway,Italian,5,904.16,Card,10,2025-02-20,118,True,4.0,Delayed,4520.8,2,1,5,8
+C5633,Other,Adult,Lahore,2023-09-06,2024-12-07,KFC,Italian,5,218.68,Wallet,26,2025-05-20,249,False,4.0,Delivered,1093.4,3,3,2,8
+C6282,Female,Senior,Lahore,2023-09-06,2024-03-18,KFC,Italian,5,626.86,Card,47,2025-03-28,117,True,4.0,Delayed,3134.3,2,5,4,11
+C5399,Other,Teenager,Lahore,2023-09-07,2024-04-12,Burger King,Continental,4,1043.78,Card,6,2025-04-15,114,False,2.0,Delayed,4175.12,3,1,5,9
+C1370,Male,Senior,Lahore,2023-09-07,2025-04-12,KFC,Chinese,3,1186.98,Card,11,2025-04-27,134,True,-1.0,Cancelled,3560.94,3,1,4,8
+C1847,Male,Senior,Lahore,2023-09-08,2024-03-01,Subway,Continental,3,1097.28,Card,20,2024-09-22,22,False,5.0,Delayed,3291.84,1,2,4,7
+C6796,Other,Teenager,Lahore,2023-09-09,2024-02-27,KFC,Chinese,2,724.91,Cash,18,2024-12-04,438,True,-1.0,Cancelled,1449.82,1,2,3,6
+C5637,Male,Senior,Lahore,2023-09-09,2023-11-29,Subway,Continental,3,440.0,Wallet,11,2024-12-23,497,False,3.0,Delivered,1320.0,1,1,2,4
+C5088,Other,Senior,Lahore,2023-09-10,2023-09-25,Subway,Fast Food,5,1397.42,Card,18,2024-08-27,36,False,-1.0,Cancelled,6987.1,1,2,5,8
+C3941,Other,Adult,Lahore,2023-09-10,2023-10-03,Burger King,Italian,3,257.86,Wallet,47,2025-01-25,327,True,-1.0,Cancelled,773.58,2,5,1,8
+C1075,Male,Adult,Lahore,2023-09-10,2023-09-24,Subway,Continental,2,1452.79,Cash,30,2024-10-06,382,False,-1.0,Cancelled,2905.58,1,3,4,8
+C6438,Male,Senior,Lahore,2023-09-10,2025-01-26,Burger King,Continental,3,648.85,Card,36,2025-08-19,289,True,5.0,Delivered,1946.5500000000002,5,4,3,12
+C3956,Other,Teenager,Lahore,2023-09-11,2024-09-25,Pizza Hut,Chinese,5,365.02,Cash,49,2025-03-30,296,True,-1.0,Cancelled,1825.1,2,5,3,10
+C3333,Other,Teenager,Lahore,2023-09-11,2023-12-25,McDonald's,Dessert,5,819.6,Cash,47,2024-11-20,317,True,3.0,Delivered,4098.0,1,5,5,11
+C1176,Other,Adult,Lahore,2023-09-12,2025-04-19,Pizza Hut,Dessert,2,746.63,Card,47,2025-08-15,162,False,5.0,Delivered,1493.26,5,5,3,13
+C1875,Male,Teenager,Lahore,2023-09-13,2024-11-02,KFC,Chinese,5,1454.36,Card,32,2024-12-26,80,True,-1.0,Cancelled,7271.799999999999,1,4,5,10
+C3778,Female,Teenager,Lahore,2023-09-13,2024-01-12,Subway,Chinese,4,802.86,Wallet,44,2024-09-24,97,False,4.0,Delayed,3211.44,1,5,4,10
+C6335,Other,Senior,Lahore,2023-09-13,2023-09-21,Subway,Continental,1,390.24,Cash,49,2025-02-15,180,True,1.0,Delayed,390.24,2,5,1,8
+C3605,Female,Adult,Lahore,2023-09-13,2024-03-08,Subway,Italian,5,1070.43,Wallet,20,2025-08-09,248,False,4.0,Delayed,5352.150000000001,5,2,5,12
+C4282,Female,Senior,Lahore,2023-09-14,2024-08-21,Subway,Fast Food,4,1125.3,Cash,1,2025-02-10,10,True,-1.0,Cancelled,4501.2,2,1,5,8
+C2765,Other,Teenager,Lahore,2023-09-15,2025-04-23,Pizza Hut,Fast Food,3,1435.15,Cash,31,2025-08-19,8,False,4.0,Delivered,4305.450000000001,5,4,5,14
+C4309,Male,Teenager,Lahore,2023-09-15,2025-06-28,Pizza Hut,Italian,4,1072.07,Card,24,2025-08-18,429,False,4.0,Delivered,4288.28,5,3,5,13
+C2848,Male,Teenager,Lahore,2023-09-15,2024-10-13,McDonald's,Dessert,1,1419.33,Cash,48,2025-08-11,155,False,5.0,Delayed,1419.33,5,5,2,12
+C6496,Male,Adult,Lahore,2023-09-17,2024-11-14,Burger King,Continental,2,226.01,Cash,30,2025-05-16,402,False,-1.0,Cancelled,452.02,3,3,1,7
+C5266,Female,Adult,Lahore,2023-09-17,2024-05-14,Pizza Hut,Chinese,5,690.91,Cash,14,2025-07-10,307,False,3.0,Delayed,3454.5499999999997,4,2,4,10
+C3318,Male,Adult,Lahore,2023-09-18,2025-02-26,McDonald's,Continental,4,535.89,Card,46,2025-07-08,261,True,5.0,Delayed,2143.56,4,5,3,12
+C3291,Male,Senior,Lahore,2023-09-18,2025-05-06,McDonald's,Italian,4,1349.15,Wallet,48,2025-08-11,275,True,-1.0,Cancelled,5396.6,5,5,5,15
+C6533,Female,Adult,Lahore,2023-09-18,2024-09-23,Subway,Continental,5,233.74,Card,15,2025-08-08,148,False,-1.0,Cancelled,1168.7,5,2,2,9
+C3120,Male,Adult,Lahore,2023-09-18,2023-12-02,Subway,Chinese,5,1117.95,Cash,6,2025-04-27,477,False,1.0,Delivered,5589.75,3,1,5,9
+C3632,Male,Senior,Lahore,2023-09-20,2024-08-06,Subway,Italian,1,490.52,Card,30,2024-10-31,371,True,5.0,Delayed,490.52,1,3,1,5
+C5239,Female,Teenager,Lahore,2023-09-20,2024-09-04,Subway,Dessert,1,102.75,Wallet,33,2024-12-09,204,True,-1.0,Cancelled,102.75,1,4,1,6
+C4831,Other,Teenager,Lahore,2023-09-21,2024-02-01,KFC,Chinese,4,703.58,Cash,10,2025-01-08,342,False,4.0,Delivered,2814.32,1,1,4,6
+C6698,Male,Adult,Lahore,2023-09-21,2025-04-05,Subway,Chinese,1,829.09,Cash,20,2025-05-01,228,True,4.0,Delivered,829.09,3,2,1,6
+C6157,Female,Adult,Lahore,2023-09-21,2025-01-31,KFC,Continental,2,954.85,Card,19,2025-06-14,49,True,-1.0,Cancelled,1909.7,4,2,3,9
+C3701,Other,Senior,Lahore,2023-09-21,2024-12-30,KFC,Continental,1,856.2,Wallet,3,2025-06-08,169,False,2.0,Delivered,856.2,4,1,2,7
+C6705,Other,Teenager,Lahore,2023-09-21,2023-11-03,McDonald's,Chinese,4,1025.77,Card,19,2025-02-28,124,True,5.0,Delivered,4103.08,2,2,5,9
+C5848,Female,Teenager,Lahore,2023-09-22,2023-12-17,KFC,Dessert,1,1399.93,Wallet,26,2024-10-07,76,False,3.0,Delivered,1399.93,1,3,2,6
+C6866,Male,Senior,Lahore,2023-09-23,2024-02-29,KFC,Chinese,5,1111.68,Card,42,2024-09-20,384,True,5.0,Delayed,5558.400000000001,1,5,5,11
+C6373,Other,Senior,Lahore,2023-09-23,2024-01-27,Pizza Hut,Dessert,4,1071.37,Cash,8,2025-06-24,491,False,5.0,Delayed,4285.48,4,1,5,10
+C4051,Male,Senior,Lahore,2023-09-24,2025-07-21,Subway,Dessert,1,1376.4,Wallet,42,2025-07-25,76,True,-1.0,Cancelled,1376.4,5,5,2,12
+C1141,Male,Teenager,Lahore,2023-09-25,2024-02-21,McDonald's,Chinese,5,751.35,Card,27,2024-08-27,214,False,5.0,Delivered,3756.75,1,3,4,8
+C2836,Female,Adult,Lahore,2023-09-25,2025-02-22,Burger King,Fast Food,2,714.38,Wallet,45,2025-06-14,252,False,-1.0,Cancelled,1428.76,4,5,2,11
+C2418,Male,Adult,Lahore,2023-09-26,2024-10-09,Pizza Hut,Continental,5,1332.69,Wallet,10,2024-12-07,93,False,3.0,Delayed,6663.450000000001,1,1,5,7
+C6288,Female,Teenager,Lahore,2023-09-28,2024-09-26,Pizza Hut,Dessert,5,1493.64,Card,42,2025-06-10,38,True,3.0,Delivered,7468.200000000001,4,5,5,14
+C1807,Female,Senior,Lahore,2023-09-28,2025-05-01,KFC,Chinese,2,821.46,Wallet,49,2025-05-15,411,False,-1.0,Cancelled,1642.92,3,5,3,11
+C6602,Male,Teenager,Lahore,2023-09-28,2023-10-17,Subway,Fast Food,5,1223.45,Card,17,2025-01-28,310,True,1.0,Delivered,6117.25,2,2,5,9
+C2698,Male,Teenager,Lahore,2023-09-29,2025-05-25,KFC,Italian,4,350.62,Card,6,2025-06-01,331,False,-1.0,Cancelled,1402.48,4,1,2,7
+C3435,Other,Teenager,Lahore,2023-09-29,2024-07-07,KFC,Continental,3,852.7,Cash,26,2024-09-08,415,False,2.0,Delivered,2558.1000000000004,1,3,4,8
+C3987,Male,Adult,Lahore,2023-09-30,2024-04-28,Pizza Hut,Dessert,4,1450.3,Wallet,39,2025-01-26,444,True,4.0,Delivered,5801.2,2,4,5,11
+C1645,Male,Adult,Lahore,2023-09-30,2024-02-09,Burger King,Italian,4,733.84,Cash,44,2025-04-11,331,False,-1.0,Cancelled,2935.36,3,5,4,12
+C2596,Female,Teenager,Lahore,2023-09-30,2024-08-05,KFC,Continental,2,902.1,Card,25,2025-07-15,280,False,5.0,Delivered,1804.2,5,3,3,11
+C1303,Male,Teenager,Lahore,2023-10-02,2025-02-27,Subway,Dessert,4,1007.04,Cash,22,2025-06-23,18,True,3.0,Delayed,4028.16,4,3,5,12
+C2221,Male,Senior,Lahore,2023-10-02,2024-09-27,Burger King,Dessert,2,859.16,Cash,18,2025-08-20,107,False,-1.0,Cancelled,1718.32,5,2,3,10
+C6928,Other,Adult,Lahore,2023-10-03,2024-05-14,Burger King,Chinese,5,413.8,Cash,43,2025-05-27,105,False,3.0,Delivered,2069.0,3,5,3,11
+C5419,Male,Teenager,Lahore,2023-10-04,2024-09-22,Pizza Hut,Italian,5,693.72,Wallet,22,2025-06-09,59,True,2.0,Delayed,3468.6000000000004,4,3,4,11
+C2162,Female,Senior,Lahore,2023-10-04,2024-03-12,Pizza Hut,Chinese,1,1409.53,Cash,25,2025-06-07,329,True,-1.0,Cancelled,1409.53,4,3,2,9
+C4286,Female,Teenager,Lahore,2023-10-04,2024-10-23,KFC,Fast Food,3,1003.16,Wallet,23,2025-03-26,210,False,1.0,Delayed,3009.48,2,3,4,9
+C1574,Female,Teenager,Lahore,2023-10-05,2024-10-06,Pizza Hut,Continental,5,352.94,Wallet,25,2025-02-26,492,True,4.0,Delivered,1764.7,2,3,3,8
+C6240,Other,Teenager,Lahore,2023-10-06,2025-02-01,Pizza Hut,Italian,2,1399.34,Cash,31,2025-07-25,314,False,-1.0,Cancelled,2798.68,5,4,4,13
+C6751,Other,Adult,Lahore,2023-10-07,2025-03-24,Pizza Hut,Chinese,3,1269.92,Cash,43,2025-08-06,82,False,-1.0,Cancelled,3809.76,5,5,4,14
+C6354,Male,Adult,Lahore,2023-10-07,2024-06-28,Pizza Hut,Continental,1,353.12,Wallet,49,2025-04-26,20,False,4.0,Delayed,353.12,3,5,1,9
+C1486,Other,Teenager,Lahore,2023-10-09,2023-10-26,Pizza Hut,Fast Food,1,1474.28,Card,34,2025-07-28,249,False,4.0,Delivered,1474.28,5,4,3,12
+C3880,Other,Senior,Lahore,2023-10-10,2023-12-02,Burger King,Fast Food,1,1448.45,Card,45,2025-08-09,138,True,1.0,Delayed,1448.45,5,5,3,13
+C2400,Male,Teenager,Lahore,2023-09-02,2023-10-10,Burger King,Chinese,4,911.26,Cash,48,2025-07-28,221,False,1.0,Delivered,3645.04,5,5,4,14
+C3563,Other,Senior,Lahore,2023-10-10,2024-04-15,Burger King,Italian,2,378.24,Card,34,2024-10-01,490,True,3.0,Delayed,756.48,1,4,1,6
+C2210,Female,Teenager,Lahore,2023-10-07,2023-10-10,McDonald's,Chinese,4,632.66,Cash,14,2025-03-07,127,False,-1.0,Cancelled,2530.64,2,2,4,8
+C2732,Female,Senior,Lahore,2023-10-12,2024-12-22,Pizza Hut,Dessert,2,863.87,Card,37,2025-07-16,428,True,4.0,Delivered,1727.74,5,4,3,12
+C2513,Male,Senior,Lahore,2023-10-12,2024-08-09,Pizza Hut,Chinese,5,844.54,Wallet,50,2025-03-29,121,True,-1.0,Cancelled,4222.7,2,5,5,12
+C2004,Male,Adult,Lahore,2023-10-12,2024-02-27,McDonald's,Italian,5,1187.55,Wallet,16,2024-12-12,364,False,2.0,Delivered,5937.75,1,2,5,8
+C5470,Female,Teenager,Lahore,2023-10-12,2024-09-01,Pizza Hut,Chinese,3,397.24,Cash,17,2024-09-03,297,False,-1.0,Cancelled,1191.72,1,2,2,5
+C2779,Female,Teenager,Lahore,2023-10-13,2024-09-07,McDonald's,Dessert,2,1397.6,Card,31,2025-04-30,8,True,-1.0,Cancelled,2795.2,3,4,4,11
+C5746,Female,Adult,Lahore,2023-10-15,2024-07-15,Pizza Hut,Italian,3,239.36,Card,25,2025-04-25,331,True,2.0,Delivered,718.08,3,3,1,7
+C6697,Male,Adult,Lahore,2023-10-16,2024-12-07,McDonald's,Dessert,1,1411.95,Card,17,2025-03-15,138,False,-1.0,Cancelled,1411.95,2,2,2,6
+C5016,Other,Senior,Lahore,2023-10-16,2024-06-18,KFC,Chinese,1,637.28,Cash,41,2025-07-30,81,True,3.0,Delivered,637.28,5,5,1,11
+C2384,Female,Teenager,Lahore,2023-10-16,2024-04-25,Pizza Hut,Chinese,5,1255.63,Cash,15,2024-09-04,323,True,2.0,Delivered,6278.150000000001,1,2,5,8
+C5537,Female,Senior,Lahore,2023-10-16,2023-11-16,Pizza Hut,Dessert,5,731.14,Wallet,16,2025-01-09,447,True,1.0,Delayed,3655.7,1,2,4,7
+C4769,Male,Senior,Lahore,2023-10-17,2024-08-02,Burger King,Italian,4,490.51,Cash,43,2025-03-03,102,True,-1.0,Cancelled,1962.04,2,5,3,10
+C1779,Female,Teenager,Lahore,2023-10-17,2024-05-16,Subway,Fast Food,4,693.04,Wallet,13,2025-07-29,452,False,2.0,Delayed,2772.16,5,2,4,11
+C1096,Male,Senior,Lahore,2023-09-29,2023-10-18,Subway,Fast Food,5,1321.4,Card,20,2025-02-28,482,False,5.0,Delayed,6607.0,2,2,5,9
+C3226,Other,Senior,Lahore,2023-10-18,2025-03-17,KFC,Italian,4,1350.64,Cash,45,2025-04-16,257,True,3.0,Delayed,5402.56,3,5,5,13
+C2266,Female,Senior,Lahore,2023-10-19,2025-02-15,McDonald's,Italian,3,1253.72,Wallet,49,2025-07-17,260,False,2.0,Delayed,3761.16,5,5,4,14
+C1933,Male,Adult,Lahore,2023-09-01,2023-10-20,McDonald's,Continental,1,1103.76,Cash,36,2025-04-20,207,False,-1.0,Cancelled,1103.76,3,4,2,9
+C4114,Other,Adult,Lahore,2023-10-21,2023-12-22,McDonald's,Italian,4,1499.59,Cash,28,2025-06-06,452,False,-1.0,Cancelled,5998.36,4,3,5,12
+C3716,Other,Teenager,Lahore,2023-10-21,2023-12-25,Burger King,Continental,1,1412.49,Wallet,45,2025-03-30,222,True,-1.0,Cancelled,1412.49,2,5,2,9
+C1524,Female,Senior,Lahore,2023-10-22,2023-11-05,Pizza Hut,Continental,1,862.12,Wallet,4,2024-10-18,24,False,5.0,Delivered,862.12,1,1,2,4
+C1695,Female,Adult,Lahore,2023-10-23,2024-04-07,Pizza Hut,Fast Food,2,804.72,Card,3,2025-01-08,328,False,5.0,Delayed,1609.44,1,1,3,5
+C3369,Female,Senior,Lahore,2023-10-23,2024-04-24,Pizza Hut,Chinese,4,1081.64,Cash,18,2025-01-05,27,False,-1.0,Cancelled,4326.56,1,2,5,8
+C2285,Male,Adult,Lahore,2023-10-23,2024-10-23,Subway,Italian,2,641.06,Wallet,24,2025-05-02,407,False,-1.0,Cancelled,1282.12,3,3,2,8
+C3760,Other,Senior,Lahore,2023-10-23,2023-10-30,Subway,Fast Food,1,1022.96,Card,25,2025-01-07,61,True,5.0,Delivered,1022.96,1,3,2,6
+C4883,Male,Teenager,Lahore,2023-10-15,2023-10-23,Pizza Hut,Italian,4,265.07,Card,2,2025-07-19,500,False,1.0,Delivered,1060.28,5,1,2,8
+C6072,Male,Teenager,Lahore,2023-10-24,2024-02-29,McDonald's,Continental,1,527.61,Card,37,2025-03-26,371,False,-1.0,Cancelled,527.61,2,4,1,7
+C6712,Other,Senior,Lahore,2023-10-24,2024-05-10,KFC,Italian,5,277.78,Card,46,2025-02-24,412,True,4.0,Delivered,1388.8999999999999,2,5,2,9
+C4146,Other,Teenager,Lahore,2023-10-24,2024-03-09,KFC,Fast Food,1,905.27,Wallet,15,2025-01-24,238,True,5.0,Delivered,905.27,2,2,2,6
+C4773,Female,Teenager,Lahore,2023-10-24,2025-02-06,Burger King,Dessert,1,1025.78,Wallet,6,2025-08-18,85,False,5.0,Delayed,1025.78,5,1,2,8
+C4687,Other,Adult,Lahore,2023-10-25,2024-05-25,Pizza Hut,Italian,3,652.57,Wallet,43,2025-04-24,408,False,3.0,Delayed,1957.71,3,5,3,11
+C2411,Male,Senior,Lahore,2023-10-25,2024-04-24,Burger King,Continental,2,540.76,Cash,16,2025-07-14,398,False,1.0,Delayed,1081.52,5,2,2,9
+C1353,Other,Senior,Lahore,2023-10-25,2023-12-28,Burger King,Fast Food,5,904.2,Card,22,2024-09-26,62,False,1.0,Delayed,4521.0,1,3,5,9
+C5029,Male,Teenager,Lahore,2023-10-26,2023-11-26,McDonald's,Fast Food,4,179.04,Card,48,2025-01-16,332,True,-1.0,Cancelled,716.16,2,5,1,8
+C6183,Other,Teenager,Lahore,2023-10-26,2024-12-01,Burger King,Fast Food,5,618.18,Card,6,2025-03-16,406,True,2.0,Delivered,3090.8999999999996,2,1,4,7
+C1226,Other,Teenager,Lahore,2023-10-27,2025-01-31,Burger King,Fast Food,5,1053.52,Wallet,34,2025-02-08,186,True,4.0,Delayed,5267.6,2,4,5,11
+C6676,Female,Senior,Lahore,2023-10-28,2024-03-01,Pizza Hut,Chinese,5,1234.61,Wallet,24,2025-05-25,350,False,5.0,Delivered,6173.049999999999,3,3,5,11
+C3692,Female,Teenager,Lahore,2023-10-29,2024-03-31,McDonald's,Dessert,5,290.86,Card,26,2024-11-28,45,False,2.0,Delivered,1454.3000000000002,1,3,3,7
+C6930,Female,Adult,Lahore,2023-10-29,2023-12-31,Subway,Chinese,4,910.23,Cash,23,2025-05-23,97,False,-1.0,Cancelled,3640.92,3,3,4,10
+C5033,Male,Teenager,Lahore,2023-10-29,2024-09-24,KFC,Continental,2,762.24,Wallet,8,2025-06-12,244,True,-1.0,Cancelled,1524.48,4,1,3,8
+C2892,Male,Senior,Lahore,2023-09-21,2023-10-29,McDonald's,Italian,5,428.61,Cash,37,2025-05-26,304,False,1.0,Delivered,2143.05,3,4,3,10
+C2293,Female,Teenager,Lahore,2023-10-30,2024-09-10,KFC,Italian,1,1143.43,Wallet,50,2025-04-07,338,False,5.0,Delivered,1143.43,3,5,2,10
+C4227,Female,Teenager,Lahore,2023-10-11,2023-10-30,Pizza Hut,Continental,4,917.23,Wallet,41,2025-03-26,479,True,-1.0,Cancelled,3668.92,2,5,4,11
+C6235,Male,Adult,Lahore,2023-10-31,2025-01-29,KFC,Continental,3,1472.47,Cash,23,2025-03-28,248,False,3.0,Delayed,4417.41,2,3,5,10
+C2371,Male,Adult,Lahore,2023-10-31,2024-10-22,Pizza Hut,Fast Food,2,1339.73,Cash,14,2025-03-12,66,True,1.0,Delayed,2679.46,2,2,4,8
+C6656,Male,Teenager,Lahore,2023-10-31,2025-01-11,KFC,Fast Food,5,1111.96,Cash,8,2025-08-18,119,False,1.0,Delayed,5559.8,5,1,5,11
+C3673,Male,Teenager,Lahore,2023-11-02,2024-08-18,McDonald's,Italian,3,547.13,Cash,22,2024-11-16,358,True,4.0,Delayed,1641.3899999999999,1,3,3,7
+C4938,Male,Teenager,Lahore,2023-11-02,2025-03-22,KFC,Chinese,4,1010.88,Cash,20,2025-04-30,229,False,4.0,Delivered,4043.52,3,2,5,10
+C3018,Male,Adult,Lahore,2023-11-03,2023-12-25,Subway,Chinese,4,443.28,Cash,16,2025-02-07,415,True,-1.0,Cancelled,1773.12,2,2,3,7
+C1546,Female,Teenager,Lahore,2023-11-04,2024-12-25,Pizza Hut,Continental,2,853.16,Card,49,2025-06-16,181,True,2.0,Delivered,1706.32,4,5,3,12
+C5087,Female,Adult,Lahore,2023-11-04,2024-12-03,McDonald's,Continental,4,1206.87,Card,15,2025-03-15,386,True,4.0,Delayed,4827.48,2,2,5,9
+C1910,Female,Teenager,Lahore,2023-11-04,2024-01-27,Pizza Hut,Chinese,2,993.76,Cash,13,2025-08-02,145,False,1.0,Delivered,1987.52,5,2,3,10
+C6566,Male,Senior,Lahore,2023-11-04,2024-06-02,Burger King,Italian,3,586.44,Wallet,50,2024-12-28,2,True,1.0,Delayed,1759.3200000000002,1,5,3,9
+C4894,Male,Teenager,Lahore,2023-11-05,2024-06-09,Burger King,Chinese,3,1254.02,Card,48,2025-06-17,425,True,3.0,Delayed,3762.06,4,5,4,13
+C3408,Male,Adult,Lahore,2023-11-06,2024-12-05,Subway,Italian,2,277.0,Cash,42,2025-08-05,291,True,5.0,Delivered,554.0,5,5,1,11
+C1570,Female,Teenager,Lahore,2023-11-07,2024-10-11,Burger King,Fast Food,4,175.16,Wallet,24,2024-10-31,440,False,4.0,Delayed,700.64,1,3,1,5
+C5890,Other,Teenager,Lahore,2023-11-09,2024-05-15,McDonald's,Italian,3,422.25,Card,49,2025-01-05,122,True,-1.0,Cancelled,1266.75,1,5,2,8
+C4449,Male,Adult,Lahore,2023-11-09,2024-10-24,McDonald's,Fast Food,2,1078.56,Wallet,21,2025-01-15,238,False,-1.0,Cancelled,2157.12,1,3,3,7
+C4881,Female,Teenager,Lahore,2023-09-20,2023-11-10,Subway,Fast Food,4,1171.3,Cash,13,2025-08-14,364,False,3.0,Delivered,4685.2,5,2,5,12
+C4896,Female,Senior,Lahore,2023-11-12,2024-02-03,Burger King,Dessert,1,1397.19,Wallet,11,2024-11-11,486,True,4.0,Delivered,1397.19,1,1,2,4
+C3891,Female,Adult,Lahore,2023-11-12,2025-01-05,Subway,Italian,2,907.09,Wallet,46,2025-04-18,391,True,1.0,Delivered,1814.18,3,5,3,11
+C5477,Other,Teenager,Lahore,2023-11-13,2025-01-06,Subway,Chinese,3,998.97,Wallet,38,2025-01-09,318,False,2.0,Delayed,2996.91,1,4,4,9
+C4550,Female,Adult,Lahore,2023-11-15,2024-07-08,Subway,Chinese,4,794.94,Cash,22,2025-06-20,204,True,-1.0,Cancelled,3179.76,4,3,4,11
+C2214,Other,Teenager,Lahore,2023-11-15,2025-04-14,KFC,Italian,2,287.77,Cash,5,2025-05-23,156,True,-1.0,Cancelled,575.54,3,1,1,5
+C4953,Other,Senior,Lahore,2023-11-16,2025-04-28,McDonald's,Fast Food,4,1094.0,Card,2,2025-05-03,88,True,3.0,Delivered,4376.0,3,1,5,9
+C2786,Female,Adult,Lahore,2023-11-17,2024-07-19,KFC,Dessert,4,1333.67,Wallet,48,2025-02-06,456,True,-1.0,Cancelled,5334.68,2,5,5,12
+C2416,Other,Senior,Lahore,2023-11-19,2024-06-10,KFC,Italian,4,1391.02,Cash,49,2025-04-20,299,False,3.0,Delivered,5564.08,3,5,5,13
+C3117,Male,Teenager,Lahore,2023-11-15,2023-11-22,Pizza Hut,Fast Food,3,1152.76,Cash,30,2024-09-29,301,True,1.0,Delivered,3458.2799999999997,1,3,4,8
+C4346,Female,Teenager,Lahore,2023-11-22,2024-03-11,Pizza Hut,Dessert,4,1379.31,Wallet,43,2025-02-06,168,True,1.0,Delivered,5517.24,2,5,5,12
+C3990,Other,Senior,Lahore,2023-11-23,2023-12-17,KFC,Dessert,1,181.42,Card,4,2024-09-29,133,False,-1.0,Cancelled,181.42,1,1,1,3
+C1749,Female,Adult,Lahore,2023-08-23,2023-11-23,Subway,Chinese,5,1291.19,Card,33,2025-07-12,85,False,5.0,Delayed,6455.950000000001,4,4,5,13
+C2472,Female,Adult,Lahore,2023-11-25,2024-12-26,Subway,Fast Food,1,716.43,Cash,28,2025-02-06,240,False,-1.0,Cancelled,716.43,2,3,1,6
+C4028,Female,Senior,Lahore,2023-11-25,2025-01-25,McDonald's,Dessert,5,1338.5,Cash,2,2025-03-07,442,True,3.0,Delayed,6692.5,2,1,5,8
+C3743,Male,Teenager,Lahore,2023-11-25,2024-11-05,Burger King,Fast Food,5,208.6,Wallet,19,2025-04-29,181,False,-1.0,Cancelled,1043.0,3,2,2,7
+C2422,Other,Teenager,Lahore,2023-11-26,2024-05-27,McDonald's,Continental,5,1261.89,Card,27,2025-04-01,40,False,1.0,Delayed,6309.450000000001,2,3,5,10
+C2483,Female,Adult,Lahore,2023-11-26,2024-06-30,McDonald's,Fast Food,4,519.17,Cash,7,2024-10-17,361,False,-1.0,Cancelled,2076.68,1,1,3,5
+C2690,Female,Adult,Lahore,2023-11-26,2023-12-18,McDonald's,Chinese,2,870.26,Card,41,2025-08-13,104,False,-1.0,Cancelled,1740.52,5,5,3,13
+C3976,Female,Senior,Lahore,2023-11-29,2024-09-23,Burger King,Chinese,2,817.75,Cash,9,2025-07-05,372,False,-1.0,Cancelled,1635.5,4,1,3,8
+C4185,Female,Teenager,Lahore,2023-11-30,2025-04-11,Pizza Hut,Italian,4,1168.25,Card,48,2025-07-16,357,True,2.0,Delivered,4673.0,5,5,5,15
+C2756,Female,Senior,Lahore,2023-10-26,2023-12-01,Subway,Chinese,4,664.03,Wallet,5,2024-12-03,141,False,4.0,Delivered,2656.12,1,1,4,6
+C5130,Other,Senior,Lahore,2023-12-01,2024-02-18,McDonald's,Dessert,1,754.99,Wallet,48,2025-04-17,375,False,-1.0,Cancelled,754.99,3,5,1,9
+C2131,Other,Adult,Lahore,2023-12-01,2023-12-28,Subway,Dessert,5,1265.89,Card,3,2025-04-30,243,False,1.0,Delivered,6329.450000000001,3,1,5,9
+C2543,Female,Senior,Lahore,2023-12-01,2023-12-23,KFC,Dessert,5,1029.5,Cash,15,2025-07-13,139,True,1.0,Delayed,5147.5,4,2,5,11
+C6337,Male,Senior,Lahore,2023-11-09,2023-12-02,KFC,Dessert,3,866.31,Card,22,2025-05-15,165,True,2.0,Delayed,2598.93,3,3,4,10
+C1380,Other,Teenager,Lahore,2023-12-02,2024-05-22,Burger King,Chinese,4,1021.47,Card,6,2025-07-07,35,True,-1.0,Cancelled,4085.88,4,1,5,10
+C5112,Other,Adult,Lahore,2023-12-03,2023-12-12,Subway,Dessert,5,149.78,Card,23,2025-06-15,482,True,-1.0,Cancelled,748.9,4,3,1,8
+C5176,Male,Adult,Lahore,2023-12-03,2025-01-10,KFC,Italian,5,389.74,Card,6,2025-03-29,288,True,-1.0,Cancelled,1948.7,2,1,3,6
+C3729,Other,Senior,Lahore,2023-12-03,2024-06-03,Pizza Hut,Dessert,4,1479.68,Card,29,2024-09-10,59,False,1.0,Delayed,5918.72,1,3,5,9
+C2681,Female,Teenager,Lahore,2023-12-03,2024-03-02,Burger King,Fast Food,3,894.61,Card,5,2025-06-20,29,False,1.0,Delayed,2683.83,4,1,4,9
+C1692,Other,Adult,Lahore,2023-12-04,2024-03-09,Subway,Dessert,3,221.52,Cash,38,2025-03-12,92,False,3.0,Delayed,664.5600000000001,2,4,1,7
+C2676,Female,Teenager,Lahore,2023-12-04,2025-01-01,McDonald's,Chinese,4,922.51,Cash,34,2025-05-07,61,False,-1.0,Cancelled,3690.04,3,4,4,11
+C3653,Male,Senior,Lahore,2023-12-04,2025-07-16,Burger King,Italian,3,235.82,Card,46,2025-07-24,222,True,-1.0,Cancelled,707.46,5,5,1,11
+C4263,Other,Teenager,Lahore,2023-12-05,2024-08-28,Burger King,Fast Food,2,341.27,Wallet,23,2025-04-19,471,True,3.0,Delayed,682.54,3,3,1,7
+C4906,Female,Adult,Lahore,2023-08-30,2023-12-05,KFC,Chinese,1,1429.2,Wallet,18,2025-04-26,15,True,2.0,Delivered,1429.2,3,2,2,7
+C1705,Other,Senior,Lahore,2023-12-08,2024-12-08,Subway,Dessert,1,1024.15,Wallet,20,2024-12-10,93,False,4.0,Delayed,1024.15,1,2,2,5
+C5520,Male,Adult,Lahore,2023-12-08,2025-08-05,McDonald's,Chinese,4,379.47,Wallet,36,2025-08-17,65,False,-1.0,Cancelled,1517.88,5,4,3,12
+C1056,Female,Adult,Lahore,2023-11-27,2023-12-08,Burger King,Dessert,4,1025.55,Wallet,26,2024-09-30,393,False,-1.0,Cancelled,4102.2,1,3,5,9
+C4162,Male,Adult,Lahore,2023-12-08,2024-06-04,Subway,Fast Food,4,456.41,Wallet,48,2024-10-08,317,True,-1.0,Cancelled,1825.64,1,5,3,9
+C2159,Female,Senior,Lahore,2023-12-08,2024-04-20,Pizza Hut,Italian,2,344.6,Cash,48,2025-08-08,466,True,5.0,Delivered,689.2,5,5,1,11
+C2647,Other,Adult,Lahore,2023-12-09,2024-02-22,McDonald's,Dessert,4,973.21,Cash,31,2025-04-09,314,True,2.0,Delivered,3892.84,3,4,4,11
+C5688,Female,Senior,Lahore,2023-12-11,2024-07-10,Subway,Dessert,1,1247.88,Wallet,36,2024-09-06,465,False,2.0,Delayed,1247.88,1,4,2,7
+C5269,Female,Adult,Lahore,2023-12-13,2025-07-10,Subway,Continental,1,764.38,Card,7,2025-07-23,314,False,2.0,Delivered,764.38,5,1,1,7
+C4541,Other,Senior,Lahore,2023-12-13,2024-11-18,Subway,Dessert,1,1473.49,Wallet,48,2025-08-13,398,False,4.0,Delayed,1473.49,5,5,3,13
+C2156,Other,Adult,Lahore,2023-12-13,2023-12-14,Burger King,Dessert,3,666.56,Wallet,33,2024-10-21,141,True,4.0,Delayed,1999.6799999999998,1,4,3,8
+C1469,Other,Adult,Lahore,2023-12-14,2024-12-05,Burger King,Chinese,4,493.28,Cash,9,2025-04-19,276,False,1.0,Delivered,1973.12,3,1,3,7
+C5144,Other,Teenager,Lahore,2023-12-15,2024-07-25,Pizza Hut,Dessert,2,607.51,Card,19,2025-03-09,88,False,-1.0,Cancelled,1215.02,2,2,2,6
+C5436,Male,Senior,Lahore,2023-12-15,2025-01-30,KFC,Continental,5,640.33,Cash,44,2025-06-12,74,True,2.0,Delayed,3201.65,4,5,4,13
+C6323,Other,Adult,Lahore,2023-12-15,2023-12-22,Subway,Chinese,5,1335.07,Wallet,49,2025-01-15,0,True,2.0,Delivered,6675.349999999999,1,5,5,11
+C1773,Male,Teenager,Lahore,2023-12-15,2023-12-23,KFC,Fast Food,2,1081.15,Card,12,2025-08-18,141,False,5.0,Delivered,2162.3,5,2,3,10
+C2593,Male,Adult,Lahore,2023-12-16,2024-10-01,McDonald's,Fast Food,1,588.86,Cash,31,2025-02-12,471,True,3.0,Delivered,588.86,2,4,1,7
+C2432,Other,Senior,Lahore,2023-12-16,2024-08-13,Burger King,Chinese,5,567.93,Wallet,44,2024-12-24,342,False,-1.0,Cancelled,2839.6499999999996,1,5,4,10
+C6822,Female,Teenager,Lahore,2023-12-17,2024-06-14,Pizza Hut,Continental,4,340.33,Cash,28,2024-12-11,433,False,4.0,Delivered,1361.32,1,3,2,6
+C3993,Male,Teenager,Lahore,2023-10-22,2023-12-17,KFC,Chinese,3,1285.26,Cash,46,2025-04-05,225,True,4.0,Delayed,3855.7799999999997,3,5,4,12
+C3592,Female,Senior,Lahore,2023-12-18,2024-07-30,Subway,Continental,3,431.04,Cash,44,2025-05-03,143,False,-1.0,Cancelled,1293.1200000000001,3,5,2,10
+C6391,Female,Adult,Lahore,2023-12-03,2023-12-19,KFC,Chinese,2,707.06,Wallet,12,2025-04-15,217,False,-1.0,Cancelled,1414.12,3,2,2,7
+C4276,Male,Teenager,Lahore,2023-12-19,2025-08-03,Pizza Hut,Dessert,1,194.63,Wallet,8,2025-08-15,302,True,-1.0,Cancelled,194.63,5,1,1,7
+C6435,Female,Senior,Lahore,2023-12-19,2025-07-02,Burger King,Fast Food,5,241.36,Card,26,2025-07-17,321,True,-1.0,Cancelled,1206.8000000000002,5,3,2,10
+C2946,Other,Adult,Lahore,2023-12-21,2025-03-14,Subway,Continental,3,567.24,Wallet,27,2025-04-29,197,False,-1.0,Cancelled,1701.72,3,3,3,9
+C3562,Male,Adult,Lahore,2023-12-21,2024-02-11,KFC,Continental,1,784.64,Wallet,25,2025-07-21,31,False,-1.0,Cancelled,784.64,5,3,1,9
+C6227,Other,Teenager,Lahore,2023-10-04,2023-12-21,Burger King,Continental,2,1237.08,Cash,26,2025-07-27,124,False,5.0,Delayed,2474.16,5,3,4,12
+C5771,Other,Adult,Lahore,2023-12-22,2024-10-11,Burger King,Italian,2,1182.15,Wallet,37,2025-06-08,404,True,-1.0,Cancelled,2364.3,4,4,3,11
+C3130,Other,Senior,Lahore,2023-10-20,2023-12-22,McDonald's,Italian,1,454.24,Wallet,15,2024-08-24,197,False,5.0,Delayed,454.24,1,2,1,4
+C3577,Male,Senior,Lahore,2023-12-23,2024-02-29,Burger King,Chinese,3,600.63,Wallet,44,2025-05-04,310,False,4.0,Delivered,1801.8899999999999,3,5,3,11
+C3785,Other,Senior,Lahore,2023-12-23,2024-10-01,Burger King,Italian,4,1403.53,Cash,11,2024-10-05,338,True,4.0,Delayed,5614.12,1,1,5,7
+C3415,Female,Senior,Lahore,2023-12-23,2024-02-28,Pizza Hut,Fast Food,1,557.46,Cash,6,2025-08-20,498,False,2.0,Delivered,557.46,5,1,1,7
+C6914,Other,Adult,Lahore,2023-10-03,2023-12-24,Subway,Italian,4,110.16,Cash,32,2024-08-26,412,True,-1.0,Cancelled,440.64,1,4,1,6
+C3578,Female,Adult,Lahore,2023-12-24,2024-04-21,Pizza Hut,Italian,4,1035.57,Wallet,15,2025-08-13,297,False,2.0,Delayed,4142.28,5,2,5,12
+C2642,Female,Teenager,Lahore,2023-12-24,2024-03-11,Subway,Dessert,2,385.99,Cash,17,2024-09-26,469,True,-1.0,Cancelled,771.98,1,2,1,4
+C6298,Female,Adult,Lahore,2023-12-26,2025-06-06,Pizza Hut,Fast Food,5,779.39,Cash,7,2025-08-19,245,True,1.0,Delivered,3896.95,5,1,4,10
+C3115,Male,Adult,Lahore,2023-12-26,2024-10-12,McDonald's,Dessert,1,586.24,Cash,42,2025-04-02,364,False,3.0,Delivered,586.24,3,5,1,9
+C3289,Male,Teenager,Lahore,2023-12-27,2024-06-03,KFC,Italian,3,301.08,Wallet,16,2025-05-21,131,False,1.0,Delayed,903.24,3,2,2,7
+C3735,Other,Teenager,Lahore,2023-12-29,2024-12-30,KFC,Dessert,1,1382.66,Cash,22,2025-07-08,102,True,3.0,Delayed,1382.66,4,3,2,9
+C2441,Female,Senior,Lahore,2023-12-29,2024-05-28,McDonald's,Chinese,4,692.98,Cash,21,2024-10-10,153,False,5.0,Delivered,2771.92,1,3,4,8
+C2783,Other,Senior,Lahore,2023-12-31,2024-08-18,Subway,Fast Food,4,1460.56,Card,35,2024-09-05,191,True,-1.0,Cancelled,5842.24,1,4,5,10
+C5901,Female,Senior,Lahore,2023-12-31,2025-06-03,McDonald's,Dessert,4,543.86,Wallet,22,2025-07-21,3,True,1.0,Delivered,2175.44,5,3,3,11
+C6221,Other,Senior,Lahore,2024-01-01,2024-01-23,Subway,Italian,4,244.14,Cash,13,2025-07-08,404,True,3.0,Delayed,976.56,4,2,2,8
+C6738,Male,Senior,Lahore,2024-01-01,2024-08-27,KFC,Continental,2,889.63,Wallet,29,2024-09-25,105,False,2.0,Delivered,1779.26,1,3,3,7
+C2436,Male,Senior,Lahore,2024-01-02,2024-04-05,Pizza Hut,Italian,4,620.15,Cash,48,2025-06-18,425,True,-1.0,Cancelled,2480.6,4,5,4,13
+C4476,Male,Adult,Lahore,2023-12-29,2024-01-03,Burger King,Italian,5,1103.19,Cash,10,2025-03-12,443,True,1.0,Delivered,5515.950000000001,2,1,5,8
+C5083,Other,Adult,Lahore,2023-12-12,2024-01-03,Burger King,Chinese,3,1185.23,Wallet,26,2025-02-02,70,True,3.0,Delivered,3555.69,2,3,4,9
+C4294,Other,Adult,Lahore,2024-01-05,2024-05-28,Subway,Italian,3,1432.57,Card,17,2024-11-21,333,True,2.0,Delivered,4297.71,1,2,5,8
+C4624,Other,Teenager,Lahore,2024-01-05,2024-03-31,Burger King,Fast Food,2,210.39,Card,44,2024-11-23,151,True,-1.0,Cancelled,420.78,1,5,1,7
+C6234,Other,Senior,Lahore,2024-01-06,2024-11-24,Subway,Fast Food,2,1413.68,Card,12,2025-03-27,168,True,4.0,Delivered,2827.36,2,2,4,8
+C5346,Female,Senior,Lahore,2024-01-07,2025-01-15,Pizza Hut,Fast Food,3,363.41,Cash,7,2025-03-21,309,False,-1.0,Cancelled,1090.23,2,1,2,5
+C4528,Other,Senior,Lahore,2024-01-07,2025-01-19,Pizza Hut,Italian,2,808.44,Cash,44,2025-05-29,391,True,4.0,Delayed,1616.88,4,5,3,12
+C5278,Other,Adult,Lahore,2023-09-12,2024-01-07,Subway,Italian,2,164.33,Card,24,2025-02-23,446,False,4.0,Delayed,328.66,2,3,1,6
+C5962,Male,Senior,Lahore,2024-01-07,2025-02-16,Subway,Italian,2,488.25,Card,32,2025-05-01,422,True,3.0,Delivered,976.5,3,4,2,9
+C3765,Other,Adult,Lahore,2024-01-08,2025-02-10,Pizza Hut,Italian,2,1377.72,Cash,16,2025-07-07,438,False,5.0,Delivered,2755.44,4,2,4,10
+C1680,Male,Adult,Lahore,2024-01-09,2025-04-05,Pizza Hut,Fast Food,5,421.54,Wallet,18,2025-04-15,10,False,2.0,Delivered,2107.7000000000003,3,2,3,8
+C6208,Female,Teenager,Lahore,2024-01-09,2024-12-25,KFC,Chinese,3,1034.83,Wallet,37,2025-01-18,405,False,1.0,Delivered,3104.49,2,4,4,10
+C6544,Female,Adult,Lahore,2024-01-09,2025-06-13,McDonald's,Dessert,1,1012.8,Cash,38,2025-06-26,271,True,2.0,Delivered,1012.8,4,4,2,10
+C1962,Female,Adult,Lahore,2024-01-09,2024-11-11,Pizza Hut,Continental,1,1234.2,Wallet,29,2025-01-13,346,True,-1.0,Cancelled,1234.2,1,3,2,6
+C5221,Male,Senior,Lahore,2023-10-03,2024-01-10,McDonald's,Italian,3,1291.14,Card,7,2025-08-21,42,True,-1.0,Cancelled,3873.42,5,1,4,10
+C3807,Male,Teenager,Lahore,2023-09-24,2024-01-11,KFC,Continental,5,705.33,Card,23,2024-10-24,433,False,-1.0,Cancelled,3526.65,1,3,4,8
+C6784,Other,Teenager,Lahore,2024-01-11,2024-04-28,Pizza Hut,Italian,5,1040.05,Card,9,2025-08-01,153,False,-1.0,Cancelled,5200.25,5,1,5,11
+C2766,Other,Adult,Lahore,2024-01-11,2025-03-01,McDonald's,Fast Food,5,808.44,Wallet,20,2025-04-07,34,True,-1.0,Cancelled,4042.2000000000003,3,2,5,10
+C5888,Male,Teenager,Lahore,2024-01-15,2024-06-09,Pizza Hut,Continental,5,1406.04,Card,10,2024-09-08,276,False,3.0,Delivered,7030.2,1,1,5,7
+C5164,Other,Adult,Lahore,2023-12-07,2024-01-15,Subway,Fast Food,1,161.59,Card,1,2025-04-23,47,False,4.0,Delivered,161.59,3,1,1,5
+C2574,Male,Senior,Lahore,2024-01-15,2024-08-01,KFC,Chinese,4,1212.81,Card,25,2025-06-28,500,True,2.0,Delivered,4851.24,4,3,5,12
+C3458,Other,Teenager,Lahore,2024-01-15,2024-11-26,Pizza Hut,Chinese,5,288.26,Wallet,46,2025-07-21,154,True,-1.0,Cancelled,1441.3,5,5,2,12
+C6998,Male,Senior,Lahore,2024-01-15,2024-08-10,Burger King,Chinese,1,571.39,Wallet,42,2025-08-05,161,True,3.0,Delayed,571.39,5,5,1,11
+C3303,Other,Adult,Lahore,2023-12-26,2024-01-16,Subway,Fast Food,1,1149.73,Card,19,2025-07-24,92,False,-1.0,Cancelled,1149.73,5,2,2,9
+C4443,Male,Teenager,Lahore,2024-01-16,2024-05-15,McDonald's,Fast Food,3,288.78,Wallet,36,2025-02-25,265,False,-1.0,Cancelled,866.3399999999999,2,4,2,8
+C1829,Male,Senior,Lahore,2024-01-17,2024-10-29,Pizza Hut,Continental,1,1389.84,Card,11,2025-04-07,242,True,-1.0,Cancelled,1389.84,3,1,2,6
+C3905,Other,Teenager,Lahore,2024-01-17,2024-08-21,Pizza Hut,Continental,1,901.08,Cash,12,2025-06-30,202,False,3.0,Delivered,901.08,4,2,2,8
+C2410,Male,Adult,Lahore,2024-01-18,2024-02-08,Burger King,Fast Food,1,838.79,Cash,25,2025-03-01,212,True,-1.0,Cancelled,838.79,2,3,1,6
+C3885,Female,Adult,Lahore,2024-01-18,2025-01-01,McDonald's,Chinese,1,803.8,Card,45,2025-04-27,181,False,4.0,Delivered,803.8,3,5,1,9
+C3459,Male,Senior,Lahore,2024-01-19,2024-04-26,Burger King,Italian,1,143.3,Cash,22,2024-10-11,168,False,-1.0,Cancelled,143.3,1,3,1,5
+C3504,Female,Adult,Lahore,2024-01-19,2024-09-08,McDonald's,Chinese,2,1279.04,Cash,35,2025-03-26,116,False,1.0,Delivered,2558.08,2,4,4,10
+C5206,Other,Adult,Lahore,2024-01-19,2024-02-12,McDonald's,Italian,5,1494.35,Cash,9,2025-04-25,61,False,4.0,Delivered,7471.75,3,1,5,9
+C2304,Female,Adult,Lahore,2024-01-21,2024-12-30,McDonald's,Fast Food,5,774.31,Cash,41,2025-06-08,278,False,-1.0,Cancelled,3871.5499999999997,4,5,4,13
+C3309,Male,Teenager,Lahore,2024-01-21,2024-09-30,KFC,Dessert,1,298.03,Cash,45,2024-12-13,81,True,1.0,Delivered,298.03,1,5,1,7
+C3114,Other,Teenager,Lahore,2024-01-21,2024-05-07,KFC,Italian,3,1399.39,Cash,14,2024-12-22,311,False,4.0,Delayed,4198.17,1,2,5,8
+C1350,Female,Adult,Lahore,2024-01-22,2024-09-02,Subway,Fast Food,1,135.58,Card,18,2025-04-26,358,True,3.0,Delivered,135.58,3,2,1,6
+C2956,Male,Adult,Lahore,2024-01-22,2024-10-19,Burger King,Dessert,3,456.26,Cash,32,2024-12-13,365,False,-1.0,Cancelled,1368.78,1,4,2,7
+C6131,Other,Teenager,Lahore,2024-01-22,2025-01-15,Pizza Hut,Chinese,1,1239.25,Card,23,2025-04-01,111,True,-1.0,Cancelled,1239.25,2,3,2,7
+C2572,Female,Senior,Lahore,2024-01-23,2024-03-22,McDonald's,Chinese,1,265.79,Card,27,2024-11-16,128,True,-1.0,Cancelled,265.79,1,3,1,5
+C3330,Female,Adult,Lahore,2024-01-25,2024-10-13,Subway,Italian,5,1345.32,Wallet,49,2024-12-25,270,True,-1.0,Cancelled,6726.599999999999,1,5,5,11
+C2190,Male,Teenager,Lahore,2024-01-19,2024-01-26,KFC,Chinese,3,1331.21,Card,40,2024-10-19,469,True,1.0,Delayed,3993.63,1,4,5,10
+C4603,Other,Senior,Lahore,2023-09-19,2024-01-26,Subway,Fast Food,5,400.08,Card,35,2025-06-21,20,False,1.0,Delivered,2000.3999999999999,4,4,3,11
+C5262,Male,Senior,Lahore,2024-01-27,2024-12-27,Burger King,Fast Food,5,677.58,Card,32,2025-06-29,111,False,3.0,Delivered,3387.9,4,4,4,12
+C1165,Male,Senior,Lahore,2024-01-27,2024-07-31,McDonald's,Continental,1,456.55,Cash,15,2024-12-18,222,True,5.0,Delivered,456.55,1,2,1,4
+C1057,Male,Adult,Lahore,2023-09-23,2024-01-27,McDonald's,Fast Food,5,1188.1,Wallet,10,2024-10-07,349,True,-1.0,Cancelled,5940.5,1,1,5,7
+C3505,Female,Teenager,Lahore,2024-01-28,2025-07-14,McDonald's,Continental,1,111.42,Cash,32,2025-08-06,47,True,1.0,Delivered,111.42,5,4,1,10
+C5963,Female,Adult,Lahore,2024-01-28,2025-05-13,KFC,Dessert,5,1023.22,Wallet,24,2025-06-23,181,False,-1.0,Cancelled,5116.1,4,3,5,12
+C5168,Male,Adult,Lahore,2023-08-26,2024-01-29,Subway,Fast Food,4,1335.08,Wallet,3,2025-04-26,94,True,4.0,Delayed,5340.32,3,1,5,9
+C2155,Male,Teenager,Lahore,2024-01-29,2024-10-05,Burger King,Continental,3,1262.56,Card,34,2025-02-16,178,True,1.0,Delayed,3787.68,2,4,4,10
+C1291,Female,Adult,Lahore,2023-11-16,2024-01-30,Pizza Hut,Continental,4,342.31,Wallet,46,2025-01-23,276,False,4.0,Delivered,1369.24,2,5,2,9
+C2754,Female,Teenager,Lahore,2024-01-30,2024-11-04,Subway,Dessert,4,1330.87,Card,43,2025-07-22,128,True,5.0,Delivered,5323.48,5,5,5,15
+C5212,Other,Senior,Lahore,2023-10-25,2024-01-30,KFC,Italian,4,1004.77,Wallet,36,2025-06-09,263,False,1.0,Delivered,4019.08,4,4,5,13
+C5227,Male,Adult,Lahore,2024-02-03,2024-09-07,Subway,Italian,3,1061.61,Wallet,48,2025-01-08,410,True,1.0,Delivered,3184.83,1,5,4,10
+C2017,Male,Senior,Lahore,2024-02-03,2024-12-10,Burger King,Italian,2,1021.84,Cash,12,2025-07-29,331,True,4.0,Delayed,2043.68,5,2,3,10
+C1019,Female,Adult,Lahore,2023-12-27,2024-02-04,Burger King,Continental,2,811.11,Wallet,35,2024-10-13,202,True,3.0,Delayed,1622.22,1,4,3,8
+C6895,Other,Adult,Lahore,2024-02-05,2024-02-27,KFC,Dessert,5,921.34,Wallet,26,2024-12-25,337,False,4.0,Delivered,4606.7,1,3,5,9
+C5259,Male,Teenager,Lahore,2024-02-05,2024-12-22,McDonald's,Chinese,1,348.41,Cash,48,2025-07-24,120,True,-1.0,Cancelled,348.41,5,5,1,11
+C2530,Male,Senior,Lahore,2023-10-12,2024-02-05,McDonald's,Chinese,3,366.28,Wallet,13,2025-05-01,234,True,-1.0,Cancelled,1098.84,3,2,2,7
+C3988,Female,Adult,Lahore,2024-02-06,2024-07-13,Subway,Continental,2,880.6,Cash,22,2024-10-12,215,False,5.0,Delayed,1761.2,1,3,3,7
+C5232,Female,Senior,Lahore,2024-02-08,2024-07-22,Burger King,Fast Food,1,730.76,Wallet,34,2024-10-15,479,False,-1.0,Cancelled,730.76,1,4,1,6
+C4943,Other,Adult,Lahore,2024-02-09,2025-01-17,KFC,Dessert,3,948.43,Wallet,44,2025-06-08,51,True,2.0,Delivered,2845.29,4,5,4,13
+C5698,Other,Teenager,Lahore,2024-02-12,2024-07-11,McDonald's,Dessert,5,289.61,Cash,7,2025-06-18,116,True,3.0,Delayed,1448.0500000000002,4,1,3,8
+C4256,Male,Teenager,Lahore,2024-02-12,2024-09-27,KFC,Italian,2,967.79,Cash,41,2024-10-11,412,True,-1.0,Cancelled,1935.58,1,5,3,9
+C4480,Male,Adult,Lahore,2024-02-14,2024-08-23,KFC,Dessert,1,291.03,Wallet,42,2025-06-25,205,True,4.0,Delayed,291.03,4,5,1,10
+C1199,Other,Teenager,Lahore,2024-02-15,2024-08-10,Subway,Chinese,4,347.46,Wallet,37,2024-11-26,74,True,3.0,Delivered,1389.84,1,4,2,7
+C1719,Male,Teenager,Lahore,2024-02-16,2024-12-24,KFC,Italian,5,848.34,Card,12,2025-06-20,283,True,3.0,Delayed,4241.7,4,2,5,11
+C4744,Other,Teenager,Lahore,2024-02-02,2024-02-18,Pizza Hut,Chinese,5,995.46,Wallet,8,2025-03-13,112,True,3.0,Delivered,4977.3,2,1,5,8
+C2784,Male,Adult,Lahore,2024-02-18,2025-06-25,KFC,Dessert,3,643.9,Card,15,2025-08-18,310,True,5.0,Delivered,1931.6999999999998,5,2,3,10
+C6191,Other,Teenager,Lahore,2024-02-18,2024-12-03,Burger King,Continental,5,596.16,Wallet,49,2024-12-14,136,True,-1.0,Cancelled,2980.7999999999997,1,5,4,10
+C4682,Male,Senior,Lahore,2024-02-18,2024-07-29,KFC,Fast Food,3,486.63,Cash,49,2024-12-28,94,True,1.0,Delayed,1459.8899999999999,1,5,3,9
+C4325,Female,Senior,Lahore,2024-02-19,2025-07-01,Pizza Hut,Italian,2,962.39,Wallet,1,2025-08-14,273,False,-1.0,Cancelled,1924.78,5,1,3,9
+C3927,Female,Senior,Lahore,2024-02-20,2024-09-11,Burger King,Chinese,2,793.77,Wallet,19,2024-09-17,56,True,5.0,Delayed,1587.54,1,2,3,6
+C4854,Female,Teenager,Lahore,2024-02-20,2024-10-26,Pizza Hut,Chinese,3,599.97,Wallet,33,2025-02-04,320,False,4.0,Delivered,1799.91,2,4,3,9
+C4570,Female,Adult,Lahore,2024-02-21,2024-04-14,Subway,Dessert,1,342.45,Card,11,2025-03-28,164,False,4.0,Delayed,342.45,2,1,1,4
+C6816,Male,Teenager,Lahore,2024-01-10,2024-02-21,McDonald's,Continental,1,546.03,Cash,41,2025-01-15,478,False,4.0,Delayed,546.03,1,5,1,7
+C4771,Female,Teenager,Lahore,2024-02-21,2025-04-30,KFC,Continental,2,276.6,Card,7,2025-06-28,85,False,3.0,Delayed,553.2,4,1,1,6
+C4827,Male,Teenager,Lahore,2024-02-21,2024-11-28,Subway,Fast Food,1,218.31,Wallet,20,2025-08-09,84,True,4.0,Delivered,218.31,5,2,1,8
+C3634,Female,Senior,Lahore,2024-02-23,2025-01-26,Subway,Fast Food,2,284.58,Cash,49,2025-05-21,38,True,2.0,Delayed,569.16,3,5,1,9
+C3805,Female,Senior,Lahore,2024-02-23,2024-11-11,McDonald's,Fast Food,3,166.57,Card,14,2024-12-13,18,False,5.0,Delayed,499.71,1,2,1,4
+C1161,Other,Senior,Lahore,2024-02-23,2025-03-20,Subway,Italian,3,1389.12,Wallet,44,2025-03-26,144,True,1.0,Delayed,4167.36,2,5,5,12
+C5568,Other,Adult,Lahore,2024-02-25,2024-08-13,KFC,Chinese,1,445.08,Cash,41,2024-09-02,453,False,2.0,Delivered,445.08,1,5,1,7
+C1148,Female,Adult,Lahore,2023-11-03,2024-02-25,Burger King,Dessert,4,969.25,Wallet,32,2025-02-26,290,False,-1.0,Cancelled,3877.0,2,4,4,10
+C6217,Female,Senior,Lahore,2023-11-25,2024-02-26,KFC,Chinese,2,406.51,Cash,40,2024-12-29,431,True,3.0,Delivered,813.02,1,4,1,6
+C1456,Female,Teenager,Lahore,2024-02-27,2024-09-25,Pizza Hut,Chinese,3,1034.14,Cash,34,2024-11-20,12,False,-1.0,Cancelled,3102.42,1,4,4,9
+C1684,Other,Senior,Lahore,2024-02-07,2024-02-27,McDonald's,Continental,2,678.96,Card,44,2024-12-26,310,False,5.0,Delivered,1357.92,1,5,2,8
+C2042,Other,Teenager,Lahore,2024-02-27,2024-04-04,Burger King,Dessert,3,1292.95,Wallet,28,2025-06-10,51,False,4.0,Delayed,3878.8500000000004,4,3,4,11
+C2176,Male,Teenager,Lahore,2024-02-27,2024-12-10,Burger King,Fast Food,4,122.41,Wallet,40,2025-02-07,15,True,-1.0,Cancelled,489.64,2,4,1,7
+C1785,Female,Adult,Lahore,2023-10-01,2024-02-29,Burger King,Chinese,1,1225.02,Cash,14,2024-08-26,484,False,3.0,Delivered,1225.02,1,2,2,5
+C2533,Other,Senior,Lahore,2023-11-19,2024-02-29,Subway,Fast Food,4,326.98,Card,17,2025-06-11,47,False,3.0,Delayed,1307.92,4,2,2,8
+C3710,Female,Teenager,Lahore,2024-03-01,2024-06-12,Pizza Hut,Chinese,4,787.43,Wallet,28,2024-12-23,17,True,-1.0,Cancelled,3149.72,1,3,4,8
+C5352,Other,Teenager,Lahore,2024-03-01,2025-03-16,McDonald's,Chinese,2,496.55,Wallet,1,2025-07-06,224,False,5.0,Delayed,993.1,4,1,2,7
+C2393,Other,Teenager,Lahore,2024-03-03,2024-08-30,Burger King,Fast Food,1,1143.46,Cash,1,2025-01-06,379,False,2.0,Delayed,1143.46,1,1,2,4
+C6046,Male,Senior,Lahore,2023-09-03,2024-03-03,Burger King,Italian,1,561.3,Cash,16,2024-12-05,101,False,1.0,Delayed,561.3,1,2,1,4
+C6188,Male,Teenager,Lahore,2024-03-03,2025-06-12,KFC,Italian,3,746.08,Card,20,2025-07-01,430,True,-1.0,Cancelled,2238.2400000000002,4,2,3,9
+C6360,Male,Teenager,Lahore,2024-03-03,2025-01-20,KFC,Italian,2,546.16,Card,35,2025-01-28,21,False,3.0,Delivered,1092.32,2,4,2,8
+C2471,Other,Teenager,Lahore,2024-03-03,2024-11-23,KFC,Chinese,5,380.69,Wallet,39,2025-07-15,265,False,5.0,Delayed,1903.45,5,4,3,12
+C3830,Female,Teenager,Lahore,2024-03-04,2024-08-13,Burger King,Italian,1,600.62,Card,11,2025-01-07,168,False,-1.0,Cancelled,600.62,1,1,1,3
+C3648,Male,Teenager,Lahore,2024-02-17,2024-03-04,KFC,Italian,1,713.35,Wallet,14,2025-07-09,1,True,-1.0,Cancelled,713.35,4,2,1,7
+C6756,Female,Senior,Lahore,2023-09-02,2024-03-04,Pizza Hut,Italian,3,1463.33,Card,21,2024-08-30,249,True,3.0,Delayed,4389.99,1,3,5,9
+C3884,Male,Senior,Lahore,2023-12-22,2024-03-06,Burger King,Italian,3,104.03,Wallet,40,2025-03-24,51,True,-1.0,Cancelled,312.09000000000003,2,4,1,7
+C4656,Female,Senior,Lahore,2024-01-23,2024-03-06,Pizza Hut,Continental,3,395.29,Card,38,2025-06-30,127,True,3.0,Delayed,1185.8700000000001,4,4,2,10
+C2015,Other,Adult,Lahore,2024-03-06,2025-05-10,Subway,Fast Food,1,1022.37,Wallet,12,2025-05-23,114,False,2.0,Delayed,1022.37,3,2,2,7
+C4379,Female,Adult,Lahore,2024-03-07,2024-10-21,Subway,Chinese,2,897.87,Card,7,2025-06-26,488,True,5.0,Delayed,1795.74,4,1,3,8
+C5906,Female,Adult,Lahore,2024-03-07,2024-10-01,Burger King,Fast Food,5,841.45,Card,14,2025-02-09,371,False,-1.0,Cancelled,4207.25,2,2,5,9
+C2387,Other,Teenager,Lahore,2023-09-08,2024-03-07,Burger King,Dessert,4,491.56,Wallet,42,2024-09-15,210,False,1.0,Delayed,1966.24,1,5,3,9
+C6594,Male,Adult,Lahore,2023-12-15,2024-03-07,Burger King,Italian,3,766.13,Cash,30,2025-06-19,161,False,-1.0,Cancelled,2298.39,4,3,3,10
+C5756,Other,Adult,Lahore,2024-03-07,2024-08-04,Burger King,Chinese,1,141.27,Card,46,2025-07-03,356,False,-1.0,Cancelled,141.27,4,5,1,10
+C1907,Male,Teenager,Lahore,2024-03-08,2024-08-12,McDonald's,Italian,5,1004.32,Wallet,39,2025-02-18,332,False,3.0,Delivered,5021.6,2,4,5,11
+C4631,Female,Teenager,Lahore,2024-03-08,2024-09-28,McDonald's,Fast Food,5,910.35,Cash,39,2024-12-07,293,False,-1.0,Cancelled,4551.75,1,4,5,10
+C1015,Male,Adult,Lahore,2024-03-08,2024-05-10,McDonald's,Chinese,2,1343.37,Cash,33,2024-09-12,83,False,-1.0,Cancelled,2686.74,1,4,4,9
+C5031,Other,Teenager,Lahore,2024-03-09,2024-12-12,Subway,Dessert,4,1424.14,Cash,11,2025-08-03,31,False,-1.0,Cancelled,5696.56,5,1,5,11
+C4422,Male,Senior,Lahore,2024-02-02,2024-03-09,Burger King,Dessert,5,1252.97,Wallet,3,2024-09-21,206,True,5.0,Delivered,6264.85,1,1,5,7
+C3048,Other,Teenager,Lahore,2024-03-11,2024-08-08,Subway,Dessert,5,440.01,Cash,27,2025-03-06,261,True,-1.0,Cancelled,2200.05,2,3,3,8
+C1756,Female,Senior,Lahore,2024-03-12,2024-11-12,Pizza Hut,Italian,3,922.08,Cash,11,2025-01-02,140,True,4.0,Delayed,2766.2400000000002,1,1,4,6
+C3421,Female,Adult,Lahore,2024-03-13,2025-03-05,Burger King,Fast Food,2,173.07,Wallet,38,2025-06-06,426,False,-1.0,Cancelled,346.14,4,4,1,9
+C2686,Female,Senior,Lahore,2024-03-13,2025-03-12,McDonald's,Italian,4,1304.46,Card,10,2025-07-13,235,False,3.0,Delivered,5217.84,4,1,5,10
+C5538,Female,Adult,Lahore,2024-03-14,2025-05-31,Pizza Hut,Dessert,1,326.45,Card,34,2025-08-15,102,False,-1.0,Cancelled,326.45,5,4,1,10
+C5447,Male,Adult,Lahore,2024-03-14,2024-06-23,Burger King,Continental,4,1052.58,Card,47,2024-12-17,75,True,5.0,Delayed,4210.32,1,5,5,11
+C4915,Other,Teenager,Lahore,2023-10-08,2024-03-14,Burger King,Italian,1,1477.97,Cash,38,2025-04-09,154,True,2.0,Delivered,1477.97,3,4,3,10
+C3855,Female,Adult,Lahore,2024-03-15,2025-05-03,Subway,Continental,3,639.15,Card,13,2025-08-02,328,False,2.0,Delivered,1917.4499999999998,5,2,3,10
+C6043,Female,Teenager,Lahore,2024-03-15,2024-12-07,Pizza Hut,Continental,4,351.19,Card,37,2025-06-04,369,False,3.0,Delayed,1404.76,4,4,2,10
+C6049,Male,Adult,Lahore,2024-02-08,2024-03-15,Burger King,Continental,5,108.79,Card,41,2025-06-05,290,False,-1.0,Cancelled,543.95,4,5,1,10
+C5902,Male,Senior,Lahore,2024-02-13,2024-03-16,KFC,Continental,3,457.71,Card,11,2024-10-08,40,False,-1.0,Cancelled,1373.1299999999999,1,1,2,4
+C6429,Other,Teenager,Lahore,2024-03-16,2024-06-10,Subway,Fast Food,1,798.27,Card,29,2025-05-12,295,False,4.0,Delivered,798.27,3,3,1,7
+C2076,Female,Senior,Lahore,2024-03-18,2024-10-10,Subway,Fast Food,3,662.32,Card,27,2025-05-25,134,False,3.0,Delivered,1986.96,3,3,3,9
+C6004,Male,Adult,Lahore,2024-03-19,2024-10-08,KFC,Chinese,3,702.15,Wallet,50,2025-08-04,167,True,-1.0,Cancelled,2106.45,5,5,3,13
+C6385,Other,Teenager,Lahore,2024-03-20,2024-09-04,KFC,Italian,1,754.68,Wallet,11,2025-03-15,329,False,-1.0,Cancelled,754.68,2,1,1,4
+C1224,Male,Adult,Lahore,2024-03-21,2024-11-11,Pizza Hut,Chinese,4,264.66,Card,21,2025-07-04,321,False,5.0,Delayed,1058.64,4,3,2,9
+C6317,Female,Senior,Lahore,2024-03-21,2025-01-14,McDonald's,Italian,2,566.9,Wallet,32,2025-04-02,243,False,1.0,Delayed,1133.8,3,4,2,9
+C4328,Female,Senior,Lahore,2024-03-21,2025-02-13,Pizza Hut,Continental,1,1029.2,Card,37,2025-08-13,200,True,3.0,Delivered,1029.2,5,4,2,11
+C3966,Other,Teenager,Lahore,2024-03-22,2024-10-21,Pizza Hut,Dessert,1,856.76,Cash,41,2025-06-25,214,True,-1.0,Cancelled,856.76,4,5,2,11
+C1063,Male,Senior,Lahore,2023-09-17,2024-03-22,McDonald's,Chinese,3,559.13,Cash,17,2025-01-12,306,False,-1.0,Cancelled,1677.3899999999999,1,2,3,6
+C4316,Male,Adult,Lahore,2023-11-08,2024-03-23,Pizza Hut,Dessert,2,265.29,Cash,30,2025-05-17,383,False,-1.0,Cancelled,530.58,3,3,1,7
+C4096,Male,Teenager,Lahore,2024-03-23,2024-06-08,Subway,Dessert,2,649.95,Cash,24,2025-04-21,125,True,-1.0,Cancelled,1299.9,3,3,2,8
+C5855,Female,Senior,Lahore,2023-08-22,2024-03-24,Pizza Hut,Italian,3,344.33,Wallet,9,2024-11-03,348,False,5.0,Delivered,1032.99,1,1,2,4
+C6130,Male,Adult,Lahore,2024-03-24,2024-07-18,Pizza Hut,Continental,1,781.67,Cash,19,2024-12-01,372,True,-1.0,Cancelled,781.67,1,2,1,4
+C2887,Other,Senior,Lahore,2023-10-03,2024-03-25,Subway,Fast Food,3,543.45,Wallet,46,2024-11-07,257,False,1.0,Delivered,1630.3500000000001,1,5,3,9
+C5332,Other,Teenager,Lahore,2024-03-25,2025-03-09,Burger King,Fast Food,3,997.42,Card,7,2025-04-14,383,True,-1.0,Cancelled,2992.2599999999998,3,1,4,8
+C2778,Other,Senior,Lahore,2024-03-25,2024-07-28,Subway,Chinese,5,1375.95,Cash,23,2025-03-10,53,False,4.0,Delivered,6879.75,2,3,5,10
+C5170,Other,Senior,Lahore,2023-09-13,2024-03-25,KFC,Chinese,2,487.09,Card,17,2024-09-21,0,False,3.0,Delayed,974.18,1,2,2,5
+C6819,Female,Adult,Lahore,2024-03-28,2024-05-22,McDonald's,Italian,2,787.92,Wallet,33,2025-06-09,212,False,-1.0,Cancelled,1575.84,4,4,3,11
+C2402,Other,Teenager,Lahore,2024-03-29,2024-06-11,Burger King,Fast Food,5,292.15,Wallet,42,2024-10-16,211,False,-1.0,Cancelled,1460.75,1,5,3,9
+C4035,Female,Teenager,Lahore,2023-10-08,2024-03-29,KFC,Continental,5,526.05,Card,18,2024-11-01,155,False,2.0,Delayed,2630.25,1,2,4,7
+C4278,Female,Teenager,Lahore,2024-03-29,2024-12-28,Pizza Hut,Dessert,2,1399.76,Card,33,2025-08-21,186,False,4.0,Delayed,2799.52,5,4,4,13
+C2771,Male,Adult,Lahore,2023-08-22,2024-03-29,Subway,Continental,4,1381.05,Cash,49,2025-04-08,161,True,-1.0,Cancelled,5524.2,3,5,5,13
+C1188,Male,Adult,Lahore,2024-03-30,2025-04-19,Subway,Continental,3,1219.68,Cash,3,2025-06-21,464,True,5.0,Delivered,3659.04,4,1,4,9
+C3511,Male,Teenager,Lahore,2024-03-30,2024-12-02,Subway,Italian,3,892.16,Wallet,45,2025-03-18,242,True,4.0,Delivered,2676.48,2,5,4,11
+C6462,Other,Adult,Lahore,2024-03-30,2025-06-19,KFC,Continental,5,1478.75,Cash,13,2025-07-21,383,False,4.0,Delivered,7393.75,5,2,5,12
+C4436,Male,Teenager,Lahore,2024-04-01,2024-04-05,Pizza Hut,Italian,5,227.21,Card,41,2025-06-29,310,False,5.0,Delivered,1136.05,4,5,2,11
+C6863,Other,Teenager,Lahore,2024-04-01,2025-03-01,Subway,Italian,5,245.04,Cash,5,2025-05-24,246,False,-1.0,Cancelled,1225.2,3,1,2,6
+C2475,Female,Adult,Lahore,2023-12-22,2024-04-01,McDonald's,Continental,1,400.61,Card,29,2025-06-11,206,False,-1.0,Cancelled,400.61,4,3,1,8
+C6376,Female,Teenager,Lahore,2024-04-04,2024-09-17,Pizza Hut,Italian,5,1166.94,Cash,22,2024-11-20,495,False,1.0,Delivered,5834.700000000001,1,3,5,9
+C2744,Male,Senior,Lahore,2024-04-06,2024-09-05,McDonald's,Chinese,5,1186.39,Wallet,6,2024-09-21,370,False,4.0,Delayed,5931.950000000001,1,1,5,7
+C5042,Other,Senior,Lahore,2023-12-01,2024-04-06,McDonald's,Chinese,1,1359.62,Cash,11,2024-11-18,447,True,-1.0,Cancelled,1359.62,1,1,2,4
+C2114,Female,Senior,Lahore,2024-04-06,2025-02-13,Pizza Hut,Italian,3,857.13,Card,13,2025-06-22,115,True,4.0,Delayed,2571.39,4,2,4,10
+C5288,Male,Teenager,Lahore,2023-10-29,2024-04-07,KFC,Continental,3,410.83,Card,8,2025-01-28,387,False,-1.0,Cancelled,1232.49,2,1,2,5
+C1040,Other,Teenager,Lahore,2024-04-08,2025-01-02,Subway,Continental,4,534.17,Wallet,38,2025-05-11,382,True,3.0,Delayed,2136.68,3,4,3,10
+C2788,Female,Senior,Lahore,2024-04-08,2024-10-18,Burger King,Dessert,3,1057.71,Cash,44,2025-03-27,309,True,5.0,Delayed,3173.13,2,5,4,11
+C5209,Male,Teenager,Lahore,2024-04-08,2025-03-17,McDonald's,Italian,2,579.46,Wallet,31,2025-07-12,282,True,3.0,Delayed,1158.92,4,4,2,10
+C2859,Male,Teenager,Lahore,2024-04-09,2024-09-04,Pizza Hut,Fast Food,3,727.42,Wallet,45,2025-02-23,430,True,1.0,Delayed,2182.2599999999998,2,5,3,10
+C5559,Male,Teenager,Lahore,2024-04-10,2025-01-01,McDonald's,Fast Food,3,510.7,Cash,24,2025-03-23,241,True,-1.0,Cancelled,1532.1,2,3,3,8
+C1793,Other,Teenager,Lahore,2024-04-11,2024-05-07,KFC,Chinese,4,303.81,Cash,24,2025-08-09,372,True,3.0,Delivered,1215.24,5,3,2,10
+C4752,Female,Adult,Lahore,2023-09-19,2024-04-11,McDonald's,Fast Food,5,185.13,Card,26,2025-01-05,330,True,3.0,Delayed,925.65,1,3,2,6
+C5002,Male,Teenager,Lahore,2024-04-11,2024-12-30,KFC,Italian,2,757.35,Cash,20,2025-04-07,237,True,1.0,Delayed,1514.7,3,2,3,8
+C2730,Male,Teenager,Lahore,2024-01-10,2024-04-12,KFC,Continental,3,579.22,Wallet,1,2024-09-10,260,True,4.0,Delayed,1737.66,1,1,3,5
+C4738,Other,Senior,Lahore,2023-10-06,2024-04-12,Subway,Continental,5,1445.31,Cash,49,2025-03-09,19,True,1.0,Delivered,7226.549999999999,2,5,5,12
+C5154,Female,Senior,Lahore,2024-04-04,2024-04-12,Burger King,Italian,3,1482.13,Card,31,2025-06-03,251,False,4.0,Delivered,4446.39,4,4,5,13
+C2668,Male,Senior,Lahore,2024-04-12,2024-12-31,McDonald's,Dessert,5,997.23,Card,45,2025-08-13,315,False,-1.0,Cancelled,4986.15,5,5,5,15
+C1556,Other,Senior,Lahore,2024-02-16,2024-04-13,Pizza Hut,Chinese,3,604.15,Card,49,2025-02-15,122,True,2.0,Delivered,1812.4499999999998,2,5,3,10
+C3141,Other,Teenager,Lahore,2024-04-13,2024-04-26,Subway,Italian,4,451.39,Cash,34,2025-01-24,428,True,3.0,Delayed,1805.56,2,4,3,9
+C6568,Male,Teenager,Lahore,2023-11-18,2024-04-14,KFC,Chinese,5,628.19,Cash,40,2024-11-21,354,True,5.0,Delivered,3140.9500000000003,1,4,4,9
+C6417,Female,Teenager,Lahore,2024-04-14,2025-01-05,KFC,Italian,5,532.05,Cash,19,2025-04-12,256,True,-1.0,Cancelled,2660.25,3,2,4,9
+C1819,Other,Teenager,Lahore,2024-04-14,2024-08-13,McDonald's,Chinese,5,354.3,Card,50,2024-12-17,334,False,2.0,Delivered,1771.5,1,5,3,9
+C1987,Male,Adult,Lahore,2024-04-14,2024-07-06,Pizza Hut,Chinese,1,485.88,Cash,39,2024-12-21,407,False,5.0,Delivered,485.88,1,4,1,6
+C4713,Female,Teenager,Lahore,2024-04-14,2024-11-02,KFC,Chinese,3,546.86,Cash,7,2025-03-25,418,True,4.0,Delivered,1640.58,2,1,3,6
+C2008,Male,Senior,Lahore,2024-04-14,2024-07-07,Pizza Hut,Continental,5,1410.5,Wallet,43,2025-04-13,477,False,2.0,Delayed,7052.5,3,5,5,13
+C2685,Female,Adult,Lahore,2024-04-15,2024-07-04,Burger King,Continental,4,739.21,Wallet,17,2025-03-02,132,True,-1.0,Cancelled,2956.84,2,2,4,8
+C1381,Other,Senior,Lahore,2024-04-15,2025-03-24,Subway,Dessert,5,452.5,Cash,29,2025-05-12,315,True,4.0,Delivered,2262.5,3,3,3,9
+C2070,Female,Adult,Lahore,2024-04-16,2024-07-01,Burger King,Italian,1,246.12,Card,24,2025-06-28,488,False,5.0,Delayed,246.12,4,3,1,8
+C3385,Other,Teenager,Lahore,2024-04-16,2024-04-24,KFC,Chinese,1,1016.12,Wallet,13,2025-06-11,364,True,4.0,Delayed,1016.12,4,2,2,8
+C3015,Male,Teenager,Lahore,2024-04-16,2024-11-15,Subway,Dessert,4,150.69,Wallet,28,2025-05-08,254,False,-1.0,Cancelled,602.76,3,3,1,7
+C1861,Male,Senior,Lahore,2024-04-17,2025-03-27,Subway,Italian,3,101.72,Cash,32,2025-07-04,7,True,5.0,Delayed,305.15999999999997,4,4,1,9
+C3403,Female,Senior,Lahore,2024-04-18,2024-12-19,Subway,Continental,5,744.94,Cash,16,2025-06-13,412,False,4.0,Delayed,3724.7000000000003,4,2,4,10
+C5553,Male,Adult,Lahore,2023-11-23,2024-04-20,McDonald's,Chinese,4,1108.18,Wallet,48,2025-08-05,397,False,2.0,Delivered,4432.72,5,5,5,15
+C1902,Male,Adult,Lahore,2024-04-21,2024-05-23,McDonald's,Fast Food,5,703.06,Card,37,2025-08-15,373,False,2.0,Delayed,3515.2999999999997,5,4,4,13
+C4460,Female,Senior,Lahore,2024-04-21,2024-12-15,McDonald's,Dessert,3,1183.59,Card,5,2025-07-18,431,True,1.0,Delayed,3550.7699999999995,5,1,4,10
+C2227,Other,Adult,Lahore,2024-04-21,2024-08-03,KFC,Fast Food,5,612.97,Wallet,3,2025-03-02,239,True,-1.0,Cancelled,3064.8500000000004,2,1,4,7
+C6119,Female,Teenager,Lahore,2023-10-03,2024-04-21,Burger King,Chinese,5,780.02,Cash,39,2025-01-23,203,False,3.0,Delivered,3900.1,2,4,4,10
+C3497,Other,Senior,Lahore,2024-04-22,2024-06-18,McDonald's,Chinese,4,222.31,Wallet,4,2025-05-11,450,True,4.0,Delivered,889.24,3,1,2,6
+C1965,Female,Teenager,Lahore,2024-04-23,2024-12-15,Pizza Hut,Italian,2,321.96,Wallet,25,2025-07-09,222,True,-1.0,Cancelled,643.92,4,3,1,8
+C4874,Female,Teenager,Lahore,2024-04-10,2024-04-23,Pizza Hut,Continental,1,501.59,Card,4,2025-02-10,139,True,2.0,Delayed,501.59,2,1,1,4
+C5556,Female,Adult,Lahore,2024-04-08,2024-04-26,KFC,Italian,4,285.59,Cash,45,2024-12-24,263,True,4.0,Delayed,1142.36,1,5,2,8
+C3430,Other,Teenager,Lahore,2024-04-26,2024-05-17,Burger King,Chinese,2,1283.58,Wallet,49,2025-01-21,375,True,1.0,Delivered,2567.16,2,5,4,11
+C3307,Other,Adult,Lahore,2024-04-27,2024-12-26,Subway,Italian,5,191.04,Card,5,2025-05-11,210,False,3.0,Delivered,955.1999999999999,3,1,2,6
+C6439,Male,Teenager,Lahore,2024-05-01,2024-10-30,Pizza Hut,Fast Food,5,654.41,Cash,36,2025-05-16,268,True,4.0,Delivered,3272.0499999999997,3,4,4,11
+C4971,Female,Adult,Lahore,2024-05-03,2024-07-21,McDonald's,Fast Food,4,1349.93,Card,14,2025-04-16,2,False,-1.0,Cancelled,5399.72,3,2,5,10
+C6830,Other,Senior,Lahore,2024-02-26,2024-05-04,Pizza Hut,Fast Food,5,419.55,Card,50,2024-09-29,241,False,5.0,Delivered,2097.75,1,5,3,9
+C2345,Other,Senior,Lahore,2024-05-04,2024-08-19,Pizza Hut,Continental,5,799.38,Wallet,42,2024-11-22,300,False,2.0,Delivered,3996.9,1,5,5,11
+C5827,Other,Teenager,Lahore,2024-05-05,2024-11-06,KFC,Italian,4,1344.23,Card,45,2025-04-25,398,True,-1.0,Cancelled,5376.92,3,5,5,13
+C6528,Male,Teenager,Lahore,2024-05-05,2024-08-08,Pizza Hut,Italian,2,1146.64,Cash,23,2024-12-15,401,False,-1.0,Cancelled,2293.28,1,3,3,7
+C1129,Female,Adult,Lahore,2024-05-05,2024-11-19,McDonald's,Continental,3,197.07,Card,38,2025-01-09,20,False,4.0,Delivered,591.21,1,4,1,6
+C4508,Female,Adult,Lahore,2024-05-05,2024-11-30,McDonald's,Fast Food,4,137.37,Wallet,33,2025-05-08,412,False,-1.0,Cancelled,549.48,3,4,1,8
+C2699,Female,Adult,Lahore,2024-01-07,2024-05-07,McDonald's,Italian,1,834.97,Wallet,31,2024-08-23,263,True,1.0,Delayed,834.97,1,4,1,6
+C3467,Female,Senior,Lahore,2024-03-16,2024-05-07,Pizza Hut,Dessert,5,537.33,Cash,33,2024-12-21,239,True,2.0,Delayed,2686.65,1,4,4,9
+C4510,Female,Senior,Lahore,2024-05-07,2025-01-03,KFC,Italian,1,896.27,Cash,11,2025-02-11,61,False,2.0,Delivered,896.27,2,1,2,5
+C5032,Male,Teenager,Lahore,2024-05-08,2025-04-12,Pizza Hut,Italian,3,209.88,Cash,32,2025-04-20,66,False,4.0,Delayed,629.64,3,4,1,8
+C6873,Male,Teenager,Lahore,2024-05-08,2025-07-20,McDonald's,Continental,1,900.48,Wallet,13,2025-08-01,28,False,5.0,Delayed,900.48,5,2,2,9
+C2949,Female,Teenager,Lahore,2024-05-08,2024-08-05,Burger King,Continental,2,734.06,Cash,39,2025-05-02,120,True,-1.0,Cancelled,1468.12,3,4,3,10
+C3889,Female,Teenager,Lahore,2024-05-08,2024-08-17,KFC,Chinese,1,733.23,Cash,26,2024-11-18,299,False,3.0,Delivered,733.23,1,3,1,5
+C1771,Female,Adult,Lahore,2024-05-09,2025-01-06,Pizza Hut,Italian,2,114.74,Cash,30,2025-05-07,402,False,-1.0,Cancelled,229.48,3,3,1,7
+C4856,Other,Adult,Lahore,2024-05-09,2024-12-21,Burger King,Fast Food,1,646.07,Card,8,2025-01-05,278,True,5.0,Delivered,646.07,1,1,1,3
+C3451,Female,Teenager,Lahore,2024-03-01,2024-05-12,Burger King,Italian,3,624.43,Cash,46,2025-04-02,47,True,2.0,Delivered,1873.29,3,5,3,11
+C3581,Male,Teenager,Lahore,2024-05-13,2024-09-06,Pizza Hut,Italian,3,206.84,Cash,3,2025-07-27,141,True,1.0,Delivered,620.52,5,1,1,7
+C3560,Other,Adult,Lahore,2024-05-15,2024-09-02,KFC,Italian,4,1016.79,Wallet,1,2024-10-17,310,True,5.0,Delayed,4067.16,1,1,5,7
+C2296,Other,Senior,Lahore,2024-05-15,2025-02-04,Pizza Hut,Italian,3,699.07,Wallet,38,2025-05-20,304,True,4.0,Delayed,2097.21,3,4,3,10
+C5978,Male,Teenager,Lahore,2024-05-17,2025-03-27,Pizza Hut,Chinese,1,897.57,Card,14,2025-04-10,216,False,1.0,Delivered,897.57,3,2,2,7
+C2254,Male,Senior,Lahore,2024-05-07,2024-05-17,Pizza Hut,Dessert,1,497.43,Cash,29,2025-05-23,152,False,-1.0,Cancelled,497.43,3,3,1,7
+C3866,Male,Teenager,Lahore,2024-05-13,2024-05-17,Subway,Fast Food,5,245.91,Cash,23,2024-10-09,17,True,2.0,Delivered,1229.55,1,3,2,6
+C2394,Male,Adult,Lahore,2024-01-01,2024-05-18,KFC,Chinese,5,908.05,Card,44,2025-03-01,336,True,1.0,Delivered,4540.25,2,5,5,12
+C2358,Other,Teenager,Lahore,2024-05-21,2024-12-19,McDonald's,Dessert,1,1253.85,Wallet,31,2025-07-22,267,True,5.0,Delivered,1253.85,5,4,2,11
+C5169,Other,Adult,Lahore,2024-05-21,2024-12-06,KFC,Continental,1,537.69,Cash,16,2025-07-20,412,True,5.0,Delayed,537.69,5,2,1,8
+C6169,Other,Senior,Lahore,2024-05-22,2024-06-09,Pizza Hut,Continental,4,1311.22,Cash,37,2025-07-22,343,True,5.0,Delivered,5244.88,5,4,5,14
+C5613,Other,Teenager,Lahore,2024-05-22,2024-09-23,Burger King,Dessert,2,1199.68,Cash,9,2025-07-22,175,True,-1.0,Cancelled,2399.36,5,1,3,9
+C5518,Female,Adult,Lahore,2024-05-22,2024-08-21,Subway,Italian,4,1456.87,Cash,28,2025-07-24,174,True,5.0,Delivered,5827.48,5,3,5,13
+C5778,Male,Senior,Lahore,2024-05-23,2024-10-04,Subway,Chinese,2,466.89,Cash,25,2025-07-18,345,False,2.0,Delayed,933.78,5,3,2,10
+C2046,Male,Senior,Lahore,2024-02-17,2024-05-23,Subway,Continental,4,1328.33,Card,42,2025-05-20,460,True,3.0,Delivered,5313.32,3,5,5,13
+C6678,Female,Adult,Lahore,2023-08-31,2024-05-23,Pizza Hut,Italian,1,1469.47,Wallet,18,2025-08-09,448,True,-1.0,Cancelled,1469.47,5,2,3,10
+C6593,Female,Adult,Lahore,2024-03-19,2024-05-24,Burger King,Fast Food,5,106.16,Cash,1,2025-08-08,407,True,-1.0,Cancelled,530.8,5,1,1,7
+C3929,Female,Teenager,Lahore,2024-02-25,2024-05-26,Pizza Hut,Chinese,2,200.73,Wallet,49,2025-03-07,133,False,-1.0,Cancelled,401.46,2,5,1,8
+C5318,Other,Senior,Lahore,2024-05-27,2024-12-31,McDonald's,Fast Food,5,1262.52,Wallet,8,2025-07-10,309,True,5.0,Delayed,6312.6,4,1,5,10
+C6411,Male,Adult,Lahore,2024-05-27,2025-04-21,Subway,Italian,1,1357.27,Cash,32,2025-05-11,361,False,4.0,Delayed,1357.27,3,4,2,9
+C2500,Female,Teenager,Lahore,2023-10-26,2024-05-28,KFC,Chinese,5,342.85,Card,16,2025-06-29,112,True,3.0,Delayed,1714.25,4,2,3,9
+C6470,Other,Teenager,Lahore,2024-05-30,2024-08-24,Burger King,Fast Food,4,1091.23,Wallet,2,2025-02-07,256,False,-1.0,Cancelled,4364.92,2,1,5,8
+C3453,Other,Teenager,Lahore,2024-05-31,2024-11-15,Burger King,Fast Food,5,322.42,Wallet,39,2025-05-03,441,True,5.0,Delivered,1612.1000000000001,3,4,3,10
+C1182,Female,Adult,Lahore,2024-05-31,2024-08-29,McDonald's,Dessert,2,1089.73,Wallet,37,2024-10-30,106,True,2.0,Delayed,2179.46,1,4,3,8
+C5816,Other,Adult,Lahore,2024-06-01,2025-01-01,Pizza Hut,Chinese,1,992.84,Card,45,2025-06-29,31,True,1.0,Delayed,992.84,4,5,2,11
+C1748,Male,Senior,Lahore,2023-12-30,2024-06-03,Subway,Continental,2,1438.16,Cash,30,2024-10-01,262,False,2.0,Delivered,2876.32,1,3,4,8
+C2628,Male,Adult,Lahore,2024-06-03,2024-08-01,McDonald's,Italian,3,1041.28,Card,26,2025-01-08,338,True,-1.0,Cancelled,3123.84,1,3,4,8
+C3977,Other,Adult,Lahore,2024-02-16,2024-06-05,KFC,Chinese,1,1360.42,Card,47,2024-12-10,418,False,4.0,Delivered,1360.42,1,5,2,8
+C3221,Female,Teenager,Lahore,2023-09-01,2024-06-08,Subway,Dessert,5,967.55,Cash,26,2025-03-27,435,False,2.0,Delayed,4837.75,2,3,5,10
+C5531,Female,Teenager,Lahore,2024-06-02,2024-06-08,Pizza Hut,Dessert,3,407.81,Wallet,46,2025-01-08,343,False,-1.0,Cancelled,1223.43,1,5,2,8
+C6338,Other,Senior,Lahore,2024-06-06,2024-06-09,Subway,Chinese,3,917.47,Wallet,17,2025-03-15,173,True,-1.0,Cancelled,2752.41,2,2,4,8
+C1595,Other,Adult,Lahore,2023-09-14,2024-06-10,Burger King,Chinese,5,1329.17,Cash,42,2024-10-04,191,False,2.0,Delayed,6645.85,1,5,5,11
+C4648,Female,Teenager,Lahore,2024-05-01,2024-06-11,KFC,Italian,4,188.64,Cash,36,2024-08-28,108,False,3.0,Delayed,754.56,1,4,1,6
+C4741,Female,Senior,Lahore,2024-06-11,2024-07-19,Subway,Italian,4,949.41,Cash,27,2025-02-17,244,True,5.0,Delayed,3797.64,2,3,4,9
+C1183,Female,Adult,Lahore,2024-06-11,2025-02-09,Burger King,Italian,3,925.91,Cash,36,2025-03-12,71,False,2.0,Delivered,2777.73,2,4,4,10
+C2654,Other,Senior,Lahore,2024-06-12,2025-01-22,Burger King,Continental,3,750.46,Wallet,42,2025-04-02,153,True,-1.0,Cancelled,2251.38,3,5,3,11
+C5730,Other,Senior,Lahore,2024-06-13,2024-06-17,McDonald's,Fast Food,4,1385.5,Wallet,1,2024-12-14,305,False,5.0,Delayed,5542.0,1,1,5,7
+C4084,Female,Senior,Lahore,2024-06-13,2024-06-26,Pizza Hut,Dessert,4,409.96,Wallet,9,2024-12-27,187,True,2.0,Delayed,1639.84,1,1,3,5
+C5178,Male,Adult,Lahore,2024-06-13,2025-01-29,KFC,Italian,2,1246.35,Cash,29,2025-07-21,206,True,5.0,Delivered,2492.7,5,3,4,12
+C5577,Female,Adult,Lahore,2024-06-14,2024-08-13,Subway,Fast Food,5,513.15,Card,32,2024-09-16,20,False,3.0,Delivered,2565.75,1,4,4,9
+C6125,Female,Adult,Lahore,2024-06-14,2024-10-20,Burger King,Fast Food,5,1139.94,Wallet,30,2025-01-16,191,False,-1.0,Cancelled,5699.700000000001,2,3,5,10
+C1803,Female,Senior,Lahore,2024-06-15,2025-04-23,Burger King,Dessert,2,1272.92,Wallet,32,2025-07-10,314,True,5.0,Delivered,2545.84,4,4,4,12
+C1561,Other,Teenager,Lahore,2024-06-15,2024-07-20,Pizza Hut,Italian,1,1333.95,Card,7,2025-08-15,155,True,-1.0,Cancelled,1333.95,5,1,2,8
+C5599,Female,Teenager,Lahore,2023-09-08,2024-06-15,Subway,Continental,4,534.9,Wallet,30,2024-10-29,416,True,3.0,Delayed,2139.6,1,3,3,7
+C2954,Female,Teenager,Lahore,2024-06-16,2025-08-05,KFC,Italian,4,967.23,Wallet,22,2025-08-11,366,False,5.0,Delivered,3868.92,5,3,4,12
+C5740,Female,Senior,Lahore,2024-05-15,2024-06-16,Subway,Italian,2,1048.16,Card,21,2024-10-01,118,True,1.0,Delivered,2096.32,1,3,3,7
+C6907,Other,Adult,Lahore,2024-02-12,2024-06-16,McDonald's,Dessert,1,1118.93,Cash,10,2025-05-17,360,True,1.0,Delivered,1118.93,3,1,2,6
+C1864,Female,Teenager,Lahore,2023-11-25,2024-06-16,McDonald's,Dessert,1,1325.11,Cash,31,2025-04-03,102,True,-1.0,Cancelled,1325.11,3,4,2,9
+C3215,Female,Senior,Lahore,2024-06-17,2024-09-24,McDonald's,Continental,3,586.33,Card,41,2025-05-26,465,False,3.0,Delivered,1758.9900000000002,3,5,3,11
+C2274,Female,Adult,Lahore,2024-06-18,2024-10-25,Subway,Italian,2,1171.14,Card,34,2025-05-09,479,False,-1.0,Cancelled,2342.28,3,4,3,10
+C6128,Female,Senior,Lahore,2024-06-18,2024-08-27,Subway,Dessert,2,1015.87,Card,27,2025-08-05,203,True,3.0,Delayed,2031.74,5,3,3,11
+C3677,Other,Teenager,Lahore,2024-06-19,2024-06-24,Pizza Hut,Italian,5,256.03,Cash,43,2024-11-27,386,True,5.0,Delayed,1280.1499999999999,1,5,2,8
+C1923,Male,Senior,Lahore,2024-06-19,2024-12-22,Burger King,Dessert,3,1001.26,Cash,16,2025-03-12,83,True,5.0,Delayed,3003.7799999999997,2,2,4,8
+C1806,Female,Senior,Lahore,2024-06-19,2024-10-26,KFC,Fast Food,1,709.62,Card,26,2024-11-19,341,True,5.0,Delivered,709.62,1,3,1,5
+C5743,Male,Adult,Lahore,2024-06-21,2025-03-03,Subway,Chinese,5,317.4,Card,47,2025-08-04,500,False,4.0,Delivered,1587.0,5,5,3,13
+C5694,Female,Adult,Lahore,2024-06-21,2024-10-11,Pizza Hut,Continental,5,1209.11,Cash,13,2024-12-08,108,True,-1.0,Cancelled,6045.549999999999,1,2,5,8
+C4974,Male,Teenager,Lahore,2024-06-22,2025-03-26,Burger King,Chinese,5,239.51,Cash,47,2025-04-13,487,False,2.0,Delivered,1197.55,3,5,2,10
+C2279,Female,Teenager,Lahore,2024-06-22,2024-09-28,McDonald's,Italian,1,1161.05,Cash,22,2025-05-22,158,True,-1.0,Cancelled,1161.05,3,3,2,8
+C2164,Male,Senior,Lahore,2024-06-22,2024-07-25,Subway,Continental,4,1147.06,Card,8,2024-12-28,482,False,1.0,Delayed,4588.24,1,1,5,7
+C5485,Male,Teenager,Lahore,2024-06-22,2025-01-21,Subway,Continental,4,121.44,Cash,48,2025-03-04,431,True,-1.0,Cancelled,485.76,2,5,1,8
+C4125,Male,Teenager,Lahore,2024-06-23,2024-11-08,McDonald's,Chinese,5,138.81,Card,25,2025-02-20,72,True,-1.0,Cancelled,694.05,2,3,1,6
+C4295,Other,Adult,Lahore,2023-12-21,2024-06-24,Pizza Hut,Italian,5,232.89,Wallet,9,2025-05-03,108,True,5.0,Delivered,1164.4499999999998,3,1,2,6
+C1964,Female,Senior,Lahore,2024-06-25,2024-07-15,Burger King,Chinese,3,840.71,Cash,19,2025-05-01,315,True,2.0,Delivered,2522.13,3,2,4,9
+C5252,Female,Teenager,Lahore,2024-05-17,2024-06-25,KFC,Dessert,3,972.47,Card,21,2024-09-25,449,True,-1.0,Cancelled,2917.41,1,3,4,8
+C3202,Other,Teenager,Lahore,2024-06-25,2024-09-23,Subway,Fast Food,1,175.77,Wallet,17,2024-12-04,421,False,2.0,Delivered,175.77,1,2,1,4
+C6088,Female,Senior,Lahore,2024-06-27,2024-10-17,Pizza Hut,Continental,3,944.51,Cash,46,2025-07-18,23,False,3.0,Delayed,2833.5299999999997,5,5,4,14
+C1468,Male,Adult,Lahore,2024-06-27,2024-11-06,McDonald's,Italian,4,552.65,Cash,39,2024-12-06,381,True,-1.0,Cancelled,2210.6,1,4,3,8
+C5438,Female,Teenager,Lahore,2024-06-02,2024-06-27,McDonald's,Fast Food,5,466.66,Card,12,2024-10-19,51,True,-1.0,Cancelled,2333.3,1,2,3,6
+C4057,Male,Teenager,Lahore,2024-06-27,2024-06-28,Burger King,Italian,3,246.39,Cash,41,2025-08-12,499,True,5.0,Delayed,739.17,5,5,1,11
+C5592,Male,Adult,Lahore,2024-01-30,2024-06-27,Burger King,Fast Food,3,124.47,Card,35,2024-10-20,265,False,2.0,Delivered,373.40999999999997,1,4,1,6
+C4025,Male,Teenager,Lahore,2024-06-30,2024-12-16,Pizza Hut,Dessert,5,1433.77,Card,48,2025-08-09,59,True,1.0,Delivered,7168.85,5,5,5,15
+C6064,Male,Adult,Lahore,2024-07-01,2024-12-14,McDonald's,Continental,2,1198.59,Wallet,38,2025-02-11,338,False,2.0,Delivered,2397.18,2,4,3,9
+C4450,Other,Teenager,Lahore,2024-07-02,2024-10-24,Pizza Hut,Italian,3,1241.88,Wallet,10,2025-04-02,312,False,-1.0,Cancelled,3725.6400000000003,3,1,4,8
+C4815,Female,Adult,Lahore,2024-05-01,2024-07-02,Subway,Italian,2,589.64,Wallet,19,2024-10-05,17,True,-1.0,Cancelled,1179.28,1,2,2,5
+C3476,Male,Teenager,Lahore,2024-07-02,2024-12-26,Subway,Fast Food,5,156.11,Cash,23,2025-03-25,383,False,-1.0,Cancelled,780.5500000000001,2,3,1,6
+C1248,Male,Adult,Lahore,2024-06-06,2024-07-03,KFC,Italian,3,125.97,Card,21,2025-07-25,182,False,2.0,Delayed,377.90999999999997,5,3,1,9
+C6264,Female,Senior,Lahore,2024-07-03,2024-08-30,Burger King,Italian,5,210.29,Card,12,2025-08-13,293,False,1.0,Delayed,1051.45,5,2,2,9
+C1204,Female,Teenager,Lahore,2023-10-28,2024-07-03,Burger King,Continental,5,882.53,Card,20,2024-12-25,268,True,4.0,Delayed,4412.65,1,2,5,8
+C1550,Male,Adult,Lahore,2024-07-04,2024-11-14,Pizza Hut,Chinese,2,1417.56,Card,16,2025-04-20,267,False,5.0,Delayed,2835.12,3,2,4,9
+C5103,Female,Adult,Lahore,2024-07-04,2025-02-19,KFC,Continental,2,1435.77,Wallet,7,2025-07-02,226,False,-1.0,Cancelled,2871.54,4,1,4,9
+C3460,Other,Teenager,Lahore,2024-07-05,2024-09-16,Subway,Italian,3,118.38,Card,5,2024-10-06,199,True,-1.0,Cancelled,355.14,1,1,1,3
+C5742,Female,Teenager,Lahore,2024-07-06,2025-01-21,Burger King,Continental,2,671.25,Cash,34,2025-04-20,247,False,-1.0,Cancelled,1342.5,3,4,2,9
+C1855,Female,Senior,Lahore,2024-07-06,2025-01-12,Burger King,Chinese,5,917.35,Cash,50,2025-04-14,271,True,4.0,Delivered,4586.75,3,5,5,13
+C2106,Male,Senior,Lahore,2024-07-07,2024-08-28,KFC,Chinese,2,338.73,Wallet,50,2025-07-01,465,True,3.0,Delayed,677.46,4,5,1,10
+C6090,Female,Senior,Lahore,2024-07-08,2024-12-22,Subway,Fast Food,3,573.35,Cash,32,2025-04-22,305,True,1.0,Delivered,1720.0500000000002,3,4,3,10
+C4784,Other,Senior,Lahore,2024-07-08,2024-10-20,Pizza Hut,Chinese,4,744.24,Card,22,2025-03-04,471,True,1.0,Delayed,2976.96,2,3,4,9
+C5359,Male,Teenager,Lahore,2023-09-16,2024-07-08,KFC,Fast Food,2,833.96,Card,39,2025-04-04,392,True,-1.0,Cancelled,1667.92,3,4,3,10
+C4435,Other,Adult,Lahore,2024-07-08,2024-10-17,McDonald's,Dessert,3,1087.84,Card,5,2024-11-19,183,False,2.0,Delayed,3263.5199999999995,1,1,4,6
+C2705,Other,Adult,Lahore,2024-04-26,2024-07-08,KFC,Chinese,2,1050.61,Cash,14,2025-01-14,89,True,3.0,Delivered,2101.22,1,2,3,6
+C4645,Male,Senior,Lahore,2024-07-08,2024-08-01,KFC,Italian,4,1430.06,Wallet,24,2025-03-18,130,True,-1.0,Cancelled,5720.24,2,3,5,10
+C3780,Female,Adult,Lahore,2024-01-13,2024-07-09,McDonald's,Fast Food,3,307.3,Wallet,2,2025-03-01,327,True,-1.0,Cancelled,921.9000000000001,2,1,2,5
+C1817,Female,Senior,Lahore,2024-03-13,2024-07-10,McDonald's,Chinese,1,1158.5,Wallet,39,2024-10-28,43,True,1.0,Delivered,1158.5,1,4,2,7
+C2945,Other,Adult,Lahore,2024-06-12,2024-07-11,Pizza Hut,Continental,1,1277.76,Cash,29,2025-01-10,90,False,-1.0,Cancelled,1277.76,1,3,2,6
+C6917,Female,Teenager,Lahore,2024-07-12,2024-08-24,Subway,Dessert,3,408.18,Wallet,15,2025-07-26,263,False,-1.0,Cancelled,1224.54,5,2,2,9
+C6476,Female,Teenager,Lahore,2024-07-12,2024-12-11,Pizza Hut,Italian,1,208.8,Card,36,2024-12-17,402,True,1.0,Delivered,208.8,1,4,1,6
+C6238,Other,Adult,Lahore,2024-01-16,2024-07-12,McDonald's,Continental,4,386.98,Wallet,19,2024-12-03,340,False,5.0,Delayed,1547.92,1,2,3,6
+C4925,Male,Teenager,Lahore,2024-07-13,2024-09-17,McDonald's,Continental,3,412.99,Wallet,11,2024-12-05,35,True,1.0,Delivered,1238.97,1,1,2,4
+C1689,Female,Adult,Lahore,2024-07-13,2024-12-28,Subway,Continental,2,1407.39,Wallet,37,2025-07-11,296,True,4.0,Delayed,2814.78,4,4,4,12
+C3286,Female,Adult,Lahore,2023-12-23,2024-07-13,Burger King,Continental,2,477.57,Wallet,12,2024-10-07,101,False,5.0,Delayed,955.14,1,2,2,5
+C3995,Other,Senior,Lahore,2023-12-20,2024-07-15,Burger King,Italian,3,944.32,Card,25,2024-11-01,440,False,-1.0,Cancelled,2832.96,1,3,4,8
+C4380,Other,Senior,Lahore,2024-07-15,2024-09-08,Subway,Dessert,5,1482.01,Wallet,29,2025-05-29,309,False,1.0,Delivered,7410.05,4,3,5,12
+C5608,Female,Adult,Lahore,2024-07-16,2024-09-13,Pizza Hut,Fast Food,5,330.82,Cash,35,2025-02-22,130,True,5.0,Delayed,1654.1,2,4,3,9
+C4559,Male,Adult,Lahore,2024-07-17,2025-01-15,KFC,Italian,1,1323.35,Card,27,2025-03-27,379,True,-1.0,Cancelled,1323.35,2,3,2,7
+C6632,Female,Adult,Lahore,2024-07-18,2025-02-08,KFC,Continental,4,1060.47,Card,19,2025-03-28,3,False,5.0,Delayed,4241.88,2,2,5,9
+C2135,Other,Adult,Lahore,2024-06-10,2024-07-19,McDonald's,Chinese,1,860.91,Cash,29,2024-09-25,445,False,-1.0,Cancelled,860.91,1,3,2,6
+C1881,Male,Senior,Lahore,2023-10-08,2024-07-19,Burger King,Continental,2,927.73,Cash,42,2025-02-18,346,True,-1.0,Cancelled,1855.46,2,5,3,10
+C5197,Male,Senior,Lahore,2024-07-19,2025-01-26,Subway,Italian,1,951.72,Card,20,2025-05-04,408,False,4.0,Delayed,951.72,3,2,2,7
+C5708,Male,Teenager,Lahore,2024-07-19,2024-09-22,Subway,Italian,3,1244.19,Cash,24,2024-09-29,293,True,3.0,Delivered,3732.57,1,3,4,8
+C5404,Male,Senior,Lahore,2024-01-05,2024-07-20,Subway,Italian,1,821.68,Wallet,33,2024-09-23,13,True,2.0,Delivered,821.68,1,4,1,6
+C5552,Male,Senior,Lahore,2024-07-21,2024-12-21,KFC,Dessert,4,886.7,Card,15,2025-04-30,340,True,4.0,Delivered,3546.8,3,2,4,9
+C2873,Male,Teenager,Lahore,2024-04-11,2024-07-22,KFC,Dessert,1,733.54,Cash,38,2024-10-11,43,True,2.0,Delayed,733.54,1,4,1,6
+C5253,Male,Adult,Lahore,2023-08-25,2024-07-23,KFC,Fast Food,2,1146.6,Card,35,2024-11-25,67,False,4.0,Delayed,2293.2,1,4,3,8
+C6330,Male,Adult,Lahore,2024-05-10,2024-07-23,Subway,Fast Food,1,998.21,Cash,4,2025-03-22,284,True,4.0,Delivered,998.21,2,1,2,5
+C1135,Male,Senior,Lahore,2024-07-13,2024-07-23,Burger King,Chinese,5,1255.02,Card,44,2024-12-04,334,False,2.0,Delivered,6275.1,1,5,5,11
+C3425,Male,Adult,Lahore,2024-07-24,2024-11-14,Pizza Hut,Italian,5,1238.63,Cash,45,2025-04-30,18,False,5.0,Delivered,6193.150000000001,3,5,5,13
+C2597,Female,Teenager,Lahore,2024-07-24,2024-11-29,Subway,Fast Food,5,175.25,Card,38,2025-01-26,92,True,-1.0,Cancelled,876.25,2,4,2,8
+C1824,Female,Adult,Lahore,2024-07-25,2025-06-08,McDonald's,Chinese,3,923.28,Wallet,22,2025-07-20,245,True,-1.0,Cancelled,2769.84,5,3,4,12
+C1508,Other,Teenager,Lahore,2023-09-16,2024-07-26,Subway,Fast Food,1,1287.45,Cash,33,2025-04-07,156,False,4.0,Delayed,1287.45,3,4,2,9
+C3869,Female,Teenager,Lahore,2023-12-23,2024-07-26,KFC,Chinese,5,1292.33,Wallet,35,2025-06-03,409,True,5.0,Delivered,6461.65,4,4,5,13
+C1360,Other,Teenager,Lahore,2024-05-03,2024-07-28,KFC,Chinese,3,857.94,Wallet,14,2025-03-31,111,True,3.0,Delayed,2573.82,2,2,4,8
+C5011,Other,Senior,Lahore,2024-07-29,2024-10-02,Pizza Hut,Italian,1,1157.2,Card,33,2024-10-27,31,True,3.0,Delayed,1157.2,1,4,2,7
+C1397,Female,Adult,Lahore,2024-07-30,2025-02-09,Subway,Fast Food,1,270.05,Card,15,2025-07-14,427,True,4.0,Delayed,270.05,5,2,1,8
+C3438,Other,Senior,Lahore,2023-11-27,2024-07-31,Subway,Chinese,5,263.31,Card,47,2025-06-27,81,True,4.0,Delivered,1316.55,4,5,2,11
+C2677,Other,Adult,Lahore,2024-07-31,2025-03-07,KFC,Continental,1,1042.64,Wallet,1,2025-06-18,165,True,-1.0,Cancelled,1042.64,4,1,2,7
+C3825,Female,Adult,Lahore,2024-07-05,2024-07-31,McDonald's,Continental,2,905.42,Cash,21,2025-03-12,129,True,3.0,Delivered,1810.84,2,3,3,8
+C1583,Male,Teenager,Lahore,2024-07-31,2025-04-06,Pizza Hut,Chinese,3,1423.85,Wallet,34,2025-04-29,221,False,-1.0,Cancelled,4271.549999999999,3,4,5,12
+C6065,Other,Senior,Lahore,2024-05-15,2024-08-01,Burger King,Fast Food,4,273.5,Cash,12,2025-01-22,153,False,1.0,Delivered,1094.0,2,2,2,6
+C6910,Male,Senior,Lahore,2024-01-20,2024-08-01,Burger King,Chinese,1,1078.27,Wallet,25,2024-09-12,372,True,4.0,Delivered,1078.27,1,3,2,6
+C6962,Female,Teenager,Lahore,2024-08-02,2024-08-02,Subway,Fast Food,2,971.23,Wallet,11,2025-08-07,278,True,5.0,Delivered,1942.46,5,1,3,9
+C4267,Other,Teenager,Lahore,2024-08-02,2025-02-06,Burger King,Fast Food,3,1125.2,Card,29,2025-08-01,338,False,4.0,Delayed,3375.6000000000004,5,3,4,12
+C5774,Female,Senior,Lahore,2024-08-02,2025-04-15,Pizza Hut,Fast Food,2,1434.37,Cash,19,2025-06-23,499,False,-1.0,Cancelled,2868.74,4,2,4,10
+C4409,Male,Teenager,Lahore,2024-08-03,2024-12-28,Burger King,Continental,2,1063.31,Cash,9,2025-03-14,200,True,4.0,Delayed,2126.62,2,1,3,6
+C4864,Female,Adult,Lahore,2024-08-03,2024-10-31,Subway,Italian,5,1284.79,Cash,9,2025-05-14,428,True,-1.0,Cancelled,6423.95,3,1,5,9
+C3378,Other,Adult,Lahore,2024-08-05,2024-09-23,KFC,Continental,5,897.36,Cash,48,2025-06-16,471,True,-1.0,Cancelled,4486.8,4,5,5,14
+C1314,Male,Teenager,Lahore,2024-08-05,2024-08-28,Pizza Hut,Chinese,1,1411.03,Cash,36,2025-05-12,412,True,-1.0,Cancelled,1411.03,3,4,2,9
+C2837,Female,Senior,Lahore,2024-06-21,2024-08-05,KFC,Dessert,1,1145.07,Cash,37,2025-07-18,434,False,-1.0,Cancelled,1145.07,5,4,2,11
+C6526,Other,Teenager,Lahore,2024-06-01,2024-08-05,Pizza Hut,Continental,4,453.16,Card,32,2024-12-09,402,False,1.0,Delivered,1812.64,1,4,3,8
+C4959,Other,Senior,Lahore,2023-10-18,2024-08-05,Pizza Hut,Chinese,1,1105.88,Card,42,2025-02-25,147,False,3.0,Delayed,1105.88,2,5,2,9
+C1119,Male,Senior,Lahore,2023-12-22,2024-08-06,Subway,Dessert,3,346.11,Wallet,50,2024-11-30,45,True,2.0,Delivered,1038.33,1,5,2,8
+C6699,Male,Teenager,Lahore,2024-08-07,2024-09-27,McDonald's,Continental,1,101.73,Card,12,2025-04-24,44,False,-1.0,Cancelled,101.73,3,2,1,6
+C4262,Other,Teenager,Lahore,2023-09-16,2024-08-07,Subway,Dessert,5,1293.15,Card,1,2025-07-24,254,True,1.0,Delayed,6465.75,5,1,5,11
+C5690,Male,Teenager,Lahore,2024-08-07,2025-04-08,KFC,Chinese,3,1379.83,Card,11,2025-05-06,88,False,5.0,Delayed,4139.49,3,1,5,9
+C3843,Female,Senior,Lahore,2024-08-08,2024-10-12,Pizza Hut,Chinese,4,514.79,Wallet,15,2025-06-02,279,False,1.0,Delivered,2059.16,4,2,3,9
+C4790,Other,Adult,Lahore,2024-08-08,2024-12-22,Burger King,Continental,3,711.16,Card,26,2025-04-06,257,False,5.0,Delayed,2133.48,3,3,3,9
+C5085,Other,Adult,Lahore,2024-08-08,2024-11-23,McDonald's,Italian,2,1018.41,Cash,22,2025-07-14,255,True,1.0,Delayed,2036.82,5,3,3,11
+C1854,Other,Adult,Lahore,2024-03-07,2024-08-08,McDonald's,Fast Food,1,781.29,Cash,6,2024-12-29,130,False,3.0,Delivered,781.29,1,1,1,3
+C2740,Female,Teenager,Lahore,2024-02-03,2024-08-09,Burger King,Continental,5,1169.01,Cash,41,2024-11-16,432,True,-1.0,Cancelled,5845.05,1,5,5,11
+C1103,Male,Adult,Lahore,2023-09-06,2024-08-09,Pizza Hut,Chinese,2,758.28,Card,23,2025-03-31,17,True,-1.0,Cancelled,1516.56,2,3,3,8
+C1436,Female,Senior,Lahore,2023-11-07,2024-08-10,Pizza Hut,Italian,1,1400.84,Wallet,13,2025-07-17,489,True,3.0,Delivered,1400.84,5,2,2,9
+C5251,Female,Teenager,Lahore,2024-08-10,2025-01-16,Subway,Italian,5,765.5,Card,45,2025-08-06,462,True,2.0,Delivered,3827.5,5,5,4,14
+C3345,Other,Teenager,Lahore,2024-02-08,2024-08-10,KFC,Dessert,3,783.43,Cash,11,2025-08-08,458,False,3.0,Delivered,2350.29,5,1,3,9
+C2089,Other,Adult,Lahore,2024-07-11,2024-08-11,McDonald's,Continental,1,794.41,Wallet,28,2024-11-16,495,False,1.0,Delayed,794.41,1,3,1,5
+C4293,Female,Teenager,Lahore,2024-08-11,2024-09-15,McDonald's,Italian,2,170.99,Cash,21,2024-10-01,370,False,-1.0,Cancelled,341.98,1,3,1,5
+C1435,Female,Adult,Lahore,2023-09-30,2024-08-11,KFC,Fast Food,3,358.9,Wallet,21,2024-10-08,492,True,-1.0,Cancelled,1076.6999999999998,1,3,2,6
+C5558,Male,Adult,Lahore,2024-08-12,2024-09-10,Burger King,Italian,1,145.92,Card,43,2025-06-09,409,False,2.0,Delivered,145.92,4,5,1,10
+C3135,Male,Senior,Lahore,2024-08-13,2024-10-21,Subway,Dessert,1,539.73,Wallet,9,2025-03-26,416,True,5.0,Delayed,539.73,2,1,1,4
+C6252,Male,Teenager,Lahore,2024-08-08,2024-08-13,Pizza Hut,Continental,5,268.7,Card,2,2024-10-23,219,True,2.0,Delayed,1343.5,1,1,2,4
+C1499,Female,Adult,Lahore,2024-08-14,2025-03-03,Subway,Dessert,3,625.21,Card,42,2025-03-29,103,True,-1.0,Cancelled,1875.63,2,5,3,10
+C1845,Other,Teenager,Lahore,2024-08-14,2025-03-05,Pizza Hut,Chinese,2,705.98,Cash,8,2025-03-27,318,False,2.0,Delivered,1411.96,2,1,2,5
+C6416,Other,Senior,Lahore,2023-12-01,2024-08-14,Pizza Hut,Dessert,4,964.26,Card,37,2024-11-10,495,True,-1.0,Cancelled,3857.04,1,4,4,9
+C5008,Other,Senior,Lahore,2024-08-15,2025-02-01,McDonald's,Italian,3,122.72,Wallet,8,2025-06-27,250,True,-1.0,Cancelled,368.15999999999997,4,1,1,6
+C2679,Female,Senior,Lahore,2024-08-15,2025-05-24,KFC,Fast Food,1,405.64,Wallet,41,2025-08-05,350,True,5.0,Delivered,405.64,5,5,1,11
+C5115,Male,Senior,Lahore,2024-05-01,2024-08-16,McDonald's,Italian,1,1007.36,Cash,19,2025-06-13,392,True,3.0,Delayed,1007.36,4,2,2,8
+C2383,Other,Teenager,Lahore,2024-04-23,2024-08-16,Burger King,Fast Food,2,770.13,Wallet,16,2024-09-10,334,True,4.0,Delivered,1540.26,1,2,3,6
+C3574,Other,Senior,Lahore,2023-08-23,2024-08-18,Subway,Chinese,2,455.88,Cash,30,2024-11-05,35,True,-1.0,Cancelled,911.76,1,3,2,6
+C3655,Male,Teenager,Lahore,2024-06-27,2024-08-18,KFC,Dessert,4,1176.24,Wallet,37,2025-08-06,446,False,-1.0,Cancelled,4704.96,5,4,5,14
+C1599,Male,Senior,Lahore,2024-02-02,2024-08-19,Pizza Hut,Italian,2,1330.48,Cash,47,2024-12-06,356,False,2.0,Delayed,2660.96,1,5,4,10
+C4003,Other,Senior,Lahore,2024-08-19,2024-11-09,Burger King,Italian,2,1285.29,Wallet,32,2025-08-10,203,False,4.0,Delayed,2570.58,5,4,4,13
+C2313,Other,Senior,Lahore,2024-08-18,2024-08-19,KFC,Fast Food,4,431.44,Wallet,30,2025-01-03,484,False,-1.0,Cancelled,1725.76,1,3,3,7
+C6888,Other,Teenager,Lahore,2023-10-29,2024-08-20,Subway,Italian,3,306.82,Card,49,2025-04-08,258,False,3.0,Delivered,920.46,3,5,2,10
+C5540,Other,Adult,Lahore,2024-08-11,2024-08-21,Burger King,Fast Food,1,479.68,Wallet,26,2025-03-03,69,False,-1.0,Cancelled,479.68,2,3,1,6
+C2912,Other,Senior,Lahore,2024-05-22,2024-08-21,KFC,Italian,5,1487.71,Wallet,27,2024-12-11,445,True,3.0,Delivered,7438.55,1,3,5,9
+C4644,Female,Senior,Lahore,2023-09-21,2024-08-22,Burger King,Fast Food,1,1122.32,Cash,37,2025-05-06,402,False,4.0,Delayed,1122.32,3,4,2,9
+C5118,Female,Adult,Lahore,2023-10-30,2024-08-22,KFC,Continental,3,431.52,Cash,14,2025-01-23,292,True,-1.0,Cancelled,1294.56,2,2,2,6
+C5184,Male,Adult,Lahore,2023-11-16,2024-08-23,McDonald's,Continental,5,1114.25,Wallet,26,2025-06-30,0,False,4.0,Delivered,5571.25,4,3,5,12
+C4024,Male,Teenager,Lahore,2024-08-23,2024-12-10,Subway,Chinese,4,1382.56,Card,18,2025-03-02,452,False,2.0,Delivered,5530.24,2,2,5,9
+C6948,Male,Senior,Lahore,2024-08-24,2025-01-09,Burger King,Dessert,5,1220.05,Cash,48,2025-05-25,189,True,-1.0,Cancelled,6100.25,3,5,5,13
+C1752,Male,Senior,Lahore,2024-02-28,2024-08-25,Subway,Chinese,4,651.37,Card,24,2024-12-09,71,True,-1.0,Cancelled,2605.48,1,3,4,8
+C5969,Male,Adult,Lahore,2024-08-25,2025-02-04,Pizza Hut,Chinese,5,456.64,Card,41,2025-05-23,273,False,2.0,Delivered,2283.2,3,5,3,11
+C2278,Other,Adult,Lahore,2024-04-13,2024-08-26,KFC,Fast Food,4,1008.46,Wallet,10,2025-02-12,490,True,2.0,Delayed,4033.84,2,1,5,8
+C5091,Other,Senior,Lahore,2024-08-26,2024-11-04,Burger King,Continental,5,1226.24,Wallet,39,2025-07-16,234,True,3.0,Delayed,6131.2,5,4,5,14
+C2187,Female,Senior,Lahore,2024-08-28,2024-12-22,Burger King,Chinese,1,1061.75,Wallet,41,2025-07-04,365,True,2.0,Delayed,1061.75,4,5,2,11
+C1882,Male,Adult,Lahore,2024-08-28,2024-10-25,Subway,Fast Food,4,645.32,Wallet,26,2025-04-15,168,True,-1.0,Cancelled,2581.28,3,3,4,10
+C1418,Male,Teenager,Lahore,2024-07-05,2024-08-28,Pizza Hut,Continental,2,482.56,Cash,39,2024-09-09,455,True,2.0,Delayed,965.12,1,4,2,7
+C1178,Female,Adult,Lahore,2024-08-30,2025-05-08,Pizza Hut,Chinese,3,125.52,Wallet,22,2025-07-24,354,False,2.0,Delayed,376.56,5,3,1,9
+C3404,Male,Senior,Lahore,2023-12-20,2024-08-30,KFC,Italian,5,522.36,Cash,12,2024-10-04,384,True,-1.0,Cancelled,2611.8,1,2,4,7
+C6583,Male,Adult,Lahore,2024-08-30,2025-06-05,Burger King,Chinese,5,530.44,Wallet,2,2025-07-06,454,False,4.0,Delivered,2652.2000000000003,4,1,4,9
+C1030,Other,Adult,Lahore,2024-08-31,2024-12-07,Burger King,Continental,1,1269.19,Cash,36,2025-02-14,454,False,-1.0,Cancelled,1269.19,2,4,2,8
+C3002,Other,Adult,Lahore,2024-07-10,2024-08-31,McDonald's,Fast Food,1,1231.63,Cash,26,2024-10-26,251,False,5.0,Delivered,1231.63,1,3,2,6
+C6825,Male,Senior,Lahore,2023-10-04,2024-09-01,McDonald's,Dessert,4,344.08,Cash,49,2025-03-20,310,False,5.0,Delayed,1376.32,2,5,2,9
+C3295,Female,Senior,Lahore,2024-08-30,2024-09-01,Pizza Hut,Chinese,1,240.77,Card,14,2025-07-19,179,True,1.0,Delivered,240.77,5,2,1,8
+C4428,Other,Adult,Lahore,2024-09-02,2024-11-05,Pizza Hut,Fast Food,3,280.69,Wallet,21,2024-12-05,95,False,1.0,Delivered,842.0699999999999,1,3,2,6
+C6115,Female,Adult,Lahore,2024-09-02,2025-01-04,Subway,Chinese,3,1261.71,Wallet,2,2025-05-12,198,False,1.0,Delayed,3785.13,3,1,4,8
+C5351,Other,Adult,Lahore,2024-01-07,2024-09-02,McDonald's,Continental,4,330.64,Cash,19,2024-11-15,73,False,4.0,Delivered,1322.56,1,2,2,5
+C2639,Male,Teenager,Lahore,2024-09-02,2024-12-07,Subway,Italian,5,929.29,Wallet,37,2025-03-05,265,False,3.0,Delayed,4646.45,2,4,5,11
+C6633,Female,Adult,Lahore,2024-04-14,2024-09-03,Burger King,Dessert,5,121.22,Card,15,2024-10-17,257,True,-1.0,Cancelled,606.1,1,2,1,4
+C1569,Male,Teenager,Lahore,2024-09-03,2024-12-13,McDonald's,Fast Food,4,1028.97,Wallet,12,2025-06-02,177,True,1.0,Delivered,4115.88,4,2,5,11
+C2185,Female,Senior,Lahore,2024-09-03,2024-10-01,Pizza Hut,Italian,2,1085.28,Cash,8,2024-12-18,46,True,1.0,Delayed,2170.56,1,1,3,5
+C6205,Female,Adult,Lahore,2024-05-08,2024-09-03,McDonald's,Continental,5,1349.28,Wallet,28,2025-08-16,297,True,2.0,Delayed,6746.4,5,3,5,13
+C2095,Other,Teenager,Lahore,2024-09-04,2024-10-15,KFC,Chinese,1,1030.3,Card,35,2025-02-19,381,True,5.0,Delivered,1030.3,2,4,2,8
+C4895,Other,Senior,Lahore,2024-08-19,2024-09-04,KFC,Italian,3,640.14,Card,38,2025-02-11,495,False,1.0,Delayed,1920.42,2,4,3,9
+C1687,Male,Adult,Lahore,2024-07-11,2024-09-04,McDonald's,Italian,3,719.71,Cash,29,2025-08-11,402,False,2.0,Delayed,2159.13,5,3,3,11
+C3133,Other,Senior,Lahore,2024-09-05,2024-11-07,Subway,Continental,5,969.9,Cash,32,2024-12-07,376,False,4.0,Delayed,4849.5,1,4,5,10
+C3584,Female,Teenager,Lahore,2024-09-06,2025-02-09,Burger King,Chinese,5,846.33,Wallet,35,2025-07-09,35,False,1.0,Delivered,4231.650000000001,4,4,5,13
+C4963,Male,Teenager,Lahore,2023-10-24,2024-09-07,Subway,Fast Food,3,1457.58,Wallet,4,2025-01-12,496,True,2.0,Delivered,4372.74,1,1,5,7
+C5106,Male,Adult,Lahore,2024-06-29,2024-09-08,KFC,Italian,4,151.13,Wallet,15,2025-06-19,397,False,1.0,Delivered,604.52,4,2,1,7
+C1615,Male,Adult,Lahore,2024-04-30,2024-09-08,Pizza Hut,Italian,3,1340.32,Cash,48,2025-05-26,395,True,2.0,Delayed,4020.96,3,5,5,13
+C6291,Male,Teenager,Lahore,2024-09-08,2024-11-07,Subway,Fast Food,4,474.2,Card,10,2025-07-20,207,True,-1.0,Cancelled,1896.8,5,1,3,9
+C1735,Other,Senior,Lahore,2023-09-27,2024-09-08,McDonald's,Fast Food,5,541.99,Card,27,2025-05-11,219,True,-1.0,Cancelled,2709.95,3,3,4,10
+C2970,Male,Teenager,Lahore,2024-07-01,2024-09-08,Pizza Hut,Italian,3,1222.86,Cash,35,2025-01-13,9,False,3.0,Delivered,3668.58,1,4,4,9
+C6316,Other,Teenager,Lahore,2024-07-29,2024-09-09,McDonald's,Fast Food,1,500.88,Card,31,2025-08-13,126,True,2.0,Delivered,500.88,5,4,1,10
+C4837,Other,Adult,Lahore,2024-03-29,2024-09-10,Subway,Fast Food,3,778.48,Card,49,2024-10-16,264,True,4.0,Delivered,2335.44,1,5,3,9
+C2220,Female,Senior,Lahore,2023-11-21,2024-09-11,KFC,Fast Food,5,1333.37,Card,17,2024-12-21,58,False,5.0,Delivered,6666.849999999999,1,2,5,8
+C2442,Female,Adult,Lahore,2023-11-24,2024-09-11,Pizza Hut,Fast Food,3,443.87,Cash,20,2025-04-12,397,False,3.0,Delivered,1331.6100000000001,3,2,2,7
+C2908,Male,Adult,Lahore,2024-09-11,2024-10-08,McDonald's,Dessert,3,998.75,Card,17,2025-01-11,432,True,1.0,Delivered,2996.25,1,2,4,7
+C6155,Other,Adult,Lahore,2024-04-10,2024-09-12,KFC,Continental,5,1332.13,Card,40,2024-09-19,175,True,1.0,Delivered,6660.650000000001,1,4,5,10
+C1768,Other,Teenager,Lahore,2024-09-10,2024-09-12,McDonald's,Continental,4,360.55,Wallet,27,2024-12-06,367,True,1.0,Delayed,1442.2,1,3,2,6
+C2295,Female,Teenager,Lahore,2023-10-31,2024-09-12,Burger King,Dessert,5,898.52,Cash,16,2025-04-22,321,False,5.0,Delivered,4492.6,3,2,5,10
+C4010,Male,Senior,Lahore,2024-03-15,2024-09-13,Pizza Hut,Italian,2,1406.72,Wallet,50,2025-08-10,400,False,-1.0,Cancelled,2813.44,5,5,4,14
+C3192,Female,Adult,Lahore,2024-09-13,2024-12-10,Pizza Hut,Dessert,2,323.84,Card,27,2025-08-15,305,True,-1.0,Cancelled,647.68,5,3,1,9
+C2281,Other,Teenager,Lahore,2023-11-25,2024-09-13,Subway,Chinese,5,245.89,Wallet,11,2024-12-24,291,True,-1.0,Cancelled,1229.4499999999998,1,1,2,4
+C3531,Male,Teenager,Lahore,2023-12-01,2024-09-13,KFC,Fast Food,1,1061.36,Wallet,29,2024-09-30,140,False,3.0,Delayed,1061.36,1,3,2,6
+C5147,Male,Senior,Lahore,2023-11-26,2024-09-15,Pizza Hut,Chinese,3,992.78,Cash,5,2024-10-25,336,True,2.0,Delayed,2978.34,1,1,4,6
+C3450,Female,Teenager,Lahore,2023-08-28,2024-09-15,Pizza Hut,Italian,4,1096.24,Card,37,2025-03-10,191,True,-1.0,Cancelled,4384.96,2,4,5,11
+C1986,Male,Teenager,Lahore,2024-07-25,2024-09-15,McDonald's,Continental,2,695.78,Card,13,2025-01-29,138,True,1.0,Delayed,1391.56,2,2,2,6
+C5041,Other,Teenager,Lahore,2024-05-15,2024-09-15,McDonald's,Continental,2,744.73,Card,5,2024-11-22,459,True,1.0,Delivered,1489.46,1,1,3,5
+C3952,Other,Teenager,Lahore,2024-09-17,2024-12-20,KFC,Continental,5,245.62,Card,1,2025-07-21,236,True,-1.0,Cancelled,1228.1,5,1,2,8
+C2555,Female,Senior,Lahore,2024-09-18,2024-10-26,Pizza Hut,Continental,4,880.12,Wallet,5,2024-11-17,344,False,-1.0,Cancelled,3520.48,1,1,4,6
+C4312,Other,Senior,Lahore,2024-05-27,2024-09-04,Subway,Italian,5,795.01,Card,9,2024-09-18,249,False,5.0,Delivered,3975.05,1,1,5,7
+C3328,Female,Adult,Lahore,2024-02-17,2024-09-19,Subway,Dessert,3,1358.47,Cash,17,2025-05-16,488,True,3.0,Delayed,4075.41,3,2,5,10
+C2737,Female,Adult,Lahore,2024-07-06,2024-09-19,McDonald's,Dessert,1,709.28,Wallet,8,2025-06-20,444,False,4.0,Delivered,709.28,4,1,1,6
+C5339,Other,Senior,Lahore,2024-09-19,2024-10-06,Pizza Hut,Dessert,2,1175.98,Cash,21,2025-07-05,365,True,3.0,Delivered,2351.96,4,3,3,10
+C6882,Female,Adult,Lahore,2024-09-20,2025-05-30,KFC,Chinese,4,1320.04,Card,48,2025-06-10,95,True,5.0,Delayed,5280.16,4,5,5,14
+C4179,Other,Adult,Lahore,2024-09-21,2024-11-05,Pizza Hut,Italian,3,1410.48,Wallet,34,2024-11-19,239,True,-1.0,Cancelled,4231.4400000000005,1,4,5,10
+C6524,Male,Adult,Lahore,2024-08-23,2024-09-22,McDonald's,Dessert,1,577.83,Card,38,2025-05-16,80,True,3.0,Delayed,577.83,3,4,1,8
+C1870,Other,Teenager,Lahore,2024-09-22,2025-02-18,McDonald's,Italian,2,855.95,Card,33,2025-07-24,160,False,-1.0,Cancelled,1711.9,5,4,3,12
+C6743,Female,Teenager,Lahore,2024-09-23,2025-01-08,Burger King,Italian,1,570.44,Card,50,2025-08-15,173,True,5.0,Delivered,570.44,5,5,1,11
+C4995,Other,Adult,Lahore,2024-09-23,2024-11-19,McDonald's,Continental,1,424.18,Cash,39,2025-03-26,184,False,3.0,Delayed,424.18,2,4,1,7
+C3564,Other,Senior,Lahore,2024-06-06,2024-09-23,KFC,Fast Food,1,266.41,Wallet,16,2024-10-08,139,False,1.0,Delayed,266.41,1,2,1,4
+C4113,Female,Teenager,Lahore,2024-01-05,2024-09-25,Subway,Continental,2,543.21,Cash,7,2025-06-29,64,True,-1.0,Cancelled,1086.42,4,1,2,7
+C4506,Female,Senior,Lahore,2024-01-08,2024-09-26,Burger King,Dessert,1,1073.17,Card,29,2024-12-10,180,True,5.0,Delayed,1073.17,1,3,2,6
+C5333,Female,Senior,Lahore,2023-11-26,2024-09-26,Subway,Fast Food,4,163.95,Cash,36,2025-05-31,401,True,4.0,Delivered,655.8,4,4,1,9
+C2790,Female,Senior,Lahore,2024-09-27,2024-11-16,KFC,Chinese,4,929.93,Wallet,39,2025-06-23,142,False,-1.0,Cancelled,3719.72,4,4,4,12
+C3245,Female,Adult,Lahore,2024-02-02,2024-09-29,McDonald's,Chinese,5,100.3,Card,20,2025-06-25,149,False,-1.0,Cancelled,501.5,4,2,1,7
+C5319,Female,Adult,Lahore,2024-09-30,2024-11-21,Pizza Hut,Continental,2,1298.64,Cash,37,2025-02-07,35,True,3.0,Delivered,2597.28,2,4,4,10
+C5296,Other,Adult,Lahore,2023-10-15,2024-09-30,Pizza Hut,Fast Food,4,588.11,Cash,42,2025-02-03,127,True,-1.0,Cancelled,2352.44,2,5,3,10
+C6835,Male,Adult,Lahore,2024-10-01,2024-11-18,McDonald's,Dessert,1,1028.15,Cash,39,2025-01-28,319,False,3.0,Delivered,1028.15,2,4,2,8
+C4654,Male,Teenager,Lahore,2024-07-21,2024-10-02,Burger King,Chinese,2,834.13,Wallet,3,2025-03-22,243,True,1.0,Delivered,1668.26,2,1,3,6
+C2710,Female,Senior,Lahore,2024-01-11,2024-08-22,Subway,Continental,3,804.47,Wallet,43,2024-10-02,129,False,-1.0,Cancelled,2413.41,1,5,3,9
+C3432,Other,Senior,Lahore,2024-08-30,2024-10-04,Pizza Hut,Continental,5,568.23,Card,31,2025-06-06,203,True,-1.0,Cancelled,2841.15,4,4,4,12
+C2002,Female,Adult,Lahore,2024-04-10,2024-10-04,Pizza Hut,Continental,4,1031.76,Wallet,26,2024-11-21,446,False,2.0,Delayed,4127.04,1,3,5,9
+C6453,Female,Senior,Lahore,2024-07-06,2024-10-04,Burger King,Fast Food,1,840.29,Wallet,17,2025-01-24,369,False,-1.0,Cancelled,840.29,2,2,2,6
+C4581,Other,Senior,Lahore,2024-10-05,2025-05-06,Subway,Fast Food,1,1456.44,Cash,9,2025-05-09,308,True,1.0,Delayed,1456.44,3,1,3,7
+C4980,Male,Teenager,Lahore,2024-10-05,2025-04-12,Pizza Hut,Continental,5,1235.07,Card,14,2025-05-07,278,True,3.0,Delivered,6175.349999999999,3,2,5,10
+C6511,Male,Adult,Lahore,2023-12-09,2024-09-04,Burger King,Dessert,2,478.2,Cash,49,2024-10-05,314,False,3.0,Delayed,956.4,1,5,2,8
+C4646,Other,Teenager,Lahore,2024-07-30,2024-09-07,Pizza Hut,Fast Food,3,360.83,Cash,46,2024-10-05,219,True,1.0,Delivered,1082.49,1,5,2,8
+C6789,Female,Teenager,Lahore,2024-03-03,2024-10-06,KFC,Dessert,2,1143.46,Card,15,2025-06-12,19,False,-1.0,Cancelled,2286.92,4,2,3,9
+C4891,Other,Senior,Lahore,2024-10-06,2025-02-27,McDonald's,Chinese,3,755.74,Cash,29,2025-05-13,279,False,-1.0,Cancelled,2267.2200000000003,3,3,3,9
+C2449,Other,Adult,Lahore,2024-10-07,2024-10-30,Subway,Continental,3,847.54,Card,50,2025-06-12,407,True,4.0,Delayed,2542.62,4,5,4,13
+C3928,Female,Adult,Lahore,2024-05-24,2024-10-07,McDonald's,Continental,2,967.78,Wallet,46,2025-05-19,386,False,5.0,Delayed,1935.56,3,5,3,11
+C3418,Female,Senior,Lahore,2024-06-29,2024-10-08,KFC,Continental,1,494.43,Card,44,2025-08-16,270,True,1.0,Delayed,494.43,5,5,1,11
+C2183,Male,Teenager,Lahore,2024-10-08,2025-03-06,McDonald's,Italian,3,1475.31,Card,5,2025-03-12,451,False,-1.0,Cancelled,4425.93,2,1,5,8
+C6946,Male,Adult,Lahore,2024-05-30,2024-10-08,McDonald's,Dessert,4,1130.25,Card,35,2024-10-12,137,False,5.0,Delayed,4521.0,1,4,5,10
+C1485,Female,Adult,Lahore,2024-02-12,2024-09-25,Pizza Hut,Dessert,3,359.03,Card,22,2024-10-10,351,False,5.0,Delivered,1077.09,1,3,2,6
+C4006,Male,Teenager,Lahore,2024-10-10,2025-02-22,Subway,Fast Food,5,1490.77,Card,39,2025-08-20,78,True,4.0,Delivered,7453.85,5,4,5,14
+C1257,Female,Teenager,Lahore,2023-12-02,2024-10-11,KFC,Italian,4,203.28,Card,23,2025-04-12,433,True,3.0,Delayed,813.12,3,3,1,7
+C3986,Other,Adult,Lahore,2024-10-11,2025-05-28,Pizza Hut,Dessert,3,792.89,Cash,8,2025-08-06,289,True,2.0,Delivered,2378.67,5,1,3,9
+C5526,Male,Senior,Lahore,2023-09-25,2024-09-26,McDonald's,Dessert,5,869.77,Wallet,40,2024-10-11,97,False,1.0,Delivered,4348.85,1,4,5,10
+C3191,Female,Teenager,Lahore,2024-07-17,2024-10-12,Subway,Continental,1,1456.34,Wallet,40,2025-06-12,414,False,4.0,Delayed,1456.34,4,4,3,11
+C2845,Male,Senior,Lahore,2024-09-04,2024-10-13,KFC,Fast Food,2,397.02,Wallet,28,2025-01-11,82,True,5.0,Delivered,794.04,1,3,1,5
+C2001,Female,Senior,Lahore,2024-01-31,2024-10-14,KFC,Italian,5,1131.71,Cash,19,2025-06-04,28,True,5.0,Delayed,5658.55,4,2,5,11
+C3947,Female,Senior,Lahore,2024-09-06,2024-10-14,McDonald's,Italian,2,231.82,Wallet,38,2025-04-12,198,False,-1.0,Cancelled,463.64,3,4,1,8
+C6212,Female,Teenager,Lahore,2024-03-22,2024-10-17,KFC,Fast Food,1,235.42,Card,23,2025-01-28,149,False,-1.0,Cancelled,235.42,2,3,1,6
+C4666,Other,Adult,Lahore,2023-11-09,2024-10-18,McDonald's,Italian,1,306.26,Wallet,6,2025-06-21,377,False,1.0,Delivered,306.26,4,1,1,6
+C4689,Male,Senior,Lahore,2024-10-18,2025-03-27,McDonald's,Italian,3,979.35,Wallet,33,2025-08-09,133,False,4.0,Delayed,2938.05,5,4,4,13
+C2324,Male,Adult,Lahore,2024-10-18,2025-01-18,KFC,Italian,3,1376.28,Card,4,2025-05-14,470,True,2.0,Delayed,4128.84,3,1,5,9
+C3757,Male,Senior,Lahore,2024-10-09,2024-10-18,Burger King,Chinese,3,539.58,Wallet,4,2024-11-08,112,False,-1.0,Cancelled,1618.7400000000002,1,1,3,5
+C1363,Female,Senior,Lahore,2023-10-08,2024-10-19,Pizza Hut,Dessert,4,620.97,Card,46,2025-02-19,257,True,1.0,Delivered,2483.88,2,5,4,11
+C2072,Other,Teenager,Lahore,2024-10-19,2024-12-17,Pizza Hut,Chinese,5,349.23,Wallet,50,2025-07-25,452,False,5.0,Delivered,1746.15,5,5,3,13
+C3240,Male,Adult,Lahore,2024-10-19,2025-01-30,KFC,Dessert,1,1283.62,Cash,45,2025-04-03,427,True,1.0,Delivered,1283.62,3,5,2,10
+C5270,Other,Adult,Lahore,2024-04-12,2024-08-28,Burger King,Italian,3,808.54,Wallet,1,2024-10-20,17,True,2.0,Delivered,2425.62,1,1,3,5
+C4711,Other,Teenager,Lahore,2024-02-08,2024-10-21,Pizza Hut,Italian,1,253.55,Wallet,23,2025-07-15,309,False,-1.0,Cancelled,253.55,5,3,1,9
+C4287,Female,Teenager,Lahore,2024-01-03,2024-10-21,McDonald's,Italian,1,914.01,Wallet,18,2024-12-24,86,False,-1.0,Cancelled,914.01,1,2,2,5
+C5840,Female,Senior,Lahore,2024-10-15,2024-10-21,Subway,Continental,2,291.14,Wallet,44,2025-04-22,412,True,3.0,Delivered,582.28,3,5,1,9
+C5226,Other,Teenager,Lahore,2024-10-21,2024-10-26,Pizza Hut,Continental,3,768.21,Cash,4,2025-07-06,471,True,5.0,Delivered,2304.63,4,1,3,8
+C1939,Female,Teenager,Lahore,2023-10-20,2024-10-21,Subway,Dessert,4,1347.61,Card,15,2024-12-18,55,True,-1.0,Cancelled,5390.44,1,2,5,8
+C5367,Female,Senior,Lahore,2024-10-22,2025-03-07,Pizza Hut,Dessert,2,446.7,Card,44,2025-03-13,298,True,5.0,Delayed,893.4,2,5,2,9
+C1325,Other,Teenager,Lahore,2024-10-22,2024-11-09,KFC,Chinese,1,642.55,Card,17,2025-07-19,236,False,1.0,Delivered,642.55,5,2,1,8
+C4077,Female,Teenager,Lahore,2024-10-03,2024-10-23,Subway,Continental,1,392.44,Card,23,2025-05-24,152,False,-1.0,Cancelled,392.44,3,3,1,7
+C5107,Other,Teenager,Lahore,2024-10-20,2024-10-23,Subway,Italian,5,1458.1,Wallet,6,2024-10-30,320,False,1.0,Delayed,7290.5,1,1,5,7
+C3485,Female,Teenager,Lahore,2023-09-29,2024-10-23,Subway,Italian,4,636.2,Wallet,27,2024-12-18,205,False,-1.0,Cancelled,2544.8,1,3,4,8
+C6431,Other,Adult,Lahore,2023-09-01,2024-09-22,KFC,Continental,2,329.77,Cash,26,2024-10-25,467,False,2.0,Delayed,659.54,1,3,1,5
+C1619,Female,Senior,Lahore,2024-09-08,2024-10-27,McDonald's,Italian,2,1394.81,Cash,50,2024-11-07,158,False,5.0,Delayed,2789.62,1,5,4,10
+C4410,Female,Adult,Lahore,2024-06-01,2024-10-27,Burger King,Italian,5,848.09,Card,35,2025-05-20,75,True,5.0,Delayed,4240.45,3,4,5,12
+C2661,Other,Teenager,Lahore,2024-10-27,2024-12-12,McDonald's,Continental,1,298.89,Card,20,2025-07-02,207,False,3.0,Delayed,298.89,4,2,1,7
+C2301,Male,Adult,Lahore,2023-10-19,2024-10-29,Subway,Fast Food,1,580.04,Wallet,25,2025-02-08,252,False,-1.0,Cancelled,580.04,2,3,1,6
+C3826,Female,Teenager,Lahore,2023-10-15,2024-10-30,McDonald's,Dessert,1,1050.84,Card,1,2025-07-21,318,False,-1.0,Cancelled,1050.84,5,1,2,8
+C1947,Male,Teenager,Lahore,2024-08-08,2024-10-31,KFC,Fast Food,2,356.22,Card,49,2025-04-11,184,True,-1.0,Cancelled,712.44,3,5,1,9
+C2935,Male,Adult,Lahore,2024-11-01,2024-12-31,Subway,Italian,5,459.28,Wallet,36,2025-04-17,27,False,-1.0,Cancelled,2296.3999999999996,3,4,3,10
+C1483,Other,Adult,Lahore,2023-11-03,2024-11-02,KFC,Continental,1,859.38,Cash,20,2025-02-07,288,True,1.0,Delayed,859.38,2,2,2,6
+C4404,Other,Senior,Lahore,2024-10-16,2024-11-02,McDonald's,Chinese,5,116.27,Cash,12,2025-08-04,481,True,-1.0,Cancelled,581.35,5,2,1,8
+C3590,Female,Senior,Lahore,2024-03-25,2024-10-02,McDonald's,Continental,5,1170.5,Card,34,2024-11-03,138,True,-1.0,Cancelled,5852.5,1,4,5,10
+C1885,Male,Teenager,Lahore,2024-04-05,2024-11-03,KFC,Fast Food,2,670.59,Cash,50,2025-07-15,247,True,5.0,Delayed,1341.18,5,5,2,12
+C2251,Male,Teenager,Lahore,2024-11-03,2025-01-21,Burger King,Continental,2,721.87,Wallet,31,2025-04-05,151,False,-1.0,Cancelled,1443.74,3,4,3,10
+C3596,Other,Adult,Lahore,2024-11-05,2025-01-30,Subway,Continental,1,400.11,Card,32,2025-07-27,53,True,1.0,Delivered,400.11,5,4,1,10
+C3184,Male,Senior,Lahore,2024-11-06,2025-01-28,Pizza Hut,Italian,2,921.66,Wallet,38,2025-03-20,101,True,-1.0,Cancelled,1843.32,2,4,3,9
+C4330,Male,Adult,Lahore,2024-05-25,2024-11-07,McDonald's,Continental,4,1309.59,Cash,11,2025-07-06,174,True,4.0,Delayed,5238.36,4,1,5,10
+C4136,Female,Senior,Lahore,2024-02-21,2024-11-08,McDonald's,Italian,2,190.18,Cash,25,2025-04-26,316,True,4.0,Delivered,380.36,3,3,1,7
+C1292,Female,Senior,Lahore,2023-09-07,2024-09-28,McDonald's,Italian,5,276.19,Card,28,2024-11-10,45,True,5.0,Delivered,1380.95,1,3,2,6
+C6109,Female,Adult,Lahore,2024-09-17,2024-11-10,Burger King,Dessert,4,978.28,Cash,24,2025-06-02,317,True,2.0,Delivered,3913.12,4,3,4,11
+C4762,Female,Senior,Lahore,2024-11-10,2024-12-30,McDonald's,Chinese,1,270.97,Cash,41,2025-01-06,358,True,3.0,Delayed,270.97,1,5,1,7
+C3456,Female,Adult,Lahore,2023-08-25,2024-11-10,McDonald's,Chinese,2,1013.78,Cash,20,2025-05-23,433,True,5.0,Delivered,2027.56,3,2,3,8
+C3340,Other,Adult,Lahore,2024-11-09,2024-11-11,Pizza Hut,Chinese,5,886.08,Cash,49,2025-05-03,246,True,3.0,Delivered,4430.400000000001,3,5,5,13
+C4533,Female,Senior,Lahore,2023-10-26,2024-11-12,Burger King,Italian,4,740.26,Wallet,37,2025-01-14,46,True,-1.0,Cancelled,2961.04,1,4,4,9
+C6956,Female,Adult,Lahore,2024-08-26,2024-11-12,Burger King,Dessert,3,467.05,Cash,46,2024-12-10,99,True,5.0,Delayed,1401.15,1,5,2,8
+C5934,Other,Adult,Lahore,2024-10-21,2024-11-12,Burger King,Italian,4,1435.91,Cash,29,2025-04-09,436,False,1.0,Delayed,5743.64,3,3,5,11
+C3058,Female,Teenager,Lahore,2024-07-21,2024-11-12,McDonald's,Dessert,5,1244.15,Cash,28,2025-04-28,323,True,2.0,Delivered,6220.75,3,3,5,11
+C5728,Other,Adult,Lahore,2024-11-13,2025-01-11,McDonald's,Chinese,4,1085.58,Wallet,1,2025-06-27,170,True,-1.0,Cancelled,4342.32,4,1,5,10
+C3923,Male,Senior,Lahore,2024-11-13,2025-03-25,Subway,Dessert,5,849.62,Card,39,2025-04-02,220,False,3.0,Delayed,4248.1,3,4,5,12
+C6503,Female,Adult,Lahore,2024-10-01,2024-11-14,Burger King,Fast Food,3,803.18,Card,41,2025-02-21,302,True,1.0,Delayed,2409.54,2,5,3,10
+C4083,Female,Teenager,Lahore,2024-03-23,2024-11-15,Burger King,Fast Food,5,1438.22,Wallet,19,2025-02-06,472,True,1.0,Delayed,7191.1,2,2,5,9
+C2938,Other,Adult,Lahore,2024-11-16,2024-11-19,Subway,Continental,4,389.67,Cash,39,2025-06-04,137,True,5.0,Delivered,1558.68,4,4,3,11
+C4745,Male,Adult,Lahore,2024-04-21,2024-11-16,McDonald's,Fast Food,1,1477.18,Card,30,2025-01-10,63,False,1.0,Delayed,1477.18,1,3,3,7
+C1273,Male,Teenager,Lahore,2024-11-17,2025-02-19,Pizza Hut,Chinese,1,1064.22,Card,38,2025-03-28,214,True,-1.0,Cancelled,1064.22,2,4,2,8
+C1346,Other,Senior,Lahore,2024-11-05,2024-11-18,Pizza Hut,Chinese,2,351.31,Card,7,2024-12-27,439,False,2.0,Delayed,702.62,1,1,1,3
+C2610,Female,Teenager,Lahore,2023-09-20,2024-11-19,Burger King,Italian,2,1200.02,Wallet,10,2024-12-26,163,False,3.0,Delayed,2400.04,1,1,3,5
+C1790,Male,Senior,Lahore,2024-11-20,2025-07-01,McDonald's,Dessert,1,181.84,Card,6,2025-08-15,63,False,2.0,Delayed,181.84,5,1,1,7
+C5903,Female,Senior,Lahore,2024-07-06,2024-11-20,Subway,Italian,1,932.04,Cash,23,2025-03-26,299,True,2.0,Delivered,932.04,2,3,2,7
+C5380,Male,Teenager,Lahore,2024-11-21,2025-02-10,Pizza Hut,Italian,4,1330.56,Cash,26,2025-03-16,84,True,-1.0,Cancelled,5322.24,2,3,5,10
+C5550,Female,Adult,Lahore,2024-10-18,2024-11-21,KFC,Dessert,5,122.48,Wallet,48,2024-12-30,343,True,-1.0,Cancelled,612.4,1,5,1,7
+C2328,Female,Senior,Lahore,2024-11-22,2025-04-24,McDonald's,Continental,4,227.75,Cash,41,2025-04-30,270,False,-1.0,Cancelled,911.0,3,5,2,10
+C6905,Other,Teenager,Lahore,2024-08-16,2024-11-23,Subway,Dessert,3,228.07,Cash,2,2025-01-06,423,False,-1.0,Cancelled,684.21,1,1,1,3
+C6552,Male,Teenager,Lahore,2024-11-24,2025-01-19,Subway,Chinese,3,1316.11,Card,41,2025-08-05,104,False,5.0,Delivered,3948.33,5,5,4,14
+C3283,Male,Senior,Lahore,2024-11-22,2024-11-24,Pizza Hut,Dessert,4,899.68,Wallet,25,2024-12-20,227,False,4.0,Delivered,3598.72,1,3,4,8
+C5057,Male,Teenager,Lahore,2024-11-25,2024-11-25,McDonald's,Italian,1,490.73,Wallet,18,2024-12-15,485,True,-1.0,Cancelled,490.73,1,2,1,4
+C2462,Male,Adult,Lahore,2024-11-26,2025-01-07,KFC,Continental,3,590.16,Cash,43,2025-06-16,135,False,3.0,Delivered,1770.48,4,5,3,12
+C4106,Other,Senior,Lahore,2024-09-14,2024-11-27,Pizza Hut,Continental,2,440.33,Cash,44,2025-06-14,107,False,3.0,Delayed,880.66,4,5,2,11
+C4816,Female,Teenager,Lahore,2024-09-22,2024-11-28,Pizza Hut,Chinese,3,1276.64,Cash,34,2025-03-19,421,False,3.0,Delivered,3829.92,2,4,4,10
+C6289,Other,Adult,Lahore,2024-11-30,2025-02-09,Subway,Dessert,2,794.81,Card,44,2025-06-27,122,False,-1.0,Cancelled,1589.62,4,5,3,12
+C5417,Male,Senior,Lahore,2023-09-02,2024-08-24,McDonald's,Fast Food,3,155.05,Card,39,2024-11-30,465,True,5.0,Delayed,465.15000000000003,1,4,1,6
+C2312,Female,Senior,Lahore,2024-03-04,2024-12-01,Pizza Hut,Chinese,3,636.54,Wallet,34,2025-01-07,350,False,4.0,Delivered,1909.62,1,4,3,8
+C6443,Female,Adult,Lahore,2024-11-19,2024-12-01,McDonald's,Continental,3,1302.66,Cash,8,2025-01-18,252,False,4.0,Delayed,3907.9800000000005,2,1,4,7
+C4288,Female,Senior,Lahore,2024-12-02,2024-12-10,Pizza Hut,Chinese,1,809.79,Cash,1,2025-05-15,273,True,-1.0,Cancelled,809.79,3,1,1,5
+C2909,Male,Teenager,Lahore,2024-04-11,2024-09-21,Subway,Continental,4,966.96,Card,11,2024-12-03,360,True,-1.0,Cancelled,3867.84,1,1,4,6
+C6535,Male,Adult,Lahore,2024-12-03,2025-01-22,McDonald's,Chinese,1,399.13,Cash,12,2025-07-06,150,True,2.0,Delivered,399.13,4,2,1,7
+C6404,Other,Senior,Lahore,2024-03-02,2024-10-28,KFC,Chinese,5,1261.11,Wallet,45,2024-12-04,324,False,1.0,Delayed,6305.549999999999,1,5,5,11
+C6058,Female,Teenager,Lahore,2023-09-11,2024-12-05,Subway,Fast Food,5,273.97,Card,31,2025-06-11,43,False,3.0,Delayed,1369.8500000000001,4,4,2,10
+C2252,Other,Senior,Lahore,2024-09-29,2024-12-06,Subway,Chinese,4,750.19,Wallet,46,2024-12-19,314,True,4.0,Delayed,3000.76,1,5,4,10
+C6570,Other,Teenager,Lahore,2024-12-07,2025-02-21,Subway,Italian,5,916.03,Cash,50,2025-08-04,58,True,5.0,Delivered,4580.15,5,5,5,15
+C4920,Male,Adult,Lahore,2023-11-19,2024-10-17,Pizza Hut,Chinese,4,1102.32,Cash,27,2024-12-07,112,False,-1.0,Cancelled,4409.28,1,3,5,9
+C5052,Other,Teenager,Lahore,2023-12-27,2024-12-07,Burger King,Continental,4,1467.33,Card,22,2025-02-06,483,True,-1.0,Cancelled,5869.32,2,3,5,10
+C2691,Female,Teenager,Lahore,2024-12-07,2025-06-01,KFC,Continental,5,387.26,Card,48,2025-07-07,415,False,3.0,Delayed,1936.3,4,5,3,12
+C1093,Female,Senior,Lahore,2024-02-17,2024-12-08,McDonald's,Italian,3,252.33,Wallet,42,2025-01-28,50,True,3.0,Delivered,756.99,2,5,1,8
+C2434,Other,Adult,Lahore,2024-12-08,2025-01-01,Pizza Hut,Continental,4,344.17,Wallet,24,2025-06-17,5,True,3.0,Delayed,1376.68,4,3,2,9
+C2052,Male,Teenager,Lahore,2024-12-09,2025-03-29,Pizza Hut,Fast Food,3,1425.05,Cash,29,2025-07-06,302,False,1.0,Delivered,4275.15,4,3,5,12
+C2758,Female,Senior,Lahore,2023-11-10,2024-09-07,Pizza Hut,Fast Food,1,374.06,Wallet,38,2024-12-09,269,False,-1.0,Cancelled,374.06,1,4,1,6
+C4392,Other,Adult,Lahore,2024-12-09,2025-04-03,McDonald's,Chinese,3,845.0,Wallet,42,2025-07-26,381,False,-1.0,Cancelled,2535.0,5,5,4,14
+C6596,Male,Adult,Lahore,2024-07-14,2024-09-14,KFC,Chinese,3,118.44,Wallet,6,2024-12-10,461,True,1.0,Delivered,355.32,1,1,1,3
+C2833,Other,Senior,Lahore,2023-11-14,2024-12-12,KFC,Fast Food,3,1351.4,Card,23,2024-12-25,62,True,3.0,Delivered,4054.2000000000003,1,3,5,9
+C2090,Female,Teenager,Lahore,2024-08-21,2024-12-12,Burger King,Italian,3,1363.45,Card,39,2024-12-19,427,True,5.0,Delayed,4090.3500000000004,1,4,5,10
+C3978,Other,Teenager,Lahore,2024-02-21,2024-11-11,McDonald's,Fast Food,2,265.32,Card,26,2024-12-12,489,True,5.0,Delayed,530.64,1,3,1,5
+C1736,Other,Teenager,Lahore,2024-12-13,2025-02-28,Burger King,Italian,1,628.89,Card,2,2025-06-16,29,True,3.0,Delayed,628.89,4,1,1,6
+C2378,Female,Teenager,Lahore,2024-08-29,2024-12-14,Subway,Chinese,4,735.36,Cash,33,2024-12-21,463,True,4.0,Delivered,2941.44,1,4,4,9
+C2478,Other,Adult,Lahore,2024-11-08,2024-12-16,Pizza Hut,Fast Food,5,1237.16,Wallet,7,2025-02-09,79,True,-1.0,Cancelled,6185.8,2,1,5,8
+C6378,Male,Teenager,Lahore,2024-12-15,2024-12-16,Subway,Chinese,1,571.64,Cash,37,2025-05-05,304,False,-1.0,Cancelled,571.64,3,4,1,8
+C6400,Other,Teenager,Lahore,2024-10-15,2024-10-20,Burger King,Chinese,4,1488.93,Cash,45,2024-12-16,461,False,-1.0,Cancelled,5955.72,1,5,5,11
+C1440,Female,Adult,Lahore,2023-11-10,2024-12-18,Pizza Hut,Chinese,5,1101.28,Wallet,24,2025-07-27,355,True,3.0,Delivered,5506.4,5,3,5,13
+C2127,Female,Senior,Lahore,2024-09-30,2024-12-18,McDonald's,Italian,5,270.04,Card,17,2024-12-20,352,False,1.0,Delivered,1350.2,1,2,2,5
+C1507,Female,Adult,Lahore,2024-12-18,2025-04-28,KFC,Continental,2,964.05,Wallet,45,2025-07-08,213,True,-1.0,Cancelled,1928.1,4,5,3,12
+C2208,Female,Adult,Lahore,2024-04-12,2024-08-28,KFC,Chinese,1,1093.13,Wallet,36,2024-12-18,16,True,1.0,Delivered,1093.13,1,4,2,7
+C3176,Other,Adult,Lahore,2024-12-18,2025-01-11,Burger King,Chinese,1,1486.2,Wallet,8,2025-08-03,96,False,5.0,Delayed,1486.2,5,1,3,9
+C3344,Male,Adult,Lahore,2023-09-03,2024-12-19,Pizza Hut,Chinese,5,1096.76,Wallet,20,2025-08-09,192,True,-1.0,Cancelled,5483.8,5,2,5,12
+C1721,Female,Senior,Lahore,2024-12-20,2025-06-17,Pizza Hut,Dessert,4,479.83,Wallet,8,2025-06-21,286,False,-1.0,Cancelled,1919.32,4,1,3,8
+C3293,Male,Senior,Lahore,2023-11-26,2024-12-20,McDonald's,Chinese,1,495.45,Card,49,2025-07-28,491,False,1.0,Delayed,495.45,5,5,1,11
+C4332,Female,Senior,Lahore,2024-04-21,2024-10-01,Pizza Hut,Fast Food,1,726.23,Cash,34,2024-12-20,350,True,-1.0,Cancelled,726.23,1,4,1,6
+C6099,Female,Adult,Lahore,2024-07-25,2024-12-20,Subway,Continental,3,945.09,Card,49,2025-06-28,101,False,4.0,Delayed,2835.27,4,5,4,13
+C4584,Male,Senior,Lahore,2024-10-01,2024-12-20,Pizza Hut,Italian,3,1246.23,Card,17,2025-04-02,473,False,-1.0,Cancelled,3738.69,3,2,4,9
+C2486,Female,Teenager,Lahore,2024-12-21,2024-12-28,McDonald's,Fast Food,1,212.99,Card,27,2025-03-12,116,False,2.0,Delivered,212.99,2,3,1,6
+C6019,Female,Senior,Lahore,2024-04-23,2024-12-23,Burger King,Continental,4,1342.3,Card,32,2025-03-15,7,True,-1.0,Cancelled,5369.2,2,4,5,11
+C4814,Other,Adult,Lahore,2024-12-24,2025-01-13,Pizza Hut,Dessert,4,651.99,Card,30,2025-01-25,316,False,1.0,Delivered,2607.96,2,3,4,9
+C3208,Other,Adult,Lahore,2024-09-18,2024-12-25,Burger King,Continental,3,1174.61,Cash,7,2025-02-10,477,True,-1.0,Cancelled,3523.83,2,1,4,7
+C1267,Other,Adult,Lahore,2023-09-26,2024-12-25,KFC,Chinese,1,1063.33,Card,18,2025-04-26,490,False,2.0,Delivered,1063.33,3,2,2,7
+C1205,Male,Senior,Lahore,2024-10-03,2024-12-25,Burger King,Dessert,3,1012.9,Card,14,2025-08-14,276,True,-1.0,Cancelled,3038.7,5,2,4,11
+C3004,Male,Senior,Lahore,2024-10-29,2024-12-25,Burger King,Continental,3,589.86,Card,50,2025-02-06,436,True,-1.0,Cancelled,1769.58,2,5,3,10
+C1677,Female,Adult,Lahore,2024-04-18,2024-12-25,KFC,Dessert,5,645.75,Card,7,2025-02-18,5,True,-1.0,Cancelled,3228.75,2,1,4,7
+C6572,Female,Teenager,Lahore,2024-12-26,2025-02-01,Subway,Dessert,3,1002.68,Cash,20,2025-05-21,116,False,-1.0,Cancelled,3008.04,3,2,4,9
+C3746,Female,Teenager,Lahore,2024-11-14,2024-12-26,Pizza Hut,Chinese,5,688.77,Cash,5,2025-07-31,199,False,2.0,Delayed,3443.85,5,1,4,10
+C3846,Female,Senior,Lahore,2023-12-20,2024-12-27,Pizza Hut,Continental,1,638.0,Wallet,1,2025-08-10,103,True,3.0,Delayed,638.0,5,1,1,7
+C5602,Male,Senior,Lahore,2024-03-02,2024-10-07,Subway,Italian,2,234.56,Card,42,2024-12-27,456,True,2.0,Delivered,469.12,1,5,1,7
+C5483,Male,Adult,Lahore,2023-09-29,2024-11-16,Subway,Fast Food,4,459.72,Wallet,29,2024-12-27,137,False,3.0,Delivered,1838.88,1,3,3,7
+C6206,Other,Senior,Lahore,2024-03-06,2024-10-20,McDonald's,Italian,1,243.67,Card,6,2024-12-28,246,True,1.0,Delivered,243.67,1,1,1,3
+C6390,Male,Teenager,Lahore,2024-03-11,2024-12-28,Pizza Hut,Chinese,1,382.86,Wallet,34,2025-05-14,279,True,1.0,Delayed,382.86,3,4,1,8
+C5397,Other,Teenager,Lahore,2023-08-26,2024-11-19,Subway,Chinese,2,245.95,Wallet,4,2024-12-28,373,True,4.0,Delayed,491.9,1,1,1,3
+C1175,Female,Adult,Lahore,2023-09-14,2024-12-02,Subway,Chinese,1,239.45,Wallet,24,2024-12-29,420,False,4.0,Delayed,239.45,1,3,1,5
+C5377,Other,Adult,Lahore,2024-08-15,2024-12-29,McDonald's,Continental,5,146.62,Wallet,48,2025-04-05,150,True,-1.0,Cancelled,733.1,3,5,1,9
+C2564,Other,Teenager,Lahore,2024-11-09,2024-12-30,Subway,Chinese,1,941.57,Wallet,18,2025-07-06,439,True,-1.0,Cancelled,941.57,4,2,2,8
+C1791,Male,Senior,Lahore,2024-01-24,2024-12-30,Subway,Chinese,1,931.82,Cash,28,2025-04-08,207,True,2.0,Delivered,931.82,3,3,2,8
+C1535,Other,Senior,Lahore,2024-09-01,2024-10-01,KFC,Chinese,5,510.96,Cash,3,2024-12-31,308,True,2.0,Delayed,2554.7999999999997,1,1,4,6
+C3349,Male,Senior,Lahore,2024-01-24,2024-11-03,McDonald's,Italian,4,457.09,Cash,50,2025-01-01,435,True,3.0,Delayed,1828.36,1,5,3,9
+C4099,Female,Senior,Lahore,2025-01-01,2025-02-14,KFC,Fast Food,3,349.39,Cash,9,2025-07-07,115,True,4.0,Delayed,1048.17,4,1,2,7
+C5152,Other,Senior,Lahore,2024-11-18,2025-01-02,Pizza Hut,Dessert,5,306.43,Wallet,12,2025-02-17,173,True,-1.0,Cancelled,1532.15,2,2,3,7
+C3000,Female,Teenager,Lahore,2025-01-02,2025-06-16,Subway,Italian,5,647.62,Wallet,32,2025-07-08,381,False,3.0,Delivered,3238.1,4,4,4,12
+C3960,Other,Adult,Lahore,2024-01-25,2025-01-02,Subway,Chinese,1,1499.03,Wallet,4,2025-04-28,153,True,4.0,Delivered,1499.03,3,1,3,7
+C2914,Female,Teenager,Lahore,2024-01-21,2025-01-03,Burger King,Fast Food,3,442.38,Wallet,25,2025-05-25,57,False,-1.0,Cancelled,1327.1399999999999,3,3,2,8
+C6366,Female,Teenager,Lahore,2024-12-07,2025-01-03,KFC,Italian,3,266.28,Cash,45,2025-05-11,411,False,2.0,Delayed,798.8399999999999,3,5,1,9
+C2616,Male,Senior,Lahore,2025-01-04,2025-03-02,KFC,Fast Food,4,1021.19,Wallet,37,2025-07-22,219,False,4.0,Delayed,4084.76,5,4,5,14
+C4658,Male,Senior,Lahore,2024-11-27,2025-01-04,Pizza Hut,Chinese,2,1409.82,Wallet,50,2025-06-09,429,True,2.0,Delayed,2819.64,4,5,4,13
+C1426,Male,Senior,Lahore,2025-01-05,2025-02-16,KFC,Chinese,3,1153.57,Card,29,2025-02-20,212,False,5.0,Delivered,3460.71,2,3,4,9
+C1531,Male,Adult,Lahore,2025-01-05,2025-05-13,KFC,Fast Food,5,1372.79,Card,13,2025-05-13,88,True,2.0,Delivered,6863.95,3,2,5,10
+C5449,Female,Adult,Lahore,2023-11-04,2025-01-06,Subway,Fast Food,3,120.77,Wallet,41,2025-06-12,330,True,-1.0,Cancelled,362.31,4,5,1,10
+C2660,Male,Adult,Lahore,2024-10-26,2024-11-04,KFC,Chinese,1,304.91,Wallet,47,2025-01-07,168,True,-1.0,Cancelled,304.91,1,5,1,7
+C4194,Other,Teenager,Lahore,2024-02-15,2024-09-13,KFC,Dessert,1,1268.36,Card,8,2025-01-07,316,True,5.0,Delayed,1268.36,1,1,2,4
+C6398,Other,Senior,Lahore,2024-10-08,2025-01-08,McDonald's,Continental,3,1291.92,Cash,1,2025-06-18,497,True,-1.0,Cancelled,3875.76,4,1,4,9
+C2759,Other,Teenager,Lahore,2024-03-02,2024-08-27,Subway,Dessert,2,1051.77,Cash,45,2025-01-08,26,False,-1.0,Cancelled,2103.54,1,5,3,9
+C1047,Female,Teenager,Lahore,2024-10-19,2025-01-08,Burger King,Chinese,2,1376.6,Card,11,2025-02-14,32,False,1.0,Delayed,2753.2,2,1,4,7
+C5110,Other,Adult,Lahore,2024-02-27,2025-01-08,Pizza Hut,Dessert,4,1016.92,Cash,10,2025-03-06,344,True,3.0,Delivered,4067.68,2,1,5,8
+C3364,Female,Adult,Lahore,2023-11-18,2025-01-10,KFC,Italian,3,708.98,Cash,13,2025-01-11,435,True,4.0,Delivered,2126.94,1,2,3,6
+C4086,Female,Senior,Lahore,2024-05-04,2025-01-12,KFC,Fast Food,5,1123.4,Wallet,41,2025-04-27,217,True,5.0,Delivered,5617.0,3,5,5,13
+C4878,Male,Teenager,Lahore,2024-09-14,2025-01-13,Pizza Hut,Chinese,5,671.42,Card,50,2025-03-19,471,False,3.0,Delayed,3357.1,2,5,4,11
+C4977,Female,Senior,Lahore,2024-12-25,2025-01-13,KFC,Chinese,2,457.43,Cash,28,2025-07-27,136,False,3.0,Delayed,914.86,5,3,2,10
+C4313,Male,Senior,Lahore,2024-04-26,2024-12-15,Pizza Hut,Chinese,5,1182.47,Wallet,31,2025-01-14,100,True,2.0,Delivered,5912.35,1,4,5,10
+C1920,Other,Adult,Lahore,2023-10-23,2025-01-14,Burger King,Italian,2,841.58,Card,37,2025-08-18,385,False,-1.0,Cancelled,1683.16,5,4,3,12
+C6086,Male,Senior,Lahore,2023-10-11,2025-01-15,Burger King,Fast Food,1,637.18,Cash,36,2025-08-18,278,False,4.0,Delayed,637.18,5,4,1,10
+C4961,Other,Senior,Lahore,2023-09-29,2025-01-16,KFC,Italian,3,1461.03,Cash,24,2025-04-01,41,False,-1.0,Cancelled,4383.09,2,3,5,10
+C4200,Male,Teenager,Lahore,2024-01-08,2025-01-16,Pizza Hut,Fast Food,2,293.77,Wallet,50,2025-05-13,240,True,-1.0,Cancelled,587.54,3,5,1,9
+C4383,Female,Teenager,Lahore,2024-04-16,2025-01-18,McDonald's,Italian,1,402.95,Wallet,37,2025-04-25,158,True,2.0,Delivered,402.95,3,4,1,8
+C6434,Female,Adult,Lahore,2024-11-03,2025-01-18,McDonald's,Fast Food,2,349.08,Cash,21,2025-05-04,86,False,-1.0,Cancelled,698.16,3,3,1,7
+C2287,Female,Teenager,Lahore,2025-01-18,2025-04-08,Pizza Hut,Fast Food,2,911.2,Card,12,2025-06-14,139,True,-1.0,Cancelled,1822.4,4,2,3,9
+C2362,Other,Adult,Lahore,2024-01-02,2025-01-19,Pizza Hut,Chinese,1,1494.59,Card,47,2025-05-20,108,True,-1.0,Cancelled,1494.59,3,5,3,11
+C2958,Male,Teenager,Lahore,2025-01-20,2025-02-10,McDonald's,Fast Food,1,1232.17,Card,37,2025-08-21,434,True,-1.0,Cancelled,1232.17,5,4,2,11
+C6634,Other,Teenager,Lahore,2023-11-06,2025-01-21,KFC,Italian,2,1154.77,Cash,21,2025-04-23,440,True,-1.0,Cancelled,2309.54,3,3,3,9
+C3628,Female,Senior,Lahore,2024-09-21,2024-12-14,Burger King,Chinese,1,518.93,Wallet,37,2025-01-21,175,False,3.0,Delayed,518.93,2,4,1,7
+C4899,Male,Teenager,Lahore,2025-01-22,2025-04-22,McDonald's,Continental,2,1378.74,Cash,9,2025-07-05,500,True,4.0,Delivered,2757.48,4,1,4,9
+C3296,Female,Senior,Lahore,2024-07-13,2025-01-22,Pizza Hut,Dessert,4,1060.19,Wallet,22,2025-07-02,150,False,2.0,Delivered,4240.76,4,3,5,12
+C1581,Female,Teenager,Lahore,2025-01-22,2025-01-22,KFC,Chinese,4,925.84,Wallet,50,2025-04-14,477,False,1.0,Delivered,3703.36,3,5,4,12
+C6452,Other,Adult,Lahore,2023-09-08,2025-01-23,Burger King,Dessert,2,1038.9,Wallet,34,2025-04-13,66,True,5.0,Delivered,2077.8,3,4,3,10
+C1820,Male,Senior,Lahore,2024-07-11,2024-12-16,Subway,Dessert,5,239.29,Cash,8,2025-01-23,248,True,1.0,Delayed,1196.45,2,1,2,5
+C2223,Other,Teenager,Lahore,2024-02-05,2025-01-24,Burger King,Continental,3,1372.03,Wallet,16,2025-07-17,390,False,4.0,Delivered,4116.09,5,2,5,12
+C6242,Other,Teenager,Lahore,2024-12-06,2025-01-24,KFC,Continental,5,142.52,Card,26,2025-04-02,120,False,-1.0,Cancelled,712.6,3,3,1,7
+C6112,Male,Teenager,Lahore,2024-08-12,2024-12-19,Subway,Dessert,5,645.79,Wallet,4,2025-01-24,479,True,3.0,Delayed,3228.95,2,1,4,7
+C4887,Male,Teenager,Lahore,2024-06-24,2024-10-06,KFC,Dessert,3,949.16,Card,10,2025-01-24,97,False,-1.0,Cancelled,2847.48,2,1,4,7
+C5905,Male,Teenager,Lahore,2023-10-05,2025-01-25,Subway,Chinese,4,165.66,Wallet,19,2025-07-06,157,False,-1.0,Cancelled,662.64,4,2,1,7
+C5403,Female,Senior,Lahore,2025-01-26,2025-03-28,Burger King,Fast Food,4,304.02,Cash,31,2025-05-13,369,True,-1.0,Cancelled,1216.08,3,4,2,9
+C2673,Male,Adult,Lahore,2024-05-23,2024-10-21,Burger King,Chinese,1,1234.66,Card,21,2025-01-26,173,True,2.0,Delivered,1234.66,2,3,2,7
+C5776,Male,Adult,Lahore,2024-08-01,2024-10-19,Pizza Hut,Chinese,5,1415.07,Card,45,2025-01-27,52,True,2.0,Delivered,7075.349999999999,2,5,5,12
+C2065,Female,Adult,Lahore,2024-06-15,2025-01-27,Subway,Italian,5,369.26,Wallet,27,2025-07-16,360,False,1.0,Delivered,1846.3,5,3,3,11
+C6319,Female,Senior,Lahore,2024-11-14,2025-01-27,Burger King,Fast Food,4,962.6,Wallet,17,2025-03-09,146,True,2.0,Delivered,3850.4,2,2,4,8
+C6982,Male,Teenager,Lahore,2024-02-26,2024-10-25,Burger King,Italian,2,208.78,Card,46,2025-01-27,435,True,-1.0,Cancelled,417.56,2,5,1,8
+C2889,Female,Teenager,Lahore,2024-08-16,2025-01-28,Burger King,Fast Food,4,1331.66,Card,50,2025-04-10,37,True,1.0,Delayed,5326.64,3,5,5,13
+C3910,Female,Senior,Lahore,2024-12-27,2025-01-28,KFC,Fast Food,2,1128.01,Cash,6,2025-05-01,232,False,5.0,Delayed,2256.02,3,1,3,7
+C3049,Other,Senior,Lahore,2024-09-22,2024-12-09,Subway,Chinese,3,1315.25,Wallet,41,2025-01-28,490,True,1.0,Delivered,3945.75,2,5,4,11
+C3110,Other,Teenager,Lahore,2024-03-18,2024-10-12,Subway,Dessert,4,778.87,Card,28,2025-01-29,480,True,1.0,Delayed,3115.48,2,3,4,9
+C5066,Other,Teenager,Lahore,2023-12-21,2024-09-29,Subway,Fast Food,2,675.4,Wallet,24,2025-01-30,239,True,1.0,Delayed,1350.8,2,3,2,7
+C4768,Other,Senior,Lahore,2024-06-14,2024-09-08,Burger King,Dessert,5,1437.0,Cash,27,2025-01-30,145,False,2.0,Delivered,7185.0,2,3,5,10
+C1666,Female,Teenager,Lahore,2025-01-31,2025-07-18,KFC,Continental,2,796.74,Card,2,2025-07-27,53,True,5.0,Delivered,1593.48,5,1,3,9
+C6692,Male,Teenager,Lahore,2024-06-18,2025-01-31,Subway,Continental,4,1132.09,Cash,7,2025-06-26,343,False,2.0,Delayed,4528.36,4,1,5,10
+C3312,Other,Adult,Lahore,2024-07-31,2025-02-01,Subway,Fast Food,4,126.1,Wallet,20,2025-07-29,137,True,4.0,Delayed,504.4,5,2,1,8
+C1424,Other,Senior,Lahore,2025-02-01,2025-06-15,Burger King,Dessert,2,427.22,Card,47,2025-07-02,146,True,1.0,Delayed,854.44,4,5,2,11
+C1012,Male,Adult,Lahore,2025-02-02,2025-04-25,Burger King,Fast Food,2,305.69,Wallet,10,2025-05-18,103,True,3.0,Delayed,611.38,3,1,1,5
+C4701,Male,Adult,Lahore,2025-02-04,2025-03-09,Pizza Hut,Italian,5,860.54,Card,1,2025-06-18,474,False,4.0,Delayed,4302.7,4,1,5,10
+C3424,Female,Teenager,Lahore,2024-08-26,2025-02-04,Subway,Continental,1,597.7,Cash,5,2025-07-21,376,False,2.0,Delivered,597.7,5,1,1,7
+C2960,Other,Adult,Lahore,2024-02-24,2025-02-05,Pizza Hut,Fast Food,1,121.22,Card,28,2025-04-08,234,True,-1.0,Cancelled,121.22,3,3,1,7
+C4188,Other,Adult,Lahore,2024-05-24,2025-02-05,Subway,Continental,2,418.97,Card,2,2025-04-12,16,True,-1.0,Cancelled,837.94,3,1,1,5
+C2683,Other,Senior,Lahore,2024-10-19,2025-02-05,Pizza Hut,Italian,5,300.58,Cash,1,2025-04-02,130,False,-1.0,Cancelled,1502.8999999999999,3,1,3,7
+C1013,Other,Adult,Lahore,2024-05-06,2025-02-06,Subway,Fast Food,5,106.19,Wallet,24,2025-06-23,287,True,3.0,Delayed,530.95,4,3,1,8
+C4825,Female,Senior,Lahore,2024-04-05,2024-10-16,Pizza Hut,Chinese,5,1121.81,Wallet,47,2025-02-06,107,False,2.0,Delivered,5609.049999999999,2,5,5,12
+C2058,Other,Teenager,Lahore,2023-08-25,2025-02-06,Subway,Fast Food,3,314.94,Card,41,2025-08-14,201,False,5.0,Delayed,944.8199999999999,5,5,2,12
+C6255,Male,Adult,Lahore,2024-02-22,2025-01-07,Pizza Hut,Fast Food,3,418.88,Card,50,2025-02-07,362,False,-1.0,Cancelled,1256.6399999999999,2,5,2,9
+C5832,Female,Adult,Lahore,2024-07-25,2025-02-07,McDonald's,Continental,4,1283.34,Wallet,46,2025-02-14,291,True,3.0,Delayed,5133.36,2,5,5,12
+C4351,Other,Teenager,Lahore,2024-09-27,2025-01-18,Burger King,Italian,3,544.26,Card,26,2025-02-07,317,True,3.0,Delayed,1632.78,2,3,3,8
+C2188,Female,Senior,Lahore,2024-09-03,2025-02-09,Burger King,Continental,5,832.38,Cash,39,2025-08-08,358,True,-1.0,Cancelled,4161.9,5,4,5,14
+C1575,Other,Adult,Lahore,2024-01-26,2024-12-11,Pizza Hut,Italian,5,1333.97,Card,48,2025-02-09,333,False,-1.0,Cancelled,6669.85,2,5,5,12
+C3491,Other,Adult,Lahore,2024-06-06,2025-02-10,KFC,Italian,4,478.36,Card,9,2025-07-09,125,True,-1.0,Cancelled,1913.44,4,1,3,8
+C1302,Other,Adult,Lahore,2024-08-28,2024-12-21,Burger King,Italian,3,583.37,Cash,20,2025-02-10,432,True,4.0,Delivered,1750.1100000000001,2,2,3,7
+C2937,Male,Adult,Lahore,2025-02-11,2025-05-12,McDonald's,Fast Food,3,662.96,Cash,46,2025-06-20,348,False,3.0,Delivered,1988.88,4,5,3,12
+C5450,Other,Adult,Lahore,2024-08-23,2024-11-08,KFC,Fast Food,2,666.83,Wallet,7,2025-02-13,13,False,5.0,Delivered,1333.66,2,1,2,5
+C1739,Male,Adult,Lahore,2024-08-31,2025-02-13,McDonald's,Fast Food,3,878.13,Card,47,2025-08-12,262,False,3.0,Delivered,2634.39,5,5,4,14
+C5717,Female,Teenager,Lahore,2025-02-09,2025-02-15,Subway,Dessert,5,675.59,Wallet,15,2025-04-25,240,False,-1.0,Cancelled,3377.9500000000003,3,2,4,9
+C6967,Male,Senior,Lahore,2024-09-21,2025-02-16,Pizza Hut,Fast Food,5,1267.38,Wallet,46,2025-04-21,80,True,-1.0,Cancelled,6336.900000000001,3,5,5,13
+C3094,Other,Teenager,Lahore,2025-02-18,2025-06-06,Subway,Dessert,2,351.58,Wallet,17,2025-07-27,198,True,1.0,Delivered,703.16,5,2,1,8
+C1903,Female,Adult,Lahore,2024-09-27,2024-10-09,Subway,Fast Food,5,393.59,Card,17,2025-02-18,148,True,1.0,Delayed,1967.9499999999998,2,2,3,7
+C4507,Male,Senior,Lahore,2024-04-06,2024-09-20,Burger King,Italian,2,567.61,Card,25,2025-02-20,128,True,-1.0,Cancelled,1135.22,2,3,2,7
+C2648,Other,Adult,Lahore,2024-06-12,2024-11-02,Pizza Hut,Dessert,4,965.06,Cash,33,2025-02-20,115,False,-1.0,Cancelled,3860.24,2,4,4,10
+C3618,Male,Senior,Lahore,2024-09-16,2025-02-20,KFC,Chinese,4,532.18,Card,38,2025-07-10,296,False,1.0,Delayed,2128.72,4,4,3,11
+C6813,Female,Adult,Lahore,2024-05-11,2024-09-05,KFC,Chinese,3,791.59,Card,13,2025-02-20,85,True,-1.0,Cancelled,2374.77,2,2,3,7
+C3985,Female,Adult,Lahore,2025-01-02,2025-02-21,KFC,Dessert,5,104.75,Wallet,25,2025-07-10,191,True,-1.0,Cancelled,523.75,4,3,1,8
+C1634,Female,Adult,Lahore,2023-10-03,2025-02-21,Burger King,Italian,1,1435.26,Card,37,2025-04-29,497,True,4.0,Delayed,1435.26,3,4,2,9
+C5039,Female,Teenager,Lahore,2024-04-05,2024-10-15,Pizza Hut,Chinese,1,655.16,Cash,15,2025-02-22,299,True,-1.0,Cancelled,655.16,2,2,1,5
+C6368,Other,Adult,Lahore,2024-11-14,2025-01-13,Pizza Hut,Fast Food,1,338.95,Card,8,2025-02-22,196,False,4.0,Delayed,338.95,2,1,1,4
+C1675,Female,Adult,Lahore,2024-09-11,2025-02-23,McDonald's,Continental,3,780.99,Wallet,29,2025-03-11,364,False,-1.0,Cancelled,2342.9700000000003,2,3,3,8
+C4695,Other,Teenager,Lahore,2024-06-20,2025-02-24,Pizza Hut,Dessert,5,1052.9,Wallet,49,2025-07-16,495,False,2.0,Delayed,5264.5,5,5,5,15
+C2492,Female,Senior,Lahore,2024-08-22,2025-02-25,Subway,Chinese,2,929.37,Cash,39,2025-04-13,109,True,4.0,Delayed,1858.74,3,4,3,10
+C3388,Male,Adult,Lahore,2024-12-01,2025-02-25,McDonald's,Fast Food,1,632.57,Cash,31,2025-08-16,432,True,-1.0,Cancelled,632.57,5,4,1,10
+C5035,Female,Teenager,Lahore,2025-01-10,2025-02-25,Burger King,Chinese,4,1113.33,Cash,43,2025-06-08,486,False,-1.0,Cancelled,4453.32,4,5,5,14
+C2261,Female,Teenager,Lahore,2025-02-25,2025-03-09,McDonald's,Chinese,2,685.53,Cash,26,2025-04-26,411,True,2.0,Delivered,1371.06,3,3,2,8
+C3387,Female,Teenager,Lahore,2023-08-25,2025-02-26,Burger King,Dessert,4,1128.3,Card,17,2025-03-24,28,False,-1.0,Cancelled,4513.2,2,2,5,9
+C1511,Other,Adult,Lahore,2024-07-28,2024-10-25,McDonald's,Italian,4,942.42,Wallet,41,2025-02-26,255,True,-1.0,Cancelled,3769.68,2,5,4,11
+C6158,Female,Senior,Lahore,2024-03-12,2024-10-23,Burger King,Dessert,3,315.37,Cash,35,2025-02-26,183,False,2.0,Delayed,946.11,2,4,2,8
+C2548,Male,Adult,Lahore,2025-02-28,2025-03-12,Subway,Continental,3,773.89,Wallet,42,2025-08-20,58,False,5.0,Delivered,2321.67,5,5,3,13
+C1997,Male,Senior,Lahore,2024-10-24,2025-02-04,Subway,Continental,1,615.72,Card,10,2025-02-28,196,True,5.0,Delayed,615.72,2,1,1,4
+C6732,Female,Teenager,Lahore,2025-01-22,2025-02-28,Burger King,Continental,3,1449.4,Card,15,2025-08-08,213,True,-1.0,Cancelled,4348.200000000001,5,2,5,12
+C5068,Female,Teenager,Lahore,2025-01-12,2025-03-02,Burger King,Fast Food,4,1479.64,Wallet,6,2025-05-07,157,False,-1.0,Cancelled,5918.56,3,1,5,9
+C4177,Female,Teenager,Lahore,2023-12-28,2025-03-02,McDonald's,Italian,1,1186.61,Wallet,48,2025-06-21,474,False,5.0,Delivered,1186.61,4,5,2,11
+C1515,Female,Senior,Lahore,2024-11-29,2025-03-02,KFC,Fast Food,4,1343.44,Cash,8,2025-06-15,143,False,-1.0,Cancelled,5373.76,4,1,5,10
+C4491,Male,Adult,Lahore,2024-03-20,2025-01-23,Pizza Hut,Dessert,2,1331.16,Card,36,2025-03-02,225,True,5.0,Delivered,2662.32,2,4,4,10
+C2996,Male,Teenager,Lahore,2025-02-10,2025-03-03,Burger King,Italian,5,533.07,Card,41,2025-08-03,283,True,2.0,Delayed,2665.3500000000004,5,5,4,14
+C2563,Other,Adult,Lahore,2023-11-26,2024-11-16,Subway,Italian,1,1135.66,Wallet,6,2025-03-03,386,False,5.0,Delivered,1135.66,2,1,2,5
+C5055,Male,Teenager,Lahore,2024-05-03,2024-11-11,Burger King,Dessert,3,579.0,Card,23,2025-03-03,426,True,1.0,Delivered,1737.0,2,3,3,8
+C1755,Other,Adult,Lahore,2025-01-08,2025-03-03,KFC,Chinese,5,235.01,Cash,25,2025-06-02,104,True,-1.0,Cancelled,1175.05,4,3,2,9
+C4513,Female,Senior,Lahore,2024-09-04,2024-10-23,Burger King,Dessert,5,163.47,Wallet,16,2025-03-03,293,False,2.0,Delayed,817.35,2,2,1,5
+C2984,Male,Senior,Lahore,2023-11-01,2025-03-03,KFC,Dessert,2,1096.06,Card,36,2025-05-04,80,True,5.0,Delivered,2192.12,3,4,3,10
+C1146,Female,Adult,Lahore,2024-11-03,2024-11-19,McDonald's,Chinese,2,839.14,Card,19,2025-03-04,218,True,4.0,Delivered,1678.28,2,2,3,7
+C1394,Male,Adult,Lahore,2024-07-08,2024-09-15,McDonald's,Continental,4,964.63,Wallet,21,2025-03-05,222,False,1.0,Delayed,3858.52,2,3,4,9
+C2856,Other,Adult,Lahore,2024-01-27,2025-03-07,Pizza Hut,Fast Food,4,983.46,Wallet,12,2025-04-02,160,True,-1.0,Cancelled,3933.84,3,2,4,9
+C5244,Female,Teenager,Lahore,2024-12-03,2025-01-07,KFC,Chinese,3,1052.38,Wallet,5,2025-03-07,421,False,-1.0,Cancelled,3157.1400000000003,2,1,4,7
+C6856,Other,Teenager,Lahore,2025-01-09,2025-01-15,KFC,Chinese,5,308.7,Card,48,2025-03-08,425,False,3.0,Delivered,1543.5,2,5,3,10
+C3996,Other,Senior,Lahore,2024-10-26,2024-12-15,Pizza Hut,Italian,5,1112.22,Card,31,2025-03-09,259,True,5.0,Delayed,5561.1,2,4,5,11
+C2803,Male,Adult,Lahore,2025-02-05,2025-03-09,Subway,Dessert,1,327.31,Wallet,1,2025-05-30,216,False,2.0,Delayed,327.31,4,1,1,6
+C5398,Male,Teenager,Lahore,2024-10-18,2024-12-09,Burger King,Italian,1,1422.78,Card,50,2025-03-09,153,False,-1.0,Cancelled,1422.78,2,5,2,9
+C3669,Female,Teenager,Lahore,2024-05-21,2024-10-22,McDonald's,Continental,1,1413.8,Cash,7,2025-03-10,273,True,4.0,Delayed,1413.8,2,1,2,5
+C5763,Male,Senior,Lahore,2024-09-18,2025-03-11,Burger King,Chinese,3,386.54,Wallet,11,2025-04-06,188,True,1.0,Delivered,1159.6200000000001,3,1,2,6
+C6858,Female,Adult,Lahore,2024-07-17,2024-08-24,Pizza Hut,Chinese,3,328.03,Cash,35,2025-03-13,183,False,1.0,Delivered,984.0899999999999,2,4,2,8
+C5289,Female,Senior,Lahore,2023-09-16,2024-08-31,Pizza Hut,Continental,5,1280.58,Wallet,27,2025-03-14,500,False,2.0,Delayed,6402.9,2,3,5,10
+C2972,Female,Senior,Lahore,2025-01-30,2025-03-15,Pizza Hut,Fast Food,1,1035.02,Card,50,2025-04-02,144,True,3.0,Delivered,1035.02,3,5,2,10
+C5393,Other,Adult,Lahore,2025-01-26,2025-03-15,McDonald's,Dessert,4,499.78,Wallet,17,2025-04-01,217,True,3.0,Delayed,1999.12,2,2,3,7
+C5243,Female,Teenager,Lahore,2024-10-22,2025-03-16,KFC,Dessert,2,232.94,Wallet,32,2025-08-04,99,True,-1.0,Cancelled,465.88,5,4,1,10
+C4163,Other,Senior,Lahore,2024-11-12,2025-03-16,Burger King,Italian,4,490.85,Card,1,2025-06-24,461,False,3.0,Delivered,1963.4,4,1,3,8
+C3601,Female,Senior,Lahore,2023-08-27,2025-01-22,KFC,Italian,3,1269.04,Cash,9,2025-03-16,6,True,1.0,Delivered,3807.12,2,1,4,7
+C3709,Female,Senior,Lahore,2024-09-20,2024-11-18,Pizza Hut,Chinese,5,1000.83,Wallet,25,2025-03-16,188,False,5.0,Delayed,5004.150000000001,2,3,5,10
+C6258,Other,Adult,Lahore,2024-01-25,2025-03-16,McDonald's,Dessert,2,479.19,Wallet,5,2025-06-16,222,True,1.0,Delayed,958.38,4,1,2,7
+C6364,Female,Teenager,Lahore,2024-04-19,2025-03-17,Burger King,Fast Food,3,884.85,Wallet,44,2025-06-12,175,True,1.0,Delivered,2654.55,4,5,4,13
+C6018,Female,Adult,Lahore,2024-06-20,2025-01-18,Pizza Hut,Italian,5,1192.66,Wallet,14,2025-03-17,151,True,3.0,Delivered,5963.3,2,2,5,9
+C6210,Female,Teenager,Lahore,2024-05-02,2025-03-12,Pizza Hut,Dessert,2,1257.17,Card,37,2025-03-17,275,True,2.0,Delivered,2514.34,2,4,4,10
+C2964,Male,Teenager,Lahore,2024-08-11,2025-03-17,Pizza Hut,Continental,5,1198.59,Cash,37,2025-03-22,265,True,1.0,Delivered,5992.95,2,4,5,11
+C1411,Male,Adult,Lahore,2024-02-11,2024-12-02,Pizza Hut,Dessert,5,588.18,Wallet,28,2025-03-17,39,True,4.0,Delayed,2940.8999999999996,2,3,4,9
+C6530,Female,Adult,Lahore,2024-12-04,2025-03-18,KFC,Italian,3,990.73,Cash,15,2025-07-14,418,False,2.0,Delayed,2972.19,5,2,4,11
+C6577,Male,Teenager,Lahore,2025-03-18,2025-05-29,Subway,Dessert,4,169.48,Wallet,47,2025-08-21,329,False,4.0,Delivered,677.92,5,5,1,11
+C3991,Female,Senior,Lahore,2025-02-23,2025-03-19,KFC,Continental,2,520.96,Card,19,2025-07-14,165,False,1.0,Delivered,1041.92,5,2,2,9
+C3054,Other,Adult,Lahore,2024-05-10,2025-03-06,Burger King,Italian,3,287.35,Wallet,16,2025-03-22,201,True,3.0,Delayed,862.0500000000001,2,2,2,6
+C1078,Other,Teenager,Lahore,2024-11-04,2025-03-22,KFC,Continental,3,591.73,Card,26,2025-05-29,394,True,-1.0,Cancelled,1775.19,4,3,3,10
+C2672,Female,Teenager,Lahore,2024-03-26,2025-03-23,McDonald's,Fast Food,4,850.0,Cash,13,2025-08-09,9,True,3.0,Delayed,3400.0,5,2,4,11
+C3230,Female,Senior,Lahore,2023-11-25,2024-09-17,McDonald's,Dessert,5,135.82,Wallet,3,2025-03-23,19,False,2.0,Delivered,679.0999999999999,2,1,1,4
+C5012,Female,Senior,Lahore,2023-10-10,2025-03-24,KFC,Italian,3,1470.56,Cash,20,2025-04-11,349,False,3.0,Delivered,4411.68,3,2,5,10
+C1072,Male,Senior,Lahore,2024-09-08,2025-03-24,McDonald's,Italian,5,1368.9,Cash,1,2025-05-05,23,False,-1.0,Cancelled,6844.5,3,1,5,9
+C1091,Other,Senior,Lahore,2024-07-16,2025-03-24,Subway,Chinese,5,432.29,Card,8,2025-04-03,73,False,-1.0,Cancelled,2161.4500000000003,3,1,3,7
+C3690,Male,Teenager,Lahore,2023-11-02,2024-09-02,KFC,Italian,4,357.27,Card,3,2025-03-25,253,True,-1.0,Cancelled,1429.08,2,1,2,5
+C5853,Female,Senior,Lahore,2025-01-02,2025-03-26,McDonald's,Italian,3,170.95,Card,30,2025-06-15,408,False,3.0,Delivered,512.8499999999999,4,3,1,8
+C2862,Male,Teenager,Lahore,2023-11-03,2025-03-26,Subway,Fast Food,2,948.63,Wallet,6,2025-05-28,231,True,2.0,Delayed,1897.26,3,1,3,7
+C3259,Male,Senior,Lahore,2024-05-03,2024-12-22,Burger King,Italian,1,1163.81,Cash,38,2025-03-27,96,False,3.0,Delivered,1163.81,2,4,2,8
+C4597,Male,Teenager,Lahore,2025-03-27,2025-04-27,Pizza Hut,Italian,2,1189.59,Cash,33,2025-05-20,7,True,-1.0,Cancelled,2379.18,3,4,3,10
+C1130,Female,Senior,Lahore,2023-10-13,2025-03-29,Pizza Hut,Italian,4,218.16,Card,9,2025-04-23,161,False,2.0,Delayed,872.64,3,1,2,6
+C5328,Female,Adult,Lahore,2024-09-12,2025-03-30,McDonald's,Fast Food,4,320.83,Wallet,47,2025-04-17,288,True,-1.0,Cancelled,1283.32,3,5,2,10
+C5229,Male,Teenager,Lahore,2024-10-27,2025-03-31,Pizza Hut,Italian,1,1449.8,Cash,42,2025-08-10,489,True,5.0,Delayed,1449.8,5,5,3,13
+C2142,Other,Adult,Lahore,2025-04-01,2025-06-11,McDonald's,Chinese,4,932.18,Wallet,32,2025-06-20,445,False,2.0,Delayed,3728.72,4,4,4,12
+C3867,Other,Adult,Lahore,2024-07-15,2025-04-01,Burger King,Italian,4,1003.15,Card,28,2025-08-14,476,False,2.0,Delayed,4012.6,5,3,5,13
+C2910,Female,Adult,Lahore,2024-11-19,2025-04-01,Pizza Hut,Continental,1,1100.22,Wallet,18,2025-06-04,315,True,5.0,Delivered,1100.22,4,2,2,8
+C2241,Male,Senior,Lahore,2024-01-09,2024-11-13,KFC,Dessert,4,1381.28,Cash,43,2025-04-03,284,False,4.0,Delayed,5525.12,3,5,5,13
+C2953,Female,Adult,Lahore,2024-08-13,2025-04-03,KFC,Continental,5,1052.73,Card,45,2025-07-17,469,True,3.0,Delivered,5263.65,5,5,5,15
+C6759,Other,Senior,Lahore,2024-07-22,2024-09-28,Pizza Hut,Dessert,3,1021.17,Wallet,46,2025-04-04,334,False,5.0,Delivered,3063.5099999999998,3,5,4,12
+C2585,Male,Senior,Lahore,2024-01-20,2025-04-05,Subway,Chinese,4,1416.37,Cash,21,2025-04-08,141,False,3.0,Delivered,5665.48,3,3,5,11
+C3149,Female,Senior,Lahore,2025-04-05,2025-04-10,Burger King,Fast Food,5,124.74,Card,29,2025-06-13,200,True,-1.0,Cancelled,623.6999999999999,4,3,1,8
+C6003,Male,Teenager,Lahore,2024-03-08,2024-09-08,Burger King,Dessert,4,1046.47,Wallet,7,2025-04-06,401,False,4.0,Delivered,4185.88,3,1,5,9
+C3849,Other,Senior,Lahore,2025-04-03,2025-04-06,Burger King,Dessert,5,1187.31,Cash,39,2025-07-12,26,False,3.0,Delivered,5936.549999999999,4,4,5,13
+C3935,Male,Senior,Lahore,2024-07-18,2025-04-06,McDonald's,Dessert,4,1160.13,Wallet,22,2025-08-09,320,True,-1.0,Cancelled,4640.52,5,3,5,13
+C4660,Other,Senior,Lahore,2024-12-08,2025-02-01,Subway,Fast Food,2,444.64,Wallet,5,2025-04-06,392,False,2.0,Delivered,889.28,3,1,2,6
+C4999,Other,Teenager,Lahore,2024-10-30,2025-04-08,Burger King,Fast Food,2,937.23,Cash,45,2025-07-31,216,False,4.0,Delayed,1874.46,5,5,3,13
+C3608,Female,Adult,Lahore,2025-04-08,2025-05-17,Pizza Hut,Fast Food,2,637.1,Wallet,41,2025-08-14,0,True,-1.0,Cancelled,1274.2,5,5,2,12
+C3640,Male,Adult,Lahore,2023-08-23,2025-04-09,Pizza Hut,Continental,4,1061.58,Card,44,2025-06-12,69,False,3.0,Delivered,4246.32,4,5,5,14
+C4657,Female,Adult,Lahore,2024-02-10,2024-10-27,Burger King,Italian,4,1210.62,Wallet,23,2025-04-09,348,False,-1.0,Cancelled,4842.48,3,3,5,11
+C4795,Other,Teenager,Lahore,2024-11-08,2025-02-03,Burger King,Fast Food,1,1090.85,Wallet,28,2025-04-09,387,True,-1.0,Cancelled,1090.85,3,3,2,8
+C4613,Other,Senior,Lahore,2024-10-11,2025-01-22,McDonald's,Dessert,5,668.88,Wallet,7,2025-04-09,70,True,-1.0,Cancelled,3344.4,3,1,4,8
+C2792,Male,Adult,Lahore,2024-10-13,2025-04-11,Burger King,Italian,5,826.66,Wallet,45,2025-06-19,410,True,1.0,Delayed,4133.3,4,5,5,14
+C5505,Male,Adult,Lahore,2024-02-07,2025-01-13,McDonald's,Continental,1,681.12,Wallet,37,2025-04-12,55,True,3.0,Delivered,681.12,3,4,1,8
+C3694,Other,Senior,Lahore,2023-10-01,2025-03-06,KFC,Fast Food,5,407.78,Cash,29,2025-04-12,308,False,-1.0,Cancelled,2038.8999999999999,3,3,3,9
+C2870,Male,Teenager,Lahore,2025-04-02,2025-04-12,Subway,Chinese,2,769.54,Cash,25,2025-06-29,143,True,4.0,Delayed,1539.08,4,3,3,10
+C5661,Female,Adult,Lahore,2024-11-17,2025-01-09,Burger King,Fast Food,4,1387.15,Cash,5,2025-04-12,82,False,5.0,Delayed,5548.6,3,1,5,9
+C4370,Other,Teenager,Lahore,2024-10-18,2025-04-13,Subway,Continental,5,1086.45,Wallet,36,2025-06-15,414,False,2.0,Delayed,5432.25,4,4,5,13
+C6933,Male,Senior,Lahore,2024-06-25,2025-04-13,Burger King,Dessert,5,868.23,Wallet,20,2025-07-28,166,False,3.0,Delivered,4341.15,5,2,5,12
+C2298,Female,Adult,Lahore,2024-03-03,2025-03-03,McDonald's,Fast Food,5,248.29,Card,35,2025-04-13,177,False,1.0,Delayed,1241.45,3,4,2,9
+C4090,Male,Teenager,Lahore,2024-09-26,2025-04-08,KFC,Continental,5,1010.06,Cash,45,2025-04-15,409,False,1.0,Delivered,5050.299999999999,3,5,5,13
+C2952,Male,Adult,Lahore,2024-09-14,2025-04-15,Pizza Hut,Fast Food,1,330.36,Cash,34,2025-04-24,73,False,5.0,Delayed,330.36,3,4,1,8
+C3444,Other,Adult,Lahore,2023-11-13,2024-10-06,McDonald's,Italian,2,746.19,Card,2,2025-04-15,376,False,3.0,Delayed,1492.38,3,1,3,7
+C1209,Other,Senior,Lahore,2025-02-13,2025-02-14,McDonald's,Italian,1,691.09,Cash,2,2025-04-18,415,True,1.0,Delayed,691.09,3,1,1,5
+C3204,Male,Adult,Lahore,2024-11-09,2025-04-18,KFC,Fast Food,1,143.72,Cash,49,2025-07-30,1,False,2.0,Delayed,143.72,5,5,1,11
+C2494,Male,Adult,Lahore,2023-10-16,2025-01-30,McDonald's,Italian,1,359.01,Wallet,16,2025-04-18,138,False,2.0,Delayed,359.01,3,2,1,6
+C1925,Other,Teenager,Lahore,2024-05-31,2025-04-19,KFC,Dessert,1,549.19,Cash,18,2025-08-21,242,False,2.0,Delayed,549.19,5,2,1,8
+C2397,Male,Adult,Lahore,2024-12-20,2025-02-26,Burger King,Italian,3,267.39,Wallet,7,2025-04-22,422,False,2.0,Delayed,802.17,3,1,1,5
+C6900,Female,Adult,Lahore,2025-03-01,2025-04-23,McDonald's,Fast Food,2,271.82,Card,8,2025-04-25,437,True,-1.0,Cancelled,543.64,3,1,1,5
+C4274,Other,Teenager,Lahore,2025-03-29,2025-04-23,Subway,Dessert,3,1384.22,Card,40,2025-07-03,94,False,1.0,Delivered,4152.66,4,4,5,13
+C6766,Male,Adult,Lahore,2024-11-20,2024-12-14,Burger King,Chinese,2,803.96,Cash,5,2025-04-23,283,True,4.0,Delivered,1607.92,3,1,3,7
+C4546,Other,Adult,Lahore,2024-12-09,2025-04-23,McDonald's,Chinese,3,1175.85,Wallet,10,2025-08-07,132,True,4.0,Delayed,3527.5499999999997,5,1,4,10
+C3320,Male,Teenager,Lahore,2024-11-09,2025-02-06,Burger King,Chinese,5,1498.36,Cash,20,2025-04-26,103,False,5.0,Delayed,7491.799999999999,3,2,5,10
+C2607,Male,Teenager,Lahore,2024-07-19,2025-04-21,KFC,Fast Food,2,455.11,Wallet,1,2025-04-27,104,False,3.0,Delivered,910.22,3,1,2,6
+C6114,Other,Teenager,Lahore,2025-01-10,2025-04-11,Pizza Hut,Italian,4,279.36,Wallet,36,2025-04-28,164,True,5.0,Delayed,1117.44,3,4,2,9
+C3269,Female,Senior,Lahore,2024-08-24,2025-01-31,Pizza Hut,Fast Food,2,1024.4,Card,26,2025-04-29,268,False,1.0,Delayed,2048.8,3,3,3,9
+C5175,Male,Teenager,Lahore,2024-08-15,2025-03-04,Subway,Dessert,3,1368.81,Cash,41,2025-04-30,176,True,5.0,Delayed,4106.43,3,5,5,13
+C3172,Other,Adult,Lahore,2024-04-04,2025-04-30,McDonald's,Fast Food,4,783.93,Cash,31,2025-07-18,170,False,3.0,Delivered,3135.72,5,4,4,13
+C1441,Other,Adult,Lahore,2024-10-22,2025-05-02,Burger King,Continental,3,1125.9,Cash,7,2025-06-21,175,False,4.0,Delayed,3377.7000000000003,4,1,4,9
+C2657,Male,Adult,Lahore,2025-01-09,2025-05-04,KFC,Chinese,4,851.2,Wallet,12,2025-06-30,350,False,3.0,Delivered,3404.8,4,2,4,10
+C1023,Male,Teenager,Lahore,2024-11-19,2025-05-04,Pizza Hut,Italian,1,572.1,Cash,43,2025-07-09,472,False,-1.0,Cancelled,572.1,4,5,1,10
+C6817,Other,Senior,Lahore,2024-03-11,2024-08-27,Subway,Italian,4,1459.27,Cash,8,2025-05-05,344,True,-1.0,Cancelled,5837.08,3,1,5,9
+C3741,Female,Senior,Lahore,2023-09-09,2025-04-28,Burger King,Fast Food,4,352.18,Wallet,4,2025-05-06,479,True,2.0,Delayed,1408.72,3,1,2,6
+C6308,Other,Adult,Lahore,2024-02-01,2024-09-21,Pizza Hut,Continental,4,434.95,Cash,20,2025-05-07,434,True,1.0,Delivered,1739.8,3,2,3,8
+C2501,Female,Adult,Lahore,2023-12-09,2024-11-18,KFC,Chinese,1,132.38,Cash,20,2025-05-07,85,False,-1.0,Cancelled,132.38,3,2,1,6
+C4852,Male,Adult,Lahore,2024-04-17,2025-03-29,McDonald's,Chinese,2,215.23,Card,48,2025-05-08,141,False,3.0,Delivered,430.46,3,5,1,9
+C2342,Other,Teenager,Lahore,2023-09-09,2024-10-27,Pizza Hut,Italian,4,904.32,Card,25,2025-05-08,21,True,3.0,Delivered,3617.28,3,3,4,10
+C5220,Male,Teenager,Lahore,2023-12-15,2024-12-11,Subway,Continental,3,185.84,Wallet,16,2025-05-08,104,True,4.0,Delayed,557.52,3,2,1,6
+C6464,Other,Teenager,Lahore,2023-11-18,2024-11-30,Subway,Chinese,3,1129.81,Wallet,36,2025-05-09,485,False,2.0,Delivered,3389.43,3,4,4,11
+C1919,Female,Adult,Lahore,2023-09-29,2024-12-11,McDonald's,Italian,2,1360.49,Cash,49,2025-05-09,162,False,-1.0,Cancelled,2720.98,3,5,4,12
+C1908,Female,Senior,Lahore,2024-05-10,2024-10-31,McDonald's,Fast Food,3,1177.51,Card,39,2025-05-09,470,True,2.0,Delivered,3532.5299999999997,3,4,4,11
+C3753,Female,Teenager,Lahore,2025-01-29,2025-04-29,Subway,Italian,1,1458.48,Card,43,2025-05-09,206,False,-1.0,Cancelled,1458.48,3,5,3,11
+C1442,Female,Senior,Lahore,2024-09-11,2025-05-11,McDonald's,Chinese,2,1110.6,Cash,32,2025-06-30,438,True,3.0,Delayed,2221.2,4,4,3,11
+C5758,Other,Teenager,Lahore,2024-10-05,2025-05-11,Subway,Continental,5,799.64,Cash,45,2025-06-17,162,True,4.0,Delivered,3998.2,4,5,5,14
+C2736,Other,Adult,Lahore,2024-09-22,2025-05-11,Subway,Dessert,1,1157.24,Wallet,14,2025-08-21,152,True,2.0,Delivered,1157.24,5,2,2,9
+C2904,Other,Teenager,Lahore,2024-11-07,2025-05-11,KFC,Fast Food,2,593.34,Card,45,2025-07-18,409,True,-1.0,Cancelled,1186.68,5,5,2,12
+C5841,Female,Teenager,Lahore,2025-01-21,2025-02-25,Pizza Hut,Continental,5,1039.3,Card,9,2025-05-13,466,True,1.0,Delayed,5196.5,3,1,5,9
+C6402,Male,Teenager,Lahore,2024-09-28,2025-05-02,Burger King,Chinese,2,916.97,Card,13,2025-05-14,8,True,4.0,Delivered,1833.94,3,2,3,8
+C2148,Other,Senior,Lahore,2023-12-04,2025-05-02,KFC,Italian,4,1073.46,Cash,25,2025-05-14,294,False,5.0,Delayed,4293.84,3,3,5,11
+C6661,Female,Adult,Lahore,2024-12-30,2025-05-14,KFC,Continental,2,517.78,Wallet,49,2025-07-21,321,True,-1.0,Cancelled,1035.56,5,5,2,12
+C2309,Female,Adult,Lahore,2025-05-15,2025-06-07,Pizza Hut,Fast Food,3,616.38,Card,12,2025-06-23,93,False,5.0,Delayed,1849.1399999999999,4,2,3,9
+C3822,Male,Teenager,Lahore,2023-08-22,2024-08-21,Subway,Fast Food,3,1131.68,Card,1,2025-05-15,98,True,5.0,Delayed,3395.04,3,1,4,8
+C4457,Female,Teenager,Lahore,2023-10-08,2025-05-15,KFC,Fast Food,2,917.63,Cash,50,2025-08-16,77,False,-1.0,Cancelled,1835.26,5,5,3,13
+C6763,Female,Senior,Lahore,2024-12-23,2025-03-14,KFC,Continental,1,853.03,Wallet,42,2025-05-15,192,True,4.0,Delivered,853.03,3,5,2,10
+C3958,Other,Teenager,Lahore,2023-08-22,2024-10-13,Pizza Hut,Chinese,5,1116.23,Wallet,11,2025-05-15,349,False,-1.0,Cancelled,5581.15,3,1,5,9
+C6760,Male,Senior,Lahore,2023-09-21,2025-05-16,McDonald's,Fast Food,3,1017.81,Wallet,42,2025-06-10,358,False,5.0,Delivered,3053.43,4,5,4,13
+C6372,Male,Teenager,Lahore,2023-10-31,2024-10-03,Pizza Hut,Dessert,4,940.77,Card,11,2025-05-17,384,True,2.0,Delivered,3763.08,3,1,4,8
+C1590,Female,Senior,Lahore,2025-05-18,2025-05-20,Subway,Continental,1,1340.45,Wallet,23,2025-06-29,92,False,-1.0,Cancelled,1340.45,4,3,2,9
+C3024,Other,Teenager,Lahore,2023-10-14,2024-09-09,McDonald's,Chinese,3,838.2,Cash,21,2025-05-18,473,False,4.0,Delayed,2514.6000000000004,3,3,4,10
+C2038,Male,Adult,Lahore,2024-05-05,2025-04-21,Burger King,Chinese,1,603.52,Cash,36,2025-05-20,57,False,-1.0,Cancelled,603.52,3,4,1,8
+C5584,Female,Senior,Lahore,2024-06-23,2025-05-21,KFC,Italian,5,428.98,Wallet,9,2025-07-06,258,True,2.0,Delayed,2144.9,4,1,3,8
+C5501,Other,Senior,Lahore,2025-02-25,2025-05-22,Subway,Chinese,4,1497.89,Wallet,5,2025-07-29,462,True,-1.0,Cancelled,5991.56,5,1,5,11
+C2351,Male,Senior,Lahore,2024-06-25,2025-01-25,McDonald's,Chinese,3,461.14,Card,45,2025-05-23,299,True,-1.0,Cancelled,1383.42,3,5,2,10
+C5847,Male,Teenager,Lahore,2024-10-22,2024-12-30,Subway,Fast Food,1,459.35,Wallet,50,2025-05-23,492,False,5.0,Delivered,459.35,3,5,1,9
+C1922,Male,Teenager,Lahore,2024-10-11,2024-11-27,Pizza Hut,Chinese,4,543.08,Card,11,2025-05-23,332,True,5.0,Delayed,2172.32,3,1,3,7
+C2166,Female,Adult,Lahore,2025-05-24,2025-05-28,McDonald's,Dessert,3,111.42,Card,40,2025-06-04,169,True,3.0,Delayed,334.26,4,4,1,9
+C5741,Other,Senior,Lahore,2023-10-27,2025-05-25,Subway,Dessert,4,578.47,Wallet,24,2025-08-16,68,True,5.0,Delayed,2313.88,5,3,3,11
+C1196,Male,Teenager,Lahore,2024-08-22,2024-08-30,McDonald's,Italian,3,157.55,Card,32,2025-05-26,394,True,3.0,Delayed,472.65000000000003,3,4,1,8
+C1439,Other,Adult,Lahore,2024-11-29,2025-05-26,KFC,Fast Food,4,192.51,Card,7,2025-06-01,370,False,3.0,Delivered,770.04,4,1,1,6
+C5977,Female,Teenager,Lahore,2024-04-25,2024-09-12,Burger King,Italian,4,882.35,Card,42,2025-05-27,248,True,5.0,Delayed,3529.4,3,5,4,12
+C6894,Female,Adult,Lahore,2025-05-11,2025-05-16,McDonald's,Dessert,1,216.76,Cash,13,2025-05-28,361,True,5.0,Delayed,216.76,3,2,1,6
+C2598,Male,Senior,Lahore,2025-01-18,2025-05-30,Subway,Dessert,1,1021.91,Cash,36,2025-08-21,450,True,2.0,Delayed,1021.91,5,4,2,11
+C3339,Female,Teenager,Lahore,2024-09-25,2025-05-31,Burger King,Continental,3,1345.26,Cash,33,2025-07-26,303,False,4.0,Delayed,4035.7799999999997,5,4,5,14
+C1160,Female,Adult,Lahore,2024-03-03,2025-05-31,McDonald's,Continental,3,651.75,Cash,15,2025-07-12,64,False,-1.0,Cancelled,1955.25,4,2,3,9
+C4998,Female,Teenager,Lahore,2024-11-17,2025-01-07,Subway,Dessert,1,594.8,Card,26,2025-05-31,399,False,-1.0,Cancelled,594.8,4,3,1,8
+C1600,Male,Adult,Lahore,2024-09-20,2025-02-24,Burger King,Fast Food,1,977.55,Card,23,2025-06-01,369,True,2.0,Delivered,977.55,4,3,2,9
+C1713,Female,Teenager,Lahore,2024-02-04,2025-04-25,Subway,Continental,2,1485.48,Card,46,2025-06-02,228,False,1.0,Delivered,2970.96,4,5,4,13
+C5233,Male,Senior,Lahore,2023-10-10,2025-03-31,Pizza Hut,Dessert,4,240.27,Cash,5,2025-06-02,474,False,-1.0,Cancelled,961.08,4,1,2,7
+C5458,Male,Senior,Lahore,2023-12-08,2025-06-03,Pizza Hut,Italian,1,467.57,Card,19,2025-07-02,308,False,5.0,Delayed,467.57,4,2,1,7
+C1818,Male,Senior,Lahore,2024-03-13,2025-04-29,Subway,Dessert,1,590.25,Card,11,2025-06-03,146,True,-1.0,Cancelled,590.25,4,1,1,6
+C2796,Female,Adult,Lahore,2024-09-30,2025-01-17,McDonald's,Dessert,3,1427.41,Cash,45,2025-06-04,36,False,-1.0,Cancelled,4282.2300000000005,4,5,5,14
+C3082,Other,Adult,Lahore,2025-06-04,2025-06-29,Subway,Chinese,3,857.02,Wallet,23,2025-07-08,64,False,5.0,Delivered,2571.06,4,3,4,11
+C5058,Other,Adult,Lahore,2024-03-01,2025-01-20,Subway,Chinese,1,302.93,Wallet,18,2025-06-05,214,True,-1.0,Cancelled,302.93,4,2,1,7
+C4988,Male,Adult,Lahore,2023-08-31,2024-10-23,KFC,Italian,3,1116.36,Cash,45,2025-06-06,31,True,5.0,Delivered,3349.08,4,5,4,13
+C2140,Other,Adult,Lahore,2025-01-18,2025-06-06,Pizza Hut,Continental,4,236.8,Wallet,27,2025-07-17,257,False,-1.0,Cancelled,947.2,5,3,2,10
+C5305,Female,Adult,Lahore,2024-10-02,2025-01-29,Pizza Hut,Dessert,5,511.48,Wallet,28,2025-06-06,307,False,3.0,Delayed,2557.4,4,3,4,11
+C1033,Female,Teenager,Lahore,2025-01-24,2025-04-26,McDonald's,Italian,5,617.81,Cash,21,2025-06-07,53,True,-1.0,Cancelled,3089.0499999999997,4,3,4,11
+C5929,Male,Senior,Lahore,2024-03-25,2024-10-31,Subway,Dessert,1,1313.01,Card,44,2025-06-08,130,False,1.0,Delayed,1313.01,4,5,2,11
+C4414,Female,Teenager,Lahore,2024-02-22,2025-01-25,Pizza Hut,Italian,1,703.24,Wallet,15,2025-06-09,308,True,3.0,Delayed,703.24,4,2,1,7
+C1081,Female,Adult,Lahore,2025-06-02,2025-06-09,Subway,Dessert,2,196.1,Cash,14,2025-08-17,423,True,5.0,Delivered,392.2,5,2,1,8
+C1730,Female,Adult,Lahore,2024-11-11,2025-02-06,Burger King,Chinese,4,927.62,Wallet,33,2025-06-09,482,True,5.0,Delayed,3710.48,4,4,4,12
+C1406,Other,Senior,Lahore,2024-02-20,2025-06-09,McDonald's,Continental,1,1143.58,Cash,28,2025-08-03,184,False,1.0,Delayed,1143.58,5,3,2,10
+C5153,Female,Adult,Lahore,2024-06-16,2025-06-09,McDonald's,Chinese,4,217.27,Cash,49,2025-07-28,299,True,5.0,Delayed,869.08,5,5,2,12
+C1203,Female,Adult,Lahore,2024-10-17,2024-12-08,KFC,Italian,2,260.69,Card,6,2025-06-10,454,False,3.0,Delayed,521.38,4,1,1,6
+C3969,Female,Senior,Lahore,2024-02-25,2024-12-14,Subway,Continental,3,1108.34,Card,34,2025-06-11,136,False,-1.0,Cancelled,3325.0199999999995,4,4,4,12
+C3678,Male,Teenager,Lahore,2024-07-06,2025-01-09,Burger King,Fast Food,4,305.44,Wallet,9,2025-06-12,182,True,1.0,Delivered,1221.76,4,1,2,7
+C6534,Female,Senior,Lahore,2023-10-06,2024-11-21,McDonald's,Italian,1,368.57,Wallet,40,2025-06-12,109,False,-1.0,Cancelled,368.57,4,4,1,9
+C4021,Male,Senior,Lahore,2024-07-02,2025-05-29,KFC,Fast Food,4,1136.51,Card,31,2025-06-13,123,True,1.0,Delayed,4546.04,4,4,5,13
+C4184,Other,Teenager,Lahore,2023-09-30,2025-01-31,Subway,Chinese,5,219.76,Card,10,2025-06-14,78,False,-1.0,Cancelled,1098.8,4,1,2,7
+C2629,Female,Adult,Lahore,2024-09-17,2025-06-15,Burger King,Continental,4,244.72,Wallet,19,2025-07-02,199,False,1.0,Delayed,978.88,4,2,2,8
+C3573,Other,Teenager,Lahore,2024-11-30,2025-03-04,KFC,Dessert,5,316.17,Wallet,40,2025-06-16,58,False,2.0,Delivered,1580.8500000000001,4,4,3,11
+C1307,Other,Adult,Lahore,2025-03-06,2025-04-30,McDonald's,Dessert,3,1443.26,Wallet,38,2025-06-17,438,True,-1.0,Cancelled,4329.78,4,4,5,13
+C3112,Other,Senior,Lahore,2024-06-21,2025-05-01,McDonald's,Continental,1,1335.93,Wallet,42,2025-06-17,383,False,2.0,Delivered,1335.93,4,5,2,11
+C2292,Other,Adult,Lahore,2023-12-05,2025-06-17,Burger King,Chinese,4,796.43,Cash,40,2025-06-27,95,False,2.0,Delivered,3185.72,4,4,4,12
+C4605,Other,Adult,Lahore,2023-10-14,2025-03-27,KFC,Fast Food,3,111.48,Wallet,47,2025-06-18,275,True,-1.0,Cancelled,334.44,4,5,1,10
+C1629,Other,Teenager,Lahore,2024-04-11,2025-05-03,KFC,Dessert,3,811.4,Card,41,2025-06-18,198,False,1.0,Delayed,2434.2,4,5,3,12
+C2866,Other,Adult,Lahore,2024-02-07,2025-05-25,Subway,Continental,4,863.64,Wallet,40,2025-06-18,220,False,4.0,Delivered,3454.56,4,4,4,12
+C5555,Female,Senior,Lahore,2024-05-04,2024-12-26,Subway,Chinese,5,887.69,Card,43,2025-06-19,265,False,-1.0,Cancelled,4438.450000000001,4,5,5,14
+C5500,Other,Adult,Lahore,2025-02-06,2025-04-23,KFC,Italian,2,286.53,Wallet,17,2025-06-20,487,True,2.0,Delivered,573.06,4,2,1,7
+C3200,Female,Teenager,Lahore,2025-06-20,2025-07-23,McDonald's,Italian,2,1434.61,Card,32,2025-07-29,35,False,-1.0,Cancelled,2869.22,5,4,4,13
+C6609,Female,Adult,Lahore,2024-01-12,2024-12-14,McDonald's,Chinese,5,1313.19,Wallet,6,2025-06-20,53,True,-1.0,Cancelled,6565.950000000001,4,1,5,10
+C4754,Female,Teenager,Lahore,2025-02-02,2025-06-21,Subway,Continental,1,275.12,Card,10,2025-06-24,262,False,-1.0,Cancelled,275.12,4,1,1,6
+C2675,Male,Adult,Lahore,2025-01-04,2025-06-21,Burger King,Italian,2,918.39,Card,5,2025-08-16,33,True,3.0,Delayed,1836.78,5,1,3,9
+C2715,Female,Senior,Lahore,2024-06-08,2025-06-21,Subway,Chinese,1,254.44,Card,9,2025-08-20,191,False,-1.0,Cancelled,254.44,5,1,1,7
+C4323,Female,Senior,Lahore,2025-06-22,2025-07-02,KFC,Continental,5,1083.4,Card,5,2025-07-30,414,True,5.0,Delayed,5417.0,5,1,5,11
+C4117,Male,Adult,Lahore,2024-10-30,2025-03-23,McDonald's,Continental,1,374.99,Cash,49,2025-06-22,394,True,3.0,Delayed,374.99,4,5,1,10
+C1924,Female,Teenager,Lahore,2024-12-03,2025-06-21,Burger King,Fast Food,2,267.9,Card,22,2025-06-22,44,False,-1.0,Cancelled,535.8,4,3,1,8
+C6621,Male,Teenager,Lahore,2024-03-10,2025-04-12,Burger King,Chinese,4,645.97,Cash,49,2025-06-22,237,False,-1.0,Cancelled,2583.88,4,5,4,13
+C5405,Female,Teenager,Lahore,2023-09-22,2025-01-05,Subway,Fast Food,2,670.25,Card,30,2025-06-23,237,False,-1.0,Cancelled,1340.5,4,3,2,9
+C5337,Male,Adult,Lahore,2024-05-31,2025-03-15,Pizza Hut,Italian,1,661.75,Wallet,25,2025-06-25,288,False,-1.0,Cancelled,661.75,4,3,1,8
+C1324,Male,Senior,Lahore,2024-06-26,2025-02-08,Pizza Hut,Dessert,3,467.52,Card,6,2025-06-26,438,False,5.0,Delivered,1402.56,4,1,2,7
+C5381,Female,Senior,Lahore,2024-02-18,2025-03-08,Pizza Hut,Italian,3,1179.88,Wallet,26,2025-06-27,85,True,2.0,Delayed,3539.6400000000003,4,3,4,11
+C4607,Male,Teenager,Lahore,2024-09-05,2025-06-28,KFC,Italian,4,219.93,Wallet,40,2025-08-02,307,False,3.0,Delayed,879.72,5,4,2,11
+C1586,Female,Adult,Lahore,2024-10-10,2025-01-28,McDonald's,Chinese,5,197.17,Wallet,23,2025-06-28,375,True,-1.0,Cancelled,985.8499999999999,4,3,2,9
+C3944,Other,Adult,Lahore,2023-10-12,2025-02-05,McDonald's,Fast Food,3,859.56,Cash,24,2025-06-29,337,True,2.0,Delayed,2578.68,4,3,4,11
+C4012,Other,Senior,Lahore,2025-03-28,2025-06-27,KFC,Dessert,5,1158.75,Wallet,27,2025-06-29,500,True,-1.0,Cancelled,5793.75,4,3,5,12
+C4535,Male,Adult,Lahore,2024-10-21,2025-05-01,Subway,Chinese,4,847.96,Cash,47,2025-06-30,396,True,1.0,Delivered,3391.84,4,5,4,13
+C6665,Female,Adult,Lahore,2025-01-22,2025-03-01,McDonald's,Continental,2,1390.03,Cash,27,2025-07-01,411,True,2.0,Delayed,2780.06,4,3,4,11
+C3657,Other,Senior,Lahore,2023-11-05,2025-05-16,Burger King,Chinese,4,1181.44,Wallet,29,2025-07-01,32,False,4.0,Delivered,4725.76,4,3,5,12
+C5735,Other,Senior,Lahore,2024-06-05,2025-03-09,Pizza Hut,Dessert,2,120.35,Cash,21,2025-07-02,137,True,-1.0,Cancelled,240.7,4,3,1,8
+C1588,Female,Adult,Lahore,2024-11-07,2024-11-23,KFC,Fast Food,3,140.42,Card,13,2025-07-02,176,False,-1.0,Cancelled,421.26,4,2,1,7
+C2222,Other,Senior,Lahore,2025-04-18,2025-07-03,Burger King,Chinese,5,668.46,Cash,37,2025-07-19,48,False,-1.0,Cancelled,3342.3,5,4,4,13
+C2448,Male,Adult,Lahore,2024-04-23,2024-09-26,Pizza Hut,Chinese,5,761.98,Wallet,27,2025-07-05,374,True,3.0,Delayed,3809.9,4,3,4,11
+C2507,Female,Adult,Lahore,2024-10-17,2025-06-18,KFC,Dessert,2,1101.06,Wallet,13,2025-07-05,425,False,4.0,Delivered,2202.12,4,2,3,9
+C2809,Other,Adult,Lahore,2024-08-13,2025-04-11,Pizza Hut,Fast Food,5,629.51,Wallet,37,2025-07-05,370,False,1.0,Delayed,3147.55,4,4,4,12
+C2664,Male,Senior,Lahore,2023-12-13,2025-01-15,McDonald's,Italian,2,342.4,Wallet,24,2025-07-06,333,False,2.0,Delayed,684.8,4,3,1,8
+C3154,Female,Senior,Lahore,2023-10-17,2024-09-22,Pizza Hut,Continental,2,269.61,Wallet,27,2025-07-07,435,False,1.0,Delayed,539.22,4,3,1,8
+C4498,Male,Teenager,Lahore,2023-10-11,2025-05-24,Burger King,Continental,5,1116.92,Wallet,50,2025-07-07,392,True,5.0,Delivered,5584.6,4,5,5,14
+C5356,Other,Teenager,Lahore,2024-10-06,2025-07-08,McDonald's,Dessert,3,1244.58,Wallet,37,2025-07-10,244,False,2.0,Delivered,3733.74,4,4,4,12
+C5245,Other,Teenager,Lahore,2024-11-28,2025-07-08,KFC,Chinese,1,543.28,Cash,8,2025-08-08,72,False,5.0,Delivered,543.28,5,1,1,7
+C1368,Other,Senior,Lahore,2025-02-17,2025-07-01,Pizza Hut,Chinese,2,1035.71,Cash,38,2025-07-09,138,True,-1.0,Cancelled,2071.42,4,4,3,11
+C4935,Female,Teenager,Lahore,2023-11-16,2025-01-06,Pizza Hut,Chinese,3,1445.65,Cash,3,2025-07-10,424,True,3.0,Delivered,4336.950000000001,4,1,5,10
+C4968,Female,Teenager,Lahore,2025-05-12,2025-07-08,Pizza Hut,Chinese,3,555.8,Cash,23,2025-07-11,179,False,-1.0,Cancelled,1667.3999999999999,4,3,3,10
+C5988,Male,Senior,Lahore,2024-09-30,2025-05-11,KFC,Italian,5,986.95,Cash,24,2025-07-11,388,True,1.0,Delivered,4934.75,4,3,5,12
+C6007,Female,Teenager,Lahore,2024-11-16,2024-11-24,Subway,Fast Food,2,424.37,Card,38,2025-07-12,115,True,-1.0,Cancelled,848.74,4,4,2,10
+C5391,Female,Adult,Lahore,2024-01-21,2025-07-12,McDonald's,Continental,1,926.71,Cash,39,2025-08-19,463,False,4.0,Delayed,926.71,5,4,2,11
+C6295,Other,Adult,Lahore,2023-10-30,2024-12-17,KFC,Dessert,5,938.73,Card,25,2025-07-13,404,True,2.0,Delayed,4693.65,4,3,5,12
+C6787,Male,Teenager,Lahore,2025-05-27,2025-07-13,Pizza Hut,Italian,4,219.43,Card,50,2025-07-18,477,True,2.0,Delivered,877.72,5,5,2,12
+C3324,Other,Senior,Lahore,2025-03-15,2025-06-03,KFC,Dessert,4,712.87,Card,17,2025-07-15,372,True,-1.0,Cancelled,2851.48,5,2,4,11
+C3546,Male,Senior,Lahore,2023-08-31,2025-07-02,KFC,Italian,3,601.2,Card,38,2025-07-15,2,True,-1.0,Cancelled,1803.6000000000001,5,4,3,12
+C5496,Male,Teenager,Lahore,2025-05-25,2025-07-11,McDonald's,Italian,3,884.06,Cash,11,2025-07-16,406,False,2.0,Delayed,2652.18,5,1,4,10
+C2249,Male,Teenager,Lahore,2024-11-02,2025-07-13,Subway,Dessert,4,1166.41,Cash,44,2025-07-17,32,True,-1.0,Cancelled,4665.64,5,5,5,15
+C3481,Other,Adult,Lahore,2024-08-23,2024-09-11,McDonald's,Chinese,1,990.93,Cash,35,2025-07-19,90,True,3.0,Delivered,990.93,5,4,2,11
+C6924,Other,Adult,Lahore,2025-02-03,2025-02-28,Pizza Hut,Fast Food,5,1474.38,Cash,11,2025-07-19,488,True,3.0,Delivered,7371.900000000001,5,1,5,11
+C3489,Male,Teenager,Lahore,2025-02-09,2025-05-17,KFC,Italian,5,364.08,Cash,31,2025-07-20,344,False,3.0,Delayed,1820.3999999999999,5,4,3,12
+C3864,Female,Adult,Lahore,2024-03-17,2024-12-12,Subway,Chinese,1,1052.03,Cash,46,2025-07-20,170,True,3.0,Delivered,1052.03,5,5,2,12
+C6226,Male,Adult,Lahore,2024-09-03,2025-03-01,KFC,Fast Food,2,1296.19,Card,41,2025-07-22,60,False,2.0,Delayed,2592.38,5,5,4,14
+C1617,Male,Teenager,Lahore,2023-10-29,2024-10-25,McDonald's,Italian,4,1291.96,Card,38,2025-07-22,234,True,-1.0,Cancelled,5167.84,5,4,5,14
+C5865,Female,Adult,Lahore,2024-10-28,2025-07-09,Subway,Continental,5,433.61,Wallet,5,2025-07-24,412,True,4.0,Delivered,2168.05,5,1,3,9
+C6209,Female,Adult,Lahore,2025-01-25,2025-02-08,Subway,Fast Food,5,327.33,Cash,22,2025-07-24,60,True,-1.0,Cancelled,1636.6499999999999,5,3,3,11
+C4038,Male,Senior,Lahore,2023-12-19,2025-05-17,McDonald's,Continental,5,413.16,Cash,12,2025-07-24,184,False,-1.0,Cancelled,2065.8,5,2,3,10
+C3962,Other,Senior,Lahore,2025-07-02,2025-07-04,Subway,Italian,4,242.15,Wallet,22,2025-07-25,139,False,1.0,Delivered,968.6,5,3,2,10
+C2689,Female,Adult,Lahore,2025-02-27,2025-06-21,Subway,Fast Food,2,1410.59,Cash,7,2025-07-25,400,True,4.0,Delayed,2821.18,5,1,4,10
+C1117,Male,Adult,Lahore,2024-02-13,2025-04-17,Subway,Italian,2,1162.08,Wallet,46,2025-07-26,246,False,-1.0,Cancelled,2324.16,5,5,3,13
+C4393,Male,Adult,Lahore,2024-06-16,2024-12-16,McDonald's,Fast Food,5,1253.18,Cash,16,2025-07-26,55,False,3.0,Delivered,6265.900000000001,5,2,5,12
+C3682,Male,Adult,Lahore,2023-12-22,2025-03-23,Subway,Fast Food,2,316.96,Cash,20,2025-07-27,45,True,5.0,Delivered,633.92,5,2,1,8
+C4430,Other,Senior,Lahore,2024-01-01,2025-07-28,KFC,Continental,4,580.27,Cash,34,2025-08-08,479,True,4.0,Delayed,2321.08,5,4,3,12
+C5350,Male,Senior,Lahore,2024-02-29,2024-09-04,Burger King,Dessert,5,233.91,Card,43,2025-07-28,420,True,5.0,Delayed,1169.55,5,5,2,12
+C1973,Other,Senior,Lahore,2024-10-16,2025-03-06,McDonald's,Continental,2,267.63,Wallet,34,2025-07-30,218,True,2.0,Delayed,535.26,5,4,1,10
+C1545,Other,Teenager,Lahore,2024-07-02,2025-03-04,Subway,Chinese,2,430.93,Card,36,2025-07-31,487,True,4.0,Delivered,861.86,5,4,2,11
+C6865,Other,Adult,Lahore,2024-08-01,2024-11-03,Burger King,Dessert,4,477.76,Cash,15,2025-07-31,176,True,3.0,Delayed,1911.04,5,2,3,10
+C5824,Male,Adult,Lahore,2024-04-18,2025-02-09,McDonald's,Continental,3,344.86,Cash,3,2025-07-31,113,False,1.0,Delayed,1034.58,5,1,2,8
+C6170,Male,Senior,Lahore,2024-10-06,2025-05-14,Subway,Dessert,2,1412.92,Wallet,48,2025-08-01,211,False,1.0,Delivered,2825.84,5,5,4,14
+C2061,Other,Teenager,Lahore,2024-03-21,2024-10-02,McDonald's,Chinese,5,288.0,Cash,19,2025-08-01,170,False,3.0,Delayed,1440.0,5,2,2,9
+C2480,Female,Senior,Lahore,2024-01-15,2025-02-16,Subway,Continental,3,227.62,Cash,37,2025-08-01,8,True,5.0,Delayed,682.86,5,4,1,10
+C6710,Female,Adult,Lahore,2024-06-11,2025-06-03,Pizza Hut,Fast Food,4,117.28,Card,47,2025-08-03,60,False,-1.0,Cancelled,469.12,5,5,1,11
+C4216,Other,Adult,Lahore,2024-04-05,2025-03-24,KFC,Dessert,4,945.08,Cash,39,2025-08-03,249,True,-1.0,Cancelled,3780.32,5,4,4,13
+C5150,Female,Senior,Lahore,2024-03-27,2025-04-04,Pizza Hut,Chinese,3,227.9,Wallet,50,2025-08-04,211,True,4.0,Delayed,683.7,5,5,1,11
+C1958,Female,Senior,Lahore,2024-10-06,2025-05-11,Pizza Hut,Continental,4,110.38,Wallet,13,2025-08-05,171,True,-1.0,Cancelled,441.52,5,2,1,8
+C6619,Male,Teenager,Lahore,2024-07-12,2025-01-25,Burger King,Fast Food,2,698.75,Cash,27,2025-08-06,145,True,-1.0,Cancelled,1397.5,5,3,2,10
+C6506,Male,Adult,Lahore,2024-07-22,2024-09-05,Subway,Italian,2,587.43,Cash,9,2025-08-06,39,True,3.0,Delayed,1174.86,5,1,2,8
+C5241,Male,Teenager,Lahore,2024-09-20,2025-08-07,Pizza Hut,Chinese,2,1121.22,Card,44,2025-08-09,172,False,1.0,Delivered,2242.44,5,5,3,13
+C4397,Other,Teenager,Lahore,2025-02-08,2025-08-07,Pizza Hut,Continental,4,732.45,Card,23,2025-08-13,500,True,1.0,Delayed,2929.8,5,3,4,12
+C3261,Male,Senior,Lahore,2024-04-16,2025-06-16,McDonald's,Chinese,1,532.87,Cash,25,2025-08-08,198,True,4.0,Delivered,532.87,5,3,1,9
+C4563,Male,Adult,Lahore,2024-04-17,2025-04-18,McDonald's,Italian,4,1045.34,Wallet,33,2025-08-08,386,True,2.0,Delivered,4181.36,5,4,5,14
+C1488,Other,Adult,Lahore,2024-03-26,2025-07-28,Burger King,Continental,4,971.9,Cash,34,2025-08-10,156,True,4.0,Delayed,3887.6,5,4,4,13
+C1097,Other,Adult,Lahore,2023-11-19,2024-11-07,McDonald's,Italian,5,791.62,Cash,26,2025-08-10,30,True,-1.0,Cancelled,3958.1,5,3,5,13
+C5941,Female,Senior,Lahore,2024-07-26,2024-10-16,McDonald's,Continental,5,1270.15,Wallet,26,2025-08-11,273,False,-1.0,Cancelled,6350.75,5,3,5,13
+C5732,Female,Adult,Lahore,2025-02-23,2025-06-12,Burger King,Continental,2,602.0,Cash,7,2025-08-11,173,False,3.0,Delayed,1204.0,5,1,2,8
+C2349,Female,Teenager,Lahore,2024-10-29,2025-06-14,Burger King,Chinese,5,101.16,Cash,6,2025-08-11,42,False,3.0,Delivered,505.79999999999995,5,1,1,7
+C3777,Female,Teenager,Lahore,2023-12-25,2025-06-28,Burger King,Chinese,2,814.79,Card,19,2025-08-12,165,False,5.0,Delivered,1629.58,5,2,3,10
+C6023,Other,Senior,Lahore,2025-01-11,2025-08-13,Subway,Continental,5,1195.04,Card,44,2025-08-15,244,False,4.0,Delayed,5975.2,5,5,5,15
+C6310,Male,Adult,Lahore,2024-02-03,2025-02-20,Burger King,Continental,3,1199.27,Wallet,31,2025-08-13,12,False,3.0,Delivered,3597.81,5,4,4,13
+C4494,Female,Adult,Lahore,2024-08-28,2025-02-27,McDonald's,Italian,4,1064.78,Card,23,2025-08-13,383,False,5.0,Delivered,4259.12,5,3,5,13
+C1926,Male,Teenager,Lahore,2024-03-06,2025-02-27,Burger King,Chinese,2,800.95,Cash,20,2025-08-14,5,True,-1.0,Cancelled,1601.9,5,2,3,10
+C5506,Female,Adult,Lahore,2024-04-22,2025-01-06,KFC,Chinese,4,545.71,Cash,20,2025-08-14,48,False,-1.0,Cancelled,2182.84,5,2,3,10
+C6038,Male,Senior,Lahore,2025-06-25,2025-08-14,McDonald's,Fast Food,1,160.7,Card,48,2025-08-20,11,True,1.0,Delayed,160.7,5,5,1,11
+C5788,Other,Adult,Lahore,2024-03-04,2025-08-11,Burger King,Italian,4,896.52,Cash,40,2025-08-15,421,False,4.0,Delivered,3586.08,5,4,4,13
+C2925,Male,Adult,Lahore,2024-12-21,2025-04-01,Burger King,Fast Food,2,485.22,Wallet,23,2025-08-15,340,True,-1.0,Cancelled,970.44,5,3,2,10
+C5114,Male,Adult,Lahore,2025-06-10,2025-06-22,Burger King,Dessert,3,547.85,Cash,16,2025-08-16,263,False,4.0,Delivered,1643.5500000000002,5,2,3,10
+C3903,Male,Adult,Lahore,2025-03-11,2025-04-07,Burger King,Continental,4,166.53,Cash,10,2025-08-17,251,False,-1.0,Cancelled,666.12,5,1,1,7
+C3252,Male,Teenager,Lahore,2024-02-01,2024-08-27,Pizza Hut,Chinese,1,104.08,Wallet,22,2025-08-17,186,False,-1.0,Cancelled,104.08,5,3,1,9
+C5422,Female,Adult,Lahore,2024-04-26,2024-10-09,KFC,Continental,3,1341.44,Card,42,2025-08-17,377,True,4.0,Delivered,4024.32,5,5,5,15
+C1879,Female,Teenager,Lahore,2023-12-16,2024-11-02,McDonald's,Italian,1,1143.37,Wallet,18,2025-08-19,249,True,5.0,Delayed,1143.37,5,2,2,9
+C2989,Male,Teenager,Lahore,2024-04-27,2025-01-06,KFC,Italian,1,589.25,Cash,15,2025-08-20,369,True,-1.0,Cancelled,589.25,5,2,1,8
+C1274,Other,Teenager,Lahore,2024-07-20,2025-02-07,Subway,Fast Food,3,1453.04,Card,49,2025-08-20,469,False,5.0,Delivered,4359.12,5,5,5,15
+C1156,Other,Senior,Lahore,2024-08-21,2024-09-16,Pizza Hut,Chinese,1,1033.42,Card,12,2025-08-20,122,False,2.0,Delivered,1033.42,5,2,2,9
+C4417,Other,Adult,Lahore,2023-09-21,2024-09-27,Subway,Chinese,3,1095.84,Cash,13,2025-08-20,202,False,4.0,Delivered,3287.5199999999995,5,2,4,11
+C4048,Male,Teenager,Lahore,2023-10-16,2025-08-18,McDonald's,Dessert,5,493.48,Wallet,10,2025-08-21,369,True,3.0,Delayed,2467.4,5,1,4,10
+C5691,Male,Senior,Lahore,2025-06-03,2025-07-15,Subway,Italian,1,595.87,Wallet,19,2025-08-21,446,False,2.0,Delayed,595.87,5,2,1,8

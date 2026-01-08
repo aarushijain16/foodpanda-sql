@@ -1,0 +1,10 @@
+age,gender,churn_rate_percent,customer_count
+Teenager,Other,55.93,118
+Senior,Other,54.17,120
+Senior,Female,50.41,121
+Adult,Other,49.66,147
+Senior,Male,49.61,129
+Teenager,Male,45.31,128
+Adult,Female,44.17,120
+Teenager,Female,43.88,139
+Adult,Male,38.21,123

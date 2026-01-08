@@ -1,0 +1,8 @@
+rating_bucket,delivery_status,churn_rate_percent,customer_count
+High (>4),Delivered,57.29,96
+High (>4),Delayed,56.25,80
+Medium (3-4),Delayed,51.98,177
+Low (<3),Cancelled,51.68,416
+Medium (3-4),Delivered,51.27,158
+Low (<3),Delayed,50.33,153
+Low (<3),Delivered,47.16,176
