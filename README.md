@@ -15,55 +15,55 @@ Food delivery platforms lose billions annually due to high churn: users sign up 
 
 ## Data Sources
 
-- FoodPanda Analysis Dataset : Core dataset with ~6k orders across 5 cities, demographics, and transaction details.
+- [FoodPanda Analysis Dataset](https://github.com/aarushijain16/foodpanda-sql/blob/main/Foodpanda%20Analysis%20Dataset.csv) : Core dataset with ~6k orders across 5 cities, demographics, and transaction details.
 
 - Files derived from Python cleaning and Clustering:
 
-  - Islamabad Data
+  - [Islamabad Data](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_data.csv)
  
-  - Karachi Data
+  - [Karachi Data](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_data.csv)
  
-  - Multan Data
+  - [Multan Data](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_data.csv)
  
-  - Lahore Data
+  - [Lahore Data](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_data.csv)
  
-  - Peshawar Data
+  - [Peshawar Data](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_data.csv)
 
 - Files derived from SQL Queries:
 
-  - Islamabad Churn by Demographics ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Churn by Demographics](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_churn_by_demo.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_churn_by_demo.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_churn_by_demo.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_churn_by_demo.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_churn_by_demo.csv))
  
-  - Islamabad Churn by Features ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Churn by Features](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_churn_by_features.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_churn_by_features.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_churn_by_features.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_churn_by_features.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_churn_by_features.csv))
  
-  - Islamabad Churn by RFM ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Churn by RFM](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_churn_by_rfm.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_churn_by_rfm.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_churn_by_rfm.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_churn_by_rfm.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_churn_by_rfm.csv))
  
-  - Islamabad Retention by Demographics ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Retention by Demographics](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_retention_by_demo.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_retention_by_demo.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_retention_by_demo.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_retention_by_demo.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_retention_by_demo.csv))
  
-  - Islamabad Retention by Features ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Retention by Features](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_retention_by_features.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_retention_by_features.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_retention_by_features.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_retention_by_features.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_retention_by_features.csv))
  
-  - Islamabad Retention by RFM ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Retention by RFM](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_retention_by_rfm.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_retention_by_rfm.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_retention_by_rfm.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_retention_by_rfm.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_retention_by_rfm.csv))
  
-  - Islamabad Performance Overall ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Performance Overall](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_performance.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_performance.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_performance.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_performance.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_performance.csv))
  
-  - Islamabad Performance by Restaurants ( and similar for Karachi, Lahore, Multan and Peshawar)
+  - [Islamabad Performance by Restaurants](https://github.com/aarushijain16/foodpanda-sql/blob/main/Islamabad_performance_by_restaurant.csv) ( and similar for [Karachi](https://github.com/aarushijain16/foodpanda-sql/blob/main/Karachi_performance_by_restaurant.csv), [Lahore](https://github.com/aarushijain16/foodpanda-sql/blob/main/Lahore_performance_by_restaurant.csv), [Multan](https://github.com/aarushijain16/foodpanda-sql/blob/main/Multan_performance_by_restaurant.csv) and [Peshawar](https://github.com/aarushijain16/foodpanda-sql/blob/main/Peshawar_performance_by_restaurant.csv))
  
-  - Churn by City
+  - [Churn by City](https://github.com/aarushijain16/foodpanda-sql/blob/main/churn_by_city.csv)
  
-  - Retention by City
+  - [Retention by City](https://github.com/aarushijain16/foodpanda-sql/blob/main/retention_by_city.csv)
  
-  - Overall Churn Rate
+  - [Overall Churn Rate](https://github.com/aarushijain16/foodpanda-sql/blob/main/overall_churn.csv)
  
-  - Overall Retention Rate
+  - [Overall Retention Rate](https://github.com/aarushijain16/foodpanda-sql/blob/main/overall_retention.csv)
 
 - Files Derived for BI Visualization:
 
-  - Combined Churn By Demoraphics ( and similar for Features and RFM)
+  - [Combined Churn By Demoraphics](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_churn_by_demo.csv) ( and similar for [Features](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_churn_by_features.csv) and [RFM](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_churn_by_rfm.csv))
  
-  - Combined Retention by Demographics ( and similar for Features and RFM)
+  - [Combined Retention by Demographics](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_retention_by_demo.csv) ( and similar for [Features](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_retention_by_features.csv) and [RFM](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_retention_by_rfm.csv))
  
-  - Combined Performance Overall
+  - [Combined Performance Overall](https://github.com/aarushijain16/foodpanda-sql/blob/main/performance_overall.csv)
  
-  - Combined Performance by Restaurants
+  - [Combined Performance by Restaurants](https://github.com/aarushijain16/foodpanda-sql/blob/main/combined_performance_rest_df.csv)
  
 ## Engineering
 
@@ -132,11 +132,11 @@ Food delivery platforms lose billions annually due to high churn: users sign up 
 
 # Link to Dataset, Code and Power BI Dashboard
 
-- Dataset
+- [Dataset](https://github.com/aarushijain16/foodpanda-sql/blob/main/Foodpanda%20Analysis%20Dataset.csv)
 
-- Code (Python and SQL)
+- [Code (Python and SQL)](https://github.com/aarushijain16/foodpanda-sql/blob/main/Foodpanda.ipynb)
 
-- Power BI Dashboard
+- [Power BI Dashboard](https://github.com/aarushijain16/foodpanda-sql/blob/main/BI.pdf)
 
 *Note :* This project uses publicly available Foodpanda dataset, allowing for full responsibility of the analysis.
 
