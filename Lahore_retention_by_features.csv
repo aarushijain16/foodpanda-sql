@@ -1,0 +1,8 @@
+rating_bucket,delivery_status,retention_rate_percent,customer_count
+High (>4),Delivered,100.0,81
+Low (<3),Delivered,99.4,168
+Medium (3-4),Delayed,98.18,165
+Medium (3-4),Delivered,98.13,160
+Low (<3),Delayed,97.99,149
+Low (<3),Cancelled,97.33,412
+High (>4),Delayed,93.9,82

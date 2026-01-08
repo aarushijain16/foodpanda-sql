@@ -1,0 +1,10 @@
+age,gender,retention_rate_percent,customer_count
+Adult,Other,100.0,147
+Teenager,Male,99.22,128
+Adult,Male,99.19,123
+Senior,Other,98.33,120
+Teenager,Other,98.31,118
+Teenager,Female,97.84,139
+Senior,Male,97.67,129
+Senior,Female,97.52,121
+Adult,Female,95.0,120
